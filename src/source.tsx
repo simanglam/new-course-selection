@@ -622,6 +622,8 @@ const App = () => {
         const fetchCourses = async () => {
             setCourses(await generateCourses(selectedDeptNum))
         }
+        localStorage.getItem("myPlanCourses") && setMyPlanCourses(JSON.parse(localStorage.getItem("myPlanCourses") || "[]"))
+        localStorage.getItem("courseStatuses") && setCourseStatuses(JSON.parse(localStorage.getItem("courseStatuses") || "{}"))
         fetchCourses()
         setSearchQuery("")
         setIsMobileMenuOpen(false) // Close mobile menu on selection
@@ -630,18 +632,23 @@ const App = () => {
     // Main Logic: Update tracked courses when status changes
     const handleStatusChange = (course: Course, status: CourseStatus) => {
         // Update visual status map
-        setCourseStatuses((prev) => ({ ...prev, [`${course.name}-${course.professor}`]: status }))
-
+        setCourseStatuses((prev) => ({ ...prev, [`${course.name}-${course.professor}-${course.time}`]: status }))
+        localStorage.setItem("courseStatuses", JSON.stringify({ ...courseStatuses, [`${course.name}-${course.professor}-${course.time}`]: status }))
         // Sync with My Plan List
         // We add to list if user expresses interest (Selected or Considering)
         if (status === "selected" || status === "considering") {
             setMyPlanCourses((prev) => {
-                if (prev.some((c) => `${c.name}-${c.professor}` === `${course.name}-${course.professor}`)) return prev
+                if (prev.some((c) => `${c.name}-${c.professor}` === `${course.name}-${course.professor}`)){
+                    localStorage.setItem("myPlanCourses", JSON.stringify(prev))
+                    return prev
+                }
+                localStorage.setItem("myPlanCourses", JSON.stringify([...prev, course]))
                 return [...prev, course]
             })
         } else {
             // Remove if marked as rejected or none
             setMyPlanCourses((prev) => prev.filter((c) => `${c.name}-${c.professor}` !== `${course.name}-${course.professor}`))
+            localStorage.setItem("myPlanCourses", JSON.stringify(myPlanCourses.filter((c) => `${c.name}-${c.professor}` !== `${course.name}-${course.professor}`)))
         }
     }
 
@@ -798,7 +805,7 @@ const App = () => {
                                                         // Check if it's in myPlan to show 'selected', otherwise fall back to local status map
                                                         status={
                                                             courseStatuses[
-                                                                `${course.name}-${course.professor}`
+                                                                `${course.name}-${course.professor}-${course.time}`
                                                             ] || "none"
                                                         }
                                                         onClick={() =>
@@ -860,7 +867,7 @@ const App = () => {
                 onClose={() => setSelectedCourse(null)}
                 status={
                     selectedCourse
-                        ? courseStatuses[`${selectedCourse.name}-${selectedCourse.professor}`] || "none"
+                        ? courseStatuses[`${selectedCourse.name}-${selectedCourse.professor}-${selectedCourse.time}`] || "none"
                         : "none"
                 }
                 onStatusChange={(status) => {

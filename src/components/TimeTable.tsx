@@ -456,7 +456,7 @@ const Timetable = ({
         return myCourses.find((c) => {
             // Only show Selected courses in the main grid to avoid clutter,
             // or show both but visually distinct. Let's show selected only for grid clarity as requested by "Timetable".
-            if (courseStatuses[`${c.name}-${c.professor}`] !== "selected") return false
+            if (courseStatuses[`${c.name}-${c.professor}-${c.time}`] !== "selected") return false
 
             const parsed = parseTime(c.time)
             if (!parsed) return false
@@ -473,8 +473,8 @@ const Timetable = ({
         const ids = new Set<string>()
         const activeCourses = myCourses.filter(
             (c) =>
-                courseStatuses[`${c.name}-${c.professor}`] === "selected" ||
-                courseStatuses[`${c.name}-${c.professor}`] === "considering"
+                courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "selected" ||
+                courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "considering"
         )
 
         for (let i = 0; i < activeCourses.length; i++) {
@@ -506,12 +506,12 @@ const Timetable = ({
     // Filter out conflicts from selected/considering to avoid duplication in display
     const selectedCourses = myCourses.filter(
         (c) =>
-            courseStatuses[`${c.name}-${c.professor}`] === "selected" &&
+            courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "selected" &&
             !conflictingCourseIds.has(c.id)
     )
     const consideringCourses = myCourses.filter(
         (c) =>
-            courseStatuses[`${c.name}-${c.professor}`] === "considering" &&
+            courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "considering" &&
             !conflictingCourseIds.has(c.id)
     )
 
@@ -601,7 +601,7 @@ const Timetable = ({
                                             course={course}
                                             // Check if it's in myPlan to show 'selected', otherwise fall back to local status map
                                             status={
-                                                courseStatuses[course.id] ||
+                                                courseStatuses[`${course.name}-${course.professor}-${course.time}`] ||
                                                 "none"
                                             }
                                             onClick={() =>
@@ -641,7 +641,7 @@ const Timetable = ({
                                             course={course}
                                             // Check if it's in myPlan to show 'selected', otherwise fall back to local status map
                                             status={
-                                                courseStatuses[course.id] ||
+                                                courseStatuses[`${course.name}-${course.professor}-${course.time}`] ||
                                                 "none"
                                             }
                                             onClick={() =>
@@ -680,7 +680,7 @@ const Timetable = ({
                                 {generalEdCourses.map((c) => (
                                     <span
                                         key={c.id}
-                                        className={`text-[10px] px-2 py-1 rounded border ${courseStatuses[`${c.name}-${c.professor}`] === "selected" ? "bg-[#B09E99] text-white border-[#B09E99]" : "bg-white text-[#9A9694] border-[#DCD8D2]"}`}>
+                                        className={`text-[10px] px-2 py-1 rounded border ${courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "selected" ? "bg-[#B09E99] text-white border-[#B09E99]" : "bg-white text-[#9A9694] border-[#DCD8D2]"}`}>
                                         {c.name}
                                     </span>
                                 ))}
