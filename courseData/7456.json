@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3955007_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3955007"
     },
     {
         "id": "教育領導與管理發展國際碩士學位學程",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3955021_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3955021"
     },
     {
         "id": "教育領導與管理發展國際碩士學位學程",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3955033_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3955033"
     },
     {
         "id": "教育領導與管理發展國際碩士學位學程",
@@ -69,6 +72,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3958012_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3958012"
     }
 ]

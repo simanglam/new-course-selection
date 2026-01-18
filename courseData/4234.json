@@ -25,7 +25,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065596/local_syllabus/attachment/35013/%E6%87%89%E7%94%A8%E5%8A%9B%E5%AD%B8%E4%BA%8C-%E5%BC%B5%E6%80%A1%E7%8E%B2%28%E5%85%A8%E8%8B%B1%29.pdf",
         "targetGrade": "1",
         "capacity": "23",
-        "memo": "限本系生修.與機械系合開"
+        "memo": "限本系生修.與機械系合開",
+        "code": "4231051"
     },
     {
         "id": "機械工程國際學士學位學程",
@@ -53,7 +54,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065605/local_syllabus/attachment/35014/Engineering_Graphics_%28II%29-YiHung_Chen.pdf",
         "targetGrade": "1",
         "capacity": "23",
-        "memo": "限本系生修.與機械系合開"
+        "memo": "限本系生修.與機械系合開",
+        "code": "4231052"
     },
     {
         "id": "機械工程國際學士學位學程",
@@ -82,6 +84,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065614/local_syllabus/attachment/35015/MachineShop02_outline_Eng0106_02.pdf",
         "targetGrade": "1",
         "capacity": "23",
-        "memo": "先修科目(4231004)工場實習(一)(及格)限本系生修.與機械系合開"
+        "memo": "先修科目(4231004)工場實習(一)(及格)限本系生修.與機械系合開",
+        "code": "4231053"
     }
 ]

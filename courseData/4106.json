@@ -25,7 +25,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105004_01",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "限本系生修.限資工研究生"
+        "memo": "限本系生修.限資工研究生",
+        "code": "4105004"
     },
     {
         "id": "資訊工程研究所",
@@ -53,7 +54,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105016_01",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105016"
     },
     {
         "id": "資訊工程研究所",
@@ -71,7 +73,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105024_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105024"
     },
     {
         "id": "資訊工程研究所",
@@ -89,7 +92,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105031_01",
         "targetGrade": "1",
         "capacity": "8",
-        "memo": "限本系生修.限資工研究所"
+        "memo": "限本系生修.限資工研究所",
+        "code": "4105031"
     },
     {
         "id": "資訊工程研究所",
@@ -115,7 +119,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105113_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105113"
     },
     {
         "id": "資訊工程研究所",
@@ -133,7 +138,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105124_01",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105124"
     },
     {
         "id": "資訊工程研究所",
@@ -151,7 +157,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105209_03",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105209"
     },
     {
         "id": "資訊工程研究所",
@@ -179,7 +186,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105254_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105254"
     },
     {
         "id": "資訊工程研究所",
@@ -197,7 +205,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105257_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105257"
     },
     {
         "id": "資訊工程研究所",
@@ -223,7 +232,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105307_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "限本系生修.限資工研究生"
+        "memo": "限本系生修.限資工研究生",
+        "code": "4105307"
     },
     {
         "id": "資訊工程研究所",
@@ -241,7 +251,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105310_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105310"
     },
     {
         "id": "資訊工程研究所",
@@ -269,7 +280,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105313_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105313"
     },
     {
         "id": "資訊工程研究所",
@@ -287,7 +299,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105399_01",
         "targetGrade": "1",
         "capacity": "59",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105399"
     },
     {
         "id": "資訊工程研究所",
@@ -313,7 +326,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105408_01",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105408"
     },
     {
         "id": "資訊工程研究所",
@@ -331,7 +345,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105477_01",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105477"
     },
     {
         "id": "資訊工程研究所",
@@ -364,7 +379,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105485_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105485"
     },
     {
         "id": "資訊工程研究所",
@@ -382,7 +398,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105501_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105501"
     },
     {
         "id": "資訊工程研究所",
@@ -410,7 +427,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105506_01",
         "targetGrade": "1",
         "capacity": "8",
-        "memo": "限本系生修.限資工研究生"
+        "memo": "限本系生修.限資工研究生",
+        "code": "4105506"
     },
     {
         "id": "資訊工程研究所",
@@ -442,7 +460,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105508_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105508"
     },
     {
         "id": "資訊工程研究所",
@@ -460,7 +479,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105516_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105516"
     },
     {
         "id": "資訊工程研究所",
@@ -487,7 +507,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105559_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "限本系生修.限資工研究生"
+        "memo": "限本系生修.限資工研究生",
+        "code": "4105559"
     },
     {
         "id": "資訊工程研究所",
@@ -515,7 +536,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105566_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "限本系生修.限資工研究所"
+        "memo": "限本系生修.限資工研究所",
+        "code": "4105566"
     },
     {
         "id": "資訊工程研究所",
@@ -533,7 +555,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105597_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105597"
     },
     {
         "id": "資訊工程研究所",
@@ -551,7 +574,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105601_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105601"
     },
     {
         "id": "資訊工程研究所",
@@ -577,7 +601,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105605_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105605"
     },
     {
         "id": "資訊工程研究所",
@@ -603,7 +628,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105608_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105608"
     },
     {
         "id": "資訊工程研究所",
@@ -630,7 +656,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105700_01",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105700"
     },
     {
         "id": "資訊工程研究所",
@@ -656,7 +683,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105797_01",
         "targetGrade": "1",
         "capacity": "63",
-        "memo": "限本系生修.限資工研究所"
+        "memo": "限本系生修.限資工研究所",
+        "code": "4105797"
     },
     {
         "id": "資訊工程研究所",
@@ -674,7 +702,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105926_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4105926"
     },
     {
         "id": "資訊工程研究所",
@@ -692,7 +721,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4105931_01",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": "限本系生修.開放資工大三四選修"
+        "memo": "限本系生修.開放資工大三四選修",
+        "code": "4105931"
     },
     {
         "id": "資訊工程研究所",
@@ -710,7 +740,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4106002_01",
         "targetGrade": "1",
         "capacity": "160",
-        "memo": "限本系生修.Not required for international students or PhD students."
+        "memo": "限本系生修.Not required for international students or PhD students.",
+        "code": "4106002"
     },
     {
         "id": "資訊工程研究所",
@@ -728,6 +759,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4106004_01",
         "targetGrade": "1",
         "capacity": "160",
-        "memo": "限本系生修.Not required for international students or PhD students."
+        "memo": "限本系生修.Not required for international students or PhD students.",
+        "code": "4106004"
     }
 ]

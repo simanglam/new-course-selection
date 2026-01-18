@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105002_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩一博一必修:本課程為碩博合班上課，碩一博一同學請選修社會福利專題討論(二)，如同一學期同時選修(二)及(四)，僅採認其中一門。"
+        "memo": "碩一博一必修:本課程為碩博合班上課，碩一博一同學請選修社會福利專題討論(二)，如同一學期同時選修(二)及(四)，僅採認其中一門。",
+        "code": "3105002"
     },
     {
         "id": "社會福利研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105004_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩二博二必修:本課程為碩博合班上課，碩二博二同學請選修社會福利專題討論(四)，如同一學期同時選修(二)及(四)，僅採認其中一門。"
+        "memo": "碩二博二必修:本課程為碩博合班上課，碩二博二同學請選修社會福利專題討論(四)，如同一學期同時選修(二)及(四)，僅採認其中一門。",
+        "code": "3105004"
     },
     {
         "id": "社會福利研究所",
@@ -62,7 +64,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060890/local_syllabus/attachment/34754/social%20welfare%20theory%2020260111.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班一年級必修。"
+        "memo": "碩士班一年級必修。",
+        "code": "3105067"
     },
     {
         "id": "社會福利研究所",
@@ -80,7 +83,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105085_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班三選一必修。"
+        "memo": "碩士班三選一必修。",
+        "code": "3105085"
     },
     {
         "id": "社會福利研究所",
@@ -106,7 +110,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061100/local_syllabus/attachment/34763/%E4%BD%8E%E7%94%9F%E8%82%B2%E7%8E%87%E8%88%87%E7%A4%BE%E6%9C%83%E6%94%BF%E7%AD%96.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3105226"
     },
     {
         "id": "社會福利研究所",
@@ -124,7 +129,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106004_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "博士班一年級必修。"
+        "memo": "博士班一年級必修。",
+        "code": "3106004"
     },
     {
         "id": "社會福利研究所",
@@ -142,7 +148,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106467_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。",
+        "code": "3106467"
     },
     {
         "id": "社會福利研究所",
@@ -160,7 +167,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106486_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。",
+        "code": "3106486"
     },
     {
         "id": "社會福利研究所",
@@ -187,7 +195,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061344/local_syllabus/attachment/34768/welfare%20society%20114-2%20wu.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3106510"
     },
     {
         "id": "社會福利研究所",
@@ -205,7 +214,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106520_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。",
+        "code": "3106520"
     },
     {
         "id": "社會福利研究所",
@@ -223,7 +233,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106532_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。",
+        "code": "3106532"
     },
     {
         "id": "社會福利研究所",
@@ -248,7 +259,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060928/local_syllabus/attachment/34756/114-2%E4%BA%BA%E5%8F%A3%E8%80%81%E5%8C%96%E8%88%87%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%28%E6%B7%B1%E8%80%95%E5%85%AC%E7%89%88%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。",
+        "code": "3106542"
     },
     {
         "id": "社會福利研究所",
@@ -266,7 +278,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106545_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "開放大三、大四選修。"
+        "memo": "開放大三、大四選修。",
+        "code": "3106545"
     },
     {
         "id": "社會福利研究所",
@@ -297,7 +310,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061082/local_syllabus/attachment/34761/114-2_%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E4%BF%9D%E9%9A%AA_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28112%E5%B9%B4%E6%B7%B1%E8%80%95%E5%85%AC%E7%89%88%29_251224.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3106550"
     },
     {
         "id": "社會福利研究所",
@@ -315,7 +329,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060775/local_syllabus/attachment/34751/Labor%20Policy%20syllabus%202026%20Spring.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "開放學士班選修。1.111學年度(含)以後入學者適用：專業必選修「社會政策面向」。2.110學年度(含)以前入學者適用：專業選修「社會政策與制度課群」。"
+        "memo": "開放學士班選修。1.111學年度(含)以後入學者適用：專業必選修「社會政策面向」。2.110學年度(含)以前入學者適用：專業選修「社會政策與制度課群」。",
+        "code": "3106654"
     },
     {
         "id": "社會福利研究所",
@@ -344,7 +359,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061384/local_syllabus/attachment/34770/114_2%E7%A4%BE%E6%9C%83%E8%AA%BF%E6%9F%A5%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E8%88%87%E6%87%89%E7%94%A8syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "開放大二、大三、大四選修。"
+        "memo": "開放大二、大三、大四選修。",
+        "code": "3106658"
     },
     {
         "id": "社會福利研究所",
@@ -362,6 +378,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106659_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3106659"
     }
 ]

@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070916/local_syllabus/attachment/35215/%E5%88%9D%E6%9C%83%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5261102"
     },
     {
         "id": "會計與資訊科技學系",
@@ -49,7 +50,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070933/local_syllabus/attachment/35216/Intro%20FA-Spring%202026%20Econ.docx",
         "targetGrade": "1",
         "capacity": "125",
-        "memo": ""
+        "memo": "",
+        "code": "5261105"
     },
     {
         "id": "會計與資訊科技學系",
@@ -67,7 +69,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261105_04",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5261105"
     },
     {
         "id": "會計與資訊科技學系",
@@ -85,7 +88,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261105_05",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5261105"
     },
     {
         "id": "會計與資訊科技學系",
@@ -114,7 +118,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071243/local_syllabus/attachment/35219/AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E5%AD%B8%E5%A3%AB%E7%8F%AD%E7%B5%B1%E8%A8%88%E5%AD%B8%20Syllabus.docx",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5261609"
     },
     {
         "id": "會計與資訊科技學系",
@@ -132,7 +137,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261610_01",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5261610"
     },
     {
         "id": "會計與資訊科技學系",
@@ -159,7 +165,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071345/local_syllabus/attachment/35221/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5261614"
     },
     {
         "id": "會計與資訊科技學系",
@@ -186,7 +193,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071432/local_syllabus/attachment/35226/AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-1142-%E4%B8%AD%E6%9C%83%E4%BA%8C.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5262001"
     },
     {
         "id": "會計與資訊科技學系",
@@ -215,7 +223,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071481/local_syllabus/attachment/35227/Intermediate%20Accounting%20114%E4%B8%8B%E5%AD%B8%E6%9C%9F.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5262104"
     },
     {
         "id": "會計與資訊科技學系",
@@ -233,7 +242,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5262110_01",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5262110"
     },
     {
         "id": "會計與資訊科技學系",
@@ -261,7 +271,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142196/local_syllabus/attachment/35646/114-2%E6%94%BF%E6%9C%83%E5%A4%A7%E7%B6%B1ok.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5262205"
     },
     {
         "id": "會計與資訊科技學系",
@@ -293,7 +304,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071567/local_syllabus/attachment/35229/114-2_Financial%20Technology%20Trends%20and%20Innovation_Syllabus_Po-Sen%20Huang_v2.1_E.pdf",
         "targetGrade": "2",
         "capacity": "47",
-        "memo": ""
+        "memo": "",
+        "code": "5262210"
     },
     {
         "id": "會計與資訊科技學系",
@@ -311,7 +323,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071580/local_syllabus/attachment/35230/JLC%202026%20Spring%20Syllabus.pdf",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5262213"
     },
     {
         "id": "會計與資訊科技學系",
@@ -344,7 +357,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071591/local_syllabus/attachment/35231/114-2%20AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29_%E6%9C%83%E8%B3%87%E7%B3%BB%28SAD%29_1141202.pdf",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5262300"
     },
     {
         "id": "會計與資訊科技學系",
@@ -373,7 +387,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072069/local_syllabus/attachment/35238/2025_CostManag_Syllabus_ACC.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5263106"
     },
     {
         "id": "會計與資訊科技學系",
@@ -399,7 +414,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072137/local_syllabus/attachment/35239/1142%20%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5263108"
     },
     {
         "id": "會計與資訊科技學系",
@@ -427,7 +443,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072162/local_syllabus/attachment/35240/1142_%E5%AF%A9%E8%A8%88%E5%AD%B8_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5263109"
     },
     {
         "id": "會計與資訊科技學系",
@@ -458,7 +475,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072423/local_syllabus/attachment/35252/Sustainable%20Development%20and%20Green%20Accounting%202025%20AACSB.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5263617"
     },
     {
         "id": "會計與資訊科技學系",
@@ -489,7 +507,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072211/local_syllabus/attachment/35242/FSA%20Syllabus-Spring%202026.docx",
         "targetGrade": "3",
         "capacity": "90",
-        "memo": ""
+        "memo": "",
+        "code": "5264002"
     },
     {
         "id": "會計與資訊科技學系",
@@ -518,7 +537,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072849/local_syllabus/attachment/35275/1142_%E6%9C%83%E8%A8%88%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": ""
+        "memo": "",
+        "code": "5264004"
     },
     {
         "id": "會計與資訊科技學系",
@@ -547,6 +567,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072298/local_syllabus/attachment/35244/1142_%E6%9C%83%E8%A8%88%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5264004"
     }
 ]

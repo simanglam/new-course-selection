@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026898/local_syllabus/attachment/33696/114-2%E5%AF%AB%E4%BD%9C%E6%8C%87%E5%B0%8E%E4%B8%8A%E5%82%B3%E7%89%88%E6%9C%AC.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105041"
     },
     {
         "id": "中國文學研究所",
@@ -57,7 +58,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026080/local_syllabus/attachment/33664/114-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E6%89%80_%E8%BF%91%E4%BB%A3%E6%BC%A2%E8%AA%9E%E8%AA%9E%E6%B3%95%E5%B0%88%E9%A1%8C.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105279"
     },
     {
         "id": "中國文學研究所",
@@ -84,7 +86,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024045/local_syllabus/attachment/33611/%E7%B6%93%E5%AD%B8%E5%8F%B2%E7%A0%94%E7%A9%B6-114.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105493"
     },
     {
         "id": "中國文學研究所",
@@ -102,7 +105,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1105724_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105724"
     },
     {
         "id": "中國文學研究所",
@@ -120,7 +124,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1105755_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105755"
     },
     {
         "id": "中國文學研究所",
@@ -145,7 +150,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024036/local_syllabus/attachment/33610/114%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E6%89%80%E9%81%93%E5%AE%B6.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1105843"
     },
     {
         "id": "中國文學研究所",
@@ -170,7 +176,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074031/local_syllabus/attachment/35316/114%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E6%9D%B1%E4%BA%9E%E6%BC%A2%E8%A9%A9%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "與台文創應所合開。"
+        "memo": "與台文創應所合開。",
+        "code": "1106753"
     },
     {
         "id": "中國文學研究所",
@@ -198,6 +205,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023908/local_syllabus/attachment/33600/114-2%20%20%20%20%E6%95%85%E4%BA%8B%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%20%20%20%20%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1106948"
     }
 ]

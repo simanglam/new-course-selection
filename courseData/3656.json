@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655102_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "限臨床所碩士或博班生修課。心理病理學領域。"
+        "memo": "限臨床所碩士或博班生修課。心理病理學領域。",
+        "code": "3655102"
     },
     {
         "id": "臨床心理學研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655107_01",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "需先通過本所任一堂心理病理學領域課程。心理治療領域。"
+        "memo": "需先通過本所任一堂心理病理學領域課程。心理治療領域。",
+        "code": "3655107"
     },
     {
         "id": "臨床心理學研究所",
@@ -60,7 +62,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063456/local_syllabus/attachment/34867/114-2%20%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%B6%B1%20%28%E6%B7%B1%E8%80%95%E5%85%AC%E7%89%88%29%20.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "須經授課教師同意及先通過本系臨床心理實習委員會審查。"
+        "memo": "須經授課教師同意及先通過本系臨床心理實習委員會審查。",
+        "code": "3655118"
     },
     {
         "id": "臨床心理學研究所",
@@ -78,7 +81,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655119_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "需先通過本系臨床心理實習委員會審查。"
+        "memo": "需先通過本系臨床心理實習委員會審查。",
+        "code": "3655119"
     },
     {
         "id": "臨床心理學研究所",
@@ -106,7 +110,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063484/local_syllabus/attachment/34870/PSG114_2.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "1.須於12/31/2025前和授課教師面談並獲得同意始得選修本課程 \r\n2.2026年1-2月將安排理論及實作練習課程\r\n3.屬生理心理學,計量與方法, 臨床心理學課群\r\n4.心理衡鑑領域。"
+        "memo": "1.須於12/31/2025前和授課教師面談並獲得同意始得選修本課程 \r\n2.2026年1-2月將安排理論及實作練習課程\r\n3.屬生理心理學,計量與方法, 臨床心理學課群\r\n4.心理衡鑑領域。",
+        "code": "3655202"
     },
     {
         "id": "臨床心理學研究所",
@@ -135,7 +140,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063504/local_syllabus/attachment/34872/SM1_114_2.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "建議先修：生理心理學相關課程。開放大三大四選修。\r\n生理心理學, 臨床心理學課群。\r\n心理病理學領域。"
+        "memo": "建議先修：生理心理學相關課程。開放大三大四選修。\r\n生理心理學, 臨床心理學課群。\r\n心理病理學領域。",
+        "code": "3655205"
     },
     {
         "id": "臨床心理學研究所",
@@ -153,7 +159,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655214_01",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "需先通過本所任一堂心理病理學領域課程。心理衡鑑領域。"
+        "memo": "需先通過本所任一堂心理病理學領域課程。心理衡鑑領域。",
+        "code": "3655214"
     },
     {
         "id": "臨床心理學研究所",
@@ -171,7 +178,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655303_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "限臨床所碩二及碩二以上學生選修，需修過兒童∕成人心理病理深論，及兒童∕成人心理衡鑑深論與實作。心理治療領域。"
+        "memo": "限臨床所碩二及碩二以上學生選修，需修過兒童∕成人心理病理深論，及兒童∕成人心理衡鑑深論與實作。心理治療領域。",
+        "code": "3655303"
     },
     {
         "id": "臨床心理學研究所",
@@ -189,7 +197,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3655419_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "修課前須先經本系臨床心理實習委員會審核通過"
+        "memo": "修課前須先經本系臨床心理實習委員會審核通過",
+        "code": "3655419"
     },
     {
         "id": "臨床心理學研究所",
@@ -207,7 +216,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3656104_01",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "獨立研究、臨床心理學課群。需經授課教師同意。"
+        "memo": "獨立研究、臨床心理學課群。需經授課教師同意。",
+        "code": "3656104"
     },
     {
         "id": "臨床心理學研究所",
@@ -225,6 +235,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3657102_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "建議先修科目：生理心理學或社會心理學。心理病理學領域。"
+        "memo": "建議先修科目：生理心理學或社會心理學。心理病理學領域。",
+        "code": "3657102"
     }
 ]

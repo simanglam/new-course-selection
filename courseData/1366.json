@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1365006_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1365006"
     },
     {
         "id": "英語教學研究所",
@@ -44,7 +45,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060317/local_syllabus/attachment/34714/2026_Grammar%20Teaching.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1365008"
     },
     {
         "id": "英語教學研究所",
@@ -62,7 +64,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1365063_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1365063"
     },
     {
         "id": "英語教學研究所",
@@ -89,6 +92,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058953/local_syllabus/attachment/34650/01%20Syllabus-AI-assisted%20Academic%20Writing.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1365064"
     }
 ]

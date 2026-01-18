@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055060/local_syllabus/attachment/34503/1_2_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "生醫碩一必修"
+        "memo": "生醫碩一必修",
+        "code": "2555002"
     },
     {
         "id": "生物醫學研究所",
@@ -49,7 +50,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055069/local_syllabus/attachment/34504/2_2_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E5%9B%9B%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "生醫碩二必修"
+        "memo": "生醫碩二必修",
+        "code": "2555004"
     },
     {
         "id": "生物醫學研究所",
@@ -74,7 +76,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055079/local_syllabus/attachment/34505/1_2_%E9%AB%98%E7%AD%89%E7%B4%B0%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%B8.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[限大四以上學生選修]"
+        "memo": "[限大四以上學生選修]",
+        "code": "2555010"
     },
     {
         "id": "生物醫學研究所",
@@ -98,7 +101,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055106/local_syllabus/attachment/34506/%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%99%82%E8%88%87%E5%85%8D%E7%96%AB%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "2555116"
     },
     {
         "id": "生物醫學研究所",
@@ -123,7 +127,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055115/local_syllabus/attachment/34507/%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%B8%E7%89%B9%E8%AB%96.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[A.基因體與蛋白質體學群]"
+        "memo": "[A.基因體與蛋白質體學群]",
+        "code": "2555137"
     },
     {
         "id": "生物醫學研究所",
@@ -149,7 +154,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055137/local_syllabus/attachment/34508/Syllabus_Epigenomics_Graduate_2025.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[A.基因體暨蛋白質體學群][分生碩_必選(三選一)]"
+        "memo": "[A.基因體暨蛋白質體學群][分生碩_必選(三選一)]",
+        "code": "2555140"
     },
     {
         "id": "生物醫學研究所",
@@ -176,7 +182,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055168/local_syllabus/attachment/34509/%E8%A1%A8%E8%A7%80%E5%9F%BA%E5%9B%A0%E9%AB%94%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E4%BA%8C.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "2555142"
     },
     {
         "id": "生物醫學研究所",
@@ -204,7 +211,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055179/local_syllabus/attachment/34510/%E7%99%8C%E7%97%87%E5%B9%B9%E7%B4%B0%E8%83%9E%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "2555148"
     },
     {
         "id": "生物醫學研究所",
@@ -230,7 +238,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055187/local_syllabus/attachment/34511/4_2%28%20%E7%94%9F%E9%86%AB%E7%A2%A9%29%E4%BA%BA%E9%A1%9E%E7%96%BE%E7%97%85%E4%B9%8B%E7%B4%B0%E8%83%9E%E6%A9%9F%E5%88%B6%E7%89%B9%E8%AB%96_112%E5%AD%B8%E5%B9%B4%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[B.分子與細胞生物學群]"
+        "memo": "[B.分子與細胞生物學群]",
+        "code": "2555149"
     },
     {
         "id": "生物醫學研究所",
@@ -259,7 +268,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055216/local_syllabus/attachment/34512/%28%20%E7%94%9F%E9%86%AB%E7%A2%A9%29%E6%A8%A1%E5%BC%8F%E7%94%9F%E7%89%A9%E4%B9%8B%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E7%A0%94%E7%A9%B6_112%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[B.分子與細胞生物學群]"
+        "memo": "[B.分子與細胞生物學群]",
+        "code": "2555150"
     },
     {
         "id": "生物醫學研究所",
@@ -286,7 +296,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055021/local_syllabus/attachment/34501/%E7%94%9F%E9%86%AB%E7%A2%A9_%E9%86%AB%E5%AD%B8%E8%88%87%E7%A0%94%E7%A9%B6%E5%80%AB%E7%90%86%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_113%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8%20%28%E9%99%B3%E7%A5%96%E8%A3%95%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本門課採隔週上課，每次2小時(週一16:00-18:00)"
+        "memo": "本門課採隔週上課，每次2小時(週一16:00-18:00)",
+        "code": "2555151"
     },
     {
         "id": "生物醫學研究所",
@@ -311,7 +322,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055242/local_syllabus/attachment/34513/6_%E7%94%9F%E9%86%AB%E7%A2%A9_%E9%AB%98%E7%AD%89%E7%97%85%E6%AF%92%E5%AD%B8.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "生醫碩_必選(三選一)"
+        "memo": "生醫碩_必選(三選一)",
+        "code": "2555152"
     },
     {
         "id": "生物醫學研究所",
@@ -339,6 +351,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055050/local_syllabus/attachment/34502/5_%E7%94%9F%E9%86%AB%E7%A2%A9_%E7%A7%91%E5%AD%B8%E8%8B%B1%E6%96%87%E5%AF%AB%E4%BD%9C%E8%88%87%E6%BA%9D%E9%80%9A%20113-2%20%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "[C.其他核心課程]"
+        "memo": "[C.其他核心課程]",
+        "code": "2555153"
     }
 ]

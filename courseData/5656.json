@@ -21,7 +21,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081306/local_syllabus/attachment/35596/%E4%B8%AD%E6%AD%A3EMBA%E7%94%A2%E5%AE%98%E5%AD%B8%E5%90%88%E4%BD%9C%E8%AB%96%E5%A3%87.pdf",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "565A073"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -49,7 +50,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079312/local_syllabus/attachment/35533/Syllabus_RM%28EMBA%29_2026.docx",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A076"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -67,7 +69,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A086_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A086"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -93,7 +96,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077706/local_syllabus/attachment/35491/%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%AD%B8%282026%E9%AB%98%E9%9A%8E%E7%8F%AD%29.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A092"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -119,7 +123,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081323/local_syllabus/attachment/35598/%E5%85%AC%E5%8F%B8%E7%AB%B6%E7%88%AD%E7%AD%96%E7%95%A5.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A094"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -145,7 +150,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076937/local_syllabus/attachment/35442/Ent2026S_SY.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A101"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -163,7 +169,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A105_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A105"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -191,7 +198,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077256/local_syllabus/attachment/35466/260112%E9%AB%98%E9%9A%8E%E4%B8%BB%E7%AE%A1%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86-%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E7%84%A1%E8%A1%A8%E6%A0%BC.doc",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "565A119"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -215,7 +223,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081314/local_syllabus/attachment/35597/%E4%BC%81%E6%A5%AD%E5%80%8B%E6%A1%88%E5%88%86%E6%9E%90.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A126"
     },
     {
         "id": "(專)高階主管管理碩士在職專班",
@@ -233,6 +242,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A127_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "565A127"
     }
 ]

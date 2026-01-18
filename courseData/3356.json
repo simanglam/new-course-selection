@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3355001_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355001"
     },
     {
         "id": "電訊傳播研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3355006_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355006"
     },
     {
         "id": "電訊傳播研究所",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3355018_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355018"
     },
     {
         "id": "電訊傳播研究所",
@@ -80,7 +83,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054155/local_syllabus/attachment/34444/%E8%A1%8C%E9%8A%B7%E5%82%B3%E6%92%AD%E7%AD%96%E7%95%A52026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355019"
     },
     {
         "id": "電訊傳播研究所",
@@ -98,7 +102,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3355027_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355027"
     },
     {
         "id": "電訊傳播研究所",
@@ -116,7 +121,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061375/local_syllabus/attachment/34769/2026%E6%98%A5%EF%BC%9A%E5%AA%92%E4%BB%8B%E8%A8%98%E6%86%B6%E8%88%87%E6%96%B0%E8%81%9E%E5%8F%B2%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355028"
     },
     {
         "id": "電訊傳播研究所",
@@ -134,7 +140,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3355137_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3355137"
     },
     {
         "id": "電訊傳播研究所",
@@ -162,7 +169,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054207/local_syllabus/attachment/34447/index.visual_syllabus.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3356016"
     },
     {
         "id": "電訊傳播研究所",
@@ -180,7 +188,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3356023_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(3356021)傳播研究專題討論（一）(曾經修習)"
+        "memo": "先修科目(3356021)傳播研究專題討論（一）(曾經修習)",
+        "code": "3356023"
     },
     {
         "id": "電訊傳播研究所",
@@ -198,7 +207,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3356033_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3356033"
     },
     {
         "id": "電訊傳播研究所",
@@ -225,6 +235,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054238/local_syllabus/attachment/34449/114-2%20%E9%96%B1%E8%81%BD%E4%BA%BA%E7%A0%94%E7%A9%B6%280115%20new%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3357012"
     }
 ]

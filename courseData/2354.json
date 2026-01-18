@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046641/local_syllabus/attachment/34183/%E5%9C%B0%E7%90%83%E8%88%87%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "2351002"
     },
     {
         "id": "地球與環境科學系",
@@ -50,7 +51,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046678/local_syllabus/attachment/34184/Syllubus_20252_spring_semester.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "限本系生修.限本系學生修(大一學號「雙號」)，於加退選期間開放外系學生選修"
+        "memo": "限本系生修.限本系學生修(大一學號「雙號」)，於加退選期間開放外系學生選修",
+        "code": "2351004"
     },
     {
         "id": "地球與環境科學系",
@@ -77,7 +79,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046695/local_syllabus/attachment/34185/Syllubus_20252_spring_semester.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "限本系生修.限本系學生修(大一 學號「單號」)，於加退選期間開放外系學生選修"
+        "memo": "限本系生修.限本系學生修(大一 學號「單號」)，於加退選期間開放外系學生選修",
+        "code": "2351004"
     },
     {
         "id": "地球與環境科學系",
@@ -104,7 +107,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046815/local_syllabus/attachment/34188/%E6%87%89%E7%94%A8%E5%8A%9B%E5%AD%B8.doc",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": ""
+        "memo": "",
+        "code": "2352005"
     },
     {
         "id": "地球與環境科學系",
@@ -131,7 +135,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046874/local_syllabus/attachment/34190/2352012%E6%A7%8B%E9%80%A0%E5%9C%B0%E8%B3%AA%E5%AD%B8%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "2352012"
     },
     {
         "id": "地球與環境科學系",
@@ -159,7 +164,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046727/local_syllabus/attachment/34187/2352014%E5%9C%B0%E9%9C%87%E5%B0%8E%E8%AB%96%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": ""
+        "memo": "",
+        "code": "2352014"
     },
     {
         "id": "地球與環境科學系",
@@ -187,7 +193,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046956/local_syllabus/attachment/34192/26_GIS_syllabus.pdf",
         "targetGrade": "2",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2352019"
     },
     {
         "id": "地球與環境科學系",
@@ -214,7 +221,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046827/local_syllabus/attachment/34189/syllabus_cht.docx",
         "targetGrade": "2",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "2352027"
     },
     {
         "id": "地球與環境科學系",
@@ -239,7 +247,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047008/local_syllabus/attachment/34193/2352028%E5%85%89%E6%80%A7%E7%A4%A6%E7%89%A9%E5%AD%B8.doc",
         "targetGrade": "2",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "2352028"
     },
     {
         "id": "地球與環境科學系",
@@ -268,7 +277,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047051/local_syllabus/attachment/34196/26_Geodesy_syllabus.pdf",
         "targetGrade": "3",
         "capacity": "24",
-        "memo": ""
+        "memo": "",
+        "code": "2353005"
     },
     {
         "id": "地球與環境科學系",
@@ -286,7 +296,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2353006_01",
         "targetGrade": "2",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "2353006"
     },
     {
         "id": "地球與環境科學系",
@@ -313,7 +324,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047093/local_syllabus/attachment/34197/114-2%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%8E%A2%E5%8B%98%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%AE%8F%E5%98%89.pdf",
         "targetGrade": "3",
         "capacity": "38",
-        "memo": ""
+        "memo": "",
+        "code": "2353011"
     },
     {
         "id": "地球與環境科學系",
@@ -338,7 +350,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047032/local_syllabus/attachment/34195/syllabus_cht.docx",
         "targetGrade": "3",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "2353047"
     },
     {
         "id": "地球與環境科學系",
@@ -364,7 +377,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2353048_01",
         "targetGrade": "3",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "2353048"
     },
     {
         "id": "地球與環境科學系",
@@ -392,7 +406,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061727/local_syllabus/attachment/34784/%E5%B0%88%E9%A1%8C-%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-12.26.2025.pdf",
         "targetGrade": "3",
         "capacity": "28",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2354020"
     },
     {
         "id": "地球與環境科學系",
@@ -412,6 +427,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047144/local_syllabus/attachment/34199/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_112%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8.docx",
         "targetGrade": "4",
         "capacity": "55",
-        "memo": ""
+        "memo": "",
+        "code": "2354021"
     }
 ]

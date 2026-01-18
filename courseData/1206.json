@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1205219_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1205219"
     },
     {
         "id": "歷史研究所",
@@ -42,7 +43,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057096/local_syllabus/attachment/34594/%E6%AD%B7%E5%8F%B2%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96%EF%BC%88%E4%B8%8B%E5%AD%B8%E6%9C%9F%EF%BC%89%E6%A5%8A%E7%B6%AD%E7%9C%9F.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博士新生必修"
+        "memo": "碩博士新生必修",
+        "code": "1205232"
     },
     {
         "id": "歷史研究所",
@@ -60,7 +62,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1205269_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1205269"
     },
     {
         "id": "歷史研究所",
@@ -87,7 +90,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057119/local_syllabus/attachment/34595/114-2%E3%80%8C%E6%BC%A2%E6%99%89%E5%9C%B0%E6%96%B9%E5%88%B6%E5%BA%A6%E8%88%87%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%B8%80%EF%BC%89%E3%80%8D%E8%AA%B2%E7%B6%B1%EF%BC%8820260109%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1205349"
     },
     {
         "id": "歷史研究所",
@@ -114,7 +118,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057270/local_syllabus/attachment/34596/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1208059"
     },
     {
         "id": "歷史研究所",
@@ -141,7 +146,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057790/local_syllabus/attachment/34601/114-2%20%E4%B8%AD%E5%9C%8B%E4%BD%9B%E6%95%99%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C%EF%BC%88%E7%A0%94%E7%A9%B6%E6%89%80%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1208199"
     },
     {
         "id": "歷史研究所",
@@ -169,7 +175,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057860/local_syllabus/attachment/34602/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E6%AD%B7%E5%8F%B2%E7%B3%BB%E5%A4%A7%E7%B6%B1114-2.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1208219"
     },
     {
         "id": "歷史研究所",
@@ -198,6 +205,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057297/local_syllabus/attachment/34599/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E8%87%BA%E7%81%A3%E5%AE%97%E6%95%99%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C2%29%28114-2%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1209522"
     }
 ]

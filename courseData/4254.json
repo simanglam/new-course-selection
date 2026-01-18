@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024450/local_syllabus/attachment/33627/%E8%B3%AA%E8%83%BD%E5%9D%87%E8%A1%A1%28%E5%91%A8%E7%9B%88%E5%B9%B4%29-114%20%282%29%20Syllabus.docx",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": ""
+        "memo": "",
+        "code": "4251020"
     },
     {
         "id": "化學工程學系",
@@ -51,7 +52,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024508/local_syllabus/attachment/33628/4252200.doc",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": "先修科目(4252100)工程數學（一）(曾經修習)"
+        "memo": "先修科目(4252100)工程數學（一）(曾經修習)",
+        "code": "4252200"
     },
     {
         "id": "化學工程學系",
@@ -78,7 +80,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024531/local_syllabus/attachment/33629/Unit%20Operation%20and%20Transport%20Phenomenon%20%28I%29.pdf",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": ""
+        "memo": "",
+        "code": "4252400"
     },
     {
         "id": "化學工程學系",
@@ -104,7 +107,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024560/local_syllabus/attachment/33630/%E7%9C%9F%E7%A9%BA%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%20%281%29.doc",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "4252921"
     },
     {
         "id": "化學工程學系",
@@ -128,7 +132,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024581/local_syllabus/attachment/33631/4253001.doc",
         "targetGrade": "3",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "4253001"
     },
     {
         "id": "化學工程學系",
@@ -155,7 +160,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024589/local_syllabus/attachment/33632/Syllabus20241210.docx",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4253100"
     },
     {
         "id": "化學工程學系",
@@ -182,7 +188,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024624/local_syllabus/attachment/33633/114-2%E5%8C%96%E5%B7%A5%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "先修科目(4252400)單元操作與輸送現象（一）(曾經修習)(4253400)單元操作與輸送現象（二）(曾經修習)(所有先修條件都必須符合)限化工系單號班學生修習"
+        "memo": "先修科目(4252400)單元操作與輸送現象（一）(曾經修習)(4253400)單元操作與輸送現象（二）(曾經修習)(所有先修條件都必須符合)限化工系單號班學生修習",
+        "code": "4253402"
     },
     {
         "id": "化學工程學系",
@@ -209,7 +216,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024651/local_syllabus/attachment/33634/114-2%E5%8C%96%E5%B7%A5%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)(4252400)單元操作與輸送現象（一）(曾經修習)(所有先修條件都必須符合)限化工系雙號班學生修習"
+        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)(4252400)單元操作與輸送現象（一）(曾經修習)(所有先修條件都必須符合)限化工系雙號班學生修習",
+        "code": "4253402"
     },
     {
         "id": "化學工程學系",
@@ -235,7 +243,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024678/local_syllabus/attachment/33635/4253403.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)"
+        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)",
+        "code": "4253403"
     },
     {
         "id": "化學工程學系",
@@ -262,7 +271,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025430/local_syllabus/attachment/33636/114-2%E5%84%80%E5%88%86%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "先修科目(4253500)儀器分析(曾經修習)限化工系單號班學生修習"
+        "memo": "先修科目(4253500)儀器分析(曾經修習)限化工系單號班學生修習",
+        "code": "4253501"
     },
     {
         "id": "化學工程學系",
@@ -289,7 +299,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025469/local_syllabus/attachment/33637/114-2%E5%84%80%E5%88%86%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "限化工系雙號班學生修習"
+        "memo": "限化工系雙號班學生修習",
+        "code": "4253501"
     },
     {
         "id": "化學工程學系",
@@ -317,7 +328,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025486/local_syllabus/attachment/33638/4253700.doc",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "4253700"
     },
     {
         "id": "化學工程學系",
@@ -342,7 +354,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026601/local_syllabus/attachment/33687/4253910.doc",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "4253910"
     },
     {
         "id": "化學工程學系",
@@ -367,7 +380,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025525/local_syllabus/attachment/33639/112-2%E8%A7%B8%E5%AA%92%E5%8C%96%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "4253940"
     },
     {
         "id": "化學工程學系",
@@ -394,7 +408,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025549/local_syllabus/attachment/33640/4254410.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4254410"
     },
     {
         "id": "化學工程學系",
@@ -418,6 +433,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4254970_01",
         "targetGrade": "4",
         "capacity": "50",
-        "memo": "化工系必選修課程"
+        "memo": "化工系必選修課程",
+        "code": "4254970"
     }
 ]

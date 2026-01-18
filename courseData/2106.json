@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052910/local_syllabus/attachment/34381/NumericalPDE_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2105515"
     },
     {
         "id": "應用數學研究所",
@@ -52,7 +53,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052326/local_syllabus/attachment/34373/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%B0%88%E9%A1%8C%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2105738"
     },
     {
         "id": "應用數學研究所",
@@ -70,7 +72,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2105741_01",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": ""
+        "memo": "",
+        "code": "2105741"
     },
     {
         "id": "應用數學研究所",
@@ -88,7 +91,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2106233_01",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2106233"
     },
     {
         "id": "應用數學研究所",
@@ -114,7 +118,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052314/local_syllabus/attachment/34372/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1pm.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2106531"
     },
     {
         "id": "應用數學研究所",
@@ -132,6 +137,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2108804_01",
         "targetGrade": "1",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2108804"
     }
 ]

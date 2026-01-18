@@ -26,7 +26,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045493/local_syllabus/attachment/34145/114-2%20%E9%96%B1%E8%AE%80%E7%99%BC%E5%B1%95%E8%88%87%E6%95%99%E5%AD%B8%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915038"
     },
     {
         "id": "教育學研究所課程與教學碩士班",
@@ -55,7 +56,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142315/local_syllabus/attachment/35650/11402%E5%AD%B8%E6%A0%A1%E6%9C%AC%E4%BD%8D%E8%AA%B2%E7%A8%8B%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6%E7%A2%A9.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915057"
     },
     {
         "id": "教育學研究所課程與教學碩士班",
@@ -73,7 +75,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033762/local_syllabus/attachment/33842/%E6%95%B8%E4%BD%8D%E5%AD%B8%E7%BF%92%E7%A0%94%E7%A9%B6%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20%282%29%20%281%29%20%281%29%20%283%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915150"
     },
     {
         "id": "教育學研究所課程與教學碩士班",
@@ -98,7 +101,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033734/local_syllabus/attachment/33840/114_2%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915158"
     },
     {
         "id": "教育學研究所課程與教學碩士班",
@@ -116,7 +120,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3915159_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915159"
     },
     {
         "id": "教育學研究所課程與教學碩士班",
@@ -134,6 +139,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2141990/local_syllabus/attachment/35633/%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%95%B8%E4%BD%8D%E5%AD%B8%E7%BF%92%20%282%29%20%281%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3915160"
     }
 ]

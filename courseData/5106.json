@@ -25,7 +25,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045746/local_syllabus/attachment/34152/2026%20Spring%20Microeconomics%20Theory%20II%20AACSB%20syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105102"
     },
     {
         "id": "國際經濟研究所",
@@ -43,7 +44,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105161_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105161"
     },
     {
         "id": "國際經濟研究所",
@@ -69,7 +71,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048218/local_syllabus/attachment/34260/syllabus2026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105163"
     },
     {
         "id": "國際經濟研究所",
@@ -95,7 +98,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045850/local_syllabus/attachment/34154/ECM2_G_syllabus_20260117.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105302"
     },
     {
         "id": "國際經濟研究所",
@@ -113,7 +117,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105311_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105311"
     },
     {
         "id": "國際經濟研究所",
@@ -140,7 +145,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045660/local_syllabus/attachment/34150/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%81%89%E6%99%BA_%E5%9C%8B%E9%9A%9B%E8%B2%BF%E6%98%93I.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105401"
     },
     {
         "id": "國際經濟研究所",
@@ -158,7 +164,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105501_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105501"
     },
     {
         "id": "國際經濟研究所",
@@ -183,7 +190,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048042/local_syllabus/attachment/34249/Syllabus__2017_Sv.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105502"
     },
     {
         "id": "國際經濟研究所",
@@ -211,7 +219,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045885/local_syllabus/attachment/34155/Syllabus_Labor%20Economics.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105605"
     },
     {
         "id": "國際經濟研究所",
@@ -237,7 +246,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045638/local_syllabus/attachment/34148/syllabus_spring2026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5105610"
     },
     {
         "id": "國際經濟研究所",
@@ -255,7 +265,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045647/local_syllabus/attachment/34149/5105804.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(5105101)個體經濟理論（一）(曾經修習)(5105201)總體經濟理論（一）(曾經修習)(5105301)計量經濟學（一）(曾經修習)(所有先修條件都必須符合)博士生修習此課程須填報擋修單加簽"
+        "memo": "先修科目(5105101)個體經濟理論（一）(曾經修習)(5105201)總體經濟理論（一）(曾經修習)(5105301)計量經濟學（一）(曾經修習)(所有先修條件都必須符合)博士生修習此課程須填報擋修單加簽",
+        "code": "5105804"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -279,7 +290,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076955/local_syllabus/attachment/35444/index.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "同學先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+        "memo": "同學先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。",
+        "code": "510A008"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -303,7 +315,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076966/local_syllabus/attachment/35445/index.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(510A008)碩士論文（一）(曾經修習)同學須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+        "memo": "先修科目(510A008)碩士論文（一）(曾經修習)同學須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。",
+        "code": "510A009"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -328,7 +341,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080158/local_syllabus/attachment/35554/%28%E6%9B%B4%E6%96%B0%29AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29%20-%20%E4%B8%96%E7%95%8C%E8%B2%BF%E6%98%93%E7%B5%84%E7%B9%94%E6%B3%95%E5%BE%8B%E8%88%87%E6%94%BF%E7%AD%96.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本系選修課修課人數若低於12人,得不開課"
+        "memo": "本系選修課修課人數若低於12人,得不開課",
+        "code": "510A402"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -352,7 +366,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079411/local_syllabus/attachment/35542/%E8%B2%A1%E7%B6%93%E5%B8%82%E5%A0%B4%E5%8B%95%E6%85%8B_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本系選修課修課人數若低於12人,得不開課"
+        "memo": "本系選修課修課人數若低於12人,得不開課",
+        "code": "510A407"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -376,7 +391,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076946/local_syllabus/attachment/35443/index.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "學生須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+        "memo": "學生須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。",
+        "code": "510A520"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -404,7 +420,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080063/local_syllabus/attachment/35552/11402%E5%9C%8B%E9%9A%9B%E7%B6%93%E6%BF%9F%E5%88%86%E6%9E%90%28%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29BB.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(510A601)經濟分析(曾經修習)"
+        "memo": "先修科目(510A601)經濟分析(曾經修習)",
+        "code": "510A603"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -432,7 +449,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079264/local_syllabus/attachment/35532/%E5%B0%88%E9%A1%8C%E8%88%87%E7%A0%94%E7%A9%B6%E9%81%B8%E8%AE%80_2026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "510A605"
     },
     {
         "id": "(專)國際經濟研究所",
@@ -450,6 +468,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_510A805_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "本系選修課修課人數若低於12人,得不開課."
+        "memo": "本系選修課修課人數若低於12人,得不開課.",
+        "code": "510A805"
     }
 ]

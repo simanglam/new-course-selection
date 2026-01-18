@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058029/local_syllabus/attachment/34610/%E6%B0%91%E7%B8%BD%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援法律學系法學組一年級A班;"
+        "memo": "支援法律學系法學組一年級A班;",
+        "code": "6011012"
     },
     {
         "id": "法學院學士班",
@@ -41,7 +42,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6011012_02",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "先修科目(6101021)民法總則（一）(曾經修習)(6201021)民法總則（一）(曾經修習)(6301001)民法總則（一）(曾經修習)(6011011)民法總則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法制組一年級A班;限本系生修."
+        "memo": "先修科目(6101021)民法總則（一）(曾經修習)(6201021)民法總則（一）(曾經修習)(6301001)民法總則（一）(曾經修習)(6011011)民法總則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法制組一年級A班;限本系生修.",
+        "code": "6011012"
     },
     {
         "id": "法學院學士班",
@@ -66,7 +68,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027364/local_syllabus/attachment/33714/index%20%282%29.doc",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援財經法律學系一年級A班B班;"
+        "memo": "支援財經法律學系一年級A班B班;",
+        "code": "6011012"
     },
     {
         "id": "法學院學士班",
@@ -91,7 +94,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027389/local_syllabus/attachment/33715/%E5%88%91%E6%B3%95%E7%B8%BD%E5%89%87.pptx",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "支援財經法律學系一年級A班B班;"
+        "memo": "支援財經法律學系一年級A班B班;",
+        "code": "6011022"
     },
     {
         "id": "法學院學士班",
@@ -109,7 +113,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6011022_01",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "先修科目(6011021)刑法總則（一）(曾經修習)(6201090)刑法總則（一）(曾經修習)(6301007)刑法總則（一）(曾經修習)(6101090)刑法總則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組一年級A班;"
+        "memo": "先修科目(6011021)刑法總則（一）(曾經修習)(6201090)刑法總則（一）(曾經修習)(6301007)刑法總則（一）(曾經修習)(6101090)刑法總則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組一年級A班;",
+        "code": "6011022"
     },
     {
         "id": "法學院學士班",
@@ -135,7 +140,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058086/local_syllabus/attachment/34613/%E5%88%91%E6%B3%95%E7%B8%BD%E5%89%87%20%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20PDF.pdf",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "支援法律學系法制組一年級A班;"
+        "memo": "支援法律學系法制組一年級A班;",
+        "code": "6011022"
     },
     {
         "id": "法學院學士班",
@@ -153,7 +159,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6011032_01",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "先修科目(6101041)憲法（一）(曾經修習)(6301002)憲法（一）(曾經修習)(6011031)憲法（一）(曾經修習)(6201041)憲法（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組一年級A班;"
+        "memo": "先修科目(6101041)憲法（一）(曾經修習)(6301002)憲法（一）(曾經修習)(6011031)憲法（一）(曾經修習)(6201041)憲法（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組一年級A班;",
+        "code": "6011032"
     },
     {
         "id": "法學院學士班",
@@ -171,7 +178,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6011032_03",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援財經法律學系一年級A班B班;"
+        "memo": "支援財經法律學系一年級A班B班;",
+        "code": "6011032"
     },
     {
         "id": "法學院學士班",
@@ -189,7 +197,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012012_02",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "支援法律學系法制組二年級A班;"
+        "memo": "支援法律學系法制組二年級A班;",
+        "code": "6012012"
     },
     {
         "id": "法學院學士班",
@@ -207,7 +216,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012012_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "支援法律學系法學組二年級A班;"
+        "memo": "支援法律學系法學組二年級A班;",
+        "code": "6012012"
     },
     {
         "id": "法學院學士班",
@@ -225,7 +235,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012012_03",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "支援財經法律學系二年級A班B班;"
+        "memo": "支援財經法律學系二年級A班B班;",
+        "code": "6012012"
     },
     {
         "id": "法學院學士班",
@@ -243,7 +254,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012014_03",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "支援財經法律學系二年級A班B班;"
+        "memo": "支援財經法律學系二年級A班B班;",
+        "code": "6012014"
     },
     {
         "id": "法學院學士班",
@@ -261,7 +273,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012014_01",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": "支援法律學系法學組二年級A班;"
+        "memo": "支援法律學系法學組二年級A班;",
+        "code": "6012014"
     },
     {
         "id": "法學院學士班",
@@ -287,7 +300,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058249/local_syllabus/attachment/34621/%E7%89%A9%E6%AC%8A%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": "支援法律學系法制組二年級A班;"
+        "memo": "支援法律學系法制組二年級A班;",
+        "code": "6012014"
     },
     {
         "id": "法學院學士班",
@@ -305,7 +319,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012016_03",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "支援財經法律學系二年級A班B班;"
+        "memo": "支援財經法律學系二年級A班B班;",
+        "code": "6012016"
     },
     {
         "id": "法學院學士班",
@@ -323,7 +338,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012016_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "先修科目(6011012)民法總則（二）(曾經修習)(6201022)民法總則（二）(曾經修習)(6301009)民法總則（二）(曾經修習)(6101022)民法總則（二）(曾經修習)(只要符合任一先修條件)支援法律學系法學組法律學系法制組二年級A班;"
+        "memo": "先修科目(6011012)民法總則（二）(曾經修習)(6201022)民法總則（二）(曾經修習)(6301009)民法總則（二）(曾經修習)(6101022)民法總則（二）(曾經修習)(只要符合任一先修條件)支援法律學系法學組法律學系法制組二年級A班;",
+        "code": "6012016"
     },
     {
         "id": "法學院學士班",
@@ -341,7 +357,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6012022_01",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(6202031)刑法分則（一）(曾經修習)(6102031)刑法分則（一）(曾經修習)(6012021)刑法分則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組二年級A班;"
+        "memo": "先修科目(6202031)刑法分則（一）(曾經修習)(6102031)刑法分則（一）(曾經修習)(6012021)刑法分則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組二年級A班;",
+        "code": "6012022"
     },
     {
         "id": "法學院學士班",
@@ -369,7 +386,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058268/local_syllabus/attachment/34623/%E7%8E%8B%E6%AD%A3%E5%98%89%E5%88%91%E6%B3%95%E5%88%86%E5%89%87%E5%A4%A7%E7%B6%B1%EF%BC%A011402.docx",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": "先修科目(6012021)刑法分則（一）(曾經修習)(6102031)刑法分則（一）(曾經修習)(6202031)刑法分則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法制組二年級A班;"
+        "memo": "先修科目(6012021)刑法分則（一）(曾經修習)(6102031)刑法分則（一）(曾經修習)(6202031)刑法分則（一）(曾經修習)(只要符合任一先修條件)支援法律學系法制組二年級A班;",
+        "code": "6012022"
     },
     {
         "id": "法學院學士班",
@@ -396,7 +414,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058305/local_syllabus/attachment/34624/%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20PDF.pdf",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": "支援財經法律學系二年級A班;"
+        "memo": "支援財經法律學系二年級A班;",
+        "code": "6012022"
     },
     {
         "id": "法學院學士班",
@@ -426,7 +445,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058316/local_syllabus/attachment/34625/%E8%A1%8C%E6%94%BF%E6%B3%95%E7%B8%BD%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%BF%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.doc",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": "支援法律學系法制組二年級A班;"
+        "memo": "支援法律學系法制組二年級A班;",
+        "code": "6012032"
     },
     {
         "id": "法學院學士班",
@@ -452,7 +472,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058361/local_syllabus/attachment/34626/%E8%A1%8C%E6%94%BF%E6%B3%95%E7%B8%BD%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "支援法律學系法學組二年級A班;"
+        "memo": "支援法律學系法學組二年級A班;",
+        "code": "6012032"
     },
     {
         "id": "法學院學士班",
@@ -477,6 +498,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055757/local_syllabus/attachment/34532/%E8%A1%8C%E6%94%BF%E6%B3%95%E7%B8%BD%E8%AB%96%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20114-2.pdf",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "支援財經法律學系二年級A班B班;"
+        "memo": "支援財經法律學系二年級A班B班;",
+        "code": "6012032"
     }
 ]

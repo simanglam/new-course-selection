@@ -30,7 +30,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055253/local_syllabus/attachment/34514/%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "75",
-        "memo": ""
+        "memo": "",
+        "code": "1201116"
     },
     {
         "id": "歷史學系",
@@ -61,7 +62,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055269/local_syllabus/attachment/34515/2026%20Spring%20%E4%B8%96%E7%95%8C%E9%80%9A%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89Syllabus.pdf",
         "targetGrade": "1",
         "capacity": "75",
-        "memo": ""
+        "memo": "",
+        "code": "1201124"
     },
     {
         "id": "歷史學系",
@@ -91,7 +93,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055282/local_syllabus/attachment/34516/114-2%20%E3%80%8C%E5%8F%B2%E5%AD%B8%E5%85%A5%E9%96%80%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%8D%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "75",
-        "memo": ""
+        "memo": "",
+        "code": "1201162"
     },
     {
         "id": "歷史學系",
@@ -109,7 +112,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202232_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "先修科目(1201162)史學入門（二）(曾經修習)"
+        "memo": "先修科目(1201162)史學入門（二）(曾經修習)",
+        "code": "1202232"
     },
     {
         "id": "歷史學系",
@@ -138,7 +142,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056876/local_syllabus/attachment/34582/114-2%E3%80%8C%E9%AD%8F%E6%99%89%E5%8D%97%E5%8C%97%E6%9C%9D%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%8D%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%88114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%89%8820260109%EF%BC%89.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "中國斷代史"
+        "memo": "中國斷代史",
+        "code": "1202312"
     },
     {
         "id": "歷史學系",
@@ -156,7 +161,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056979/local_syllabus/attachment/34589/%E4%B8%AD%E5%9C%8B%E7%8F%BE%E4%BB%A3%E5%8F%B2%28%E4%B8%80%29%28%E4%BA%8C%29.doc",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "中國斷代史"
+        "memo": "中國斷代史",
+        "code": "1202332"
     },
     {
         "id": "歷史學系",
@@ -174,7 +180,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202341_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "中國斷代史"
+        "memo": "中國斷代史",
+        "code": "1202341"
     },
     {
         "id": "歷史學系",
@@ -201,7 +208,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055358/local_syllabus/attachment/34519/Syllabus%20-%20History%20of%20the%20United%20States%20of%20America%20%28II%29%20%28Spring%202026%29.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "國別及區域史"
+        "memo": "國別及區域史",
+        "code": "1202442"
     },
     {
         "id": "歷史學系",
@@ -219,7 +227,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202451_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "世界斷代史"
+        "memo": "世界斷代史",
+        "code": "1202451"
     },
     {
         "id": "歷史學系",
@@ -248,7 +257,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055393/local_syllabus/attachment/34520/113%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F-%E6%97%A5%E6%9C%AC%E5%8F%B2%28%E4%BA%8C%29.docx",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "先修科目(1202461)日本史 (一)(曾經修習)國別及區域史"
+        "memo": "先修科目(1202461)日本史 (一)(曾經修習)國別及區域史",
+        "code": "1202462"
     },
     {
         "id": "歷史學系",
@@ -277,7 +287,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055403/local_syllabus/attachment/34521/Syllabus%20-%20The%20Silk%20Road%20%28Spring%202026%29.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "1.國別及區域史\r\n2.全英語授課"
+        "memo": "1.國別及區域史\r\n2.全英語授課",
+        "code": "1202549"
     },
     {
         "id": "歷史學系",
@@ -305,7 +316,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056961/local_syllabus/attachment/34587/%E8%95%AD%E7%90%AA%20114-2%20%E6%98%8E%E6%B8%85%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96%E5%8F%B2%2820251223%E7%89%88%29.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1202639"
     },
     {
         "id": "歷史學系",
@@ -334,7 +346,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057045/local_syllabus/attachment/34593/114-2%20%E5%94%90%E4%BB%A3%E6%96%87%E5%8C%96%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1202662"
     },
     {
         "id": "歷史學系",
@@ -362,7 +375,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061914/local_syllabus/attachment/34798/%E5%8F%A3%E8%BF%B0%E6%AD%B7%E5%8F%B2%EF%BC%BF%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1202939"
     },
     {
         "id": "歷史學系",
@@ -393,7 +407,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055434/local_syllabus/attachment/34522/%E5%8F%B2%E5%AD%B8%E6%96%B9%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
         "targetGrade": "3",
         "capacity": "75",
-        "memo": "先修科目(1203161)史學方法（一）(及格)"
+        "memo": "先修科目(1203161)史學方法（一）(及格)",
+        "code": "1203162"
     },
     {
         "id": "歷史學系",
@@ -411,7 +426,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1203234_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "國別及區域史"
+        "memo": "國別及區域史",
+        "code": "1203234"
     },
     {
         "id": "歷史學系",
@@ -436,7 +452,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061905/local_syllabus/attachment/34797/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%8F%B0%E7%81%A3%E5%8F%B2%28%E4%BA%8C%29.docx",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "國別及區域史"
+        "memo": "國別及區域史",
+        "code": "1203236"
     },
     {
         "id": "歷史學系",
@@ -466,7 +483,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056913/local_syllabus/attachment/34583/%E6%B8%85%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "55",
-        "memo": "中國斷代史"
+        "memo": "中國斷代史",
+        "code": "1203322"
     },
     {
         "id": "歷史學系",
@@ -492,7 +510,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056970/local_syllabus/attachment/34588/%E5%8F%A4%E4%BB%A3%E5%B8%8C%E8%87%98%E5%8F%B2%EF%BC%88%E4%B8%80%EF%BC%89%282023%29.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "世界斷代史"
+        "memo": "世界斷代史",
+        "code": "1203441"
     },
     {
         "id": "歷史學系",
@@ -517,7 +536,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056924/local_syllabus/attachment/34584/%E5%8F%A4%E4%BB%A3%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%8F%B2%EF%BC%882016%EF%BC%89.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "國別及區域史"
+        "memo": "國別及區域史",
+        "code": "1203509"
     },
     {
         "id": "歷史學系",
@@ -546,7 +566,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056988/local_syllabus/attachment/34590/%E8%95%AD%E7%90%AA%20114-2%20%E4%B8%AD%E5%9C%8B%E5%A9%A6%E5%A5%B3%E8%88%87%E6%80%A7%E5%88%A5%E5%8F%B2%EF%BC%8820260106%E7%89%88%EF%BC%89.docx",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1203649"
     },
     {
         "id": "歷史學系",
@@ -573,7 +594,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055516/local_syllabus/attachment/34524/%E6%AD%B7%E5%8F%B2%E7%B3%BB%E6%96%B0%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A5%BF%E6%B4%8B%E5%8F%B2%E5%AD%B8%E5%8F%B22.docx",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1203722"
     },
     {
         "id": "歷史學系",
@@ -601,7 +623,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065797/local_syllabus/attachment/35025/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%BF%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8F%B2.docx",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1203789"
     },
     {
         "id": "歷史學系",
@@ -632,7 +655,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055728/local_syllabus/attachment/34529/%E9%84%89%E5%9C%9F%E5%8F%B2%E7%A0%94%E7%A9%B6%E6%B3%95%E8%AA%B2%E7%B6%B1%28114-2%29.pdf",
         "targetGrade": "3",
         "capacity": "55",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1203829"
     },
     {
         "id": "歷史學系",
@@ -662,7 +686,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065632/local_syllabus/attachment/35017/%5B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%5D%20114-2%20%E5%95%9F%E8%92%99%E9%81%8B%E5%8B%95%E5%8F%B2%E4%BA%8C.pdf",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "世界斷代史"
+        "memo": "世界斷代史",
+        "code": "1203890"
     },
     {
         "id": "歷史學系",
@@ -691,7 +716,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065788/local_syllabus/attachment/35024/%5B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%5D%20114-2%20%E9%A3%B2%E9%A3%9F%E3%80%81%E9%86%AB%E8%97%A5%E8%88%87%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9C%8B.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1204410"
     },
     {
         "id": "歷史學系",
@@ -718,7 +744,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056952/local_syllabus/attachment/34586/2026%20Spring%20International%20Affairs%20%20Historical%20Perspectives%20-%20Syllabus.pdf",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.全英語授課"
+        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.全英語授課",
+        "code": "1204449"
     },
     {
         "id": "歷史學系",
@@ -747,7 +774,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065824/local_syllabus/attachment/35028/%E8%95%AD%E7%90%AA%20114-2%20%E4%B8%AD%E5%9C%8B%E8%BA%AB%E9%AB%94%E8%88%87%E9%86%AB%E7%99%82%E6%96%87%E5%8C%96%E5%8F%B2.docx",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1204479"
     },
     {
         "id": "歷史學系",
@@ -776,7 +804,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056934/local_syllabus/attachment/34585/%E4%B8%AD%E5%9C%8B%E8%97%9D%E8%A1%93%E5%8F%B2%28II%29%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "75",
-        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.藝術文物學分學程選修課程"
+        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.藝術文物學分學程選修課程",
+        "code": "1204612"
     },
     {
         "id": "歷史學系",
@@ -794,7 +823,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057026/local_syllabus/attachment/34591/%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB%A8%E5%8F%B2%28%E4%B8%80%29%28%E4%BA%8C%29.doc",
         "targetGrade": "4",
         "capacity": "55",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1204631"
     },
     {
         "id": "歷史學系",
@@ -821,6 +851,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055534/local_syllabus/attachment/34525/Syllabus%20-%20Selected%20Readings%20in%20Western%20Historiography%20%28Spring%202026%29.pdf",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "專史、專題、史學史、史料選讀、應用史學"
+        "memo": "專史、專題、史學史、史料選讀、應用史學",
+        "code": "1204869"
     }
 ]

@@ -26,7 +26,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077124/local_syllabus/attachment/35452/IPE%20Syllabus-2026-%E5%B0%88%E7%8F%AD.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "342A008"
     },
     {
         "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
@@ -44,7 +45,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A012_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(342A015)社會科學方法論(及格)限本系生修."
+        "memo": "先修科目(342A015)社會科學方法論(及格)限本系生修.",
+        "code": "342A012"
     },
     {
         "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
@@ -62,7 +64,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A013_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(342A012)碩士論文（一）(及格)限本系生修."
+        "memo": "先修科目(342A012)碩士論文（一）(及格)限本系生修.",
+        "code": "342A013"
     },
     {
         "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
@@ -80,7 +83,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A015_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "342A015"
     },
     {
         "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
@@ -98,7 +102,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A022_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "342A022"
     },
     {
         "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
@@ -127,6 +132,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079402/local_syllabus/attachment/35541/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AF%A6%E5%8B%99%E8%88%87%E6%BC%94%E7%B7%B4.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "342A035"
     }
 ]

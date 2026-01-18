@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055579/local_syllabus/attachment/34526/2026%E6%99%AE%E5%BF%83%28%E4%BA%8C%29%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3151002"
     },
     {
         "id": "心理學系",
@@ -48,7 +49,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055627/local_syllabus/attachment/34527/114-2%20%E5%BF%83%E7%90%86%E5%8F%8A%E6%95%99%E8%82%B2%E7%B5%B1%E8%A8%88%E5%AD%B82_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": "先修科目(3151003)心理及教育統計學（一）(及格)"
+        "memo": "先修科目(3151003)心理及教育統計學（一）(及格)",
+        "code": "3151004"
     },
     {
         "id": "心理學系",
@@ -75,7 +77,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058457/local_syllabus/attachment/34632/115%202.pdf",
         "targetGrade": "2",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3152101"
     },
     {
         "id": "心理學系",
@@ -93,7 +96,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3152506_01",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": ""
+        "memo": "",
+        "code": "3152506"
     },
     {
         "id": "心理學系",
@@ -120,7 +124,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058429/local_syllabus/attachment/34631/%E6%80%A7%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B11142_20260105.pdf",
         "targetGrade": "2",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3152702"
     },
     {
         "id": "心理學系",
@@ -138,7 +143,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3153051_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3153051"
     },
     {
         "id": "心理學系",
@@ -165,7 +171,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061182/local_syllabus/attachment/34765/Syllabus_PsyLanguage_2026Spring.pdf",
         "targetGrade": "3",
         "capacity": "80",
-        "memo": ""
+        "memo": "",
+        "code": "3153261"
     },
     {
         "id": "心理學系",
@@ -193,7 +200,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061205/local_syllabus/attachment/34766/114-2%20%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95%EF%BC%9A%E6%8E%A8%E7%90%86%E8%88%87%E6%B1%BA%E7%AD%96%E5%B0%88%E9%A1%8C_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": "先修科目(3152301)發展心理學(及格)"
+        "memo": "先修科目(3152301)發展心理學(及格)",
+        "code": "3153312"
     },
     {
         "id": "心理學系",
@@ -211,7 +219,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3153551_01",
         "targetGrade": "3",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3153551"
     },
     {
         "id": "心理學系",
@@ -239,7 +248,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062819/local_syllabus/attachment/34836/OB2026.doc",
         "targetGrade": "3",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3153751"
     },
     {
         "id": "心理學系",
@@ -268,7 +278,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058597/local_syllabus/attachment/34637/114-2%20%E8%AE%8A%E6%85%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3153902"
     },
     {
         "id": "心理學系",
@@ -298,7 +309,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058638/local_syllabus/attachment/34639/Syllabus_RemInstruction_2026Spring.pdf",
         "targetGrade": "3",
         "capacity": "24",
-        "memo": "本課程通過社會實踐認證課程，提供24位社會實踐名額。修課學生需前往校外合作單位進行服務，建議備有交通工具及駕照者為佳。"
+        "memo": "本課程通過社會實踐認證課程，提供24位社會實踐名額。修課學生需前往校外合作單位進行服務，建議備有交通工具及駕照者為佳。",
+        "code": "3153913"
     },
     {
         "id": "心理學系",
@@ -326,7 +338,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062776/local_syllabus/attachment/34834/Syllabus_PsyResearch%20II%202026%20Spring.pdf",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "先修科目(3152004)心理學實驗法(及格)"
+        "memo": "先修科目(3152004)心理學實驗法(及格)",
+        "code": "3153921"
     },
     {
         "id": "心理學系",
@@ -353,7 +366,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061091/local_syllabus/attachment/34762/%E5%BF%83%E7%90%86%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E5%9B%9B.pdf",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": "先修科目(3152004)心理學實驗法(及格)"
+        "memo": "先修科目(3152004)心理學實驗法(及格)",
+        "code": "3153926"
     },
     {
         "id": "心理學系",
@@ -385,6 +399,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062688/local_syllabus/attachment/34831/%E5%BE%9E%E3%80%8C%E5%BF%83%E3%80%8D%E9%96%8B%E5%A7%8B_2026.doc",
         "targetGrade": "3",
         "capacity": "24",
-        "memo": "先修科目(3151002)普通心理學（二）(及格)(7401002)心理學緒論(及格)(3151001)普通心理學（一）(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(3151002)普通心理學（二）(及格)(7401002)心理學緒論(及格)(3151001)普通心理學（一）(及格)(只要符合任一先修條件)",
+        "code": "3153973"
     }
 ]

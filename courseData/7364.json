@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901004_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.(上課地點:體育館第一會議室)"
+        "memo": "限本系生修.(上課地點:體育館第一會議室)",
+        "code": "3901004"
     },
     {
         "id": "運動競技學系",
@@ -37,7 +38,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047174/local_syllabus/attachment/34200/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。",
+        "code": "3901018"
     },
     {
         "id": "運動競技學系",
@@ -63,7 +65,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047187/local_syllabus/attachment/34201/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。",
+        "code": "3901019"
     },
     {
         "id": "運動競技學系",
@@ -81,7 +84,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901020_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。",
+        "code": "3901020"
     },
     {
         "id": "運動競技學系",
@@ -99,7 +103,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901022_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。",
+        "code": "3901022"
     },
     {
         "id": "運動競技學系",
@@ -117,7 +122,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901023_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。",
+        "code": "3901023"
     },
     {
         "id": "運動競技學系",
@@ -144,7 +150,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045999/local_syllabus/attachment/34158/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。",
+        "code": "3901024"
     },
     {
         "id": "運動競技學系",
@@ -173,7 +180,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046024/local_syllabus/attachment/34159/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。",
+        "code": "3901026"
     },
     {
         "id": "運動競技學系",
@@ -202,7 +210,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046034/local_syllabus/attachment/34160/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修.限本系排球專長項目學生修習"
+        "memo": "限本系生修.限本系排球專長項目學生修習",
+        "code": "3901028"
     },
     {
         "id": "運動競技學系",
@@ -232,7 +241,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045947/local_syllabus/attachment/34157/114_2_Sports_News_in_English_syllabus_1226.docx",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3901035"
     },
     {
         "id": "運動競技學系",
@@ -263,7 +273,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046071/local_syllabus/attachment/34163/114%E5%AD%B8%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%B8%E6%9C%9F%E9%81%8B%E5%8B%95%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "列入運動心理科學學士學分學程科目"
+        "memo": "列入運動心理科學學士學分學程科目",
+        "code": "3901101"
     },
     {
         "id": "運動競技學系",
@@ -281,7 +292,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901106_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "列入運動心理科學學士學分學程科目"
+        "memo": "列入運動心理科學學士學分學程科目",
+        "code": "3901106"
     },
     {
         "id": "運動競技學系",
@@ -308,7 +320,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046460/local_syllabus/attachment/34181/%E9%81%8B%E5%8B%95%E5%82%B7%E5%AE%B3%E8%88%87%E6%80%A5%E6%95%912026%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3902002"
     },
     {
         "id": "運動競技學系",
@@ -334,7 +347,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902010_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3902010"
     },
     {
         "id": "運動競技學系",
@@ -358,7 +372,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046361/local_syllabus/attachment/34177/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。",
+        "code": "3902019"
     },
     {
         "id": "運動競技學系",
@@ -385,7 +400,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046341/local_syllabus/attachment/34176/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。",
+        "code": "3902020"
     },
     {
         "id": "運動競技學系",
@@ -403,7 +419,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902021_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。",
+        "code": "3902021"
     },
     {
         "id": "運動競技學系",
@@ -421,7 +438,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902023_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。",
+        "code": "3902023"
     },
     {
         "id": "運動競技學系",
@@ -439,7 +457,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902024_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。",
+        "code": "3902024"
     },
     {
         "id": "運動競技學系",
@@ -466,7 +485,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046296/local_syllabus/attachment/34172/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。",
+        "code": "3902025"
     },
     {
         "id": "運動競技學系",
@@ -492,7 +512,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046308/local_syllabus/attachment/34173/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。",
+        "code": "3902026"
     },
     {
         "id": "運動競技學系",
@@ -518,7 +539,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046628/local_syllabus/attachment/34182/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。",
+        "code": "3902031"
     },
     {
         "id": "運動競技學系",
@@ -551,7 +573,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046205/local_syllabus/attachment/34169/_114_2-%E4%B8%8B%E5%AD%B8%E6%9C%9F_%E6%87%89%E7%94%A8%E6%95%99%E7%B7%B4%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_Syllabus_.docx",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3902101"
     },
     {
         "id": "運動競技學系",
@@ -569,7 +592,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902102_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3902102"
     },
     {
         "id": "運動競技學系",
@@ -597,7 +621,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046434/local_syllabus/attachment/34180/%E6%87%89%E7%94%A8%E9%81%8B%E5%8B%95%E7%94%9F%E7%90%86%E5%AD%B8.doc",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修.列入運動心理科學學士學分學程科目"
+        "memo": "限本系生修.列入運動心理科學學士學分學程科目",
+        "code": "3902104"
     },
     {
         "id": "運動競技學系",
@@ -615,7 +640,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902106_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "列入運動心理科學學士學分學程科目"
+        "memo": "列入運動心理科學學士學分學程科目",
+        "code": "3902106"
     },
     {
         "id": "運動競技學系",
@@ -633,7 +659,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902113_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3902113"
     },
     {
         "id": "運動競技學系",
@@ -662,7 +689,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046383/local_syllabus/attachment/34179/114_2_Practicum%20in%20Sports%20English%20Communication%20Syllabus%200108.docx",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3902525"
     },
     {
         "id": "運動競技學系",
@@ -694,7 +722,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046253/local_syllabus/attachment/34170/114-2%20%20Sports%20in%20English_Syllabus%28%E9%AB%94%E8%82%B2%E8%8B%B1%E6%96%87%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%2020261.12.docx",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3903005"
     },
     {
         "id": "運動競技學系",
@@ -723,7 +752,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047522/local_syllabus/attachment/34224/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": "限本系生修.限本系排球專長項目學生修習。"
+        "memo": "限本系生修.限本系排球專長項目學生修習。",
+        "code": "3903012"
     },
     {
         "id": "運動競技學系",
@@ -747,7 +777,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047469/local_syllabus/attachment/34220/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。",
+        "code": "3903017"
     },
     {
         "id": "運動競技學系",
@@ -774,7 +805,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047480/local_syllabus/attachment/34221/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": "限本系生修.限本系網球專長項目學生修習。"
+        "memo": "限本系生修.限本系網球專長項目學生修習。",
+        "code": "3903018"
     },
     {
         "id": "運動競技學系",
@@ -792,7 +824,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903019_01",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。",
+        "code": "3903019"
     },
     {
         "id": "運動競技學系",
@@ -810,7 +843,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903021_01",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。",
+        "code": "3903021"
     },
     {
         "id": "運動競技學系",
@@ -828,7 +862,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903022_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。",
+        "code": "3903022"
     },
     {
         "id": "運動競技學系",
@@ -855,7 +890,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047446/local_syllabus/attachment/34218/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。",
+        "code": "3903023"
     },
     {
         "id": "運動競技學系",
@@ -884,7 +920,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047512/local_syllabus/attachment/34223/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。",
+        "code": "3903025"
     },
     {
         "id": "運動競技學系",
@@ -902,7 +939,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903101_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3903101"
     },
     {
         "id": "運動競技學系",
@@ -920,7 +958,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903104_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目"
+        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目",
+        "code": "3903104"
     },
     {
         "id": "運動競技學系",
@@ -947,7 +986,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047776/local_syllabus/attachment/34231/%E5%A4%A7%E4%B8%89%E7%B6%B2%E7%90%83%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3903114"
     },
     {
         "id": "運動競技學系",
@@ -975,7 +1015,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047567/local_syllabus/attachment/34227/2026golf00d.pdf",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3903116"
     },
     {
         "id": "運動競技學系",
@@ -993,7 +1034,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903119_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3903119"
     },
     {
         "id": "運動競技學系",
@@ -1020,7 +1062,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047662/local_syllabus/attachment/34229/114-2%E6%B8%B8%E6%B3%B3%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "25",
-        "memo": "先修科目(3901121)游泳（一）(及格)限本系生修.限本系生修.本課程開課對象為「已修過游泳一或已具備游泳蛙捷二式50公尺持續不間斷能力之學生」為宜，實際上課地點以Ecourse公告為主."
+        "memo": "先修科目(3901121)游泳（一）(及格)限本系生修.限本系生修.本課程開課對象為「已修過游泳一或已具備游泳蛙捷二式50公尺持續不間斷能力之學生」為宜，實際上課地點以Ecourse公告為主.",
+        "code": "3903122"
     },
     {
         "id": "運動競技學系",
@@ -1038,7 +1081,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903125_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3903125"
     },
     {
         "id": "運動競技學系",
@@ -1072,7 +1116,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047675/local_syllabus/attachment/34230/260112%E9%81%8B%E5%8B%95%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "3",
         "capacity": "47",
-        "memo": "限本系生修.限本系生修. 列入運動心理科學學士學分學程科目"
+        "memo": "限本系生修.限本系生修. 列入運動心理科學學士學分學程科目",
+        "code": "3904008"
     },
     {
         "id": "運動競技學系",
@@ -1101,7 +1146,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047959/local_syllabus/attachment/34243/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。",
+        "code": "3904013"
     },
     {
         "id": "運動競技學系",
@@ -1125,7 +1171,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047876/local_syllabus/attachment/34236/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "限本系生修.限本系游泳專長項目學生修習。"
+        "memo": "限本系生修.限本系游泳專長項目學生修習。",
+        "code": "3904018"
     },
     {
         "id": "運動競技學系",
@@ -1152,7 +1199,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047885/local_syllabus/attachment/34237/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。",
+        "code": "3904019"
     },
     {
         "id": "運動競技學系",
@@ -1170,7 +1218,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904020_01",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。",
+        "code": "3904020"
     },
     {
         "id": "運動競技學系",
@@ -1188,7 +1237,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904022_01",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。",
+        "code": "3904022"
     },
     {
         "id": "運動競技學系",
@@ -1206,7 +1256,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904023_01",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。",
+        "code": "3904023"
     },
     {
         "id": "運動競技學系",
@@ -1231,7 +1282,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047946/local_syllabus/attachment/34242/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。",
+        "code": "3904024"
     },
     {
         "id": "運動競技學系",
@@ -1260,7 +1312,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047915/local_syllabus/attachment/34239/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。",
+        "code": "3904026"
     },
     {
         "id": "運動競技學系",
@@ -1289,7 +1342,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046110/local_syllabus/attachment/34165/114_%E9%81%8B%E6%8A%80_%E5%8B%95%E4%BD%9C%E6%8A%80%E8%83%BD%E5%AD%B8%E7%BF%92Syllabus.doc",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3904101"
     },
     {
         "id": "運動競技學系",
@@ -1316,7 +1370,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047972/local_syllabus/attachment/34244/114-2%E9%AB%98%E9%BD%A1%E9%81%8B%E5%8B%95.docx",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目"
+        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目",
+        "code": "3904115"
     },
     {
         "id": "運動競技學系",
@@ -1334,7 +1389,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904116_01",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3904116"
     },
     {
         "id": "運動競技學系",
@@ -1352,7 +1408,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904117_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3904117"
     },
     {
         "id": "運動競技學系",
@@ -1370,7 +1427,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904121_01",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3904121"
     },
     {
         "id": "運動競技學系",
@@ -1388,6 +1446,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904122_01",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "3904122"
     }
 ]

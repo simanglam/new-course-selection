@@ -25,7 +25,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059201/local_syllabus/attachment/34656/114.2--critical%20theory%20and%20practice%20syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1155008"
     },
     {
         "id": "外國語文研究所",
@@ -43,7 +44,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1155279_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1155279"
     },
     {
         "id": "外國語文研究所",
@@ -73,7 +75,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060419/local_syllabus/attachment/34721/2026%20Contemporary%20English%20fiction%20%28Spring%20Semester%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1155280"
     },
     {
         "id": "外國語文研究所",
@@ -100,6 +103,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1155281_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1155281"
     }
 ]
