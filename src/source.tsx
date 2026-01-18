@@ -595,7 +595,7 @@ const Sidebar = ({
 
             {/* Footer */}
             <div className="p-6 border-t border-[#DCD8D2] text-[10px] text-[#B0B0B0] text-center tracking-wider uppercase">
-                © 2026 University System
+                © 2026 看不下新選課系統的中正人
             </div>
         </aside>
     )
@@ -651,7 +651,8 @@ const App = () => {
         return courses.filter(
             (c) =>
                 c.name.toLowerCase().includes(lowerQuery) ||
-                c.professor.toLowerCase().includes(lowerQuery)
+                c.professor.toLowerCase().includes(lowerQuery) ||
+                c.code.toString().includes(lowerQuery)
         )
     }, [courses, searchQuery])
 
@@ -668,6 +669,9 @@ const App = () => {
                     <Sidebar
                         selectedDept={selectedDept}
                         onSelect={(dept, num) => {
+                            if (currentView !== "lookup") {
+                                setCurrentView("lookup")
+                            }
                             setSelectedDept(dept)
                             setSelectedDeptNum(num)
                             setIsMobileMenuOpen(false)
@@ -683,8 +687,11 @@ const App = () => {
                 <Sidebar
                     selectedDept={selectedDept}
                     onSelect={(dept, num) => {
-                            setSelectedDept(dept)
-                            setSelectedDeptNum(num)
+                        if (currentView !== "lookup") {
+                            setCurrentView("lookup")
+                        }
+                        setSelectedDept(dept)
+                        setSelectedDeptNum(num)
                     }}
                     currentView={currentView}
                 />

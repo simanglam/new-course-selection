@@ -474,8 +474,7 @@ const Timetable = ({
         const activeCourses = myCourses.filter(
             (c) =>
                 courseStatuses[`${c.name}-${c.professor}`] === "selected" ||
-                courseStatuses[`${c.name}-${c.professor}`] === "considering" ||
-                courseStatuses[`${c.name}-${c.professor}`] === "conflict"
+                courseStatuses[`${c.name}-${c.professor}`] === "considering"
         )
 
         for (let i = 0; i < activeCourses.length; i++) {
