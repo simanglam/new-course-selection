@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080503/local_syllabus/attachment/35568/%E5%82%B5%E7%B8%BD%E6%A6%82%E8%BF%B0%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A006"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -46,7 +47,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077537/local_syllabus/attachment/35488/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%8F%B0%E5%8C%97%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E5%88%91%E5%88%86%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A013"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -70,7 +72,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077836/local_syllabus/attachment/35501/%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E5%8B%95%E6%B3%95-%E9%84%AD%E6%B4%A5%E6%B4%A5%20%E5%91%A8%E5%85%86%E6%98%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A019"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -94,7 +97,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_635A023_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A023"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -118,7 +122,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077229/local_syllabus/attachment/35463/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%EF%BC%88%E4%B8%80%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "請務必完成論文指導教授申請，方可選修。"
+        "memo": "請務必完成論文指導教授申請，方可選修。",
+        "code": "635A100"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -142,7 +147,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077220/local_syllabus/attachment/35462/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)或同時修習畢業論文(一)。"
+        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)或同時修習畢業論文(一)。",
+        "code": "635A101"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -166,7 +172,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077210/local_syllabus/attachment/35461/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%28%E4%B8%89%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)與畢業論文(二)或同時修習畢業論文(一)與畢業論文(二)。"
+        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)與畢業論文(二)或同時修習畢業論文(一)與畢業論文(二)。",
+        "code": "635A102"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -184,7 +191,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080637/local_syllabus/attachment/35576/%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E6%86%B2%E6%B3%95%E5%B0%88%E9%A1%8C%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "建議曾修習過憲法基礎課程者選修，未修習過上述課程者請自行斟酌修讀。"
+        "memo": "建議曾修習過憲法基礎課程者選修，未修習過上述課程者請自行斟酌修讀。",
+        "code": "635A220"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -202,7 +210,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_635A221_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A221"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -220,7 +229,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142352/local_syllabus/attachment/35654/%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%88%87%E6%89%93%E6%93%8A%E8%B3%87%E6%81%90%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A1%A8%E6%A0%BC%20%28002%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A222"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -238,7 +248,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082074/local_syllabus/attachment/35616/%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E6%AC%8A%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%29%28%E8%98%87%E5%80%9A%E5%BE%B7%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A310"
     },
     {
         "id": "(專)法學院高階主管法律碩士在職專班",
@@ -265,6 +276,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079209/local_syllabus/attachment/35528/ESG%E8%88%87%E6%B3%95%E5%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B62%28%E7%A2%A9%E5%B0%88%E7%8F%AD%E6%96%B0%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "635A911"
     }
 ]

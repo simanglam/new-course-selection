@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027336/local_syllabus/attachment/33713/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E6%95%99%E8%82%B2%E8%BB%8D%E4%BA%8B%E8%A8%93%E7%B7%B4-%E5%9C%8B%E9%98%B2%E6%94%BF%E7%AD%9636H%E6%8E%88%E8%AA%B2%E8%A8%88%E7%95%AB%E8%A1%A8114-2.doc",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "9031075"
     },
     {
         "id": "軍訓",
@@ -51,6 +52,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027455/local_syllabus/attachment/33720/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E6%95%99%E8%82%B2%E8%BB%8D%E4%BA%8B%E8%A8%93%E7%B7%B4-%E5%9C%8B%E9%98%B2%E6%94%BF%E7%AD%9636H%E6%8E%88%E8%AA%B2%E8%A8%88%E7%95%AB%E8%A1%A8114-2.doc",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "9031075"
     }
 ]

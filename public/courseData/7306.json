@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023985/local_syllabus/attachment/33606/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1--%E7%BE%8E%E5%9C%8B%E8%AA%B2%E7%A8%8B%E5%8F%B2%E7%A0%94%E7%A9%B6%28%E7%A2%A9%E7%8F%AD%29.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "不開放預修"
+        "memo": "不開放預修",
+        "code": "3545001"
     },
     {
         "id": "師資培育中心",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028104/local_syllabus/attachment/33752/syllabus_2026.doc",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3545005"
     },
     {
         "id": "師資培育中心",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023995/local_syllabus/attachment/33607/114%20%282%29%20Syllabus%20%28%E6%95%99%E8%82%B2%E6%B3%95%E8%A6%8F%29.doc",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3545155"
     },
     {
         "id": "師資培育中心",
@@ -82,7 +85,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028076/local_syllabus/attachment/33750/11402%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28AR%29.docx",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3545565"
     },
     {
         "id": "師資培育中心",
@@ -113,7 +117,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024024/local_syllabus/attachment/33609/114-2%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28SBCD%29.docx",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3546165"
     },
     {
         "id": "師資培育中心",
@@ -142,7 +147,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023702/local_syllabus/attachment/33591/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3546246"
     },
     {
         "id": "師資培育中心",
@@ -160,7 +166,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3546331_01",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3546331"
     },
     {
         "id": "師資培育中心",
@@ -178,7 +185,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023784/local_syllabus/attachment/33593/113-2%20%E6%95%99%E8%82%B2%E8%AD%B0%E9%A1%8C%E5%A4%A7%E7%B6%B1%20%281%29%20%281%29%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3546340"
     },
     {
         "id": "師資培育中心",
@@ -207,7 +215,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027975/local_syllabus/attachment/33741/%E5%AD%B8%E7%BF%92%E8%BC%94%E5%B0%8E.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。"
+        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。",
+        "code": "3546357"
     },
     {
         "id": "師資培育中心",
@@ -233,7 +242,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023814/local_syllabus/attachment/33594/114-2%20%E8%81%B7%E6%A5%AD%E6%95%99%E8%82%B2%E7%94%9F%E6%B6%AF%E8%A6%8F%E5%8A%83.doc",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "3546359"
     },
     {
         "id": "師資培育中心",
@@ -251,7 +261,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023828/local_syllabus/attachment/33595/114-2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3546370)社會領域－歷史專長教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。"
+        "memo": "先修科目(3546370)社會領域－歷史專長教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。",
+        "code": "3546373"
     },
     {
         "id": "師資培育中心",
@@ -280,7 +291,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023844/local_syllabus/attachment/33596/%E5%88%86%E7%A7%91%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "先修科目(3546372)綜合活動領域—輔導專長／輔導教師教材教法(及格)"
+        "memo": "先修科目(3546372)綜合活動領域—輔導專長／輔導教師教材教法(及格)",
+        "code": "3546375"
     },
     {
         "id": "師資培育中心",
@@ -306,7 +318,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023855/local_syllabus/attachment/33597/114_2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.pdf",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3546383)社會領域—公民與社會專長教材教法(及格)"
+        "memo": "先修科目(3546383)社會領域—公民與社會專長教材教法(及格)",
+        "code": "3546377"
     },
     {
         "id": "師資培育中心",
@@ -324,7 +337,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028161/local_syllabus/attachment/33757/114-2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3545105)商業類科教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。"
+        "memo": "先修科目(3545105)商業類科教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。",
+        "code": "3546379"
     },
     {
         "id": "師資培育中心",
@@ -342,7 +356,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3546387_01",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。"
+        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。",
+        "code": "3546387"
     },
     {
         "id": "師資培育中心",
@@ -370,7 +385,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023878/local_syllabus/attachment/33598/%E5%88%86%E7%A7%91%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "先修科目(3546381)語文領域—國語文專長教材教法(及格)"
+        "memo": "先修科目(3546381)語文領域—國語文專長教材教法(及格)",
+        "code": "3546388"
     },
     {
         "id": "師資培育中心",
@@ -388,7 +404,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023892/local_syllabus/attachment/33599/114-2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3546371)語文領域—英語文專長教材教法(及格)"
+        "memo": "先修科目(3546371)語文領域—英語文專長教材教法(及格)",
+        "code": "3546389"
     },
     {
         "id": "師資培育中心",
@@ -414,7 +431,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023917/local_syllabus/attachment/33601/114_2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "先修科目(3546368)數學領域—數學專長教材教法(及格)"
+        "memo": "先修科目(3546368)數學領域—數學專長教材教法(及格)",
+        "code": "3546390"
     },
     {
         "id": "師資培育中心",
@@ -432,7 +450,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023928/local_syllabus/attachment/33602/114-2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3546369)自然科學領域—化學專長教材教法(及格)"
+        "memo": "先修科目(3546369)自然科學領域—化學專長教材教法(及格)",
+        "code": "3546391"
     },
     {
         "id": "師資培育中心",
@@ -456,7 +475,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041104/local_syllabus/attachment/34051/114_2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "先修科目(3546382)健康與體育領域—體育專長教材教法(及格)"
+        "memo": "先修科目(3546382)健康與體育領域—體育專長教材教法(及格)",
+        "code": "3546393"
     },
     {
         "id": "師資培育中心",
@@ -486,7 +506,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027801/local_syllabus/attachment/33734/syllabus-%E5%8D%B1%E6%A9%9F%E8%99%95%E7%90%86%28114%29.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。"
+        "memo": "本門為輔導領域之必修課程，僅限培育「輔導教師」或「輔導專長」之師資生修習，非培育輔導之師資生不得修習後用以採認其他培育學科課程學分。",
+        "code": "3546395"
     },
     {
         "id": "師資培育中心",
@@ -504,7 +525,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3546415_01",
         "targetGrade": "1",
         "capacity": "0",
-        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。"
+        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。",
+        "code": "3546415"
     },
     {
         "id": "師資培育中心",
@@ -522,7 +544,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023952/local_syllabus/attachment/33604/113-2%20%E6%95%99%E8%82%B2%E8%AD%B0%E9%A1%8C%E5%A4%A7%E7%B6%B1%20%281%29%20%281%29%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "0",
-        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。"
+        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。",
+        "code": "3546416"
     },
     {
         "id": "師資培育中心",
@@ -545,7 +568,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023976/local_syllabus/attachment/33605/114_2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.pdf",
         "targetGrade": "1",
         "capacity": "2",
-        "memo": "先修科目(3546414)公民與社會專長教材教法(雙語)(及格)"
+        "memo": "先修科目(3546414)公民與社會專長教材教法(雙語)(及格)",
+        "code": "3546417"
     },
     {
         "id": "師資培育中心",
@@ -563,7 +587,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3546419_01",
         "targetGrade": "1",
         "capacity": "3",
-        "memo": "先修科目(3546418)體育專長教材教法(雙語)(及格)"
+        "memo": "先修科目(3546418)體育專長教材教法(雙語)(及格)",
+        "code": "3546419"
     },
     {
         "id": "師資培育中心",
@@ -581,7 +606,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029470/local_syllabus/attachment/33767/114-2%20%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E5%A4%A7%E7%B6%B2%28R1%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(3545045)分科教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。"
+        "memo": "先修科目(3545045)分科教材教法(及格)。先修之教材教法為校際選課者，須繳交「修習申請書」，由本中心協助選課。",
+        "code": "3546420"
     },
     {
         "id": "(專)師資培育中心",
@@ -599,7 +625,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080585/local_syllabus/attachment/35572/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1--%E6%95%99%E8%82%B2%E5%93%B2%E5%AD%B8%20%28%E6%96%B0%E8%AA%B2%E7%B6%B1%29.pdf",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "不開放預修"
+        "memo": "不開放預修",
+        "code": "354A101"
     },
     {
         "id": "(專)師資培育中心",
@@ -617,7 +644,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078829/local_syllabus/attachment/35522/syllabus_2026.doc",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A103"
     },
     {
         "id": "(專)師資培育中心",
@@ -635,7 +663,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079198/local_syllabus/attachment/35527/114%20%282%29%20Syllabus%20%28%E6%95%99%E8%82%B2%E6%B3%95%E8%A6%8F%29.doc",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A207"
     },
     {
         "id": "(專)師資培育中心",
@@ -665,7 +694,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078793/local_syllabus/attachment/35519/114-2%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28SBCD%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A501"
     },
     {
         "id": "(專)師資培育中心",
@@ -696,7 +726,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078784/local_syllabus/attachment/35518/11402%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28AR%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A503"
     },
     {
         "id": "(專)師資培育中心",
@@ -724,7 +755,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077870/local_syllabus/attachment/35504/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A527"
     },
     {
         "id": "(專)師資培育中心",
@@ -742,7 +774,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_354A535_01",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A535"
     },
     {
         "id": "(專)師資培育中心",
@@ -760,7 +793,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078027/local_syllabus/attachment/35509/113-2%20%E6%95%99%E8%82%B2%E8%AD%B0%E9%A1%8C%E5%A4%A7%E7%B6%B1%20%281%29%20%281%29%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A536"
     },
     {
         "id": "(專)師資培育中心",
@@ -778,7 +812,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079170/local_syllabus/attachment/35526/114-2%20%E8%81%B7%E6%A5%AD%E6%95%99%E8%82%B2%E7%94%9F%E6%B6%AF%E8%A6%8F%E5%8A%83.doc",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": ""
+        "memo": "",
+        "code": "354A618"
     },
     {
         "id": "(專)師資培育中心",
@@ -796,7 +831,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_354A648_01",
         "targetGrade": "1",
         "capacity": "0",
-        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。"
+        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。",
+        "code": "354A648"
     },
     {
         "id": "(專)師資培育中心",
@@ -814,7 +850,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078003/local_syllabus/attachment/35508/113-2%20%E6%95%99%E8%82%B2%E8%AD%B0%E9%A1%8C%E5%A4%A7%E7%B6%B1%20%281%29%20%281%29%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "0",
-        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。"
+        "memo": "1.本課程限已申請加註雙語教學次專長之師資生修習。2.須繳交「雙語選課申請書」，由本中心協助選課。",
+        "code": "354A649"
     },
     {
         "id": "(專)師資培育中心",
@@ -843,6 +880,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077895/local_syllabus/attachment/35505/%E5%88%86%E7%A7%91%E6%95%99%E5%AD%B8%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "5",
-        "memo": "先修科目(354A646)語文領域—國語文專長教材教法(及格)"
+        "memo": "先修科目(354A646)語文領域—國語文專長教材教法(及格)",
+        "code": "354A651"
     }
 ]

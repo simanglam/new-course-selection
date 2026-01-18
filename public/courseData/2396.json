@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080939/local_syllabus/attachment/35586/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E5%9C%B0%E9%9C%87%E5%AD%B8%E8%88%87%E5%9C%B0%E9%9C%87%E7%81%BD%E5%AE%B3-%E6%BA%AB%E5%A3%AB%E5%BF%A0.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "239A003"
     },
     {
         "id": "(專)地球與環境科學系災害應變碩士在職專班",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082756/local_syllabus/attachment/35630/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E5%9C%B0%E8%B3%AA%E7%81%BD%E5%AE%B3%E9%87%8E%E5%A4%96%E8%AA%BF%E6%9F%A5-%E8%AC%9D%E5%AD%9F%E9%BE%8D.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "239A004"
     },
     {
         "id": "(專)地球與環境科學系災害應變碩士在職專班",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_239A011_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "239A011"
     },
     {
         "id": "(專)地球與環境科學系災害應變碩士在職專班",
@@ -69,6 +72,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_239A013_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "239A013"
     }
 ]

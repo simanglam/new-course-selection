@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405005_01",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2405005"
     },
     {
         "id": "數學研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405008_01",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2405008"
     },
     {
         "id": "數學研究所",
@@ -57,7 +59,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058793/local_syllabus/attachment/34643/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-complex%20analysis.doc",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "2405101"
     },
     {
         "id": "數學研究所",
@@ -75,7 +78,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405402_01",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2405402"
     },
     {
         "id": "數學研究所",
@@ -93,6 +97,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2408806_01",
         "targetGrade": "1",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2408806"
     }
 ]

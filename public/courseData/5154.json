@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049051/local_syllabus/attachment/34286/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F%E6%B0%91%E6%B3%95%E6%A6%82%E8%A6%81%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B101.doc",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5151008"
     },
     {
         "id": "財務金融學系",
@@ -49,7 +50,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049076/local_syllabus/attachment/34287/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F%E6%B0%91%E6%B3%95%E6%A6%82%E8%A6%81%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B102.doc",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5151008"
     },
     {
         "id": "財務金融學系",
@@ -77,7 +79,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049011/local_syllabus/attachment/34285/202502-syllabus-PDF.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(5151032)初級會計學（一）(曾經修習)(5251100)初級會計學（一）(曾經修習)(5251104)初級會計學（一）(曾經修習)(只要符合任一先修條件)限本系生修."
+        "memo": "先修科目(5151032)初級會計學（一）(曾經修習)(5251100)初級會計學（一）(曾經修習)(5251104)初級會計學（一）(曾經修習)(只要符合任一先修條件)限本系生修.",
+        "code": "5151033"
     },
     {
         "id": "財務金融學系",
@@ -103,7 +106,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048829/local_syllabus/attachment/34277/syllabus.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修.",
+        "code": "5152011"
     },
     {
         "id": "財務金融學系",
@@ -121,7 +125,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5152021_02",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修."
+        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修.",
+        "code": "5152021"
     },
     {
         "id": "財務金融學系",
@@ -149,7 +154,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048793/local_syllabus/attachment/34276/%E7%B5%B1%E8%A8%88%E5%AD%B8II_Thu.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修."
+        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修.",
+        "code": "5152021"
     },
     {
         "id": "財務金融學系",
@@ -176,7 +182,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048960/local_syllabus/attachment/34284/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%28%E4%BA%8C%29AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": "先修科目(5152100)財務管理（一）(曾經修習)支援經濟學系二年級A班B班;限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)支援經濟學系二年級A班B班;限本系生修.",
+        "code": "5152101"
     },
     {
         "id": "財務金融學系",
@@ -202,7 +209,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048594/local_syllabus/attachment/34271/5152101-1142_syllabus-v1.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修.",
+        "code": "5152101"
     },
     {
         "id": "財務金融學系",
@@ -228,7 +236,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048644/local_syllabus/attachment/34272/Syllabus_FM_114_2.docx",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修.",
+        "code": "5152101"
     },
     {
         "id": "財務金融學系",
@@ -246,7 +255,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5152102_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "支援會計與資訊科技學系會計與資訊科技研究所二年級三年級四年級A班B班;限本系生修."
+        "memo": "支援會計與資訊科技學系會計與資訊科技研究所二年級三年級四年級A班B班;限本系生修.",
+        "code": "5152102"
     },
     {
         "id": "財務金融學系",
@@ -272,7 +282,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048679/local_syllabus/attachment/34273/Investment%20Syllabus_114.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(及格)(5152020)統計學（一）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152020)統計學（一）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5152200"
     },
     {
         "id": "財務金融學系",
@@ -299,7 +310,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048702/local_syllabus/attachment/34274/investments_syllabus_2026_spring.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5152020)統計學（一）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152020)統計學（一）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5152200"
     },
     {
         "id": "財務金融學系",
@@ -326,7 +338,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048427/local_syllabus/attachment/34266/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%282026%29.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5152101)財務管理（二）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152101)財務管理（二）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5153110"
     },
     {
         "id": "財務金融學系",
@@ -355,7 +368,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048557/local_syllabus/attachment/34270/202502-Syllabus-PDF.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5152101)財務管理（二）(曾經修習)(5152100)財務管理（一）(曾經修習)(只要符合任一先修條件)限本系生修."
+        "memo": "先修科目(5152101)財務管理（二）(曾經修習)(5152100)財務管理（一）(曾經修習)(只要符合任一先修條件)限本系生修.",
+        "code": "5153174"
     },
     {
         "id": "財務金融學系",
@@ -385,7 +399,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048364/local_syllabus/attachment/34265/Syllabus_MACG_2026v1.pdf",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5153251"
     },
     {
         "id": "財務金融學系",
@@ -403,7 +418,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5153330_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5153330"
     },
     {
         "id": "財務金融學系",
@@ -428,7 +444,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048465/local_syllabus/attachment/34268/AACSB%20under_syllabus_spring26.docx",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5154180"
     },
     {
         "id": "財務金融學系",
@@ -458,7 +475,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048500/local_syllabus/attachment/34269/Syllabus_IFM_2026.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5154180"
     },
     {
         "id": "財務金融學系",
@@ -489,7 +507,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048300/local_syllabus/attachment/34262/FinTech%20Undergraduate%20Spring%202026%20%28AACSB%E5%85%AC%E7%89%88%29.pdf",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5154353"
     },
     {
         "id": "財務金融學系",
@@ -514,7 +533,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048337/local_syllabus/attachment/34263/FEM2026S_SY.pdf",
         "targetGrade": "4",
         "capacity": "35",
-        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(只要符合任一先修條件)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(只要符合任一先修條件)限本系生修.",
+        "code": "5154354"
     },
     {
         "id": "財務金融學系",
@@ -540,6 +560,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048270/local_syllabus/attachment/34261/Syllabus.pdf",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(5152021)統計學（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(5152021)統計學（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修.",
+        "code": "5154661"
     }
 ]

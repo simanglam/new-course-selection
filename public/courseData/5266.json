@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073203/local_syllabus/attachment/35292/index.docx",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5265001"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -44,7 +45,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072450/local_syllabus/attachment/35255/114-2%20%E8%B3%87%E6%96%99%E5%BA%AB%E7%A0%94%E8%A8%8E.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5265002"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -74,7 +76,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072507/local_syllabus/attachment/35256/Information%20Strategy%20and%20Management%20-%20Syllabus%20and%20Course%20Outline_AIT_2026.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5265009"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -103,7 +106,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072517/local_syllabus/attachment/35257/114-2%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%B0%8E%E8%AB%96.pdf",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5265018"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -121,7 +125,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073194/local_syllabus/attachment/35291/Research%20Methods_AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5265036"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -139,7 +144,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072569/local_syllabus/attachment/35258/114%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E6%9C%83%E8%A8%88%E5%8F%8A%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E6%89%80_%E6%B0%B8%E7%BA%8C%E6%9C%83%E8%A8%88%E5%8F%8A%E7%A7%9F%E7%A8%85%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5265084"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -157,7 +163,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5265100_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5265100"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -175,7 +182,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5266011_01",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5266011"
     },
     {
         "id": "會計與資訊科技研究所",
@@ -201,7 +209,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072840/local_syllabus/attachment/35274/1142_%E9%AB%98%E8%B2%A1%E7%90%86%E8%AB%96%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "5268220"
     },
     {
         "id": "(專)會計與資訊科技研究所",
@@ -219,7 +228,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A041_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級共同必修課程"
+        "memo": "一年級共同必修課程",
+        "code": "525A041"
     },
     {
         "id": "(專)會計與資訊科技研究所",
@@ -237,7 +247,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A045_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)專業選修課程，必須有指導教授才可選此門課程。【一年級學生請勿選此門課程】"
+        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)專業選修課程，必須有指導教授才可選此門課程。【一年級學生請勿選此門課程】",
+        "code": "525A045"
     },
     {
         "id": "(專)會計與資訊科技研究所",
@@ -255,7 +266,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A050_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級專業選修課程"
+        "memo": "一年級專業選修課程",
+        "code": "525A050"
     },
     {
         "id": "(專)會計與資訊科技研究所",
@@ -285,7 +297,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080199/local_syllabus/attachment/35557/114-2%20%20Module%202%20_%E8%B3%87%E8%A8%8A%E7%A8%BD%E6%A0%B8%E5%AF%A6%E5%8B%99%E7%AE%A1%E7%90%86.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級共同必修課程"
+        "memo": "一年級共同必修課程",
+        "code": "525A057"
     },
     {
         "id": "(專)會計與資訊科技研究所",
@@ -315,6 +328,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080567/local_syllabus/attachment/35571/114-2%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E5%A4%A7%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8_%E6%A8%A1%E7%B5%84%E4%B8%80.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)共同必修課程"
+        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)共同必修課程",
+        "code": "525A060"
     }
 ]

@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071379/local_syllabus/attachment/35222/Syntax%202026S.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1305556"
     },
     {
         "id": "語言學研究所",
@@ -46,7 +47,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071388/local_syllabus/attachment/35223/PsySyl26s_251218.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1306558"
     },
     {
         "id": "語言學研究所",
@@ -75,7 +77,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070856/local_syllabus/attachment/35213/114-2%E8%87%BA%E7%81%A3%E6%89%8B%E8%AA%9E%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307015"
     },
     {
         "id": "語言學研究所",
@@ -108,7 +111,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071664/local_syllabus/attachment/35236/%E8%8F%AF%E8%AA%9E%E6%95%99%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%202026.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307036"
     },
     {
         "id": "語言學研究所",
@@ -135,7 +139,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070784/local_syllabus/attachment/35206/114-2%E8%8F%AF%E8%AA%9E%E6%95%99%E6%9D%90%E6%95%99%E6%B3%95.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307037"
     },
     {
         "id": "語言學研究所",
@@ -153,7 +158,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070739/local_syllabus/attachment/35201/114-2-syllabus_Chinese%20Lg%20Teaching-psycholinAndSociolin_by%20Yu-Leng%20Lin_1150110.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(1306547)華語語音和華語教學(及格)(1307674)華語教學語法(及格)(1307046)語言習得：應用語言學觀點(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(1306547)華語語音和華語教學(及格)(1307674)華語教學語法(及格)(1307046)語言習得：應用語言學觀點(及格)(只要符合任一先修條件)",
+        "code": "1307047"
     },
     {
         "id": "語言學研究所",
@@ -180,7 +186,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071646/local_syllabus/attachment/35234/CompPerf26s_251219.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307561"
     },
     {
         "id": "語言學研究所",
@@ -209,7 +216,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070802/local_syllabus/attachment/35208/114-2%20%E8%87%BA%E7%81%A3%E6%89%8B%E8%AA%9E%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E5%91%BD%E9%A1%8C%E8%A8%AD%E8%A8%88%28%E5%BC%B5%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307579"
     },
     {
         "id": "語言學研究所",
@@ -227,7 +235,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071628/local_syllabus/attachment/35232/Syllabus%202026S.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "1307661"
     },
     {
         "id": "語言學研究所",
@@ -258,6 +267,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070820/local_syllabus/attachment/35210/114-2-syllabus_Experimental%20design_by%20Yu-Leng%20Lin_1150110.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(1305002)音韻學(及格)(1305003)語法學(及格)(1307046)語言習得：應用語言學觀點(及格)(1307044)語言習得(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(1305002)音韻學(及格)(1305003)語法學(及格)(1307046)語言習得：應用語言學觀點(及格)(1307044)語言習得(及格)(只要符合任一先修條件)",
+        "code": "1309105"
     }
 ]

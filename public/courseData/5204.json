@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5201002_01",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(5201001)企業概論(及格)"
+        "memo": "先修科目(5201001)企業概論(及格)",
+        "code": "5201002"
     },
     {
         "id": "企業管理學系",
@@ -47,7 +48,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069247/local_syllabus/attachment/35121/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(5201001)企業概論(及格)"
+        "memo": "先修科目(5201001)企業概論(及格)",
+        "code": "5201002"
     },
     {
         "id": "企業管理學系",
@@ -75,7 +77,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069305/local_syllabus/attachment/35122/Syllabus.LA-1a.2026S.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5201007"
     },
     {
         "id": "企業管理學系",
@@ -103,7 +106,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069405/local_syllabus/attachment/35123/Syllabus.LA-1b.2026S.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "5201007"
     },
     {
         "id": "企業管理學系",
@@ -130,7 +134,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069505/local_syllabus/attachment/35124/Financial%20Accounting_2026_spring_Wang.doc",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5201011"
     },
     {
         "id": "企業管理學系",
@@ -158,7 +163,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069185/local_syllabus/attachment/35119/113%E5%AD%B8%E5%B9%B42%E5%AD%B8%E6%9C%9F%20%E7%AE%A1%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E6%A0%A1%E6%A0%BC%E5%BC%8F%29.docx",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": ""
+        "memo": "",
+        "code": "5201018"
     },
     {
         "id": "企業管理學系",
@@ -176,7 +182,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202004_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5202004"
     },
     {
         "id": "企業管理學系",
@@ -194,7 +201,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202008_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5202008"
     },
     {
         "id": "企業管理學系",
@@ -212,7 +220,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202012_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5202012"
     },
     {
         "id": "企業管理學系",
@@ -230,7 +239,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202012_02",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5202012"
     },
     {
         "id": "企業管理學系",
@@ -258,7 +268,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069859/local_syllabus/attachment/35135/MIS_Syllabus.pdf",
         "targetGrade": "3",
         "capacity": "90",
-        "memo": "先修科目(5301105)計算機概論(及格)"
+        "memo": "先修科目(5301105)計算機概論(及格)",
+        "code": "5202013"
     },
     {
         "id": "企業管理學系",
@@ -289,7 +300,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069624/local_syllabus/attachment/35126/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": "先修科目(5201002)管理學(及格)限本系生修."
+        "memo": "先修科目(5201002)管理學(及格)限本系生修.",
+        "code": "5202039"
     },
     {
         "id": "企業管理學系",
@@ -307,7 +319,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202039_02",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5201002)管理學(及格)限本系生修."
+        "memo": "先修科目(5201002)管理學(及格)限本系生修.",
+        "code": "5202039"
     },
     {
         "id": "企業管理學系",
@@ -325,7 +338,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5203006_01",
         "targetGrade": "3",
         "capacity": "90",
-        "memo": "先修科目(5201007)線性代數(及格)(5201001)企業概論(及格)(5202001)行銷管理(及格)(5201002)管理學(及格)(5202009)管理科學概論(及格)(5202012)運籌管理(及格)(5202039)組織行為(及格)(5203002)人力資源管理(及格)(5202052)財務管理（一）(及格)(5202003)統計學（一）(及格)(5202004)統計學（二）(及格)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(5201007)線性代數(及格)(5201001)企業概論(及格)(5202001)行銷管理(及格)(5201002)管理學(及格)(5202009)管理科學概論(及格)(5202012)運籌管理(及格)(5202039)組織行為(及格)(5203002)人力資源管理(及格)(5202052)財務管理（一）(及格)(5202003)統計學（一）(及格)(5202004)統計學（二）(及格)(所有先修條件都必須符合)限本系生修.",
+        "code": "5203006"
     },
     {
         "id": "企業管理學系",
@@ -355,7 +369,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069822/local_syllabus/attachment/35134/Syllabus-114-2-%E5%9C%8B%E9%9A%9B%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86.pdf",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": "先修科目(5201002)管理學(及格)(5101001)經濟學原理（一）(及格)(所有先修條件都必須符合)"
+        "memo": "先修科目(5201002)管理學(及格)(5101001)經濟學原理（一）(及格)(所有先修條件都必須符合)",
+        "code": "5203034"
     },
     {
         "id": "企業管理學系",
@@ -373,7 +388,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5203073_01",
         "targetGrade": "3",
         "capacity": "32",
-        "memo": "先修科目(5202001)行銷管理(及格)"
+        "memo": "先修科目(5202001)行銷管理(及格)",
+        "code": "5203073"
     },
     {
         "id": "企業管理學系",
@@ -400,7 +416,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069776/local_syllabus/attachment/35131/115SsylBE-%E8%B3%87%E7%AE%A1.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "支援資訊管理學系三年級A班;"
+        "memo": "支援資訊管理學系三年級A班;",
+        "code": "5203084"
     },
     {
         "id": "企業管理學系",
@@ -433,7 +450,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069793/local_syllabus/attachment/35132/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "32",
-        "memo": "限本系生修.外文系不得修習"
+        "memo": "限本系生修.外文系不得修習",
+        "code": "5203090"
     },
     {
         "id": "企業管理學系",
@@ -464,7 +482,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069948/local_syllabus/attachment/35139/Under%20Consumer%20insight%20AACSB%20syllabus_20240911.pdf",
         "targetGrade": "4",
         "capacity": "30",
-        "memo": "先修科目(5202001)行銷管理(及格)"
+        "memo": "先修科目(5202001)行銷管理(及格)",
+        "code": "5204092"
     },
     {
         "id": "企業管理學系",
@@ -482,7 +501,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5204100_01",
         "targetGrade": "4",
         "capacity": "30",
-        "memo": "先修科目(5202039)組織行為(及格)"
+        "memo": "先修科目(5202039)組織行為(及格)",
+        "code": "5204100"
     },
     {
         "id": "企業管理學系",
@@ -508,7 +528,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069905/local_syllabus/attachment/35137/5204103-AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29-1142-v1.pdf",
         "targetGrade": "4",
         "capacity": "32",
-        "memo": "先修科目(5201001)企業概論(及格)限本系生修.限本系生修習。外系生請選〔開課單位：管理學院學士班〕501400401企業實習(二)。"
+        "memo": "先修科目(5201001)企業概論(及格)限本系生修.限本系生修習。外系生請選〔開課單位：管理學院學士班〕501400401企業實習(二)。",
+        "code": "5204103"
     },
     {
         "id": "企業管理學系",
@@ -534,7 +555,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070620/local_syllabus/attachment/35188/%E4%BC%81%E6%A5%AD%E7%A2%B3%E7%AE%A1%E7%90%86%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "4",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5204105"
     },
     {
         "id": "企業管理學系",
@@ -552,6 +574,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5204107_01",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5204107"
     }
 ]

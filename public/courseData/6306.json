@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6305002_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "財稅法組必修課程"
+        "memo": "財稅法組必修課程",
+        "code": "6305002"
     },
     {
         "id": "財經法律學研究所",
@@ -41,7 +42,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026487/local_syllabus/attachment/33682/index.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "先修科目(6305006)法學英文(一)-侵權行為法(曾經修習)"
+        "memo": "先修科目(6305006)法學英文(一)-侵權行為法(曾經修習)",
+        "code": "6305003"
     },
     {
         "id": "財經法律學研究所",
@@ -59,7 +61,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6305037_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6305037"
     },
     {
         "id": "財經法律學研究所",
@@ -77,7 +80,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6305038_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6305038"
     },
     {
         "id": "財經法律學研究所",
@@ -95,7 +99,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6305040_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6305040"
     },
     {
         "id": "財經法律學研究所",
@@ -113,7 +118,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6305084_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6305084"
     },
     {
         "id": "財經法律學研究所",
@@ -143,7 +149,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056337/local_syllabus/attachment/34559/114-2_Jasper%20Chan_Proposed%20Syllabus%20-%20Contract%20Law.%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29docx.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6305089"
     },
     {
         "id": "財經法律學研究所",
@@ -161,7 +168,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6306018_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "支援財經法律學系三年級四年級A班B班;限本系生修.限本系學士班、碩士班學生選修;於加退選期間開放外系學生選修;嘉義執行分署實習課程，限10人選修。請密切注意系辦通知之第一次上課時間(預計第一次在嘉義執行分署實體上課時間為週四8:00~17:00，其餘為另約實習時間)"
+        "memo": "支援財經法律學系三年級四年級A班B班;限本系生修.限本系學士班、碩士班學生選修;於加退選期間開放外系學生選修;嘉義執行分署實習課程，限10人選修。請密切注意系辦通知之第一次上課時間(預計第一次在嘉義執行分署實體上課時間為週四8:00~17:00，其餘為另約實習時間)",
+        "code": "6306018"
     },
     {
         "id": "財經法律學研究所",
@@ -187,7 +195,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026520/local_syllabus/attachment/33683/%E8%91%89%E9%8C%A6%E9%B4%BB_%E5%9C%8B%E9%9A%9B%E8%B2%BF%E6%98%93%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6.doc",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6306106"
     },
     {
         "id": "財經法律學研究所",
@@ -205,7 +214,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026553/local_syllabus/attachment/33684/114-2_%E8%B6%99%E5%A3%AB%E7%91%8B_%E6%99%BA%E8%B2%A1%E7%B8%BD%E8%AB%96%E5%B0%88%E9%A1%8C%E4%BA%8C%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29-20260104.docx",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "財經法組必修課程"
+        "memo": "財經法組必修課程",
+        "code": "6306213"
     },
     {
         "id": "財經法律學研究所",
@@ -223,7 +233,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,%20%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%B3%95%E8%AB%96%E8%91%97%20%E7%AC%AC%E4%B8%89%E7%89%88%20&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "財經法組必修課程"
+        "memo": "財經法組必修課程",
+        "code": "6306402"
     },
     {
         "id": "財經法律學研究所",
@@ -241,7 +252,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "實際上課為每個月第三週或第四週集中上課：週三13:10-16:00、接續週四13:10-18:00"
+        "memo": "實際上課為每個月第三週或第四週集中上課：週三13:10-16:00、接續週四13:10-18:00",
+        "code": "6306503"
     },
     {
         "id": "財經法律學研究所",
@@ -266,7 +278,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056236/local_syllabus/attachment/34553/%E7%A8%85%E6%8D%90%E7%A8%BD%E5%BE%B5%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20114-2.pdf",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6306510"
     },
     {
         "id": "財經法律學研究所",
@@ -292,7 +305,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026579/local_syllabus/attachment/33686/Syllabus%20-%20IEL%20-%20Spring%202026.pdf",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "財經法組必修課程"
+        "memo": "財經法組必修課程",
+        "code": "6306514"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -317,7 +331,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079250/local_syllabus/attachment/35531/%E6%B0%91%E6%B3%95%E4%BA%8C%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專一年級基礎必修課程。"
+        "memo": "限本系生修.財法碩專一年級基礎必修課程。",
+        "code": "630A002"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -335,7 +350,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079097/local_syllabus/attachment/35524/1142%20%E5%95%86%E4%BA%8B%E6%B3%95%28%E4%BA%8C%29%28%E4%BF%9D%E9%9A%AA%E6%B3%95%29%28%E4%B8%AD%E6%AD%A3%E8%B2%A1%E6%B3%95%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專二年級基礎必修課程，請專班一年級學生不要選擇此課程。"
+        "memo": "限本系生修.財法碩專二年級基礎必修課程，請專班一年級學生不要選擇此課程。",
+        "code": "630A004"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -353,7 +369,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_630A006_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專一年級基礎必修課程。"
+        "memo": "限本系生修.財法碩專一年級基礎必修課程。",
+        "code": "630A006"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -378,7 +395,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_630A010_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專一年級基礎必修課程。"
+        "memo": "限本系生修.財法碩專一年級基礎必修課程。",
+        "code": "630A010"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -396,7 +414,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%B3%95%E8%AB%96%E8%91%97%20%E7%AC%AC%E4%B8%89%E7%89%88%20&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專專業選修課程。"
+        "memo": "限本系生修.財法碩專專業選修課程。",
+        "code": "630A122"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -421,7 +440,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080167/local_syllabus/attachment/35555/Syllabus%20-%20PRIL%20-%20S%20-%20Spring%202026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專專業選修課程。"
+        "memo": "限本系生修.財法碩專專業選修課程。",
+        "code": "630A123"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -439,7 +459,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_630A149_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專專業選修課程。"
+        "memo": "限本系生修.財法碩專專業選修課程。",
+        "code": "630A149"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -457,7 +478,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_630A150_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(630A010)刑法分則(60分以上)(630A001)民法（一）(60分以上)(630A003)商事法（一）(60分以上)(630A008)刑事訴訟法(60分以上)(630A009)民事訴訟法(60分以上)(630A005)憲法(60分以上)(630A007)刑法總則(60分以上)(630A002)民法 （二）(60分以上)(630A006)行政法(60分以上)(只要符合任一先修條件)"
+        "memo": "先修科目(630A010)刑法分則(60分以上)(630A001)民法（一）(60分以上)(630A003)商事法（一）(60分以上)(630A008)刑事訴訟法(60分以上)(630A009)民事訴訟法(60分以上)(630A005)憲法(60分以上)(630A007)刑法總則(60分以上)(630A002)民法 （二）(60分以上)(630A006)行政法(60分以上)(只要符合任一先修條件)",
+        "code": "630A150"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -475,7 +497,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_630A153_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專專業選修課程。"
+        "memo": "限本系生修.財法碩專專業選修課程。",
+        "code": "630A153"
     },
     {
         "id": "(專)財經法律學研究所",
@@ -493,6 +516,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081439/local_syllabus/attachment/35603/114-2_%E8%B6%99%E5%A3%AB%E7%91%8B_%E7%A7%91%E6%8A%80%E6%B3%95%E5%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E7%A2%A9%E5%B0%88%E7%8F%AD%29-20260104.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.財法碩專專業選修課程。"
+        "memo": "限本系生修.財法碩專專業選修課程。",
+        "code": "630A164"
     }
 ]

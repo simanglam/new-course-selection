@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062142/local_syllabus/attachment/34807/%E4%B8%AD%E6%AD%A3%E5%8B%9E%E5%B7%A5%20114-2%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%9A%E6%B0%91%E6%B3%95%E6%A6%82%E8%AB%96.docx",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "先修科目(3201001)勞工關係(曾經修習)"
+        "memo": "先修科目(3201001)勞工關係(曾經修習)",
+        "code": "3201007"
     },
     {
         "id": "勞工關係學系",
@@ -50,7 +51,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062188/local_syllabus/attachment/34809/113-2%20%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86-%E9%BB%83%E6%96%87%E6%9F%94%E8%80%81%E5%B8%AB.docx",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "3201023"
     },
     {
         "id": "勞工關係學系",
@@ -76,7 +78,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062169/local_syllabus/attachment/34808/11402%E5%80%8B%E9%AB%94%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "3201024"
     },
     {
         "id": "勞工關係學系",
@@ -105,7 +108,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062245/local_syllabus/attachment/34810/114-2%E5%8B%9E%E5%8B%95%E5%B8%82%E5%A0%B4%E5%B0%88%E9%A1%8C%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(3201003)經濟學(曾經修習)"
+        "memo": "先修科目(3201003)經濟學(曾經修習)",
+        "code": "3201025"
     },
     {
         "id": "勞工關係學系",
@@ -134,7 +138,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062269/local_syllabus/attachment/34811/2026%E4%B8%8A%E5%8B%9E%E5%B7%A5%E7%B3%BBEMI%E8%AA%B2%E7%A8%8B%E9%80%B2%E5%BA%A6%E8%A1%A8~%E5%B0%B1%E6%A5%AD%E8%AB%AE%E5%95%86%E8%88%87%E8%BC%94%E5%B0%8E.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "3201026"
     },
     {
         "id": "勞工關係學系",
@@ -161,7 +166,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062375/local_syllabus/attachment/34814/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E5%9F%BA%E6%B3%95%28114%E4%B8%8B%E5%AD%B8%E6%9C%9F%29.docx",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "3202004"
     },
     {
         "id": "勞工關係學系",
@@ -192,7 +198,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062390/local_syllabus/attachment/34815/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E5%8B%9E%E5%B7%A5%E4%BF%9D%E9%9A%AA%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%283202030%29-Ting.pdf",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "3202030"
     },
     {
         "id": "勞工關係學系",
@@ -223,7 +230,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062291/local_syllabus/attachment/34813/%E5%91%A8%E7%8E%9F%E7%90%AA%E8%80%81%E5%B8%AB%E5%A4%A7%E5%AD%B8%E9%83%A8__%E5%B0%B1%E6%A5%AD%E5%AE%89%E5%85%A8%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99114-2.docx",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "3202031"
     },
     {
         "id": "勞工關係學系",
@@ -249,7 +257,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062278/local_syllabus/attachment/34812/%E7%B5%B1%E8%A8%88%E5%AD%B8%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_new.pdf",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "3202037"
     },
     {
         "id": "勞工關係學系",
@@ -267,7 +276,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062465/local_syllabus/attachment/34819/11402%E5%8B%9E%E5%8B%95%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "3",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "3203002"
     },
     {
         "id": "勞工關係學系",
@@ -296,7 +306,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062404/local_syllabus/attachment/34816/2023-9%E5%8B%9E%E5%8B%95%E9%83%A8%E6%A5%AD%E5%8B%99%E5%A0%B1%E5%91%8A.pdf",
         "targetGrade": "3",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3203033"
     },
     {
         "id": "勞工關係學系",
@@ -325,7 +336,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062421/local_syllabus/attachment/34817/2026%E5%9C%8B%E9%9A%9B%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "3",
         "capacity": "120",
-        "memo": ""
+        "memo": "",
+        "code": "3203043"
     },
     {
         "id": "勞工關係學系",
@@ -354,7 +366,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062505/local_syllabus/attachment/34820/%E7%B8%BE%E6%95%88%E8%80%83%E6%A0%B8%E8%88%87%E7%AE%A1%E7%90%86%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E5%AD%B8%E5%A3%AB%E7%8F%AD-%E6%9D%8E%E8%82%B2%E6%86%B6.docx",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "3203047"
     },
     {
         "id": "勞工關係學系",
@@ -372,7 +385,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3203050_01",
         "targetGrade": "3",
         "capacity": "41",
-        "memo": ""
+        "memo": "",
+        "code": "3203050"
     },
     {
         "id": "勞工關係學系",
@@ -404,7 +418,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062560/local_syllabus/attachment/34824/114%20%E5%9C%8B%E9%9A%9B%E4%BA%BA%E7%AE%A1_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "3203053"
     },
     {
         "id": "勞工關係學系",
@@ -432,7 +447,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062433/local_syllabus/attachment/34818/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E4%BF%9D%E7%B5%A6%E4%BB%98%E7%88%AD%E8%AD%B0%28%E4%B8%AD%E6%AD%A3114%E4%B8%8B%E5%AD%B8%E6%9C%9F%29.doc",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "3203055"
     },
     {
         "id": "勞工關係學系",
@@ -450,7 +466,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062542/local_syllabus/attachment/34822/114-2%20%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29_new.pdf",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(3203001)集體協商(及格)(3203041)社會科學統計應用(及格)(3203031)勞資爭議處理(及格)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)"
+        "memo": "先修科目(3203001)集體協商(及格)(3203041)社會科學統計應用(及格)(3203031)勞資爭議處理(及格)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)",
+        "code": "3203068"
     },
     {
         "id": "勞工關係學系",
@@ -481,7 +498,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062533/local_syllabus/attachment/34821/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E8%B3%AA%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%283203069%29-Ting.pdf",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(3203001)集體協商(曾經修習)(3203041)社會科學統計應用(曾經修習)(3203031)勞資爭議處理(曾經修習)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)"
+        "memo": "先修科目(3203001)集體協商(曾經修習)(3203041)社會科學統計應用(曾經修習)(3203031)勞資爭議處理(曾經修習)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)",
+        "code": "3203069"
     },
     {
         "id": "勞工關係學系",
@@ -512,6 +530,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062581/local_syllabus/attachment/34825/114-2%E5%AD%B8%E5%A3%AB%E7%8F%AD%E9%87%8F%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E8%88%87%E8%A7%A3%E8%AE%80.pdf",
         "targetGrade": "3",
         "capacity": "12",
-        "memo": "先修科目(3202037)統計學(曾經修習)(3203041)社會科學統計應用(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(3202037)統計學(曾經修習)(3203041)社會科學統計應用(曾經修習)(所有先修條件都必須符合)",
+        "code": "3203070"
     }
 ]

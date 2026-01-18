@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081554/local_syllabus/attachment/35610/114-2%E5%88%91%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級甲組(會計相關背景)必修課程，此門課程為數位課程"
+        "memo": "一年級甲組(會計相關背景)必修課程，此門課程為數位課程",
+        "code": "527A012"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -50,7 +51,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078054/local_syllabus/attachment/35510/1142_%E8%AB%96%E5%AF%AB%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程"
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程",
+        "code": "527A029"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -68,7 +70,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A031_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，必需有指導教授才可選此門課程。【一年級學生請勿選課】"
+        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，必需有指導教授才可選此門課程。【一年級學生請勿選課】",
+        "code": "527A031"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -86,7 +89,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A033_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級(法律相關背景)必修課程，此門課程為數位課程"
+        "memo": "一年級(法律相關背景)必修課程，此門課程為數位課程",
+        "code": "527A033"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -104,7 +108,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A044_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程，此門課程為數位課程"
+        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程，此門課程為數位課程",
+        "code": "527A044"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -122,7 +127,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080606/local_syllabus/attachment/35573/Information%20Management%20and%20Strategies_AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程"
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程",
+        "code": "527A046"
     },
     {
         "id": "(專)會計與法律數位學習碩士在職專班",
@@ -140,6 +146,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A047_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程"
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程",
+        "code": "527A047"
     }
 ]

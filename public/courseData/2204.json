@@ -15,7 +15,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032733/local_syllabus/attachment/33806/%E6%9E%97%E4%BF%8A%E5%85%83-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2905.docx",
         "targetGrade": "1",
         "capacity": "42",
-        "memo": "支援通訊工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援通訊工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -42,7 +43,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032809/local_syllabus/attachment/33807/%E7%94%98%E5%AE%8F%E5%BF%97-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2906.docx",
         "targetGrade": "1",
         "capacity": "54",
-        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -69,7 +71,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032883/local_syllabus/attachment/33808/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2907-A.docx",
         "targetGrade": "1",
         "capacity": "52",
-        "memo": "支援機械工程學系機械工程組一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援機械工程學系機械工程組一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -87,7 +90,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032958/local_syllabus/attachment/33809/%E6%9E%97%E8%B2%A1%E9%88%BA-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2908.docx",
         "targetGrade": "1",
         "capacity": "54",
-        "memo": "支援機械工程學系光機電整合工程組一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援機械工程學系光機電整合工程組一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -114,7 +118,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033031/local_syllabus/attachment/33810/%E9%99%B6%E5%B7%A7%E5%A6%A4-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2909.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "支援機械工程國際學士學位學程一年級A班;第1次上課務必出席"
+        "memo": "支援機械工程國際學士學位學程一年級A班;第1次上課務必出席",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -132,7 +137,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033105/local_syllabus/attachment/33811/%E7%BE%85%E6%9B%89%E6%95%8F-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2910.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "先修科目(2201002)普通物理實驗（二）(曾經修習);實際上課地點於物理館502 TEAL教室,第一堂課開始點名"
+        "memo": "先修科目(2201002)普通物理實驗（二）(曾經修習);實際上課地點於物理館502 TEAL教室,第一堂課開始點名",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -159,7 +165,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032640/local_syllabus/attachment/33803/%E6%9D%8E%E5%AE%97%E7%BF%B0-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2904.docx",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "支援電機工程學系一年級B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援電機工程學系一年級B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -186,7 +193,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032068/local_syllabus/attachment/33785/%E9%96%80%E7%A6%8F%E5%9C%8B-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2901.docx",
         "targetGrade": "1",
         "capacity": "47",
-        "memo": "支援化學暨生物化學系一年級A班;地球與環境科學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席"
+        "memo": "支援化學暨生物化學系一年級A班;地球與環境科學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -213,7 +221,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032149/local_syllabus/attachment/33786/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2907-A.docx",
         "targetGrade": "1",
         "capacity": "44",
-        "memo": "支援地球與環境科學系一年級A班;化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+        "memo": "支援地球與環境科學系一年級A班;化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -240,7 +249,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032224/local_syllabus/attachment/33787/%E6%B8%A9%E7%A7%89%E5%BD%9D-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2903-A%20%281%29.docx",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "支援電機工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席"
+        "memo": "支援電機工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席",
+        "code": "2201002"
     },
     {
         "id": "物理學系",
@@ -258,7 +268,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033897/local_syllabus/attachment/33843/%E5%8C%85%E5%BB%BA%E8%8F%AF-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E4%BA%8C%29B.pdf",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2201004"
     },
     {
         "id": "物理學系",
@@ -276,7 +287,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034200/local_syllabus/attachment/33844/%E6%9B%B2%E5%AE%8F%E5%AE%87-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E4%BA%8C%29A.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "先修科目(2201008)基礎物理實驗學（一）A組(60分以上)限本系生修."
+        "memo": "先修科目(2201008)基礎物理實驗學（一）A組(60分以上)限本系生修.",
+        "code": "2201010"
     },
     {
         "id": "物理學系",
@@ -304,7 +316,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029943/local_syllabus/attachment/33779/%E9%99%B6%E5%B7%A7%E5%A6%A4-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2903.docx",
         "targetGrade": "1",
         "capacity": "58",
-        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -332,7 +345,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2030380/local_syllabus/attachment/33781/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2904-AB.docx",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "支援機械工程國際學士學位學程一年級A班;"
+        "memo": "支援機械工程國際學士學位學程一年級A班;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -359,7 +373,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2030806/local_syllabus/attachment/33782/%E6%B8%A9%E7%A7%89%E5%BD%9D-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2905.docx",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -387,7 +402,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2031195/local_syllabus/attachment/33783/%E7%94%98%E5%AE%8F%E5%BF%97-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2906.docx",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;"
+        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -415,7 +431,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2031645/local_syllabus/attachment/33784/%E5%8C%85%E5%81%A5%E8%8F%AF-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2907-%E9%87%8D-%E9%81%A0.docx",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "先修科目(2201011)普通物理（一）(60分以上)(2201012)普通物理（二）(曾經修習)(所有先修條件都必須符合)限本系生修.第一堂為實體上課; 欲修課但未符合先修條件者第一堂務必出席"
+        "memo": "先修科目(2201011)普通物理（一）(60分以上)(2201012)普通物理（二）(曾經修習)(所有先修條件都必須符合)限本系生修.第一堂為實體上課; 欲修課但未符合先修條件者第一堂務必出席",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -433,7 +450,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028228/local_syllabus/attachment/33761/%E7%BE%85%E6%9B%89%E6%95%8F-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2901.docx",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "支援地球與環境科學系化學暨生物化學系一年級A班;電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;"
+        "memo": "支援地球與環境科學系化學暨生物化學系一年級A班;電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -461,7 +479,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028643/local_syllabus/attachment/33764/%E5%BC%B5%E6%99%83%E6%9A%90-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2902.docx",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;",
+        "code": "2201012"
     },
     {
         "id": "物理學系",
@@ -479,7 +498,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034252/local_syllabus/attachment/33845/%E6%AE%B5%E5%BF%85%E8%BC%9D-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E4%BA%8C%29B.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "先修科目(2201009)基礎物理實驗學（一）B組(60分以上)限本系生修."
+        "memo": "先修科目(2201009)基礎物理實驗學（一）B組(60分以上)限本系生修.",
+        "code": "2201013"
     },
     {
         "id": "物理學系",
@@ -497,7 +517,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041407/local_syllabus/attachment/34065/%E5%8C%85%E5%BB%BA%E8%8F%AF-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E4%BA%8C%29%E6%BC%94%E7%BF%92B.docx",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2201014"
     },
     {
         "id": "物理學系",
@@ -515,7 +536,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048197/local_syllabus/attachment/34258/%E5%A7%9A%E6%AC%A3%E4%BD%91%E6%9B%B2%E5%AE%8F%E5%AE%87-%E5%AD%B8%E8%A1%93%E6%B4%BB%E5%8B%95%E7%A0%94%E7%BF%92.docx",
         "targetGrade": "1",
         "capacity": "110",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2201018"
     },
     {
         "id": "物理學系",
@@ -533,7 +555,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041416/local_syllabus/attachment/34066/%E9%99%B3%E5%81%89%E5%AE%B6-%E6%99%AE%E7%89%A9%28%E4%BA%8C%29A%E7%B5%84.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "支援物理學系一年級;限本系生修."
+        "memo": "支援物理學系一年級;限本系生修.",
+        "code": "2201022"
     },
     {
         "id": "物理學系",
@@ -560,7 +583,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041888/local_syllabus/attachment/34067/%E9%99%B3%E5%81%89%E5%AE%B6-%E8%A7%80%E5%BF%B5%E7%89%A9%E7%90%86%28%E4%BA%8C%29.docx",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "支援生物醫學科學系一年級;"
+        "memo": "支援生物醫學科學系一年級;",
+        "code": "2201024"
     },
     {
         "id": "物理學系",
@@ -578,7 +602,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041938/local_syllabus/attachment/34068/%E9%99%B3%E5%81%89%E5%AE%B6-%E6%99%AE%E7%89%A9%E6%BC%94%E7%BF%92%28%E4%BA%8C%29A.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "限本系生修.務必選修普通物理(二)220102201課程"
+        "memo": "限本系生修.務必選修普通物理(二)220102201課程",
+        "code": "2201027"
     },
     {
         "id": "物理學系",
@@ -604,7 +629,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041970/local_syllabus/attachment/34069/%E5%90%B3%E6%AC%A3%E6%BE%A4-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E6%95%B8%E5%AD%B8.docx",
         "targetGrade": "1",
         "capacity": "110",
-        "memo": "支援物理學系一年級;"
+        "memo": "支援物理學系一年級;",
+        "code": "2201031"
     },
     {
         "id": "物理學系",
@@ -635,7 +661,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042260/local_syllabus/attachment/34070/%E8%98%87%E6%97%BA%E6%98%8C-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E5%9B%9B%29B.docx",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修.",
+        "code": "2202006"
     },
     {
         "id": "物理學系",
@@ -666,7 +693,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042324/local_syllabus/attachment/34071/%E8%98%87%E6%97%BA%E6%98%8C-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E5%9B%9B%29%E6%BC%94%E7%BF%92B.docx",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2202008"
     },
     {
         "id": "物理學系",
@@ -692,7 +720,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042333/local_syllabus/attachment/34072/%E6%9D%8E%E5%AE%97%E7%BF%B0-%E6%87%89%E7%94%A8%E6%95%B8%E5%AD%B8%28%E4%BA%8C%29.docx",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修."
+        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修.",
+        "code": "2202012"
     },
     {
         "id": "物理學系",
@@ -710,7 +739,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042454/local_syllabus/attachment/34073/%E5%A7%9A%E6%9D%BE%E5%81%89-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E5%9B%9B%29B.docx",
         "targetGrade": "2",
         "capacity": "22",
-        "memo": "先修科目(2202010)基礎物理實驗學（三）B組(60分以上)限本系生修."
+        "memo": "先修科目(2202010)基礎物理實驗學（三）B組(60分以上)限本系生修.",
+        "code": "2202015"
     },
     {
         "id": "物理學系",
@@ -735,7 +765,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047790/local_syllabus/attachment/34232/%E6%9E%97%E4%BF%8A%E5%85%83-%E9%80%B2%E9%9A%8E%E5%85%89%E5%AD%B8%E5%AF%A6%E9%A9%97%E5%AD%B8.docx",
         "targetGrade": "3",
         "capacity": "18",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2203005"
     },
     {
         "id": "物理學系",
@@ -763,7 +794,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047831/local_syllabus/attachment/34234/%E7%A7%A6%E4%BC%8A%E7%91%A9-%E8%BF%91%E4%BB%A3%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8.docx",
         "targetGrade": "3",
         "capacity": "18",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "2203006"
     },
     {
         "id": "物理學系",
@@ -789,7 +821,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042474/local_syllabus/attachment/34074/%E5%8C%85%E5%81%A5%E8%8F%AF-%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%28%E4%B8%80%29.docx",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "先修科目(2201021)普通物理（一）(50分以上)(2201022)普通物理（二）(50分以上)(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)B組需加簽,但不列入畢業學分。"
+        "memo": "先修科目(2201021)普通物理（一）(50分以上)(2201022)普通物理（二）(50分以上)(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)B組需加簽,但不列入畢業學分。",
+        "code": "2203021"
     },
     {
         "id": "物理學系",
@@ -816,7 +849,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047861/local_syllabus/attachment/34235/%E6%9D%9C%E6%98%8E%E6%86%B2-%E9%9B%BB%E7%A3%81%E6%B3%A2.docx",
         "targetGrade": "3",
         "capacity": "55",
-        "memo": "先修科目(2202030)電磁學(及格)"
+        "memo": "先修科目(2202030)電磁學(及格)",
+        "code": "2203023"
     },
     {
         "id": "物理學系",
@@ -834,7 +868,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047993/local_syllabus/attachment/34246/%E5%A7%9A%E6%9D%BE%E5%81%89-%E7%89%A9%E7%90%86%E5%B0%88%E9%A1%8C%28%E4%BA%8C%29.docx",
         "targetGrade": "3",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2203112"
     },
     {
         "id": "物理學系",
@@ -852,7 +887,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048032/local_syllabus/attachment/34248/%E5%90%B3%E6%AC%A3%E6%BE%A4%E6%9D%8E%E5%AE%97%E7%BF%B0-%E8%AB%96%E6%96%87%E7%A0%94%E7%BF%92%E8%88%87%E6%92%B0%E5%AF%AB%28%E4%BA%8C%29.docx",
         "targetGrade": "3",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2203116"
     },
     {
         "id": "物理學系",
@@ -870,7 +906,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2203117_01",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": "B組必修"
+        "memo": "B組必修",
+        "code": "2203117"
     },
     {
         "id": "物理學系",
@@ -896,7 +933,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048079/local_syllabus/attachment/34251/%E6%9E%97%E8%B2%A1%E9%88%BA-%E5%9B%BA%E6%85%8B%E7%89%A9%E7%90%86%E5%B0%8E%E8%AB%96.docx",
         "targetGrade": "4",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "2204001"
     },
     {
         "id": "物理學系",
@@ -914,7 +952,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048101/local_syllabus/attachment/34252/%E6%9B%B2%E5%AE%8F%E5%AE%87-%E7%89%A9%E7%90%86%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29.docx",
         "targetGrade": "4",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "2204004"
     },
     {
         "id": "物理學系",
@@ -932,7 +971,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048121/local_syllabus/attachment/34253/%E8%94%A1%E7%82%8E%E7%86%BE%E6%B8%A9%E7%A7%89%E5%BD%9D-%E8%AB%96%E6%96%87%E7%A0%94%E7%BF%92%E8%88%87%E6%92%B0%E5%AF%AB%28%E5%9B%9B%29.docx",
         "targetGrade": "4",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2204006"
     },
     {
         "id": "物理學系",
@@ -961,6 +1001,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048182/local_syllabus/attachment/34257/%E8%A8%B1%E4%BD%B3%E6%8C%AF-%E9%80%B2%E9%9A%8E%E5%85%89%E5%AD%B8.docx",
         "targetGrade": "4",
         "capacity": "36",
-        "memo": ""
+        "memo": "",
+        "code": "2204021"
     }
 ]

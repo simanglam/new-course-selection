@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455005_01",
         "targetGrade": "1",
         "capacity": "17",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5455005"
     },
     {
         "id": "企業管理學系行銷與數位分析碩士班",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455067_01",
         "targetGrade": "1",
         "capacity": "17",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5455067"
     },
     {
         "id": "企業管理學系行銷與數位分析碩士班",
@@ -64,7 +66,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070339/local_syllabus/attachment/35160/Channel%20Management%20Syllabus_114_2_V1.pdf",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "先修科目(5455001)行銷管理(及格)"
+        "memo": "先修科目(5455001)行銷管理(及格)",
+        "code": "5455077"
     },
     {
         "id": "企業管理學系行銷與數位分析碩士班",
@@ -97,7 +100,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070299/local_syllabus/attachment/35157/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "17",
-        "memo": "先修科目(5455079)商用英文（一）(及格)限本系生修.外文系不得修習\r\n限行銷所研究生修習"
+        "memo": "先修科目(5455079)商用英文（一）(及格)限本系生修.外文系不得修習\r\n限行銷所研究生修習",
+        "code": "5455080"
     },
     {
         "id": "企業管理學系行銷與數位分析碩士班",
@@ -130,7 +134,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070315/local_syllabus/attachment/35158/1142%20%E8%8B%B1%E6%96%87%E5%9B%9B%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "17",
-        "memo": "先修科目(5455079)商用英文（一）(及格)(5455080)商用英文（二）(及格)(5455081)商用英文（三）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習\r\n限行銷所研究生修習"
+        "memo": "先修科目(5455079)商用英文（一）(及格)(5455080)商用英文（二）(及格)(5455081)商用英文（三）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習\r\n限行銷所研究生修習",
+        "code": "5455082"
     },
     {
         "id": "企業管理學系行銷與數位分析碩士班",
@@ -148,6 +153,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455083_01",
         "targetGrade": "1",
         "capacity": "34",
-        "memo": "歡迎大三、大四同學上修"
+        "memo": "歡迎大三、大四同學上修",
+        "code": "5455083"
     }
 ]

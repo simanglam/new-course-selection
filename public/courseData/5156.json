@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049629/local_syllabus/attachment/34298/%E8%B2%A1%E5%8B%99%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(5155100)財務管理(曾經修習)(5153340)期貨與選擇權(曾經修習)(只要符合任一先修條件)"
+        "memo": "先修科目(5155100)財務管理(曾經修習)(5153340)期貨與選擇權(曾經修習)(只要符合任一先修條件)",
+        "code": "5155173"
     },
     {
         "id": "財務金融研究所",
@@ -52,7 +53,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049569/local_syllabus/attachment/34296/%E8%B2%A1%E5%8B%99%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_2026.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(5155200)投資管理學(及格)(5155100)財務管理(及格)(所有先修條件都必須符合)"
+        "memo": "先修科目(5155200)投資管理學(及格)(5155100)財務管理(及格)(所有先修條件都必須符合)",
+        "code": "5155174"
     },
     {
         "id": "財務金融研究所",
@@ -77,7 +79,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049118/local_syllabus/attachment/34290/FM2026S_SY.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155231"
     },
     {
         "id": "財務金融研究所",
@@ -95,7 +98,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5155235_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155235"
     },
     {
         "id": "財務金融研究所",
@@ -124,7 +128,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049362/local_syllabus/attachment/34292/sustainable%20finance_syllabus_2026_spring.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155322"
     },
     {
         "id": "財務金融研究所",
@@ -152,7 +157,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049406/local_syllabus/attachment/34293/114-2%20%E8%B2%A1%E5%8B%99%E9%87%91%E8%9E%8D%20%E6%89%80%E4%B8%8D%E5%8B%95%E7%94%A2%E4%BC%B0%E5%83%B9%E5%AF%A6%E5%8B%99%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155421"
     },
     {
         "id": "財務金融研究所",
@@ -170,7 +176,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5155655_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155655"
     },
     {
         "id": "財務金融研究所",
@@ -195,7 +202,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049746/local_syllabus/attachment/34302/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%28G2026%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5155660"
     },
     {
         "id": "財務金融研究所",
@@ -221,7 +229,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049497/local_syllabus/attachment/34295/AACSB%20grad_syllabus_spring26.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5156210"
     },
     {
         "id": "財務金融研究所",
@@ -248,7 +257,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060386/local_syllabus/attachment/34720/%28%E6%9B%B4%E6%96%B0%29AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29_%E9%BB%83%E5%86%A0%E7%91%9B_%E8%82%A1%E7%A5%A8%E5%83%B9%E5%80%BC%E5%88%86%E6%9E%90.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5156212"
     },
     {
         "id": "財務金融研究所",
@@ -266,7 +276,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5156250_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5156250"
     },
     {
         "id": "財務金融研究所",
@@ -297,7 +308,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049579/local_syllabus/attachment/34297/International%20Finance-Graduate%20Spring%202026%20%28AACSB%E5%85%AC%E7%89%88%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5156382"
     },
     {
         "id": "財務金融研究所",
@@ -315,7 +327,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5157104_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "5157104"
     },
     {
         "id": "(專)財務金融研究所",
@@ -341,7 +354,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082220/local_syllabus/attachment/35626/FMI%20_syllabus_2026_spring.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A003"
     },
     {
         "id": "(專)財務金融研究所",
@@ -366,7 +380,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079230/local_syllabus/attachment/35530/FMW2026S_SY.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A007"
     },
     {
         "id": "(專)財務金融研究所",
@@ -384,7 +399,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_515A012_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A012"
     },
     {
         "id": "(專)財務金融研究所",
@@ -408,7 +424,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077721/local_syllabus/attachment/35492/%E8%AB%96%E6%96%87%28%E4%B8%80%29%E4%BF%AE%E8%AA%B2%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(515A003)金融市場與機構(曾經修習)"
+        "memo": "先修科目(515A003)金融市場與機構(曾經修習)",
+        "code": "515A020"
     },
     {
         "id": "(專)財務金融研究所",
@@ -432,7 +449,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077751/local_syllabus/attachment/35494/%E8%AB%96%E6%96%87%28%E4%BA%8C%29%E4%BF%AE%E8%AA%B2%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(515A003)金融市場與機構(曾經修習)"
+        "memo": "先修科目(515A003)金融市場與機構(曾經修習)",
+        "code": "515A021"
     },
     {
         "id": "(專)財務金融研究所",
@@ -460,7 +478,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080395/local_syllabus/attachment/35565/syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A037"
     },
     {
         "id": "(專)財務金融研究所",
@@ -488,7 +507,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077730/local_syllabus/attachment/35493/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%282026%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A048"
     },
     {
         "id": "(專)財務金融研究所",
@@ -515,6 +535,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081430/local_syllabus/attachment/35602/114-2%E4%B8%AD%E6%AD%A3%E8%B2%A1%E9%87%91%E6%89%80%E5%B0%88%E7%8F%AD%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "515A059"
     }
 ]

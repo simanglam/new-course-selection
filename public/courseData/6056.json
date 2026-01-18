@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055008_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6055008"
     },
     {
         "id": "法律學研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055017_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055017"
     },
     {
         "id": "法律學研究所",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055067_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055067"
     },
     {
         "id": "法律學研究所",
@@ -69,7 +72,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063493/local_syllabus/attachment/34871/%E6%86%B2%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6-%E5%9F%BA%E6%9C%AC%E4%BA%BA%E6%AC%8A%EF%BC%88%E4%BA%8C%EF%BC%89%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班公法組相對必修課程。"
+        "memo": "碩士班公法組相對必修課程。",
+        "code": "6055104"
     },
     {
         "id": "法律學研究所",
@@ -96,7 +100,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063741/local_syllabus/attachment/34891/1142%20%E7%A4%BE%E6%9C%83%E6%B3%95%E5%B0%88%E9%A1%8C.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班勞動法與社會法組相對必修課程。"
+        "memo": "碩士班勞動法與社會法組相對必修課程。",
+        "code": "6055122"
     },
     {
         "id": "法律學研究所",
@@ -114,7 +119,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055140_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班刑事法組相對必修課程。"
+        "memo": "碩士班刑事法組相對必修課程。",
+        "code": "6055140"
     },
     {
         "id": "法律學研究所",
@@ -142,7 +148,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063615/local_syllabus/attachment/34883/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E5%B0%88%29%28LU%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班刑事法組相對必修課程。"
+        "memo": "碩士班刑事法組相對必修課程。",
+        "code": "6055149"
     },
     {
         "id": "法律學研究所",
@@ -167,7 +174,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063702/local_syllabus/attachment/34887/114.2%E5%8B%9E%E5%B0%882.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班勞動法與社會法組相對必修課程。"
+        "memo": "碩士班勞動法與社會法組相對必修課程。",
+        "code": "6055176"
     },
     {
         "id": "法律學研究所",
@@ -185,7 +193,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055200_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班勞動法與社會法組相對必修課程。"
+        "memo": "碩士班勞動法與社會法組相對必修課程。",
+        "code": "6055200"
     },
     {
         "id": "法律學研究所",
@@ -203,7 +212,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055212_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班公法組相對必修課程。"
+        "memo": "碩士班公法組相對必修課程。",
+        "code": "6055212"
     },
     {
         "id": "法律學研究所",
@@ -221,7 +231,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055315_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055315"
     },
     {
         "id": "法律學研究所",
@@ -248,7 +259,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063227/local_syllabus/attachment/34854/%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055332"
     },
     {
         "id": "法律學研究所",
@@ -276,7 +288,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063866/local_syllabus/attachment/34902/%E6%B3%95%E5%AD%B8%E6%97%A5%E6%96%87%EF%BC%88%E5%9B%9B%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6055336"
     },
     {
         "id": "法律學研究所",
@@ -294,7 +307,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055344_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6055344"
     },
     {
         "id": "法律學研究所",
@@ -318,7 +332,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062604/local_syllabus/attachment/34827/114.2%E6%B3%95%E8%8B%B14.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "6055353"
     },
     {
         "id": "法律學研究所",
@@ -344,7 +359,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061868/local_syllabus/attachment/34793/%E4%BF%A1%E8%A8%97%E6%B3%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055380"
     },
     {
         "id": "法律學研究所",
@@ -362,7 +378,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055396_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "碩士班民商法組相對必修課程。"
+        "memo": "碩士班民商法組相對必修課程。",
+        "code": "6055396"
     },
     {
         "id": "法律學研究所",
@@ -390,7 +407,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063568/local_syllabus/attachment/34879/Seminar1142dg.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班公法組相對必修課程。"
+        "memo": "碩士班公法組相對必修課程。",
+        "code": "6055412"
     },
     {
         "id": "法律學研究所",
@@ -408,7 +426,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055425_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班國際法及環境永續組相對必修課程。"
+        "memo": "碩士班國際法及環境永續組相對必修課程。",
+        "code": "6055425"
     },
     {
         "id": "法律學研究所",
@@ -426,7 +445,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055440_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班國際法及環境永續組相對必修課程。"
+        "memo": "碩士班國際法及環境永續組相對必修課程。",
+        "code": "6055440"
     },
     {
         "id": "法律學研究所",
@@ -444,7 +464,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055441_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班國際法及環境永續組相對必修課程。"
+        "memo": "碩士班國際法及環境永續組相對必修課程。",
+        "code": "6055441"
     },
     {
         "id": "法律學研究所",
@@ -462,7 +483,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055467_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班基礎法學組相對必修課程。"
+        "memo": "碩士班基礎法學組相對必修課程。",
+        "code": "6055467"
     },
     {
         "id": "法律學研究所",
@@ -491,7 +513,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063788/local_syllabus/attachment/34895/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%89%80%29-%E7%A7%91%E9%9A%9B%E6%B3%95%E5%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班基礎法學組相對必修課程。"
+        "memo": "碩士班基礎法學組相對必修課程。",
+        "code": "6055495"
     },
     {
         "id": "法律學研究所",
@@ -509,7 +532,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055498_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班基礎法學組相對必修課程。"
+        "memo": "碩士班基礎法學組相對必修課程。",
+        "code": "6055498"
     },
     {
         "id": "法律學研究所",
@@ -537,7 +561,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063522/local_syllabus/attachment/34874/%E5%85%AC%E6%B3%95%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%EF%BC%89-%E6%86%B2%E6%B3%95%E8%88%87%E8%A1%8C%E6%94%BF%E6%B3%95%E4%B9%8B%E6%95%B4%E5%90%88%20114%E4%B8%80%E8%88%AC%E7%94%9F.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩士班公法組相對必修課程。"
+        "memo": "碩士班公法組相對必修課程。",
+        "code": "6055546"
     },
     {
         "id": "法律學研究所",
@@ -555,7 +580,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055556_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "6055556"
     },
     {
         "id": "法律學研究所",
@@ -573,7 +599,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055564_01",
         "targetGrade": "1",
         "capacity": "6",
-        "memo": "先修科目(6055563)法院實習（一）(及格)限本系生修.限法學院研究生選修，須經法律學系與嘉義地方法院審核後始得選修。實習地點於嘉義地方法院，實習時數每學期80小時，實習時間由嘉義地方法院與法律學系視實習導師與選課同學時間，另行協商排定。"
+        "memo": "先修科目(6055563)法院實習（一）(及格)限本系生修.限法學院研究生選修，須經法律學系與嘉義地方法院審核後始得選修。實習地點於嘉義地方法院，實習時數每學期80小時，實習時間由嘉義地方法院與法律學系視實習導師與選課同學時間，另行協商排定。",
+        "code": "6055564"
     },
     {
         "id": "(專)法律學研究所",
@@ -591,7 +618,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A008_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A008"
     },
     {
         "id": "(專)法律學研究所",
@@ -617,7 +645,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077510/local_syllabus/attachment/35487/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E7%B8%BDLU%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A011"
     },
     {
         "id": "(專)法律學研究所",
@@ -642,7 +671,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077806/local_syllabus/attachment/35500/114.2%E5%8B%9E%E5%8B%95%E6%B3%95%28%E4%BA%8C%EF%BC%89%E5%B0%88%E7%8F%AD.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A012"
     },
     {
         "id": "(專)法律學研究所",
@@ -660,7 +690,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A014_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A014"
     },
     {
         "id": "(專)法律學研究所",
@@ -678,7 +709,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A025_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A025"
     },
     {
         "id": "(專)法律學研究所",
@@ -705,7 +737,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077771/local_syllabus/attachment/35496/%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%20%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20PDF.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A027"
     },
     {
         "id": "(專)法律學研究所",
@@ -731,7 +764,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079461/local_syllabus/attachment/35545/%E8%A1%8C%E6%94%BF%E6%B3%95%E7%B8%BD%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%20114-2%20%EF%BC%88%E4%B8%89%E4%BA%BA%E5%90%88%E9%96%8B%EF%BC%89.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A028"
     },
     {
         "id": "(專)法律學研究所",
@@ -756,7 +790,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078085/local_syllabus/attachment/35512/%E5%B0%88%E7%8F%AD%E6%B0%91%E8%A8%B4.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A036"
     },
     {
         "id": "(專)法律學研究所",
@@ -780,7 +815,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A100_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "需有論文指導教授"
+        "memo": "需有論文指導教授",
+        "code": "605A100"
     },
     {
         "id": "(專)法律學研究所",
@@ -804,7 +840,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A123_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "需有論文指導教授"
+        "memo": "需有論文指導教授",
+        "code": "605A123"
     },
     {
         "id": "(專)法律學研究所",
@@ -828,7 +865,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A124_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(605A123)畢業論文（一）(曾經修習)需有論文指導教授"
+        "memo": "先修科目(605A123)畢業論文（一）(曾經修習)需有論文指導教授",
+        "code": "605A124"
     },
     {
         "id": "(專)法律學研究所",
@@ -855,7 +893,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080552/local_syllabus/attachment/35570/%E5%85%AC%E6%B3%95%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A136"
     },
     {
         "id": "(專)法律學研究所",
@@ -873,7 +912,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A143_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A143"
     },
     {
         "id": "(專)法律學研究所",
@@ -901,7 +941,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079420/local_syllabus/attachment/35543/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29-%E6%B3%95%E5%BE%8B%E8%88%87%E6%96%87%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A249"
     },
     {
         "id": "(專)法律學研究所",
@@ -919,7 +960,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A251_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A251"
     },
     {
         "id": "(專)法律學研究所",
@@ -937,7 +979,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A308_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A308"
     },
     {
         "id": "(專)法律學研究所",
@@ -962,7 +1005,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079444/local_syllabus/attachment/35544/%E8%A1%8C%E6%94%BF%E6%95%91%E6%BF%9F%E6%B3%95%20114-2%20%EF%BC%88%E4%B8%89%E4%BA%BA%E5%90%88%E9%96%8B%EF%BC%89.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A411"
     },
     {
         "id": "(專)法律學研究所",
@@ -988,7 +1032,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077904/local_syllabus/attachment/35506/1142%E5%B0%88%E7%8F%AD%E7%A4%BE%E6%9C%83%E6%B3%95.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A607"
     },
     {
         "id": "(專)法律學研究所",
@@ -1012,7 +1057,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077797/local_syllabus/attachment/35499/114.2%E5%8B%9E%E5%B0%883%EF%BC%88%E5%B0%88%E7%8F%AD%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A614"
     },
     {
         "id": "(專)法律學研究所",
@@ -1030,7 +1076,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A714_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A714"
     },
     {
         "id": "(專)法律學研究所",
@@ -1048,7 +1095,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A911_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A911"
     },
     {
         "id": "(專)法律學研究所",
@@ -1075,6 +1123,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079218/local_syllabus/attachment/35529/%E5%9C%8B%E9%9A%9B%E5%85%AC%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B62%28%E7%A2%A9%E5%B0%88%E7%8F%AD%E6%96%B0%29.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "605A914"
     }
 ]

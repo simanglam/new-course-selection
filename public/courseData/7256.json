@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059416/local_syllabus/attachment/34670/%E7%8A%AF%E7%BD%AA%E5%AD%B8%E5%B0%88%E9%A1%8C%EF%BC%88%E4%BA%8C%EF%BC%89.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩班必修課程"
+        "memo": "碩班必修課程",
+        "code": "3455003"
     },
     {
         "id": "犯罪防治研究所",
@@ -50,7 +51,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059430/local_syllabus/attachment/34671/114%E4%B8%8B%E5%88%91%E4%BA%8B%E5%8F%B8%E6%B3%95%E5%B0%88%E9%A1%8C%E5%8D%9A%E7%8F%AD.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "博班必修課程"
+        "memo": "博班必修課程",
+        "code": "3455029"
     },
     {
         "id": "犯罪防治研究所",
@@ -68,7 +70,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3455051_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3455051"
     },
     {
         "id": "犯罪防治研究所",
@@ -86,7 +89,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3455056_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3455056"
     },
     {
         "id": "犯罪防治研究所",
@@ -104,7 +108,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3455081_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩班選修課程"
+        "memo": "碩班選修課程",
+        "code": "3455081"
     },
     {
         "id": "犯罪防治研究所",
@@ -122,7 +127,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456063_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3456063"
     },
     {
         "id": "犯罪防治研究所",
@@ -140,7 +146,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456074_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3456074"
     },
     {
         "id": "犯罪防治研究所",
@@ -158,7 +165,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456080_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3456080"
     },
     {
         "id": "犯罪防治研究所",
@@ -176,7 +184,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456083_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩班選修課程"
+        "memo": "碩班選修課程",
+        "code": "3456083"
     },
     {
         "id": "犯罪防治研究所",
@@ -194,7 +203,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456085_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限鄭瑞隆老師所指導學生修課"
+        "memo": "限鄭瑞隆老師所指導學生修課",
+        "code": "3456085"
     },
     {
         "id": "犯罪防治研究所",
@@ -212,7 +222,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3456089_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3456089"
     },
     {
         "id": "犯罪防治研究所",
@@ -230,7 +241,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060149/local_syllabus/attachment/34706/2025%E5%B9%B4%E5%88%91%E4%BA%8B%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E6%95%99%E5%AD%B8%E8%A8%88%E7%95%AB%E6%9B%B8_%E4%B8%80%E8%88%AC%E7%94%9F.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3456090"
     },
     {
         "id": "犯罪防治研究所",
@@ -258,7 +270,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059379/local_syllabus/attachment/34668/114-2%E7%8A%AF%E7%BD%AA%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "博一必修課程"
+        "memo": "博一必修課程",
+        "code": "3457002"
     },
     {
         "id": "犯罪防治研究所",
@@ -284,7 +297,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059390/local_syllabus/attachment/34669/114_%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩博合開課程"
+        "memo": "碩博合開課程",
+        "code": "3457011"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -310,7 +324,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080381/local_syllabus/attachment/35564/%E7%8A%AF%E7%BD%AA%E5%AD%B8%E5%B0%88%E9%A1%8C%EF%BC%88%E4%BA%8C%EF%BC%89%E5%B0%88%E7%8F%AD114%E4%B8%8B%20%282%29.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專一必修課程"
+        "memo": "碩專一必修課程",
+        "code": "345A007"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -328,7 +343,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A014_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(345A013)論文指導（一）(及格)碩專二必修課程"
+        "memo": "先修科目(345A013)論文指導（一）(及格)碩專二必修課程",
+        "code": "345A014"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -346,7 +362,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082103/local_syllabus/attachment/35618/2025%E5%B9%B4%E5%88%91%E4%BA%8B%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9C%A8%E8%81%B7%E7%8F%AD%EF%BC%89.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A052"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -364,7 +381,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A053_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A053"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -392,7 +410,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081072/local_syllabus/attachment/35592/%E5%8D%B1%E6%A9%9F%E4%BB%8B%E5%85%A5%20%E7%A2%A9%E5%B0%88%E7%8F%AD%E5%88%9D%E7%A8%BF%2811%EF%BC%94%E4%B8%8B%292026%2001%2006.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A054"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -410,7 +429,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A055_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A055"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -428,7 +448,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A056_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A056"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -446,7 +467,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A059_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A059"
     },
     {
         "id": "(專)犯罪防治研究所",
@@ -464,6 +486,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_345A060_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "碩專班選修課程"
+        "memo": "碩專班選修課程",
+        "code": "345A060"
     }
 ]

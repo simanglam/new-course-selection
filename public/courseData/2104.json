@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_01",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援數學系一年級A班B班;"
+        "memo": "支援數學系一年級A班B班;",
+        "code": "2101002"
     },
     {
         "id": "數學系",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_02",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援化學暨生物化學系一年級A班B班;星期一第6節為演習課，上課地改至數學館204教室。"
+        "memo": "支援化學暨生物化學系一年級A班B班;星期一第6節為演習課，上課地改至數學館204教室。",
+        "code": "2101002"
     },
     {
         "id": "數學系",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_03",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援物理學系一年級A班B班;"
+        "memo": "支援物理學系一年級A班B班;",
+        "code": "2101002"
     },
     {
         "id": "數學系",
@@ -77,7 +80,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043318/local_syllabus/attachment/34096/114_2_Syllabus_1228.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院106教室。"
+        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院106教室。",
+        "code": "2101004"
     },
     {
         "id": "數學系",
@@ -107,7 +111,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043387/local_syllabus/attachment/34097/%E5%BE%AE%E7%A9%8D%E5%88%86%28%E7%AE%A1%E9%99%A2%292025Spring_syllabus.doc",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院107教室。"
+        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院107教室。",
+        "code": "2101004"
     },
     {
         "id": "數學系",
@@ -129,7 +134,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043408/local_syllabus/attachment/34098/Syllabus20241210.pdf",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "支援資訊管理學系一年級A班B班;"
+        "memo": "支援資訊管理學系一年級A班B班;",
+        "code": "2101010"
     },
     {
         "id": "數學系",
@@ -147,7 +153,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101011_01",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "支援數學系一年級A班B班;"
+        "memo": "支援數學系一年級A班B班;",
+        "code": "2101011"
     },
     {
         "id": "數學系",
@@ -165,7 +172,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101013_01",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "支援心理學系經濟學系一年級A班B班;"
+        "memo": "支援心理學系經濟學系一年級A班B班;",
+        "code": "2101013"
     },
     {
         "id": "數學系",
@@ -183,7 +191,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,Calculus,%20An%20applied%20approach&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "支援財務金融學系一年級A班B班;"
+        "memo": "支援財務金融學系一年級A班B班;",
+        "code": "2101018"
     },
     {
         "id": "數學系",
@@ -201,7 +210,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101020_04",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -219,7 +229,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101020_01",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -247,7 +258,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042926/local_syllabus/attachment/34086/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1ce2.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -274,7 +286,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042960/local_syllabus/attachment/34087/%E5%B7%A5%E5%AD%B8%E9%99%A2%E5%BE%AE%E7%A9%8D%E5%88%86%28%E4%BA%8C%29%E8%AA%B2%E7%B6%B1%283%E5%AD%B8%E5%88%86-%E9%9B%BB%E6%A9%9F%2C%E6%A9%9F%E6%A2%B0%2C%E5%8C%96%E5%B7%A5%2C%E9%80%9A%E8%A8%8A%29.docx",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -301,7 +314,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042970/local_syllabus/attachment/34088/Syllabus-114.2_Calculus.pdf",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -333,7 +347,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042980/local_syllabus/attachment/34089/2026SCalculusSyllabus.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "支援機械工程國際學士學位學程一年級A班B班;"
+        "memo": "支援機械工程國際學士學位學程一年級A班B班;",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -360,7 +375,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042993/local_syllabus/attachment/34090/%E5%BE%AE%E7%A9%8D%E5%88%86%EF%BC%88%E4%BA%8C%EF%BC%893%E5%AD%B8%E5%88%86.docx",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "支援地球與環境科學系一年級A班B班;星期一第6節為演習課，上課地改至數學館203教室。"
+        "memo": "支援地球與環境科學系一年級A班B班;星期一第6節為演習課，上課地改至數學館203教室。",
+        "code": "2101020"
     },
     {
         "id": "數學系",
@@ -386,7 +402,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058962/local_syllabus/attachment/34651/Syllabus%20114.2%20Advanced%20Calculus.pdf",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": ""
+        "memo": "",
+        "code": "2102002"
     },
     {
         "id": "數學系",
@@ -413,7 +430,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059085/local_syllabus/attachment/34652/%E4%BB%A3%E6%95%B8.docx",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "2102405"
     },
     {
         "id": "數學系",
@@ -439,7 +457,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059458/local_syllabus/attachment/34674/114_2_Syllabus_1229.pdf",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "2103003"
     },
     {
         "id": "數學系",
@@ -457,7 +476,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2103613_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "2103613"
     },
     {
         "id": "數學系",
@@ -484,7 +504,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059220/local_syllabus/attachment/34658/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E6%95%B8%E5%AD%B8%E7%B3%BB%20%E7%B5%B1%E8%A8%88%E7%A7%91%E5%AD%B8.pdf",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": "先修科目(2102702)機率模型(及格)(2102701)機率論(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(2102702)機率模型(及格)(2102701)機率論(及格)(只要符合任一先修條件)",
+        "code": "2103701"
     },
     {
         "id": "數學系",
@@ -511,7 +532,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059231/local_syllabus/attachment/34659/2103711%E7%B5%B1%E8%A8%88%E6%96%B9%E6%B3%95.docx",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "先修科目(2102701)機率論(及格)(2102702)機率模型(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(2102701)機率論(及格)(2102702)機率模型(及格)(只要符合任一先修條件)",
+        "code": "2103711"
     },
     {
         "id": "數學系",
@@ -529,6 +551,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2104201_01",
         "targetGrade": "4",
         "capacity": "70",
-        "memo": ""
+        "memo": "",
+        "code": "2104201"
     }
 ]

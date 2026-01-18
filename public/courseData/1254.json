@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054743/local_syllabus/attachment/34481/%E5%93%B2%E5%AD%B8%E6%A6%82%E8%AB%96%20%282%29%20%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-.doc",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "1251012"
     },
     {
         "id": "哲學系",
@@ -51,7 +52,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054766/local_syllabus/attachment/34482/introduction-hou.pdf",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "1251012"
     },
     {
         "id": "哲學系",
@@ -79,7 +81,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060959/local_syllabus/attachment/34759/%E5%93%B2%E5%AD%B8%E7%B3%BB%E5%9F%BA%E7%A4%8E%E9%82%8F%E8%BC%AF%E4%B8%8B%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1251407"
     },
     {
         "id": "哲學系",
@@ -108,7 +111,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061810/local_syllabus/attachment/34789/%E4%BA%9E%E9%87%8C%E6%96%AF%E5%A4%9A%E5%BE%B7%E5%B0%BC%E5%90%84%E9%A6%AC%E5%8F%AF%E5%80%AB%E7%90%86%E5%AD%B8_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "屬「經典哲學家與哲學史」。"
+        "memo": "屬「經典哲學家與哲學史」。",
+        "code": "1251620"
     },
     {
         "id": "哲學系",
@@ -136,7 +140,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054792/local_syllabus/attachment/34483/HoP%20II%20syllabus%20spring%202026.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1251912"
     },
     {
         "id": "哲學系",
@@ -161,7 +166,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059727/local_syllabus/attachment/34689/2026-Spring-%E7%9F%A5%E8%AD%98%E8%AB%96%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-2025-12-23.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1252200"
     },
     {
         "id": "哲學系",
@@ -190,7 +196,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061822/local_syllabus/attachment/34790/Phil%20Language%20syllabus%202026.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "必選課。（與心靈哲學至少二選一）"
+        "memo": "必選課。（與心靈哲學至少二選一）",
+        "code": "1252306"
     },
     {
         "id": "哲學系",
@@ -219,7 +226,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059744/local_syllabus/attachment/34690/114%E5%AD%B8%E5%B9%B4%E7%A7%91%E5%AD%B8%E5%93%B2%E5%AD%B8%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "必選課。（與後設邏輯、科學推理至少三選一）"
+        "memo": "必選課。（與後設邏輯、科學推理至少三選一）",
+        "code": "1252500"
     },
     {
         "id": "哲學系",
@@ -237,7 +245,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1252615_01",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": "1、必選課。（與政治哲學至少二選一）\r\n2、文學院「AI與數位人文」主題課程。"
+        "memo": "1、必選課。（與政治哲學至少二選一）\r\n2、文學院「AI與數位人文」主題課程。",
+        "code": "1252615"
     },
     {
         "id": "哲學系",
@@ -255,7 +264,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1252701_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "必選課。（與應用倫理學至少二選一）"
+        "memo": "必選課。（與應用倫理學至少二選一）",
+        "code": "1252701"
     },
     {
         "id": "哲學系",
@@ -273,7 +283,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1252801_01",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": "與法律系高文琦老師合開。"
+        "memo": "與法律系高文琦老師合開。",
+        "code": "1252801"
     },
     {
         "id": "哲學系",
@@ -303,7 +314,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061859/local_syllabus/attachment/34792/114%E5%AD%B8%E5%B9%B4%E5%8F%B0%E7%81%A3%E5%93%B2%E5%AD%B8%E6%A6%82%E8%AB%96%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "屬「經典哲學家與哲學史」領域。"
+        "memo": "屬「經典哲學家與哲學史」領域。",
+        "code": "1252935"
     },
     {
         "id": "哲學系",
@@ -321,7 +333,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1253316_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1253316"
     },
     {
         "id": "哲學系",
@@ -339,7 +352,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1253745_01",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "1253745"
     },
     {
         "id": "哲學系",
@@ -368,7 +382,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059827/local_syllabus/attachment/34692/%E5%BD%8C%E7%88%BE%202026%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20.doc",
         "targetGrade": "3",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "1253923"
     },
     {
         "id": "哲學系",
@@ -386,7 +401,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061683/local_syllabus/attachment/34780/Simon%20Weil%E5%A5%B3%E6%80%A7%E5%93%B2%E5%AD%B8%E5%AE%B6%E5%A4%A7%E7%B6%B12026.doc",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": "屬「經典哲學家與哲學史」。"
+        "memo": "屬「經典哲學家與哲學史」。",
+        "code": "1253932"
     },
     {
         "id": "哲學系",
@@ -404,6 +420,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1254347_01",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "1254347"
     }
 ]

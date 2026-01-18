@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4301001_01",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4301001"
     },
     {
         "id": "通訊工程學系",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4301003_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "4301003"
     },
     {
         "id": "通訊工程學系",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4301006_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "4301006"
     },
     {
         "id": "通訊工程學系",
@@ -69,7 +72,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4302010_01",
         "targetGrade": "2",
         "capacity": "100",
-        "memo": ""
+        "memo": "",
+        "code": "4302010"
     },
     {
         "id": "通訊工程學系",
@@ -87,7 +91,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4302011_01",
         "targetGrade": "2",
         "capacity": "25",
-        "memo": ""
+        "memo": "",
+        "code": "4302011"
     },
     {
         "id": "通訊工程學系",
@@ -105,7 +110,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051449/local_syllabus/attachment/34339/%E9%99%B3%E4%BF%8A%E5%AE%8F_%E9%9B%BB%E5%AD%90%E5%AD%B8%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.docx",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4302012"
     },
     {
         "id": "通訊工程學系",
@@ -123,7 +129,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4302012_02",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "4302012"
     },
     {
         "id": "通訊工程學系",
@@ -141,7 +148,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075661/local_syllabus/attachment/35383/%E9%9B%BB%E5%B7%A5%E5%AF%A6%E9%A9%97%28%E4%BA%8C%29__%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4302013"
     },
     {
         "id": "通訊工程學系",
@@ -159,7 +167,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051222/local_syllabus/attachment/34332/4302015--%E6%A9%9F%E7%8E%87-%E8%98%87%E7%9B%8A%E7%94%9F%E8%80%81%E5%B8%AB.docx",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4302015"
     },
     {
         "id": "通訊工程學系",
@@ -177,7 +186,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,Computer%20Organization%20and%20Design:%20The%20Hardware/Software%20Interface,%20MIPS%20edition&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4302016"
     },
     {
         "id": "通訊工程學系",
@@ -195,7 +205,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4302017_01",
         "targetGrade": "2",
         "capacity": "100",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4302017"
     },
     {
         "id": "通訊工程學系",
@@ -226,7 +237,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051324/local_syllabus/attachment/34335/%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E5%B0%8E%E8%AB%96%20%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E8%A1%A8%202026.doc",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "與電機併班上課"
+        "memo": "與電機併班上課",
+        "code": "4302019"
     },
     {
         "id": "通訊工程學系",
@@ -244,7 +256,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4302020_01",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": "限本系生修"
+        "memo": "限本系生修",
+        "code": "4302020"
     },
     {
         "id": "通訊工程學系",
@@ -262,7 +275,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303010_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "4303010"
     },
     {
         "id": "通訊工程學系",
@@ -280,7 +294,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303012_01",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "4303012"
     },
     {
         "id": "通訊工程學系",
@@ -298,7 +313,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303015_01",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "4303015"
     },
     {
         "id": "通訊工程學系",
@@ -316,7 +332,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303016_01",
         "targetGrade": "3",
         "capacity": "7",
-        "memo": ""
+        "memo": "",
+        "code": "4303016"
     },
     {
         "id": "通訊工程學系",
@@ -334,7 +351,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303027_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "4303027"
     },
     {
         "id": "通訊工程學系",
@@ -352,7 +370,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303028_01",
         "targetGrade": "3",
         "capacity": "13",
-        "memo": ""
+        "memo": "",
+        "code": "4303028"
     },
     {
         "id": "通訊工程學系",
@@ -370,7 +389,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303029_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4303029"
     },
     {
         "id": "通訊工程學系",
@@ -388,7 +408,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303030_01",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "4303030"
     },
     {
         "id": "通訊工程學系",
@@ -406,7 +427,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303031_01",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "4303031"
     },
     {
         "id": "通訊工程學系",
@@ -424,7 +446,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,%E8%87%AA%E7%B7%A8%E6%95%99%E6%9D%90&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4303035"
     },
     {
         "id": "通訊工程學系",
@@ -442,7 +465,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303036_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "4303036"
     },
     {
         "id": "通訊工程學系",
@@ -460,7 +484,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303038_01",
         "targetGrade": "3",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "4303038"
     },
     {
         "id": "通訊工程學系",
@@ -478,7 +503,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4303049_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4303049"
     },
     {
         "id": "通訊工程學系",
@@ -496,6 +522,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4304004_01",
         "targetGrade": "4",
         "capacity": "40",
-        "memo": ""
+        "memo": "",
+        "code": "4304004"
     }
 ]

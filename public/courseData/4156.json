@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155108_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四要修須跟授課教師討論。"
+        "memo": "限本系生修.大四要修須跟授課教師討論。",
+        "code": "4155108"
     },
     {
         "id": "電機工程研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155125_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155125"
     },
     {
         "id": "電機工程研究所",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155306_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155306"
     },
     {
         "id": "電機工程研究所",
@@ -77,7 +80,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074768/local_syllabus/attachment/35350/%E7%A0%94%E7%A9%B6%E6%89%80%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E5%9C%96%E5%BD%A2%E8%AD%98%E5%88%A5_114-2.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修。"
+        "memo": "限本系生修.大四不可修。",
+        "code": "4155310"
     },
     {
         "id": "電機工程研究所",
@@ -95,7 +99,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155402_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155402"
     },
     {
         "id": "電機工程研究所",
@@ -113,7 +118,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155517_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155517"
     },
     {
         "id": "電機工程研究所",
@@ -131,7 +137,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155529_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155529"
     },
     {
         "id": "電機工程研究所",
@@ -149,7 +156,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155531_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修。"
+        "memo": "限本系生修.大四不可修。",
+        "code": "4155531"
     },
     {
         "id": "電機工程研究所",
@@ -167,7 +175,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4155549_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4155549"
     },
     {
         "id": "電機工程研究所",
@@ -185,7 +194,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156002_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，與通訊所併班上課。"
+        "memo": "限本系生修.大四不可修，與通訊所併班上課。",
+        "code": "4156002"
     },
     {
         "id": "電機工程研究所",
@@ -203,7 +213,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156028_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限信號與智慧計算組研究生修習。"
+        "memo": "限本系生修.大四不可修，限信號與智慧計算組研究生修習。",
+        "code": "4156028"
     },
     {
         "id": "電機工程研究所",
@@ -221,7 +232,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156029_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限晶片系統組研究生修習。"
+        "memo": "限本系生修.大四不可修，限晶片系統組研究生修習。",
+        "code": "4156029"
     },
     {
         "id": "電機工程研究所",
@@ -239,7 +251,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156033_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。",
+        "code": "4156033"
     },
     {
         "id": "電機工程研究所",
@@ -257,7 +270,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156036_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。",
+        "code": "4156036"
     },
     {
         "id": "電機工程研究所",
@@ -275,7 +289,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156038_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電力與電能處理乙組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電力與電能處理乙組研究生修習。",
+        "code": "4156038"
     },
     {
         "id": "電機工程研究所",
@@ -293,7 +308,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156041_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電力與電能處理甲組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電力與電能處理甲組研究生修習。",
+        "code": "4156041"
     },
     {
         "id": "電機工程研究所",
@@ -311,7 +327,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156042_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電力與電能處理乙組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電力與電能處理乙組研究生修習。",
+        "code": "4156042"
     },
     {
         "id": "電機工程研究所",
@@ -329,7 +346,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156044_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。"
+        "memo": "限本系生修.大四不可修，限電磁晶片組研究生修習。",
+        "code": "4156044"
     },
     {
         "id": "電機工程研究所",
@@ -347,7 +365,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156130_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修。"
+        "memo": "限本系生修.大四不可修。",
+        "code": "4156130"
     },
     {
         "id": "電機工程研究所",
@@ -365,7 +384,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156321_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修.大四不可修。"
+        "memo": "限本系生修.大四不可修。",
+        "code": "4156321"
     },
     {
         "id": "電機工程研究所",
@@ -383,7 +403,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156325_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4156325"
     },
     {
         "id": "電機工程研究所",
@@ -412,7 +433,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075283/local_syllabus/attachment/35365/%E9%99%B3%E4%BF%8A%E5%AE%8F_%E7%94%9F%E9%86%AB%E6%99%B6%E7%89%87%E7%B3%BB%E7%B5%B1%20%E7%A0%94%E7%A9%B6%E6%89%80%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88-113.9.10.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4156340"
     },
     {
         "id": "電機工程研究所",
@@ -430,7 +452,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156502_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4156502"
     },
     {
         "id": "電機工程研究所",
@@ -448,7 +471,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4156505_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4156505"
     },
     {
         "id": "電機工程研究所",
@@ -466,7 +490,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4157022_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4157022"
     },
     {
         "id": "電機工程研究所",
@@ -484,6 +509,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4158815_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "4158815"
     }
 ]

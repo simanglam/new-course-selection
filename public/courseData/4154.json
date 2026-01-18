@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4151008_01",
         "targetGrade": "1",
         "capacity": "100",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "4151008"
     },
     {
         "id": "電機工程學系",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4151010_02",
         "targetGrade": "1",
         "capacity": "48",
-        "memo": ""
+        "memo": "",
+        "code": "4151010"
     },
     {
         "id": "電機工程學系",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4151010_01",
         "targetGrade": "1",
         "capacity": "48",
-        "memo": ""
+        "memo": "",
+        "code": "4151010"
     },
     {
         "id": "電機工程學系",
@@ -69,7 +72,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4151011_01",
         "targetGrade": "1",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "4151011"
     },
     {
         "id": "電機工程學系",
@@ -87,7 +91,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4152005_01",
         "targetGrade": "2",
         "capacity": "40",
-        "memo": "與通訊系併班上課。"
+        "memo": "與通訊系併班上課。",
+        "code": "4152005"
     },
     {
         "id": "電機工程學系",
@@ -105,7 +110,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034655/local_syllabus/attachment/33853/%E9%99%B3%E4%BF%8A%E5%AE%8F_%E9%9B%BB%E5%AD%90%E5%AD%B8%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.docx",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": "與通訊系併班上課。"
+        "memo": "與通訊系併班上課。",
+        "code": "4152007"
     },
     {
         "id": "電機工程學系",
@@ -123,7 +129,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4152007_02",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": "與通訊系併班上課。"
+        "memo": "與通訊系併班上課。",
+        "code": "4152007"
     },
     {
         "id": "電機工程學系",
@@ -141,7 +148,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4152008_01",
         "targetGrade": "2",
         "capacity": "100",
-        "memo": ""
+        "memo": "",
+        "code": "4152008"
     },
     {
         "id": "電機工程學系",
@@ -159,7 +167,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075812/local_syllabus/attachment/35395/%E9%9B%BB%E5%B7%A5%E5%AF%A6%E9%A9%97%28%E4%BA%8C%29__%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "4152010"
     },
     {
         "id": "電機工程學系",
@@ -177,7 +186,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4152019_01",
         "targetGrade": "2",
         "capacity": "150",
-        "memo": ""
+        "memo": "",
+        "code": "4152019"
     },
     {
         "id": "電機工程學系",
@@ -195,7 +205,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034669/local_syllabus/attachment/33854/%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E5%B0%8E%E8%AB%96%20%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E8%A1%A8%202026.doc",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "理工科系學生可選修"
+        "memo": "理工科系學生可選修",
+        "code": "4152801"
     },
     {
         "id": "電機工程學系",
@@ -213,7 +224,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153011_01",
         "targetGrade": "2",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "4153011"
     },
     {
         "id": "電機工程學系",
@@ -231,7 +243,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153013_01",
         "targetGrade": "3",
         "capacity": "48",
-        "memo": ""
+        "memo": "",
+        "code": "4153013"
     },
     {
         "id": "電機工程學系",
@@ -249,7 +262,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153014_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(4153206)超大型積體電路設計導論(及格)"
+        "memo": "先修科目(4153206)超大型積體電路設計導論(及格)",
+        "code": "4153014"
     },
     {
         "id": "電機工程學系",
@@ -267,7 +281,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153016_01",
         "targetGrade": "3",
         "capacity": "7",
-        "memo": ""
+        "memo": "",
+        "code": "4153016"
     },
     {
         "id": "電機工程學系",
@@ -285,7 +300,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153017_01",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "4153017"
     },
     {
         "id": "電機工程學系",
@@ -303,7 +319,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153018_01",
         "targetGrade": "3",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "4153018"
     },
     {
         "id": "電機工程學系",
@@ -321,7 +338,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153201_01",
         "targetGrade": "2",
         "capacity": "100",
-        "memo": ""
+        "memo": "",
+        "code": "4153201"
     },
     {
         "id": "電機工程學系",
@@ -339,7 +357,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153207_01",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "4153207"
     },
     {
         "id": "電機工程學系",
@@ -357,7 +376,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153209_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4153209"
     },
     {
         "id": "電機工程學系",
@@ -375,7 +395,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153213_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4153213"
     },
     {
         "id": "電機工程學系",
@@ -393,7 +414,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153228_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4153228"
     },
     {
         "id": "電機工程學系",
@@ -411,7 +433,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153234_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4153234"
     },
     {
         "id": "電機工程學系",
@@ -429,7 +452,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153244_01",
         "targetGrade": "4",
         "capacity": "60",
-        "memo": "與通訊系併班上課。"
+        "memo": "與通訊系併班上課。",
+        "code": "4153244"
     },
     {
         "id": "電機工程學系",
@@ -447,7 +471,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153251_01",
         "targetGrade": "3",
         "capacity": "4",
-        "memo": ""
+        "memo": "",
+        "code": "4153251"
     },
     {
         "id": "電機工程學系",
@@ -465,7 +490,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153252_01",
         "targetGrade": "3",
         "capacity": "7",
-        "memo": "與通訊系併班上課。"
+        "memo": "與通訊系併班上課。",
+        "code": "4153252"
     },
     {
         "id": "電機工程學系",
@@ -483,7 +509,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153300_01",
         "targetGrade": "3",
         "capacity": "65",
-        "memo": ""
+        "memo": "",
+        "code": "4153300"
     },
     {
         "id": "電機工程學系",
@@ -501,7 +528,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153306_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4153306"
     },
     {
         "id": "電機工程學系",
@@ -519,7 +547,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153307_01",
         "targetGrade": "3",
         "capacity": "4",
-        "memo": ""
+        "memo": "",
+        "code": "4153307"
     },
     {
         "id": "電機工程學系",
@@ -537,7 +566,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153308_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4153308"
     },
     {
         "id": "電機工程學系",
@@ -555,7 +585,8 @@
         "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,Computer%20Organization%20and%20Design:%20The%20Hardware/Software%20Interface,%20MIPS%20edition&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4153901"
     },
     {
         "id": "電機工程學系",
@@ -573,7 +604,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153906_01",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "4153906"
     },
     {
         "id": "電機工程學系",
@@ -591,7 +623,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153909_01",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "4153909"
     },
     {
         "id": "電機工程學系",
@@ -609,7 +642,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153917_01",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "4153917"
     },
     {
         "id": "電機工程學系",
@@ -627,7 +661,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4153921_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "4153921"
     },
     {
         "id": "電機工程學系",
@@ -645,6 +680,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4154028_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(4153206)超大型積體電路設計導論(及格)"
+        "memo": "先修科目(4153206)超大型積體電路設計導論(及格)",
+        "code": "4154028"
     }
 ]

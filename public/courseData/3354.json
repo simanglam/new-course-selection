@@ -24,7 +24,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041294/local_syllabus/attachment/34059/index.commhistory_syllabus.docx",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3351005"
     },
     {
         "id": "傳播學系",
@@ -42,7 +43,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3351014_01",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": ""
+        "memo": "",
+        "code": "3351014"
     },
     {
         "id": "傳播學系",
@@ -73,7 +75,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041114/local_syllabus/attachment/34052/114-2%E6%96%B0%E8%81%9E%E6%8E%A1%E8%A8%AA%E5%AF%AB%E4%BD%9C.docx",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "先修科目(3351006)基礎寫作(及格)限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。"
+        "memo": "先修科目(3351006)基礎寫作(及格)限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。",
+        "code": "3351026"
     },
     {
         "id": "傳播學系",
@@ -91,7 +94,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041136/local_syllabus/attachment/34053/%E6%96%B0%E8%81%9E%E6%8E%A1%E8%A8%AA%E5%AF%AB%E4%BD%9C%E8%AA%B2%E7%B6%B1-%E6%98%9F%E7%8F%AD26.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "先修科目(3351006)基礎寫作(及格)限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。"
+        "memo": "先修科目(3351006)基礎寫作(及格)限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。",
+        "code": "3351026"
     },
     {
         "id": "傳播學系",
@@ -109,7 +113,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3351027_01",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。"
+        "memo": "限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。",
+        "code": "3351027"
     },
     {
         "id": "傳播學系",
@@ -127,7 +132,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041197/local_syllabus/attachment/34055/%E5%9F%BA%E7%A4%8E%E8%B3%87%E8%A8%8A%E8%A3%BD%E4%BD%9C-%E6%98%9F%E7%8F%AD26.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。"
+        "memo": "限本系生修.本課程分01、02班，各班限修人數35名，請學號單數號選修01班，雙數號選修02班。",
+        "code": "3351027"
     },
     {
         "id": "傳播學系",
@@ -145,7 +151,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3351028_01",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "限本系生修.本課程與「社會學與傳播」、「政治學與傳播」、「經濟學與傳播」為必修四選二課程。不得與通識「心理學」重複採計學分。"
+        "memo": "限本系生修.本課程與「社會學與傳播」、「政治學與傳播」、「經濟學與傳播」為必修四選二課程。不得與通識「心理學」重複採計學分。",
+        "code": "3351028"
     },
     {
         "id": "傳播學系",
@@ -163,7 +170,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3351029_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3351029"
     },
     {
         "id": "傳播學系",
@@ -191,7 +199,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043479/local_syllabus/attachment/34100/index.pdf",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": ""
+        "memo": "",
+        "code": "3351030"
     },
     {
         "id": "傳播學系",
@@ -219,7 +228,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041277/local_syllabus/attachment/34058/114-2%E9%80%B2%E9%9A%8E%E5%BD%B1%E5%83%8F%E8%A3%BD%E4%BD%9C.doc",
         "targetGrade": "1",
         "capacity": "55",
-        "memo": "先修科目(3351023)基礎影像製作(及格)"
+        "memo": "先修科目(3351023)基礎影像製作(及格)",
+        "code": "3351033"
     },
     {
         "id": "傳播學系",
@@ -237,7 +247,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352007_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3352007"
     },
     {
         "id": "傳播學系",
@@ -264,7 +275,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044112/local_syllabus/attachment/34109/114-2%20%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E8%88%87%E7%A4%BE%E6%9C%83%28%E5%88%9D%E7%89%88%29.pdf",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": "本課程列入「戲劇.創意.想像」學分學程"
+        "memo": "本課程列入「戲劇.創意.想像」學分學程",
+        "code": "3352022"
     },
     {
         "id": "傳播學系",
@@ -282,7 +294,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352024_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3352024"
     },
     {
         "id": "傳播學系",
@@ -300,7 +313,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352030_01",
         "targetGrade": "2",
         "capacity": "50",
-        "memo": "先修科目(3351025)創意短片製作(及格)(3351031)短片創意製作(及格)(只要符合任一先修條件)"
+        "memo": "先修科目(3351025)創意短片製作(及格)(3351031)短片創意製作(及格)(只要符合任一先修條件)",
+        "code": "3352030"
     },
     {
         "id": "傳播學系",
@@ -330,7 +344,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043553/local_syllabus/attachment/34104/%E5%BB%A3%E5%91%8A%E5%89%B5%E6%84%8F%E8%88%87%E8%A3%BD%E4%BD%9C%E8%AA%B2%E7%B6%B1%202026.pdf",
         "targetGrade": "2",
         "capacity": "24",
-        "memo": ""
+        "memo": "",
+        "code": "3352031"
     },
     {
         "id": "傳播學系",
@@ -348,7 +363,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352033_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "3352033"
     },
     {
         "id": "傳播學系",
@@ -366,7 +382,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352039_01",
         "targetGrade": "2",
         "capacity": "55",
-        "memo": "限本系生修.本課程與「社會學與傳播」、「心理學與傳播」、「政治學與傳播」為必修四選二課程，不得與通識「經濟學」重複採計學分。"
+        "memo": "限本系生修.本課程與「社會學與傳播」、「心理學與傳播」、「政治學與傳播」為必修四選二課程，不得與通識「經濟學」重複採計學分。",
+        "code": "3352039"
     },
     {
         "id": "傳播學系",
@@ -384,7 +401,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3352044_01",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "3352044"
     },
     {
         "id": "傳播學系",
@@ -415,7 +433,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043783/local_syllabus/attachment/34108/114-2%20%E5%A4%A7%E7%B6%B1%E5%9C%96%E8%A1%A8.pdf",
         "targetGrade": "2",
         "capacity": "24",
-        "memo": ""
+        "memo": "",
+        "code": "3352047"
     },
     {
         "id": "傳播學系",
@@ -433,7 +452,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043488/local_syllabus/attachment/34101/%E9%81%8B%E5%8B%95%E8%BD%89%E6%92%AD%E5%AF%A6%E5%8B%99%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "2",
         "capacity": "24",
-        "memo": "先修科目(3352046)影棚製作實務(及格)"
+        "memo": "先修科目(3352046)影棚製作實務(及格)",
+        "code": "3352051"
     },
     {
         "id": "傳播學系",
@@ -451,7 +471,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3353007_01",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": "先修科目(3351026)新聞採訪寫作(及格)"
+        "memo": "先修科目(3351026)新聞採訪寫作(及格)",
+        "code": "3353007"
     },
     {
         "id": "傳播學系",
@@ -469,7 +490,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3353025_01",
         "targetGrade": "3",
         "capacity": "50",
-        "memo": "先修科目(3351026)新聞採訪寫作(及格)"
+        "memo": "先修科目(3351026)新聞採訪寫作(及格)",
+        "code": "3353025"
     },
     {
         "id": "傳播學系",
@@ -487,6 +509,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053941/local_syllabus/attachment/34438/%E7%95%A2%E6%A5%AD%E8%A3%BD%E4%BD%9C2.doc",
         "targetGrade": "4",
         "capacity": "50",
-        "memo": "先修科目(3353007)校內實習（二）(及格)(3353002)校內實習（一）(及格)(所有先修條件都必須符合)"
+        "memo": "先修科目(3353007)校內實習（二）(及格)(3353002)校內實習（一）(及格)(所有先修條件都必須符合)",
+        "code": "3354016"
     }
 ]

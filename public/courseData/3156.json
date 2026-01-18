@@ -27,7 +27,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062917/local_syllabus/attachment/34841/Course%20outline%202025-26%20Sem%20B.pdf",
         "targetGrade": "1",
         "capacity": "80",
-        "memo": "第一堂課會進行基礎能力評估(務必出席)，未達評估標準建議先修習「心理及教育統計學(一)及(二)」。開放大三、大四選修。"
+        "memo": "第一堂課會進行基礎能力評估(務必出席)，未達評估標準建議先修習「心理及教育統計學(一)及(二)」。開放大三、大四選修。",
+        "code": "3155017"
     },
     {
         "id": "心理學研究所",
@@ -58,7 +59,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063015/local_syllabus/attachment/34842/%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6_%E9%AB%98%E9%BD%A1%E5%81%A5%E5%BA%B7%E4%BF%83%E9%80%B2%E5%B0%88%E9%A1%8C%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "開放大三大四選修。"
+        "memo": "開放大三大四選修。",
+        "code": "3155037"
     },
     {
         "id": "心理學研究所",
@@ -86,7 +88,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063064/local_syllabus/attachment/34846/114-2%20%E7%A4%BE%E6%9C%83%E8%AA%8D%E7%9F%A5%E7%99%BC%E5%B1%95_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": "大三大四修畢發展心理學可選修。發展心理學課群。"
+        "memo": "大三大四修畢發展心理學可選修。發展心理學課群。",
+        "code": "3155315"
     },
     {
         "id": "心理學研究所",
@@ -104,7 +107,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3155527_01",
         "targetGrade": "1",
         "capacity": "40",
-        "memo": "做動物實驗同學必修、開放大學部選修。生物心理學課群。"
+        "memo": "做動物實驗同學必修、開放大學部選修。生物心理學課群。",
+        "code": "3155527"
     },
     {
         "id": "心理學研究所",
@@ -130,7 +134,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063131/local_syllabus/attachment/34849/Advanced%20OB_2026.doc",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "社會心理學課群。"
+        "memo": "社會心理學課群。",
+        "code": "3155706"
     },
     {
         "id": "心理學研究所",
@@ -158,7 +163,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063158/local_syllabus/attachment/34850/%E9%97%87%E9%BB%91%E6%80%A7%E6%A0%BC%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B11142_finala.pdf",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": "開放大三、大四選修。社會心理學課群。"
+        "memo": "開放大三、大四選修。社會心理學課群。",
+        "code": "3155719"
     },
     {
         "id": "心理學研究所",
@@ -184,7 +190,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063176/local_syllabus/attachment/34852/1122%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "獨立研究、社會心理學課群。開放大三大四選修。"
+        "memo": "獨立研究、社會心理學課群。開放大三大四選修。",
+        "code": "3156804"
     },
     {
         "id": "心理學研究所",
@@ -208,7 +215,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063186/local_syllabus/attachment/34853/114-2%20%E5%B0%88%E9%A1%8C%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6-%E5%BF%83%E7%90%86%E6%B8%AC%E9%87%8F%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "專題獨立研究、計量與方法課群。"
+        "memo": "專題獨立研究、計量與方法課群。",
+        "code": "3156922"
     },
     {
         "id": "心理學研究所",
@@ -226,7 +234,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157108_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "3157108"
     },
     {
         "id": "心理學研究所",
@@ -253,7 +262,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063236/local_syllabus/attachment/34855/Course%20outline%202025-26%20Sem%20B%20r.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "學生須具有研究方法、心理計量與統計的基本概念; 開放大三大四選修。計量與方法課群。"
+        "memo": "學生須具有研究方法、心理計量與統計的基本概念; 開放大三大四選修。計量與方法課群。",
+        "code": "3157120"
     },
     {
         "id": "心理學研究所",
@@ -281,7 +291,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063245/local_syllabus/attachment/34856/Introduction%20to%20EEG%20and%20ERP%20Analysis.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "開放大三大四選修。認知心理學課群。"
+        "memo": "開放大三大四選修。認知心理學課群。",
+        "code": "3157318"
     },
     {
         "id": "心理學研究所",
@@ -306,7 +317,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063254/local_syllabus/attachment/34857/%E5%B7%A5%E5%95%86%E5%BF%83%E7%90%86%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%EF%BC%89_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "社會心理學課群。"
+        "memo": "社會心理學課群。",
+        "code": "3157703"
     },
     {
         "id": "心理學研究所",
@@ -324,7 +336,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157715_01",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "社會心理學、計量與方法課群。"
+        "memo": "社會心理學、計量與方法課群。",
+        "code": "3157715"
     },
     {
         "id": "心理學研究所",
@@ -342,7 +355,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157716_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "社會心理學課群。"
+        "memo": "社會心理學課群。",
+        "code": "3157716"
     },
     {
         "id": "心理學研究所",
@@ -370,7 +384,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063351/local_syllabus/attachment/34860/114-2_%E6%B8%AC%E9%A9%97%E7%B7%A8%E8%A3%BD%E8%88%87%E5%88%86%E6%9E%90_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "計量與方法課群。"
+        "memo": "計量與方法課群。",
+        "code": "3157805"
     },
     {
         "id": "心理學研究所",
@@ -388,7 +403,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063401/local_syllabus/attachment/34861/%E5%8F%B8%E5%BF%83%E5%B0%88%E9%A1%8C%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B62026.docx",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": "社會心理學課群。"
+        "memo": "社會心理學課群。",
+        "code": "3158711"
     },
     {
         "id": "心理學研究所",
@@ -406,6 +422,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3159003_01",
         "targetGrade": "1",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "3159003"
     }
 ]

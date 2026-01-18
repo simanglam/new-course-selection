@@ -29,7 +29,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081133/local_syllabus/attachment/35594/2025-2026%20Sem%202%20Online%20Research%20and%20Academic%20Writing.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "360A003"
     },
     {
         "id": "(專)教育專業與學校領導數位學習碩士在職專班",
@@ -56,7 +57,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077565/local_syllabus/attachment/35489/%2820260114%29Transformative%20Learning%20Through%20Community%20Syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "360A004"
     },
     {
         "id": "(專)教育專業與學校領導數位學習碩士在職專班",
@@ -80,6 +82,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077099/local_syllabus/attachment/35449/Research%20and%20Academic%20Writing%202026.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "360A011"
     }
 ]

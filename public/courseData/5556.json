@@ -28,7 +28,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054377/local_syllabus/attachment/34457/Syllabus%28Master%29_MDA_2026.docx",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修.本門課程需先通過統計學(一)課程，並且成績達 60 分以上，方可選修。"
+        "memo": "限本系生修.本門課程需先通過統計學(一)課程，並且成績達 60 分以上，方可選修。",
+        "code": "5555013"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -46,7 +47,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555017_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "外籍生(含交換外籍生)不得選修本門課程"
+        "memo": "外籍生(含交換外籍生)不得選修本門課程",
+        "code": "5555017"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -64,7 +66,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555029_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": ""
+        "memo": "",
+        "code": "5555029"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -82,7 +85,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555039_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": ""
+        "memo": "",
+        "code": "5555039"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -110,7 +114,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054438/local_syllabus/attachment/34461/%E9%86%AB%E5%8B%99%E7%AE%A1%E7%90%86114-2.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "5555049"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -138,7 +143,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054466/local_syllabus/attachment/34462/%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%9A%AA114-2.docx",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "5555050"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -167,7 +173,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054695/local_syllabus/attachment/34477/syl-S2026-EngWriting.docx",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": ""
+        "memo": "",
+        "code": "5555054"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -185,7 +192,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555075_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5555075"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -209,7 +217,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054823/local_syllabus/attachment/34485/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%B3%87%E7%AE%A1%E7%B3%BB%E6%89%80%28%E5%90%AB%E9%86%AB%E8%B3%87%E7%AE%A1%E6%89%80%29%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%A4%96%E5%AF%A6%E7%BF%92%E6%89%8B%E5%86%8A115.pdf",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5555127"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -227,7 +236,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555128_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": "外籍生(含交換外籍生)不得選修本門課程"
+        "memo": "外籍生(含交換外籍生)不得選修本門課程",
+        "code": "5555128"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -245,7 +255,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5557001_01",
         "targetGrade": "1",
         "capacity": "65",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5557001"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -263,7 +274,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5557005_01",
         "targetGrade": "1",
         "capacity": "50",
-        "memo": ""
+        "memo": "",
+        "code": "5557005"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -287,7 +299,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054734/local_syllabus/attachment/34480/MS%20or%20MA%20Program%20Syllabus.%20Information%20Technology%20and%20Innovation.pdf",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": ""
+        "memo": "",
+        "code": "5557006"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -305,7 +318,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558001_01",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "限本系生修.本門課程需先通過資料庫管理、系統分析與設計2門課程，且成績達 70分以上，方可選修。"
+        "memo": "限本系生修.本門課程需先通過資料庫管理、系統分析與設計2門課程，且成績達 70分以上，方可選修。",
+        "code": "5558001"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -334,7 +348,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054660/local_syllabus/attachment/34473/Syllabus%28PhD%29_ADSS_2026.docx",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5558002"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -363,7 +378,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054668/local_syllabus/attachment/34474/%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98%E8%88%87%E7%AE%A1%E7%90%86%28%E5%8D%9A%E5%A3%AB%E7%8F%AD%29114-2.docx",
         "targetGrade": "1",
         "capacity": "15",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5558003"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -381,7 +397,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558004_01",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5558004"
     },
     {
         "id": "醫療資訊管理研究所",
@@ -399,6 +416,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558005_01",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5558005"
     }
 ]

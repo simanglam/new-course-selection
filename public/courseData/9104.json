@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101007_01",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "先修科目(7102111)實用英語表達（基礎班）(及格)(7102121)實用英語技巧（強化班）(及格)(只要符合任一先修條件)限本系生修.外系學生須曾修習【7102111】實用英語表達(基礎班)或【7102121】實用英語技巧(強化班)達及格標準"
+        "memo": "先修科目(7102111)實用英語表達（基礎班）(及格)(7102121)實用英語技巧（強化班）(及格)(只要符合任一先修條件)限本系生修.外系學生須曾修習【7102111】實用英語表達(基礎班)或【7102121】實用英語技巧(強化班)達及格標準",
+        "code": "9101007"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101008_01",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "先修科目(9101002)紫荊學習規劃(一)(曾經修習)限本系生修."
+        "memo": "先修科目(9101002)紫荊學習規劃(一)(曾經修習)限本系生修.",
+        "code": "9101008"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -62,7 +64,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029376/local_syllabus/attachment/33765/%E4%B8%8D%E5%88%86%E7%B3%BB%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%28%E6%96%B0%E7%89%88%29%E8%81%B7%E6%B6%AF%E6%8E%A2%E7%B4%A2114-2.docx",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "限本系生修.已修習通識課「職涯規劃」(課碼:7407013)者，請勿選修。"
+        "memo": "限本系生修.已修習通識課「職涯規劃」(課碼:7407013)者，請勿選修。",
+        "code": "9101009"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -92,7 +95,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026622/local_syllabus/attachment/33688/EMI_%E4%B8%8D%E5%88%86%E7%B3%BB%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1AI_2026.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(9101004)運算思維與程式設計(曾經修習)限本系生修."
+        "memo": "先修科目(9101004)運算思維與程式設計(曾經修習)限本系生修.",
+        "code": "9101010"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -119,7 +123,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023460/local_syllabus/attachment/33585/%E7%B4%AB%E8%8D%8A_%E5%BF%83%E7%90%86%E5%AD%B8%E7%B7%92%E8%AB%96_%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_114-2.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "心理學系不得選修,犯罪防治學系不得選修;已選修通識課「心理學緒論」(7401002)同學請勿選修。"
+        "memo": "心理學系不得選修,犯罪防治學系不得選修;已選修通識課「心理學緒論」(7401002)同學請勿選修。",
+        "code": "9101015"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -137,7 +142,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101016_01",
         "targetGrade": "1",
         "capacity": "62",
-        "memo": ""
+        "memo": "",
+        "code": "9101016"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -172,7 +178,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028189/local_syllabus/attachment/33760/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_114_%E4%B8%8D%E5%88%86%E7%B3%BB_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E7%9A%84%E7%A7%91%E5%AD%B8%E6%8A%80%E8%A1%93%E8%88%87%E7%A4%BE%E6%9C%83_20260110.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "9101020"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -199,7 +206,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027966/local_syllabus/attachment/33740/114-2%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E7%A7%91%E5%AD%B8%E8%88%87%E6%8A%80%E8%A1%93%E9%80%9A%E8%AB%96%28%E4%BA%8C%29%28%E7%AC%AC%E5%9B%9B%E7%89%88%E4%BF%AE%E6%AD%A3%29_Final.docx",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "9101030"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -217,7 +225,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101031_01",
         "targetGrade": "1",
         "capacity": "62",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "9101031"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -253,7 +262,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028634/local_syllabus/attachment/33763/%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%B6%93%E5%85%B8%E9%96%B1%E8%AE%80%EF%BC%88%E4%BA%8C%EF%BC%89_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_%E6%A8%99%E6%BA%96%E7%89%88_114-2.pdf",
         "targetGrade": "1",
         "capacity": "62",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "9101032"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -279,7 +289,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053959/local_syllabus/attachment/34440/1142%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E7%B5%B1%E8%A8%88%E5%AD%B8.docx",
         "targetGrade": "1",
         "capacity": "62",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "9101033"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -308,7 +319,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026766/local_syllabus/attachment/33691/1142%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%28%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E8%88%87%E8%A8%AD%E8%A8%88%29.docx",
         "targetGrade": "2",
         "capacity": "47",
-        "memo": ""
+        "memo": "",
+        "code": "9102012"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -335,7 +347,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026857/local_syllabus/attachment/33693/%28%E9%AD%8F%E5%AF%B6%E7%94%9F%20%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-2%E3%80%8C%E6%B0%B8%E7%BA%8C%E8%88%87%E5%89%B5%E6%96%B0%E7%B6%93%E7%87%9F%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "62",
-        "memo": ""
+        "memo": "",
+        "code": "9102013"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -367,7 +380,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027770/local_syllabus/attachment/33732/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC%202%20%E5%AD%B8%E6%9C%9F%E3%80%8C%E6%B0%B8%E7%BA%8C%E8%83%BD%E6%BA%90%E8%88%87%E7%A2%B3%E4%B8%AD%E5%92%8C%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20NEW.docx",
         "targetGrade": "2",
         "capacity": "90",
-        "memo": ""
+        "memo": "",
+        "code": "9102018"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -397,7 +411,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026734/local_syllabus/attachment/33690/114-2%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%88%87ESG%29%20%284%29%20%282%29.docx",
         "targetGrade": "2",
         "capacity": "62",
-        "memo": ""
+        "memo": "",
+        "code": "9102023"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -430,7 +445,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027761/local_syllabus/attachment/33731/%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96_20260111.pdf",
         "targetGrade": "2",
         "capacity": "20",
-        "memo": "限本系生修.第一階段選課限中文系、不分系學生選修，各限20人。"
+        "memo": "限本系生修.第一階段選課限中文系、不分系學生選修，各限20人。",
+        "code": "9102026"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -448,7 +464,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9103002_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修."
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修.",
+        "code": "9103002"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -466,7 +483,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9103002_02",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修."
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修.",
+        "code": "9103002"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -484,7 +502,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028143/local_syllabus/attachment/33755/%28%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-1%E3%80%8C%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%91%97%E4%BD%9C%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "4",
         "capacity": "30",
-        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.01班指導老師：蔡蕙如 葉亭葶 陳俊益 梁思遠 趙文志 林子綾 崔曉倩"
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.01班指導老師：蔡蕙如 葉亭葶 陳俊益 梁思遠 趙文志 林子綾 崔曉倩",
+        "code": "9104002"
     },
     {
         "id": "紫荊不分系學士學位學程",
@@ -502,6 +521,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028152/local_syllabus/attachment/33756/%28%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-1%E3%80%8C%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%91%97%E4%BD%9C%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "4",
         "capacity": "30",
-        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.02班指導老師：陳俊益 陳慈幸 洪靖 蘇宏仁 張介凡 邱志義 簡廷軒"
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.02班指導老師：陳俊益 陳慈幸 洪靖 蘇宏仁 張介凡 邱志義 簡廷軒",
+        "code": "9104002"
     }
 ]

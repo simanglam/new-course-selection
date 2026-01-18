@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3301007_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "自由選修"
+        "memo": "自由選修",
+        "code": "3301007"
     },
     {
         "id": "政治學系",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3301070_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3301070"
     },
     {
         "id": "政治學系",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3301092_01",
         "targetGrade": "1",
         "capacity": "85",
-        "memo": ""
+        "memo": "",
+        "code": "3301092"
     },
     {
         "id": "政治學系",
@@ -69,7 +72,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302008_01",
         "targetGrade": "2",
         "capacity": "10",
-        "memo": "政治理論與比較政治組、公民與社會組專業選修二擇一"
+        "memo": "政治理論與比較政治組、公民與社會組專業選修二擇一",
+        "code": "3302008"
     },
     {
         "id": "政治學系",
@@ -87,7 +91,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302009_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3302009"
     },
     {
         "id": "政治學系",
@@ -105,7 +110,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302011_01",
         "targetGrade": "2",
         "capacity": "85",
-        "memo": "自由選修"
+        "memo": "自由選修",
+        "code": "3302011"
     },
     {
         "id": "政治學系",
@@ -123,7 +129,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302014_01",
         "targetGrade": "2",
         "capacity": "20",
-        "memo": "自由選修"
+        "memo": "自由選修",
+        "code": "3302014"
     },
     {
         "id": "政治學系",
@@ -141,7 +148,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051567/local_syllabus/attachment/34346/International%20Relations%202025-1.docx",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3302017"
     },
     {
         "id": "政治學系",
@@ -168,7 +176,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070360/local_syllabus/attachment/35162/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%80%AB%E7%90%86%E5%B0%88%E6%9B%B8%E9%81%B8%E8%AE%80_syllabus_S2026.docx",
         "targetGrade": "2",
         "capacity": "15",
-        "memo": "公行與政策組、科技與政治組專選二擇一"
+        "memo": "公行與政策組、科技與政治組專選二擇一",
+        "code": "3302019"
     },
     {
         "id": "政治學系",
@@ -186,7 +195,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302021_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": ""
+        "memo": "",
+        "code": "3302021"
     },
     {
         "id": "政治學系",
@@ -204,7 +214,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074119/local_syllabus/attachment/35319/%E5%9C%8B%E9%9A%9B%E6%94%BF%E6%B2%BB%E5%8F%B2syllabus-2.pdf",
         "targetGrade": "2",
         "capacity": "30",
-        "memo": "國際關係組專業選修"
+        "memo": "國際關係組專業選修",
+        "code": "3302390"
     },
     {
         "id": "政治學系",
@@ -222,7 +233,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302402_01",
         "targetGrade": "2",
         "capacity": "10",
-        "memo": "政治理論與比較政治組、公民社會組專業選修二擇一"
+        "memo": "政治理論與比較政治組、公民社會組專業選修二擇一",
+        "code": "3302402"
     },
     {
         "id": "政治學系",
@@ -240,7 +252,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3302940_01",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "此科為師培「公民與社會專長課程-公民教育理論基礎」課程，若非師培生則為自由選修"
+        "memo": "此科為師培「公民與社會專長課程-公民教育理論基礎」課程，若非師培生則為自由選修",
+        "code": "3302940"
     },
     {
         "id": "政治學系",
@@ -268,7 +281,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051594/local_syllabus/attachment/34349/%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E8%88%87%E8%80%83%E9%8A%93%E5%88%B6%E5%BA%A6%20114-2.pdf",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": "公行與政策組專選"
+        "memo": "公行與政策組專選",
+        "code": "3303008"
     },
     {
         "id": "政治學系",
@@ -298,7 +312,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073751/local_syllabus/attachment/35308/%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0%E8%88%87%E7%A4%BE%E6%9C%83%E4%BC%81%E6%A5%AD%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1%28114%E6%94%BF%E6%B2%BB%E4%B8%89%29.pdf",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": "公行與政策組專選"
+        "memo": "公行與政策組專選",
+        "code": "3303025"
     },
     {
         "id": "政治學系",
@@ -324,7 +339,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074577/local_syllabus/attachment/35344/statistial%20methods%20II.docx",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "實際上課教室為資訊處電腦教室217"
+        "memo": "實際上課教室為資訊處電腦教室217",
+        "code": "3303030"
     },
     {
         "id": "政治學系",
@@ -342,7 +358,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3303030_02",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "實際上課教室為資訊處電腦教室217"
+        "memo": "實際上課教室為資訊處電腦教室217",
+        "code": "3303030"
     },
     {
         "id": "政治學系",
@@ -360,7 +377,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3303040_01",
         "targetGrade": "2",
         "capacity": "45",
-        "memo": "政治理論與比較政治組專選"
+        "memo": "政治理論與比較政治組專選",
+        "code": "3303040"
     },
     {
         "id": "政治學系",
@@ -390,7 +408,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052515/local_syllabus/attachment/34378/%E7%95%B6%E4%BB%A3%E7%A4%BE%E6%9C%83%E5%88%86%E6%9E%90114-2%20%2820251216%29.docx",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": "先修科目(3301130)社會學（二）(及格)(3301003)社會學(及格)(3301100)社會學（一）(及格)(只要符合任一先修條件)112學年度(含)以前入學學生公行與政策組專選，113學年度(含)後入學學生則為自由選修。"
+        "memo": "先修科目(3301130)社會學（二）(及格)(3301003)社會學(及格)(3301100)社會學（一）(及格)(只要符合任一先修條件)112學年度(含)以前入學學生公行與政策組專選，113學年度(含)後入學學生則為自由選修。",
+        "code": "3303645"
     },
     {
         "id": "政治學系",
@@ -408,7 +427,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3303660_01",
         "targetGrade": "3",
         "capacity": "20",
-        "memo": "政治理論與比較政治組專選"
+        "memo": "政治理論與比較政治組專選",
+        "code": "3303660"
     },
     {
         "id": "政治學系",
@@ -426,7 +446,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3303680_01",
         "targetGrade": "3",
         "capacity": "30",
-        "memo": "112學年度入學(含)前學生之公民社會組專選"
+        "memo": "112學年度入學(含)前學生之公民社會組專選",
+        "code": "3303680"
     },
     {
         "id": "政治學系",
@@ -455,7 +476,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069126/local_syllabus/attachment/35116/Global%20Environmental%20Governance_S2026.docx",
         "targetGrade": "4",
         "capacity": "15",
-        "memo": "國際關係組專選"
+        "memo": "國際關係組專選",
+        "code": "3304334"
     },
     {
         "id": "政治學系",
@@ -484,7 +506,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3304380_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": "政治理論與比較政治組、公行與政策組專選二擇一"
+        "memo": "政治理論與比較政治組、公行與政策組專選二擇一",
+        "code": "3304380"
     },
     {
         "id": "政治學系",
@@ -502,6 +525,7 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3304624_01",
         "targetGrade": "4",
         "capacity": "45",
-        "memo": "國際關係組專選"
+        "memo": "國際關係組專選",
+        "code": "3304624"
     }
 ]

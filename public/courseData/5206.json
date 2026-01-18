@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205002_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5205002"
     },
     {
         "id": "企業管理研究所",
@@ -33,7 +34,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205159_01",
         "targetGrade": "1",
         "capacity": "30",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5205159"
     },
     {
         "id": "企業管理研究所",
@@ -51,7 +53,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205211_01",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5205211"
     },
     {
         "id": "企業管理研究所",
@@ -76,7 +79,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075732/local_syllabus/attachment/35391/%E6%96%B0%E5%89%B5%E4%BC%81%E6%A5%AD%E5%80%8B%E6%A1%88%E8%88%87%E5%AF%A6%E5%8B%99%E7%A0%94%E8%A8%8E.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": ""
+        "memo": "",
+        "code": "5205225"
     },
     {
         "id": "企業管理研究所",
@@ -109,7 +113,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070081/local_syllabus/attachment/35145/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "先修科目(5205226)商用英文（一）(及格)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。"
+        "memo": "先修科目(5205226)商用英文（一）(及格)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。",
+        "code": "5205227"
     },
     {
         "id": "企業管理研究所",
@@ -140,7 +145,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069957/local_syllabus/attachment/35140/1142%20%E8%8B%B1%E6%96%87%E5%9B%9B%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "先修科目(5205226)商用英文（一）(及格)(5205228)商用英文（三）(及格)(5205227)商用英文（二）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。"
+        "memo": "先修科目(5205226)商用英文（一）(及格)(5205228)商用英文（三）(及格)(5205227)商用英文（二）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。",
+        "code": "5205229"
     },
     {
         "id": "企業管理研究所",
@@ -172,7 +178,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073136/local_syllabus/attachment/35287/1142%20%E8%81%B7%E5%A0%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": "支援管理學院碩博班國際經濟研究所財務金融研究所企業管理研究所會計與資訊科技研究所資訊管理研究所國際財務金融管理碩士學位學程金融科技碩士學位學程企業管理學系行銷與數位分析碩士班醫療資訊管理研究所一年級A班;限本系生修.外文系不得修習。\r\n限管院研究生。"
+        "memo": "支援管理學院碩博班國際經濟研究所財務金融研究所企業管理研究所會計與資訊科技研究所資訊管理研究所國際財務金融管理碩士學位學程金融科技碩士學位學程企業管理學系行銷與數位分析碩士班醫療資訊管理研究所一年級A班;限本系生修.外文系不得修習。\r\n限管院研究生。",
+        "code": "5205232"
     },
     {
         "id": "企業管理研究所",
@@ -200,7 +207,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070160/local_syllabus/attachment/35151/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%28%E8%A1%8D%E7%94%9F%E6%80%A7%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81%29.pdf",
         "targetGrade": "1",
         "capacity": "14",
-        "memo": "歡迎大三、大四同學上修"
+        "memo": "歡迎大三、大四同學上修",
+        "code": "5205235"
     },
     {
         "id": "企業管理研究所",
@@ -225,7 +233,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069970/local_syllabus/attachment/35141/%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%BE%AE%E8%AA%B2%E7%A8%8B-2.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5205242"
     },
     {
         "id": "企業管理研究所",
@@ -243,7 +252,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070149/local_syllabus/attachment/35150/Channel%20Management%20Syllabus_114_2_V1.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": "先修科目(5205006)行銷管理(及格)"
+        "memo": "先修科目(5205006)行銷管理(及格)",
+        "code": "5205243"
     },
     {
         "id": "企業管理研究所",
@@ -274,7 +284,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069981/local_syllabus/attachment/35142/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28ESG%20and%20Responsible%20Business%20Investment%29.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": "歡迎大三、大四同學上修"
+        "memo": "歡迎大三、大四同學上修",
+        "code": "5205250"
     },
     {
         "id": "企業管理研究所",
@@ -299,7 +310,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070098/local_syllabus/attachment/35146/%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E8%A1%8C%E5%8B%95%E5%AF%A6%E8%B8%90%E5%BE%AE%E8%AA%B2%E7%A8%8B-2.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5205257"
     },
     {
         "id": "企業管理研究所",
@@ -326,7 +338,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070054/local_syllabus/attachment/35144/5205263-AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29-1142-v1.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": "限本系生修.限本系生修習。"
+        "memo": "限本系生修.限本系生修習。",
+        "code": "5205263"
     },
     {
         "id": "企業管理研究所",
@@ -344,7 +357,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205265_01",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "5205265"
     },
     {
         "id": "企業管理研究所",
@@ -362,7 +376,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070369/local_syllabus/attachment/35163/%E7%AD%96%E7%95%A5%E8%A1%8C%E9%8A%B7%E8%88%87%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%B7%A5%E5%85%B7%E6%87%89%E7%94%A8%20%28114-2%E5%AD%B8%E6%9C%9F%29.docx",
         "targetGrade": "1",
         "capacity": "56",
-        "memo": "歡迎大三、大四同學上修"
+        "memo": "歡迎大三、大四同學上修",
+        "code": "5205269"
     },
     {
         "id": "企業管理研究所",
@@ -380,7 +395,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205272_01",
         "targetGrade": "1",
         "capacity": "160",
-        "memo": ""
+        "memo": "",
+        "code": "5205272"
     },
     {
         "id": "企業管理研究所",
@@ -398,7 +414,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061925/local_syllabus/attachment/34799/%E5%8D%9A%E7%8F%AD%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86%E5%B0%88%E9%A1%8C%E5%A4%A7%E7%B6%B1.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206010"
     },
     {
         "id": "企業管理研究所",
@@ -416,7 +433,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206011_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206011"
     },
     {
         "id": "企業管理研究所",
@@ -434,7 +452,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049728/local_syllabus/attachment/34300/Seminar%20on%20Financial%20Management_2026_Spring.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206020"
     },
     {
         "id": "企業管理研究所",
@@ -452,7 +471,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206104_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(5206223)管理理論(及格)限本系生修."
+        "memo": "先修科目(5206223)管理理論(及格)限本系生修.",
+        "code": "5206104"
     },
     {
         "id": "企業管理研究所",
@@ -476,7 +496,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065851/local_syllabus/attachment/35031/%E7%A7%91%E6%8A%80%E7%AE%A1%E7%90%86%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206165"
     },
     {
         "id": "企業管理研究所",
@@ -494,7 +515,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206210_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206210"
     },
     {
         "id": "企業管理研究所",
@@ -525,7 +547,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070111/local_syllabus/attachment/35147/BD_Syllabus.pdf",
         "targetGrade": "1",
         "capacity": "45",
-        "memo": "先修科目(5205005)管理資訊系統(及格)"
+        "memo": "先修科目(5205005)管理資訊系統(及格)",
+        "code": "5206213"
     },
     {
         "id": "企業管理研究所",
@@ -549,7 +572,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049110/local_syllabus/attachment/34289/%E7%9F%A5%E8%AD%98%E7%99%BC%E5%B1%95%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "5206217"
     },
     {
         "id": "(專)企業管理研究所",
@@ -567,7 +591,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A101_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組 課程"
+        "memo": "管理功能精鍊組/管理菁英組 課程",
+        "code": "520A101"
     },
     {
         "id": "(專)企業管理研究所",
@@ -585,7 +610,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A103_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "限管理功能精鍊組/全方位領導決策組,已選指導教授之學生選課"
+        "memo": "限管理功能精鍊組/全方位領導決策組,已選指導教授之學生選課",
+        "code": "520A103"
     },
     {
         "id": "(專)企業管理研究所",
@@ -611,7 +637,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079361/local_syllabus/attachment/35537/Syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組課程"
+        "memo": "管理功能精鍊組/管理菁英組課程",
+        "code": "520A136"
     },
     {
         "id": "(專)企業管理研究所",
@@ -641,7 +668,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080372/local_syllabus/attachment/35563/%28%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%28Financial%20Technology%29.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "理功能精鍊組/管理菁英組 課程"
+        "memo": "理功能精鍊組/管理菁英組 課程",
+        "code": "520A172"
     },
     {
         "id": "(專)企業管理研究所",
@@ -667,7 +695,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079342/local_syllabus/attachment/35536/%E5%A4%A7%E6%95%B8%E6%93%9A%E8%88%87%E7%B3%BB%E7%B5%B1%E6%A8%A1%E6%93%AC_Syllabus.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組 課程"
+        "memo": "管理功能精鍊組/管理菁英組 課程",
+        "code": "520A173"
     },
     {
         "id": "(專)企業管理研究所",
@@ -685,7 +714,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A178_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組 課程"
+        "memo": "管理功能精鍊組/管理菁英組 課程",
+        "code": "520A178"
     },
     {
         "id": "(專)企業管理研究所",
@@ -703,7 +733,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080724/local_syllabus/attachment/35583/%E8%B2%A1%E5%8B%99%E8%87%AA%E7%94%B1%E8%88%87%E6%85%A2%E6%85%A2%E8%87%B4%E5%AF%8C-%E7%8E%8B%E6%98%8E%E6%98%8C_2026_Spring.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組 課程"
+        "memo": "管理功能精鍊組/管理菁英組 課程",
+        "code": "520A192"
     },
     {
         "id": "(專)企業管理研究所",
@@ -732,7 +763,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081484/local_syllabus/attachment/35606/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組課程"
+        "memo": "管理功能精鍊組/管理菁英組課程",
+        "code": "520A193"
     },
     {
         "id": "(專)企業管理研究所",
@@ -750,7 +782,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A200_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組  課程"
+        "memo": "管理功能精鍊組/管理菁英組  課程",
+        "code": "520A200"
     },
     {
         "id": "(專)企業管理研究所",
@@ -768,7 +801,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077475/local_syllabus/attachment/35483/114-2%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%88%87%E5%9C%8B%E9%9A%9B%E4%BC%81%E6%A5%AD.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "管理功能精鍊組/管理菁英組 課程"
+        "memo": "管理功能精鍊組/管理菁英組 課程",
+        "code": "520A205"
     },
     {
         "id": "(專)企業管理研究所",
@@ -786,7 +820,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A602_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組  課程"
+        "memo": "全方位領導決策組/企業領袖組  課程",
+        "code": "520A602"
     },
     {
         "id": "(專)企業管理研究所",
@@ -804,7 +839,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A611_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組 課程"
+        "memo": "全方位領導決策組/企業領袖組 課程",
+        "code": "520A611"
     },
     {
         "id": "(專)企業管理研究所",
@@ -830,7 +866,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081340/local_syllabus/attachment/35599/114-2-EMBA_NEW.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組 課程"
+        "memo": "全方位領導決策組/企業領袖組 課程",
+        "code": "520A618"
     },
     {
         "id": "(專)企業管理研究所",
@@ -856,7 +893,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080715/local_syllabus/attachment/35582/%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86%E8%88%87ESG-%E7%8E%8B%E6%98%8E%E6%98%8C_2026_spring.doc",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組 課程"
+        "memo": "全方位領導決策組/企業領袖組 課程",
+        "code": "520A637"
     },
     {
         "id": "(專)企業管理研究所",
@@ -874,7 +912,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079376/local_syllabus/attachment/35538/%E7%A7%BB%E5%9C%B0%E6%95%99%E5%AD%B8%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組  課程"
+        "memo": "全方位領導決策組/企業領袖組  課程",
+        "code": "520A643"
     },
     {
         "id": "(專)企業管理研究所",
@@ -892,7 +931,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A649_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組 課程"
+        "memo": "全方位領導決策組/企業領袖組 課程",
+        "code": "520A649"
     },
     {
         "id": "(專)企業管理研究所",
@@ -920,6 +960,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080186/local_syllabus/attachment/35556/Syllabus_114_2V1.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "全方位領導決策組/企業領袖組 課程"
+        "memo": "全方位領導決策組/企業領袖組 課程",
+        "code": "520A650"
     }
 ]

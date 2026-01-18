@@ -27,7 +27,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056052/local_syllabus/attachment/34543/2026%20Spring%20Freshman%20Writing%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20syllabus.docx",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1151018"
     },
     {
         "id": "外國語文學系",
@@ -45,7 +46,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1151018_02",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151018"
     },
     {
         "id": "外國語文學系",
@@ -75,7 +77,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056130/local_syllabus/attachment/34545/115.2_English%20Composition%20II.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151018"
     },
     {
         "id": "外國語文學系",
@@ -105,7 +108,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055825/local_syllabus/attachment/34537/113-BWL%20spring%20Bible%20as%20Literature.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151022"
     },
     {
         "id": "外國語文學系",
@@ -123,7 +127,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1151022_02",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151022"
     },
     {
         "id": "外國語文學系",
@@ -153,7 +158,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056167/local_syllabus/attachment/34546/114%E5%AD%B8%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%B8%E6%9C%9F%E5%A4%96%E6%96%87%E7%B3%BB%E6%B3%95%E6%96%87%28II%29%20%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1151024"
     },
     {
         "id": "外國語文學系",
@@ -183,7 +189,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055942/local_syllabus/attachment/34539/%E4%B8%AD%E6%AD%A3%E5%A4%96%E6%96%87G%282%29%E6%95%99%E7%B6%B1%28Schritte%201%20%29.docx",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151026"
     },
     {
         "id": "外國語文學系",
@@ -213,7 +220,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055814/local_syllabus/attachment/34536/114-2%E6%97%A5%E6%96%87%E4%BA%8C%E6%95%99%E5%AD%B8%E8%AA%B2%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151028"
     },
     {
         "id": "外國語文學系",
@@ -243,7 +251,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056267/local_syllabus/attachment/34555/114-2%E5%A4%96%E6%96%87%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "35",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151030"
     },
     {
         "id": "外國語文學系",
@@ -274,7 +283,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055954/local_syllabus/attachment/34540/CCU_114English%20and%20speaking%20II%20syllabus.docx",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1151032"
     },
     {
         "id": "外國語文學系",
@@ -303,7 +313,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055977/local_syllabus/attachment/34541/%5Bsyllabus%5D%20114-2%20ESL%20%28II%29%20draft.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151032"
     },
     {
         "id": "外國語文學系",
@@ -338,7 +349,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056010/local_syllabus/attachment/34542/2026_SL_II.pdf",
         "targetGrade": "1",
         "capacity": "20",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1151032"
     },
     {
         "id": "外國語文學系",
@@ -368,7 +380,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056354/local_syllabus/attachment/34561/114.2%20Introduction%20to%20Linguistics%2020251223.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "限本系生修."
+        "memo": "限本系生修.",
+        "code": "1152002"
     },
     {
         "id": "外國語文學系",
@@ -398,7 +411,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056387/local_syllabus/attachment/34563/%E4%B8%AD%E6%AD%A3%E5%A4%96%E6%96%87G%284%29%E6%95%99%E7%B6%B1%28Schritte%202%29.docx",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1152102"
     },
     {
         "id": "外國語文學系",
@@ -428,7 +442,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056398/local_syllabus/attachment/34564/114-2%E5%A4%96%E6%96%87%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87%EF%BC%88%E5%9B%9B%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1152104"
     },
     {
         "id": "外國語文學系",
@@ -457,7 +472,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056407/local_syllabus/attachment/34565/114%E5%AD%B8%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%B8%E6%9C%9F%E5%A4%96%E6%96%87%E7%B3%BB%E6%B3%95%E6%96%87%28IV%29%20%E8%AA%B2%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1152106"
     },
     {
         "id": "外國語文學系",
@@ -489,7 +505,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056420/local_syllabus/attachment/34566/114-2%E6%97%A5%E6%96%87%E5%9B%9B%E6%95%99%E5%AD%B8%E8%AA%B2%E7%B6%B1.docx",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": ""
+        "memo": "",
+        "code": "1152108"
     },
     {
         "id": "外國語文學系",
@@ -518,7 +535,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058629/local_syllabus/attachment/34638/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E8%8B%B1%E8%AA%9E%E6%95%99%E5%AD%B8%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99-uploaded.doc",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1152110"
     },
     {
         "id": "外國語文學系",
@@ -549,7 +567,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057279/local_syllabus/attachment/34597/%5Bsyllabus%5D%20114-2%20Approaches%20to%20Literature%20draft.pdf",
         "targetGrade": "2",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1152113"
     },
     {
         "id": "外國語文學系",
@@ -567,7 +586,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1153002_01",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1153002"
     },
     {
         "id": "外國語文學系",
@@ -593,7 +613,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057914/local_syllabus/attachment/34604/2026%2018-c%20literature%20Spring%20Syllabus%20%E5%85%AC%E7%89%88.docx",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1153012"
     },
     {
         "id": "外國語文學系",
@@ -623,7 +644,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057927/local_syllabus/attachment/34605/114.2--victorian%20syllabus.pdf",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1153014"
     },
     {
         "id": "外國語文學系",
@@ -641,7 +663,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1153016_01",
         "targetGrade": "3",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1153016"
     },
     {
         "id": "外國語文學系",
@@ -668,7 +691,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063886/local_syllabus/attachment/34904/2026%20%20Reading%20Ireland%20Spring%20Syllabus%20%E5%85%AC%E7%89%88.docx",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154247"
     },
     {
         "id": "外國語文學系",
@@ -699,7 +723,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057983/local_syllabus/attachment/34607/114.2--advanced%20LS%20syllabus.pdf",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154259"
     },
     {
         "id": "外國語文學系",
@@ -717,7 +742,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154320_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154320"
     },
     {
         "id": "外國語文學系",
@@ -748,7 +774,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154348_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154348"
     },
     {
         "id": "外國語文學系",
@@ -766,7 +793,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154349_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154349"
     },
     {
         "id": "外國語文學系",
@@ -784,7 +812,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154350_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154350"
     },
     {
         "id": "外國語文學系",
@@ -802,7 +831,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154351_01",
         "targetGrade": "4",
         "capacity": "35",
-        "memo": ""
+        "memo": "",
+        "code": "1154351"
     },
     {
         "id": "外國語文學系",
@@ -834,7 +864,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063848/local_syllabus/attachment/34900/Course%20syllabus%2020251223.pdf",
         "targetGrade": "4",
         "capacity": "10",
-        "memo": ""
+        "memo": "",
+        "code": "1154352"
     },
     {
         "id": "外國語文學系",
@@ -863,7 +894,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059706/local_syllabus/attachment/34687/%5Bsyllabus%5D%20114-2%20Critical%20Reading%20and%20Writing%20draft.pdf",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154353"
     },
     {
         "id": "外國語文學系",
@@ -881,7 +913,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154354_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154354"
     },
     {
         "id": "外國語文學系",
@@ -910,7 +943,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1154355_01",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154355"
     },
     {
         "id": "外國語文學系",
@@ -938,6 +972,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063955/local_syllabus/attachment/34906/2026%20%20Teaching%20literature%20Spring%20Syllabus%20%E5%85%AC%E7%89%88.docx",
         "targetGrade": "4",
         "capacity": "20",
-        "memo": ""
+        "memo": "",
+        "code": "1154356"
     }
 ]

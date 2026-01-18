@@ -22,7 +22,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042618/local_syllabus/attachment/34075/114S2%20course%20outline%20ECON.pdf",
         "targetGrade": "1",
         "capacity": "125",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -50,7 +51,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042696/local_syllabus/attachment/34076/2026%20Spring%205101002%20Principles%20of%20Economics%20II%20AACSB%20syllabus.pdf",
         "targetGrade": "1",
         "capacity": "60",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -76,7 +78,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042727/local_syllabus/attachment/34077/AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29-11402%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%8E%9F%E7%90%86%E4%BA%8C.pdf",
         "targetGrade": "1",
         "capacity": "120",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援財務金融學系一年級A班B班;"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援財務金融學系一年級A班B班;",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -101,7 +104,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042738/local_syllabus/attachment/34078/114S2%20course%20outline.pdf",
         "targetGrade": "1",
         "capacity": "90",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援企業管理學系一年級A班B班;"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援企業管理學系一年級A班B班;",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -119,7 +123,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5101002_05",
         "targetGrade": "1",
         "capacity": "70",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援會計與資訊科技學系一年級A班B班;"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援會計與資訊科技學系一年級A班B班;",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -146,7 +151,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042839/local_syllabus/attachment/34080/Principles%20of%20Economics%282%29.pdf",
         "targetGrade": "1",
         "capacity": "24",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)",
+        "code": "5101002"
     },
     {
         "id": "經濟學系",
@@ -164,7 +170,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102102_01",
         "targetGrade": "2",
         "capacity": "70",
-        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5102102"
     },
     {
         "id": "經濟學系",
@@ -190,7 +197,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044228/local_syllabus/attachment/34113/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%81%89%E6%99%BA_%E5%80%8B%E9%AB%94%E7%B6%93%E6%BF%9F%E5%AD%B8II.pdf",
         "targetGrade": "2",
         "capacity": "65",
-        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5102102"
     },
     {
         "id": "經濟學系",
@@ -217,7 +225,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044120/local_syllabus/attachment/34110/114.2%E7%B8%BD%E7%B6%93%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5102202"
     },
     {
         "id": "經濟學系",
@@ -245,7 +254,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044133/local_syllabus/attachment/34111/%E7%B8%BD%E9%AB%94%E4%BA%8C-11402.pdf",
         "targetGrade": "2",
         "capacity": "125",
-        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5102202"
     },
     {
         "id": "經濟學系",
@@ -270,7 +280,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044276/local_syllabus/attachment/34114/SII-syllabus2026.pdf",
         "targetGrade": "2",
         "capacity": "60",
-        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;",
+        "code": "5102302"
     },
     {
         "id": "經濟學系",
@@ -288,7 +299,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102302_02",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技研究所不得選修,資訊管理學系不得選修;"
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技研究所不得選修,資訊管理學系不得選修;",
+        "code": "5102302"
     },
     {
         "id": "經濟學系",
@@ -306,7 +318,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102401_01",
         "targetGrade": "2",
         "capacity": "80",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5102401"
     },
     {
         "id": "經濟學系",
@@ -324,7 +337,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103110_01",
         "targetGrade": "3",
         "capacity": "70",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103110"
     },
     {
         "id": "經濟學系",
@@ -342,7 +356,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103160_01",
         "targetGrade": "3",
         "capacity": "80",
-        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)(5102102)個體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)(5102102)個體經濟學（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103160"
     },
     {
         "id": "經濟學系",
@@ -368,7 +383,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045188/local_syllabus/attachment/34131/MSII-syllabus2026.pdf",
         "targetGrade": "3",
         "capacity": "24",
-        "memo": "先修科目(5102301)統計學（一）(曾經修習)(5102302)統計學（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)(5102302)統計學（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103308"
     },
     {
         "id": "經濟學系",
@@ -395,7 +411,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045207/local_syllabus/attachment/34132/UGECM_2_syllabus.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5103311)計量經濟學（一）(曾經修習)"
+        "memo": "先修科目(5103311)計量經濟學（一）(曾經修習)",
+        "code": "5103312"
     },
     {
         "id": "經濟學系",
@@ -422,7 +439,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045275/local_syllabus/attachment/34134/Syllabus_Mathematical%20Economics%20%28II%29.pdf",
         "targetGrade": "3",
         "capacity": "24",
-        "memo": "先修科目(5103362)數理經濟學(一)(曾經修習)"
+        "memo": "先修科目(5103362)數理經濟學(一)(曾經修習)",
+        "code": "5103363"
     },
     {
         "id": "經濟學系",
@@ -440,7 +458,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103501_01",
         "targetGrade": "3",
         "capacity": "80",
-        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103501"
     },
     {
         "id": "經濟學系",
@@ -473,7 +492,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045149/local_syllabus/attachment/34130/114-2-5103501_02.pdf",
         "targetGrade": "3",
         "capacity": "60",
-        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103501"
     },
     {
         "id": "經濟學系",
@@ -500,7 +520,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045300/local_syllabus/attachment/34135/syllabus_s2026.pdf",
         "targetGrade": "3",
         "capacity": "70",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103700"
     },
     {
         "id": "經濟學系",
@@ -526,7 +547,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045237/local_syllabus/attachment/34133/syllabus.pdf",
         "targetGrade": "3",
         "capacity": "70",
-        "memo": "先修科目(5101002)經濟學原理（二）(曾經修習)(5101001)經濟學原理（一）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5101002)經濟學原理（二）(曾經修習)(5101001)經濟學原理（一）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5103817"
     },
     {
         "id": "經濟學系",
@@ -544,7 +566,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5104912_01",
         "targetGrade": "4",
         "capacity": "125",
-        "memo": ""
+        "memo": "",
+        "code": "5104912"
     },
     {
         "id": "經濟學系",
@@ -569,6 +592,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045525/local_syllabus/attachment/34147/114-2%20NZ%20Syllabus.pdf",
         "targetGrade": "4",
         "capacity": "22",
-        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)",
+        "code": "5104930"
     }
 ]

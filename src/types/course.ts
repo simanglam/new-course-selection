@@ -30,4 +30,5 @@ export interface Course {
     capacity: number // 限修人數
     supportedPrograms: string // 支援學程
     memo: string
+    code: number
 }

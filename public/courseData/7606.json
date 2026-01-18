@@ -28,7 +28,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078802/local_syllabus/attachment/35520/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%EF%BC%BF114-2%E8%A1%8C%E5%8B%95%E7%A0%94%E7%A9%B6.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級課程"
+        "memo": "一年級課程",
+        "code": "380A002"
     },
     {
         "id": "(專)教學專業發展數位學習碩士在職專班",
@@ -46,7 +47,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078121/local_syllabus/attachment/35515/114-2%20%E8%B3%AA%E6%80%A7%E7%A0%94%E7%A9%B6.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級課程"
+        "memo": "一年級課程",
+        "code": "380A006"
     },
     {
         "id": "(專)教學專業發展數位學習碩士在職專班",
@@ -64,7 +66,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_380A009_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "先修科目(380A006)質性研究(曾經修習)(380A010)多元文化課程與教學研究(曾經修習)(380A002)行動研究(曾經修習)(只要符合任一先修條件)二年級課程"
+        "memo": "先修科目(380A006)質性研究(曾經修習)(380A010)多元文化課程與教學研究(曾經修習)(380A002)行動研究(曾經修習)(只要符合任一先修條件)二年級課程",
+        "code": "380A009"
     },
     {
         "id": "(專)教學專業發展數位學習碩士在職專班",
@@ -82,7 +85,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_380A010_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "一年級課程"
+        "memo": "一年級課程",
+        "code": "380A010"
     },
     {
         "id": "(專)教學專業發展數位學習碩士在職專班",
@@ -100,6 +104,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078838/local_syllabus/attachment/35523/%E5%BC%B1%E5%8B%A2%E6%95%B8%E4%BD%8DSyllbus_2026.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": "二年級課程"
+        "memo": "二年級課程",
+        "code": "380A012"
     }
 ]

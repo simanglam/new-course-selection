@@ -23,7 +23,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047402/local_syllabus/attachment/34214/DSP-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_20221216_f.pdf",
         "targetGrade": "1",
         "capacity": "38",
-        "memo": "碩博選修"
+        "memo": "碩博選修",
+        "code": "2155010"
     },
     {
         "id": "地震研究所",
@@ -52,7 +53,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063981/local_syllabus/attachment/34909/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-12212022.pdf",
         "targetGrade": "1",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "2155012"
     },
     {
         "id": "地震研究所",
@@ -78,7 +80,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064701/local_syllabus/attachment/34952/2022%E5%B7%A5%E7%A8%8B%E5%9C%B0%E9%9C%87%E5%AD%B8-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_20221216_f.pdf",
         "targetGrade": "1",
         "capacity": "38",
-        "memo": "碩班課程，開放大三大四選修"
+        "memo": "碩班課程，開放大三大四選修",
+        "code": "2155031"
     },
     {
         "id": "地震研究所",
@@ -96,7 +99,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2155092_01",
         "targetGrade": "1",
         "capacity": "38",
-        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree.",
+        "code": "2155092"
     },
     {
         "id": "地震研究所",
@@ -114,7 +118,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2155094_01",
         "targetGrade": "1",
         "capacity": "38",
-        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree.",
+        "code": "2155094"
     },
     {
         "id": "地震研究所",
@@ -143,7 +148,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047429/local_syllabus/attachment/34217/%E9%99%A3%E5%88%97%E5%9C%B0%E9%9C%87%E5%AD%B8_11202.doc",
         "targetGrade": "1",
         "capacity": "28",
-        "memo": "碩博選修"
+        "memo": "碩博選修",
+        "code": "2155102"
     },
     {
         "id": "地震研究所",
@@ -172,7 +178,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064720/local_syllabus/attachment/34954/114-2%E9%87%8D%E7%A3%81%E6%B3%95%E6%B8%AC%E5%8B%98%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%AE%8F%E5%98%89.pdf",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2155105"
     },
     {
         "id": "地震研究所",
@@ -190,7 +197,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2158001_01",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree.",
+        "code": "2158001"
     },
     {
         "id": "地震研究所",
@@ -208,7 +216,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2158003_01",
         "targetGrade": "1",
         "capacity": "25",
-        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree.",
+        "code": "2158003"
     },
     {
         "id": "地震研究所",
@@ -226,7 +235,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064765/local_syllabus/attachment/34959/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E7%AF%84%E6%9C%AC-%E4%B8%AD%E8%8B%B1%E6%96%87_%E5%9C%B0%E7%92%B0%E6%B1%AA%E8%89%AF%E5%A5%87%20%E8%8A%B1%E7%B2%89%E8%88%87%E7%92%B0%E5%A2%83.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "2158004"
     },
     {
         "id": "地震研究所",
@@ -244,7 +254,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047375/local_syllabus/attachment/34211/2158005%E6%AD%90%E4%BA%9E%E5%A4%A7%E9%99%B8%E9%82%8A%E7%B7%A3%E5%9C%B0%E9%AB%94%E6%A7%8B%E9%80%A0%E6%BC%94%E5%8C%96.doc",
         "targetGrade": "1",
         "capacity": "32",
-        "memo": ""
+        "memo": "",
+        "code": "2158005"
     },
     {
         "id": "地震研究所",
@@ -270,6 +281,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064738/local_syllabus/attachment/34956/%E7%90%86%E8%AB%96%E5%9C%B0%E9%9C%87%E5%AD%B8.doc",
         "targetGrade": "1",
         "capacity": "28",
-        "memo": ""
+        "memo": "",
+        "code": "2159991"
     }
 ]

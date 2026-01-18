@@ -15,7 +15,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925007_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3925007"
     },
     {
         "id": "高齡者教育研究所",
@@ -44,7 +45,8 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056821/local_syllabus/attachment/34577/114%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%88%E9%AB%98%E9%BD%A1%E7%A2%A9%E5%A3%AB%E7%8F%AD%EF%BC%89.pdf",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3925017"
     },
     {
         "id": "高齡者教育研究所",
@@ -62,7 +64,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925019_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3925019"
     },
     {
         "id": "高齡者教育研究所",
@@ -80,7 +83,8 @@
         "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925022_01",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3925022"
     },
     {
         "id": "高齡者教育研究所",
@@ -98,6 +102,7 @@
         "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062767/local_syllabus/attachment/34833/%E5%91%A8%E5%82%B3%E4%B9%85%20114-2%E9%AB%98%E7%A2%A9-%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E5%A0%B4%E5%9F%9F%E4%B8%AD%E7%9A%84%E7%B5%82%E8%BA%AB%E5%AD%B8%E7%BF%92%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%B6%B1.docx",
         "targetGrade": "1",
         "capacity": "999",
-        "memo": ""
+        "memo": "",
+        "code": "3925027"
     }
 ]
