@@ -1,0 +1,404 @@
+[
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "多變量資料分析",
+        "professor": "洪新原",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院616A",
+        "type": "必修",
+        "description": "The main purpose of this course is to help students\r\n(1)\tTo know what Multivariate Data Analysis is.\r\n(2)\tTo know the foundation of Multivariate Data Analysis.\r\n(3)\tTo know to use Multivariate Data Analysis.\r\n(4)\tTo know applications of Multivariate Data Analysis.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054377/local_syllabus/attachment/34457/Syllabus%28Master%29_MDA_2026.docx",
+        "targetGrade": "1",
+        "capacity": "65",
+        "memo": "限本系生修.本門課程需先通過統計學(一)課程，並且成績達 60 分以上，方可選修。"
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "電子商務與應用",
+        "professor": "林勝為",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院221",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555017_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "外籍生(含交換外籍生)不得選修本門課程"
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "醫療行銷管理",
+        "professor": "盧致誠",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院608",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555029_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "機器學習",
+        "professor": "薩尼",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院221",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555039_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "醫務管理",
+        "professor": "黃維民",
+        "credits": 3,
+        "time": "三12,13,14",
+        "location": "管理學院119",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054438/local_syllabus/attachment/34461/%E9%86%AB%E5%8B%99%E7%AE%A1%E7%90%86114-2.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "健康保險",
+        "professor": "黃維民",
+        "credits": 3,
+        "time": "一12,13,14",
+        "location": "管理學院119",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054466/local_syllabus/attachment/34462/%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%9A%AA114-2.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "英文學術論文寫作",
+        "professor": "李有仁",
+        "credits": 3,
+        "time": "四12,13,14",
+        "location": "管理學院608",
+        "type": "選修",
+        "description": "This course introduces the students to the top research writing in the related literature. It uses English writing skills to guide students through writing a publishable paper. It walks them through the revision process to complete a paper acceptable to an international journal. Students are invited to have the first draft of a research paper in English ready for revision before signing up for this course. This course is English-taught.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054695/local_syllabus/attachment/34477/syl-S2026-EngWriting.docx",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "醫療資料探勘實作",
+        "professor": "林育秀",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555075_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "資訊管理實習(二)",
+        "professor": "吳帆",
+        "credits": 3,
+        "time": "五1,2,3",
+        "location": "管理學院415",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054823/local_syllabus/attachment/34485/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%B3%87%E7%AE%A1%E7%B3%BB%E6%89%80%28%E5%90%AB%E9%86%AB%E8%B3%87%E7%AE%A1%E6%89%80%29%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%A4%96%E5%AF%A6%E7%BF%92%E6%89%8B%E5%86%8A115.pdf",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "搜尋引擎行銷",
+        "professor": "林勝為",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5555128_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": "外籍生(含交換外籍生)不得選修本門課程"
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "智慧醫療",
+        "professor": "吳帆",
+        "credits": 3,
+        "time": "五6,7,8",
+        "location": "管理學院616A",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5557001_01",
+        "targetGrade": "1",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "生成式人工智慧暨醫療產業的應用",
+        "professor": "林育秀",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5557005_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "資訊科技與創新",
+        "professor": "沙拉溫",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院119",
+        "type": "選修",
+        "description": "With the rapid advancement of technological innovations accelerating economic growth and transforming key sectors such as economy, medicine, education, and finance, this course introduces both foundational and emerging technological trends. Graduate students will explore real-world applications through weekly case studies, strengthening their ability to critically analyze and apply innovative technological thinking within their current or future organizations.\n\r\nUpon completing the course, graduate students will be well-equipped for a range of roles, including technology consultant, innovation manager, IT project leader, digital transformation specialist, and R&D strategist. Whether working in tech startups, multinational corporations, government agencies, or research institutions, they will be prepared to lead and manage technological change, develop data-driven solutions, and drive innovation strategies in dynamic organizational environments.",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054734/local_syllabus/attachment/34480/MS%20or%20MA%20Program%20Syllabus.%20Information%20Technology%20and%20Innovation.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": ""
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "高等軟體工程",
+        "professor": "吳帆",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "管理學院608",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558001_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "限本系生修.本門課程需先通過資料庫管理、系統分析與設計2門課程，且成績達 70分以上，方可選修。"
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "資訊科技與決策理論",
+        "professor": "洪新原",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "管理學院608",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054660/local_syllabus/attachment/34473/Syllabus%28PhD%29_ADSS_2026.docx",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "健康知識探索與管理",
+        "professor": "黃維民",
+        "credits": 3,
+        "time": "二12,13,14",
+        "location": "管理學院608",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054668/local_syllabus/attachment/34474/%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98%E8%88%87%E7%AE%A1%E7%90%86%28%E5%8D%9A%E5%A3%AB%E7%8F%AD%29114-2.docx",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "高等資管專題研討(二)",
+        "professor": "李有仁",
+        "credits": 1,
+        "time": "五7,8",
+        "location": "管理學院119",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558004_01",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "醫療資訊管理研究所",
+        "name": "高等資管專題研討(四)",
+        "professor": "李有仁",
+        "credits": 1,
+        "time": "五9,10",
+        "location": "管理學院119",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5558005_01",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "限本系生修."
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "閱讀發展與教學研究",
+        "professor": "連啟舜",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "教育館507",
+        "type": "選修",
+        "description": "讓學生瞭解重要之閱讀的認知歷程 ，瞭解影響閱讀的主要因素，並瞭解閱讀能力個別差異的來源，熟悉現有之有效的閱讀教學策略。進一步幫助學生發展出閱讀相關之研究主題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045493/local_syllabus/attachment/34145/114-2%20%E9%96%B1%E8%AE%80%E7%99%BC%E5%B1%95%E8%88%87%E6%95%99%E5%AD%B8%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "學校本位課程發展研究",
+        "professor": "蔡清田",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "教育館507",
+        "type": "選修",
+        "description": "教學目標：旨提供選修學校本位課程發展研究之學生，能有系統地認識理解課程\r\n          之概念，並嘗試從討論與練習中，獲得教材選擇組織、善用教法、設\r\n          計活動、評量等學校課程發展實作能力，因應十二年國教課程改革。  \n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142315/local_syllabus/attachment/35650/11402%E5%AD%B8%E6%A0%A1%E6%9C%AC%E4%BD%8D%E8%AA%B2%E7%A8%8B%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6%E7%A2%A9.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "數位學習研究",
+        "professor": "陳姚真",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "教育館404",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033762/local_syllabus/attachment/33842/%E6%95%B8%E4%BD%8D%E5%AD%B8%E7%BF%92%E7%A0%94%E7%A9%B6%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20%282%29%20%281%29%20%281%29%20%283%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "獨立研究:教育心理學",
+        "professor": "連啟舜",
+        "credits": 1,
+        "time": "三7",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "教學目標：\r\n1.\t能瞭解教育心理學領域的重要研究主題。\r\n2.\t能教育心理學領域相關的研究方法。\r\n3.\t能執行研究計畫，完成研究報告。\n\r\n授課大綱：  \r\n1.\t論文閱讀與評論 (以教育心理學、閱讀理解、教學與評量為主題)\r\n2.\t研究方法(以心理學、量化研究為主)\r\n3.\t如何撰寫研究計畫\r\n4.\t如何進行論文研究\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033734/local_syllabus/attachment/33840/114_2%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "認知發展研究",
+        "professor": "曾玉村",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "教育館405",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3915159_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程與教學碩士班",
+        "name": "獨立研究：數位學習",
+        "professor": "陳姚真",
+        "credits": 1,
+        "time": "三7",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2141990/local_syllabus/attachment/35633/%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%95%B8%E4%BD%8D%E5%AD%B8%E7%BF%92%20%282%29%20%281%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

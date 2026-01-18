@@ -1,0 +1,145 @@
+[
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "刑法專題研究",
+        "professor": "王正嘉",
+        "credits": 3,
+        "time": "六1,2,3",
+        "location": "台北校區教室3",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081554/local_syllabus/attachment/35610/114-2%E5%88%91%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級甲組(會計相關背景)必修課程，此門課程為數位課程"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "論文寫作與研究方法",
+        "professor": "黃劭彥,張碩毅,羅俊瑋,鍾宇軒",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "台北校區教室3",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078054/local_syllabus/attachment/35510/1142_%E8%AB%96%E5%AF%AB%E8%AA%B2%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "碩士論文（二）",
+        "professor": "林岳喬,黃劭彥,黃士銘,郝鳳鳴,洪育忠,鄭揚耀,許育峯,劉建宏,曹嘉玲,吳徐哲,洪令家,羅俊瑋,王正嘉,卓佳慶,鍾宇軒,吳貞慧,謝佳純,邱献良",
+        "credits": 2,
+        "time": "日8,9",
+        "location": "台北校區教室3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A031_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，必需有指導教授才可選此門課程。【一年級學生請勿選課】"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "財務會計（二）",
+        "professor": "曹嘉玲",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "台北校區教室3",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A033_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級(法律相關背景)必修課程，此門課程為數位課程"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "電腦稽核與風險管理",
+        "professor": "黃劭彥",
+        "credits": 3,
+        "time": "日1,2,3",
+        "location": "台北校區教室3",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A044_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級甲組(會計相關背景)、乙組(法律相關背景)共同必修課程，此門課程為數位課程"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "資訊管理與策略",
+        "professor": "許育峯",
+        "credits": 2,
+        "time": "日4,5",
+        "location": "台北校區教室3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080606/local_syllabus/attachment/35573/Information%20Management%20and%20Strategies_AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程"
+    },
+    {
+        "id": "(專)會計與法律數位學習碩士在職專班",
+        "name": "金融市場與投資管理專題研討",
+        "professor": "林岳喬",
+        "credits": 2,
+        "time": "日6,7",
+        "location": "台北校區教室3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_527A047_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級甲組(會計相關背景)、乙組(法律相關背景)專業選修課程，此門課程為數位課程"
+    }
+]

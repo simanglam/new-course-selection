@@ -1,0 +1,320 @@
+[
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "計量經濟學",
+        "professor": "林岳喬",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "創新大樓383",
+        "type": "必修",
+        "description": "This course is designed to introduce econometric methodology to graduate students who intend to complete empirical studies for thesis requirement. This course will introduce different econometric models to handle various issues related to accounting and finance research.",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073203/local_syllabus/attachment/35292/index.docx",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "資料庫管理研討",
+        "professor": "吳徐哲",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "創新大樓261",
+        "type": "必修",
+        "description": "1.Students are able to know database terminology 、SQL 、relation Model\r\n2.Students can understand how normalization is used in the database design process\r\n3.Students can develop a prototype database system.\r\n4.To develop proficiencies in collecting, analyzing, and organizing data pertaining to accounting and management by implementing information technology\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072450/local_syllabus/attachment/35255/114-2%20%E8%B3%87%E6%96%99%E5%BA%AB%E7%A0%94%E8%A8%8E.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "資訊策略與管理",
+        "professor": "張碩毅",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "創新大樓383",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072507/local_syllabus/attachment/35256/Information%20Strategy%20and%20Management%20-%20Syllabus%20and%20Course%20Outline_AIT_2026.pdf",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "人工智慧導論",
+        "professor": "吳徐哲",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "創新大樓261",
+        "type": "選修",
+        "description": "學生可了解人工智慧概念及應用情境\r\n 學生可了解人工智慧相關理論、術語\r\n 學生可應用機器學習法於商業環境\r\n WEKA機器學習之實務練習\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072517/local_syllabus/attachment/35257/114-2%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%B0%8E%E8%AB%96.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "研究方法",
+        "professor": "許育峯",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "創新大樓271",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073194/local_syllabus/attachment/35291/Research%20Methods_AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "永續會計及租稅專題研討",
+        "professor": "洪國森",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "創新大樓383",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072569/local_syllabus/attachment/35258/114%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E6%9C%83%E8%A8%88%E5%8F%8A%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E6%89%80_%E6%B0%B8%E7%BA%8C%E6%9C%83%E8%A8%88%E5%8F%8A%E7%A7%9F%E7%A8%85%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E.pdf",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "風險管理與電腦稽核",
+        "professor": "黃士銘",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "創新大樓261",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5265100_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "財務會計實證專題研討",
+        "professor": "曹嘉玲",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "創新大樓383",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5266011_01",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技研究所",
+        "name": "高等財務會計研究",
+        "professor": "鍾宇軒",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "創新大樓383",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072840/local_syllabus/attachment/35274/1142_%E9%AB%98%E8%B2%A1%E7%90%86%E8%AB%96%E8%AA%B2%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "(專)會計與資訊科技研究所",
+        "name": "審計學",
+        "professor": "黃劭彥",
+        "credits": 3,
+        "time": "六1,2,3",
+        "location": "創新大樓383",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A041_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級共同必修課程"
+    },
+    {
+        "id": "(專)會計與資訊科技研究所",
+        "name": "碩士論文(二)",
+        "professor": "林岳喬,黃劭彥,黃士銘,張碩毅,洪育忠,許育峯,曹嘉玲,吳徐哲,卓佳慶,鍾宇軒,吳貞慧,謝佳純,邱献良",
+        "credits": 2,
+        "time": "六10,11",
+        "location": "創新大樓263",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A045_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)專業選修課程，必須有指導教授才可選此門課程。【一年級學生請勿選此門課程】"
+    },
+    {
+        "id": "(專)會計與資訊科技研究所",
+        "name": "金融科技導論",
+        "professor": "洪育忠",
+        "credits": 2,
+        "time": "日1,2",
+        "location": "創新大樓271",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_525A050_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級專業選修課程"
+    },
+    {
+        "id": "(專)會計與資訊科技研究所",
+        "name": "內部控制與資訊稽核實務管理",
+        "professor": "吳徐哲,吳貞慧",
+        "credits": 3,
+        "time": "六4,5,6",
+        "location": "創新大樓266",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080199/local_syllabus/attachment/35557/114-2%20%20Module%202%20_%E8%B3%87%E8%A8%8A%E7%A8%BD%E6%A0%B8%E5%AF%A6%E5%8B%99%E7%AE%A1%E7%90%86.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級共同必修課程"
+    },
+    {
+        "id": "(專)會計與資訊科技研究所",
+        "name": "人工智慧與大數數據分析應用",
+        "professor": "許育峯,吳徐哲",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "創新大樓261",
+        "type": "必修",
+        "description": "1.學生可了解人工智慧概念及於管理、決策分析等應用情境 \r\n2.學生可了解人工智慧基本理論、術語、結構化與非結構化數據之處理\r\n3.學生可應用機器學習法商業環境\r\n4.Weka與Python之實務學習",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080567/local_syllabus/attachment/35571/114-2%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E5%A4%A7%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8_%E6%A8%A1%E7%B5%84%E4%B8%80.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級甲組(會計相關背景)、乙組(資訊相關背景)共同必修課程"
+    }
+]

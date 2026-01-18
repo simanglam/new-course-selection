@@ -1,0 +1,103 @@
+[
+    {
+        "id": "高齡者教育研究所",
+        "name": "社會老年學研究",
+        "professor": "陳毓璟",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925007_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "高齡者教育研究所",
+        "name": "教育研究法",
+        "professor": "成教系待聘教師1",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "教育二館532",
+        "type": "必修",
+        "description": "本課程旨在提供學生進行量化研究所需的基礎知識與實用技能。課程內容將系統性地介紹量化研究的邏輯、研究設計、測量方法、問卷設計、資料收集、統計分析與報告撰寫。學生透過本課程的學習，將能夠獨立設計一項量化研究計畫，並使用統計軟體進行基本的資料分析與解讀。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056821/local_syllabus/attachment/34577/114%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%88%E9%AB%98%E9%BD%A1%E7%A2%A9%E5%A3%AB%E7%8F%AD%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "高齡者教育研究所",
+        "name": "跨世代融合研究",
+        "professor": "陳毓璟",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925019_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "高齡者教育研究所",
+        "name": "高齡健康促進與智慧醫療",
+        "professor": "林昭維",
+        "credits": 3,
+        "time": "四G,H",
+        "location": "工學院A館125",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3925022_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "高齡者教育研究所",
+        "name": "長期照顧場域中的終身學習研究",
+        "professor": "周傳久",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "本課程為高齡所同學擴展就業領域建立跨域發橋樑。係針對探討亞健康與衰弱人\r\n口增加的趨勢，強化其終身學習機會與素養而設計。希望國民在生命歷程不同階\r\n段能增強適應能力，保有生活幸福感和價值意義。提供最新國際研究發現和實務\r\n創新案例，幫助同學應用學理，成為協助者、引導者、陪伴者、創造者，使高齡\r\n民眾能共同参與決策，引導善用資源，得到生活支持，發展生命創造，充分彰顯\r\n人的價值與尊嚴。\n\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062767/local_syllabus/attachment/34833/%E5%91%A8%E5%82%B3%E4%B9%85%20114-2%E9%AB%98%E7%A2%A9-%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E5%A0%B4%E5%9F%9F%E4%B8%AD%E7%9A%84%E7%B5%82%E8%BA%AB%E5%AD%B8%E7%BF%92%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

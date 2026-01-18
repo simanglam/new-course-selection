@@ -1,0 +1,507 @@
+[
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "英文閱讀與溝通",
+        "professor": "蔡蕙如",
+        "credits": 2,
+        "time": "五10,11",
+        "location": "共同教室大樓321",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101007_01",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "先修科目(7102111)實用英語表達（基礎班）(及格)(7102121)實用英語技巧（強化班）(及格)(只要符合任一先修條件)限本系生修.外系學生須曾修習【7102111】實用英語表達(基礎班)或【7102121】實用英語技巧(強化班)達及格標準"
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "紫荊學習規劃(二)",
+        "professor": "洪靖",
+        "credits": 1,
+        "time": "二12",
+        "location": "共同教室大樓423",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101008_01",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "先修科目(9101002)紫荊學習規劃(一)(曾經修習)限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "職涯探索",
+        "professor": "王秋玲",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "共同教室大樓322",
+        "type": "必修",
+        "description": "引導同學瞭解職涯規劃的重要性，並介紹就業市場的趨勢與就業力的分析,提供求職的工具與方法，俾於同學設定職涯目標並採取行動計劃。\r\n本課程將分為兩大部分，第一部分為生涯探索，透過自我探索與工作世界探索的進行，幫助學生澄清自己的性向、能力、興趣、願景、價值觀、資源以及限制；幫助學生明白工作各項所需具備的條件與技能及人格特質、優缺點與發展前途。\r\n第二部分將教導同學培養相關重要職能，如培養自我管理的能力，抗挫折的能力、自我行銷的能力（履歷自傳撰寫與面試技巧）等，讓同學設定生涯目標並採取行動。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029376/local_syllabus/attachment/33765/%E4%B8%8D%E5%88%86%E7%B3%BB%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%28%E6%96%B0%E7%89%88%29%E8%81%B7%E6%B6%AF%E6%8E%A2%E7%B4%A2114-2.docx",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": "限本系生修.已修習通識課「職涯規劃」(課碼:7407013)者，請勿選修。"
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "人工智慧導論與應用",
+        "professor": "劉立頌",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "共同教室大樓207",
+        "type": "必修",
+        "description": "This course introduces the basics of Artificial Intelligence (AI) and its applications. Students use an AI-based approach along with programming and tools to learning the potential of AI applications. With the participation in a team project, the students will learn how to systemically implement the abstract concepts. Through the semester, the students are encouraged to think about the issues in social responsibility and practices. This course is and EMI (English as a Medium of Instruction) course.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026622/local_syllabus/attachment/33688/EMI_%E4%B8%8D%E5%88%86%E7%B3%BB%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1AI_2026.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(9101004)運算思維與程式設計(曾經修習)限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "心理學緒論",
+        "professor": "蔣文祁",
+        "credits": 3,
+        "time": "一E 三E",
+        "location": "共同教室大樓207",
+        "type": "選修",
+        "description": "本課程旨在介紹心理學的基本概念及其在日常生活上的應用，期使修課同學了解並能應用心理學主要領域的重要理論及研究發現。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023460/local_syllabus/attachment/33585/%E7%B4%AB%E8%8D%8A_%E5%BF%83%E7%90%86%E5%AD%B8%E7%B7%92%E8%AB%96_%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "心理學系不得選修,犯罪防治學系不得選修;已選修通識課「心理學緒論」(7401002)同學請勿選修。"
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "法學緒論",
+        "professor": "謝三榮",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "共同教室大樓322",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101016_01",
+        "targetGrade": "1",
+        "capacity": "62",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "生物醫學的科學、技術與社會",
+        "professor": "余俊頴,翁靖傑,洪靖",
+        "credits": 2,
+        "time": "二5,6",
+        "location": "共同教室大樓207",
+        "type": "選修",
+        "description": "生物醫學近年快速發展，嘗試對全球的醫療保健、農業、製造業、甚至環境能源提出創新且具革命性的解決方案，社會大眾也紛紛賦予極高期待。本課程具備跨領域精神，以 STS（科技與社會研究：Science and Technology Studies）為視角，帶領同學認識、討論、與探索生物醫學（Biomedicine）與當代社會的複雜關係。從科學知識到技術應用，生物醫學不只影響與塑造社會價值，社會價值也會進入生物醫學當中。\n\r\n秉持 STS 深入知識內涵與技術細節的精神，本課程由三位老師授課，並將生物醫學大致區分為三大面向：基礎知識🧪、技術應用🩺、社會倫理🌏。課程會以「基礎知識→技術應用→社會倫理」為一單元組的方式進行，共分為三大單元（ABC）。每週會有兩位老師共同上課（一主授、一副授），一方面相互支援、溝通、與辯論，另一方面也向同學示範跨越院系的交流與思考。\n\r\n透過這門課，同學可以：\r\n1. 瞭解生物醫學的基礎科學知識；\r\n2. 初步認識生物醫學的產品應用；\r\n3. 洞察生物醫學的社會倫理議題；\r\n4. 培養跨領域的思考與溝通習慣。\n\r\n* 不須具備生物醫學基本知識，也不必是二類或三類背景。\r\n** 欲修課同學務必出席首週課程綜覽，以免誤解課程內容與評分規則，造成自身權益受損。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028189/local_syllabus/attachment/33760/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_114_%E4%B8%8D%E5%88%86%E7%B3%BB_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E7%9A%84%E7%A7%91%E5%AD%B8%E6%8A%80%E8%A1%93%E8%88%87%E7%A4%BE%E6%9C%83_20260110.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "科學與技術通論(二)",
+        "professor": "蕭淑惠,陳俊益,周盈年",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "共同教室大樓208",
+        "type": "必修",
+        "description": "教學目標\r\n    本課程旨在培養學生的科學素養與跨領域思維，透過物理學、生物學與普通化學三大領域的核心概念與應用，使學生理解自然界運作的基本原理，從力與能量、生命結構與遺傳、到物質的組成與化學反應，建立整合性的科學觀點。課程強調理論與生活現象的連結，引導學生以科學方法觀察、分析與解釋周遭世界，並思考科技發展對社會與環境的影響，培養理性思考、問題解決及永續發展的意識。\r\n教學範圍:\r\n    本課程教學範圍涵蓋物理學、生物學與普通化學三大主題，各領域各佔五週。物理學部分著重於力學、能量、熱學與電學等基本概念，說明自然界運動與能量轉換的原理；生物學部分探討生命的組成與運作，包括細胞結構、基因與遺傳、生物科技應用；普通化學部分則介紹物質的科學、化學反應、高分子科技等內容，說明物質變化的規律與科技應用。整體課程以科學原理的理解與日常生活連結為主軸，幫助學生從不同學科面向認識自然現象與科技發展。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027966/local_syllabus/attachment/33740/114-2%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E7%A7%91%E5%AD%B8%E8%88%87%E6%8A%80%E8%A1%93%E9%80%9A%E8%AB%96%28%E4%BA%8C%29%28%E7%AC%AC%E5%9B%9B%E7%89%88%E4%BF%AE%E6%AD%A3%29_Final.docx",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "人文與社會通論(二)",
+        "professor": "郭芳彰,蔡蕙如",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "共同教室大樓322",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9101031_01",
+        "targetGrade": "1",
+        "capacity": "62",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "世界文明經典閱讀（二）",
+        "professor": "洪靖",
+        "credits": 2,
+        "time": "三7,8",
+        "location": "共同教室大樓321",
+        "type": "必修",
+        "description": "本課程為「世界文明經典閱讀（一）」的延續。在第一學期中，我們探討了文明如何被環境、生物、語言等「比個人更大的力量」所建構 。本學期，我們將從Max Weber對現代「理性化」精神的經典分析出發，聚焦於一個新的核心問題：當「合理化」的精神滲透了職業、制度與日常生活，我們作為被這股力量形塑的現代人，該如何重探倫理的可能、自由的界限與認知的框架？\n\r\n本課設計的重心，在於藉由閱讀這些思想原典，跟著作者的文字「學習他／她如何思考」，進而踏上「我要如何思考」的動腦旅程。每週課程均由同學分組導讀主題文本，教師則引導概念釐清與問題補充，透過討論大量全班與分組討論，同學將練習理解並體會每個思想的複雜與意義。\n\r\n在第二學期中，我們將從前一學期「比個人更大的力量」主題的延續——《基督新教倫理與資本主義精神》——為起點，開展三條新的問題軸線；每條軸線都將對應\n\r\n數個核心文本，引導同學反思個體在現代世界中的定位：\r\n1. 在一個高度強調理性與規訓的系統中，倫理與自由如何可能？\r\n2. 我們的認知框架，是否決定了我們所能理解的世界？\r\n3. 帶著這些源自西方的思想提問，我們如何在自身的文化脈絡中尋找安放的位置？\n\r\n同學在這門課中可以學到：\r\n1. 如何閱讀經典思想文本，並理解其歷史背景與論證脈絡；\r\n2. 如何辨識一個想法背後的觀點立場與表達方式；\r\n3. 如何在討論中提出觀點、聆聽差異並共同生成問題；\r\n4. 如何將閱讀視為與他人共同思考的一種訓練方式。\n\r\n* 欲修課同學務必出席首週課程綜覽，以免誤解課程內容與評分規則，造成自身權益受損。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028634/local_syllabus/attachment/33763/%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E7%B6%93%E5%85%B8%E9%96%B1%E8%AE%80%EF%BC%88%E4%BA%8C%EF%BC%89_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_%E6%A8%99%E6%BA%96%E7%89%88_114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "62",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "統計學",
+        "professor": "陳俊益",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "共同教室大樓204",
+        "type": "必修",
+        "description": "瞭解統計學的基本概念和原理，掌握常見的統計方法和資料分析技巧，運用統計和資料分析來解決真實世界的問題，培養統計思維和數據驅動的決策能力，並進而能夠將收集的資料加以分析與應用，可做為企業決策的基石。本課程將教導利用Excel軟體協助對所收集的資料加以分析。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053959/local_syllabus/attachment/34440/1142%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E7%B5%B1%E8%A8%88%E5%AD%B8.docx",
+        "targetGrade": "1",
+        "capacity": "62",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "電腦繪圖與設計",
+        "professor": "陳俊益",
+        "credits": 2,
+        "time": "四7,8",
+        "location": "資訊處217教室",
+        "type": "選修",
+        "description": "教學目標:\r\n1.學生將瞭解電腦繪圖軟體(AutoCAD)的基本操作和功能。\r\n2.學生能夠使用電腦繪圖(AutoCAD)製作基本的圖形，包括線條、圓、矩形等。\r\n3.學生將能夠應用製圖技巧解決實際的設計和製圖問題。\r\n教學範圍:\r\n模組1: AutoCAD基礎知識\r\n模組2: 進階繪圖指令\r\n模組3: 圖形編輯和修改技巧\r\n模組4: 圖形輸出和分享\r\n模組5: 應用領域\r\n模組6: 實際專案\r\n    本課程的目標是確保學生掌握電腦繪圖(AutoCAD)軟體的基本操作和製圖技巧，使他們能夠應用這些技能在不同的製圖應用領域中工作。課程的範圍包括AutoCAD的基本知識、進階繪圖指令、圖形編輯和修改、圖形輸出和分享，以及實際專案的應用，以確保學生能夠達到預定的目標。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026766/local_syllabus/attachment/33691/1142%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%28%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E8%88%87%E8%A8%AD%E8%A8%88%29.docx",
+        "targetGrade": "2",
+        "capacity": "47",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "永續與創新經營",
+        "professor": "陳俊益,魏寶生",
+        "credits": 2,
+        "time": "五4,5",
+        "location": "共同教室大樓213",
+        "type": "選修",
+        "description": "本課程以永續發展與創新經營為核心，結合保險金融科技與新興金融科技之理論與實務案例，透過課堂講授、業界講座、案例分析與分組實作，引導學生理解食、宿、遊、購、行等生活圈產業如何與保險及金融服務整合，並分析科技創新在提升企業效率、風險管理與永續經營中的關鍵角色。課程內容涵蓋永續經營與創新思維基礎、保險金融科技實務應用、企業數位轉型案例，以及區塊鏈與加密貨幣之發展趨勢與其對金融體系與產業經營的影響，最終引導學生整合所學，提出具可行性之永續與創新經營構想，培養其系統性思考、跨領域分析、團隊合作與專業表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026857/local_syllabus/attachment/33693/%28%E9%AD%8F%E5%AF%B6%E7%94%9F%20%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-2%E3%80%8C%E6%B0%B8%E7%BA%8C%E8%88%87%E5%89%B5%E6%96%B0%E7%B6%93%E7%87%9F%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "62",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "永續能源與碳中和",
+        "professor": "吳元康,李振卿",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "共同教室大樓315",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027770/local_syllabus/attachment/33732/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC%202%20%E5%AD%B8%E6%9C%9F%E3%80%8C%E6%B0%B8%E7%BA%8C%E8%83%BD%E6%BA%90%E8%88%87%E7%A2%B3%E4%B8%AD%E5%92%8C%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20NEW.docx",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "永續發展與ESG",
+        "professor": "王秋玲,陳俊益",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "共同教室大樓322",
+        "type": "選修",
+        "description": "本課程旨在培養學生對永續發展與低碳轉型的全面理解，涵蓋國際政策、碳管理、生態系統服務、企業永續實務、永續金融及報告書編制等領域。透過理論學習與實務案例分析，學生將能：\r\n1.增進對全球永續發展議題的認識，並能在未來職涯中應用所學知識。\r\n2.掌握碳中和與低碳轉型的實踐方法，為組織或企業制定有效策略。\r\n3.提升企業永續管理與報告能力，滿足利益相關者與法規要求。\r\n4.理解永續金融的趨勢與機會，抓住市場轉型帶來的新發展。\r\n本課程適合對永續發展、環境管理、企業社會責任等領域有興趣的學生，期望通過系統性的學習，為推動社會的永續發展貢獻力量。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026734/local_syllabus/attachment/33690/114-2%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%88%87ESG%29%20%284%29%20%282%29.docx",
+        "targetGrade": "2",
+        "capacity": "62",
+        "memo": ""
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "文化研究導論",
+        "professor": "曾若涵",
+        "credits": 2,
+        "time": "五4,5",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "文化與一個民族、與人們的生活有著密不可分的關係，文化反映民族的思維與表達，至今已經累積許多的理論與觀察範例。本課程從文化學的理論說起，論及文化概念的理解、文化身分問題，文化與民族性問題、文化與權力問題、文化及語言問題、視覺文化等，並試圖延伸至學生能切身感知的在地文化議題。\r\n課程內容主要聚焦在基礎理論的建構，以及實例之閱讀與分析，偶而也會穿插東亞歷史材料。透過教科書中的案例、近年的學界研究、以及日常生活中所遭遇的文化現象，引導學生探索生活周邊的文化特色。\n\r\nCulture is inextricably linked to ethnicity and people's lives. It reflects a nation's thinking and expression, and has accumulated numerous theories and examples. This course begins with cultural studies theories, discussing the understanding of artistic concepts, issues of cultural identity, the relationship between culture and ethnicity, culture and power, and culture and language. It also attempts to extend to local cultural issues that students can personally experience.\r\nThe course content primarily focuses on building foundational theories and reading case studies, occasionally incorporating materials from East Asian history. Through textbook examples, recent research, and cultural phenomena encountered in daily life, the course guides students to explore the cultural characteristics of their surroundings.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027761/local_syllabus/attachment/33731/%E7%B4%AB%E8%8D%8A%E4%B8%8D%E5%88%86%E7%B3%BB%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96_20260111.pdf",
+        "targetGrade": "2",
+        "capacity": "20",
+        "memo": "限本系生修.第一階段選課限中文系、不分系學生選修，各限20人。"
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "跨領域專題研究(二)",
+        "professor": "紫荊不分系學士學位學程待聘教師4",
+        "credits": 2,
+        "time": "一13,14",
+        "location": "共同教室大樓423",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9103002_01",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "跨領域專題研究(二)",
+        "professor": "紫荊不分系學士學位學程待聘教師4",
+        "credits": 2,
+        "time": "二13,14",
+        "location": "共同教室大樓423",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_9103002_02",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)限本系生修."
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "跨領域專題研究(四)",
+        "professor": "趙文志,林子綾,梁思遠,陳俊益,葉亭葶",
+        "credits": 2,
+        "time": "三13,14",
+        "location": "共同教室大樓423",
+        "type": "必修",
+        "description": "本課程旨在引導學生在專題指導老師的指導下，整合先前跨領域學習成果，系統性地完成專題研究與實務製作，培養其專題規劃、問題分析、實作執行與成果呈現之能力。課程教學範圍涵蓋專題研究方法與實務操作、專案進度管理、跨領域知識整合、研究資料與成果文件整理，以及專題成果展示與發表等內容。透過定期指導與討論，學生能在實作歷程中深化自主學習與批判思考能力，並於畢業專題展與專題發表週完整呈現專題成果，強化其專業表達、跨領域溝通與實務應用能力，為後續升學或職涯發展奠定基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028143/local_syllabus/attachment/33755/%28%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-1%E3%80%8C%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%91%97%E4%BD%9C%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "4",
+        "capacity": "30",
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.01班指導老師：蔡蕙如 葉亭葶 陳俊益 梁思遠 趙文志 林子綾 崔曉倩"
+    },
+    {
+        "id": "紫荊不分系學士學位學程",
+        "name": "跨領域專題研究(四)",
+        "professor": "陳世樂,簡廷軒,陳俊益,邱志義",
+        "credits": 2,
+        "time": "四13,14",
+        "location": "共同教室大樓423",
+        "type": "必修",
+        "description": "本課程旨在引導學生在專題指導老師的指導下，整合先前跨領域學習成果，系統性地完成專題研究與實務製作，培養其專題規劃、問題分析、實作執行與成果呈現之能力。課程教學範圍涵蓋專題研究方法與實務操作、專案進度管理、跨領域知識整合、研究資料與成果文件整理，以及專題成果展示與發表等內容。透過定期指導與討論，學生能在實作歷程中深化自主學習與批判思考能力，並於畢業專題展與專題發表週完整呈現專題成果，強化其專業表達、跨領域溝通與實務應用能力，為後續升學或職涯發展奠定基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028152/local_syllabus/attachment/33756/%28%E9%99%B3%E4%BF%8A%E7%9B%8A%29114-1%E3%80%8C%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%91%97%E4%BD%9C%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29%E3%80%8D%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "4",
+        "capacity": "30",
+        "memo": "先修科目(9103001)跨領域專題研究（一）(曾經修習)(9103002)跨領域專題研究(二)(曾經修習)(9104001)跨領域專題研究(三)(曾經修習)(所有先修條件都必須符合)限本系生修.02班指導老師：陳俊益 陳慈幸 洪靖 蘇宏仁 張介凡 邱志義 簡廷軒"
+    }
+]

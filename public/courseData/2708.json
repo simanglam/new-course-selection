@@ -1,0 +1,334 @@
+[
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "專題：奈米光電",
+        "professor": "許佳振",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "物理館303",
+        "type": "選修",
+        "description": "Nanophotonics is where photonics merges with nonoscience and nanotechnology, and\r\nwhere spatial confinement considerably modifies light propagation and light-mater\r\ninteractions. This course will introduce basic phenomena, principles, experimental\r\nadvances, and potential impact of nanophotonics. The course will highlight practical\r\nissues, material properties, device feasibility of materials with nanostructured feature. The\r\nfollowing topics will be discussed in this course.\r\n1. 1. Introduction\r\n Nanoengineering and sciences, Nanophotonics materials, Nanofabrication, Nano\r\ncharacterization, Market and applications.\r\n2. Foundations of nanophotonics\r\n Photons and electrons, Confinements of electron and photons, Tunneling, Localization\r\neffects, Cooperative effects, Nanoscale optical interactions, Surface plasma resonance.\r\n3. Quantum confinement materials\r\n Quantum wells, Quantum wires, Quantum dots, Manifestations of quantum confinement,\r\n4. Photonic crystals fundamentals\r\nPhotonic crystals, Opal and inverse opal structures, One dimensional photonic crystal,\r\nPhotonic bandgap, Two- and three-dimensional photonic crystals, Properties of photonic\r\ncrystals and their applications, Defects in photonic crystals\r\n5. 5. Nonlinear optics with photonic crystals\r\n Nonlinear effects, Composite materials for nonlinear optics, Photonic bandgap nonlinear\r\nenhancements,\r\n6. Photonic crystals slab waveguides\r\n2 2D rods slab, 2D air membrane slab, microcavity and defects\r\n7. f7. Fabrication of photonic crystal.\r\nTop down techniques, Photo-lithography technique, E-beam lithography technique, Two\r\nphoton lithography technique, Holography lithography technique, Bottom up techniques,\r\nSelf-assembling of nano colloids, Self-assembling of block copolymers\r\n8. Photonic crystal fiber\r\nConventional fiber, Photonic crystal fibers, Hollow core bandgap fibers, Solid core holey\r\nfiber, Onmi guide fiber, Nonlinear holey fibe\r\n9. Nanophotonics plasmonics.\r\nSurface plasma resonance basics, Surface plasma polaritons, Metallic nano shells, plasmonic\r\nwaveguide\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060489/local_syllabus/attachment/34727/2708012-%E7%89%A9%E7%90%86-%E8%A8%B1%E4%BD%B3%E6%8C%AF-%E5%B0%88%E9%A1%8C%EF%BC%9A%E5%A5%88%E7%B1%B3%E5%85%89%E9%9B%BB.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "計算化學",
+        "professor": "胡維平",
+        "credits": 3,
+        "time": "二B,C",
+        "location": "化生系313",
+        "type": "選修",
+        "description": "Course Outline\n\r\nCourse: Computational Chemistry\r\nYear: 2021 Semester: Fall\r\nCredit: 3\r\nCourse Number: 2708003\r\nTeacher: Prof. Wei-Ping Hu (E-mail: chewph@ccu.edu.tw)\r\nDepartment: Chemistry and Biochemistry\r\nClassroom: Chemistry 313\r\nWeb Page: http://deptche.ccu.edu.tw/Chemistry/Comp_Chem/\n\r\nContents:\r\n\tHistory of Computation\r\n\tAtomic Structure \r\n\tIntroduction to Computational Chemistry\r\n\tCoordinate Systems and Model Building\r\n\tBasic Principles of Quantum Mechanics\r\n\tMethods of Quantum Chemistry\r\n\tBasis Sets\r\n\tAtomic Calculation\r\n\tMolecular Structure and Potential Energy Surface\r\n\tChemical Thermodynamics\r\n\tChemical Dynamics\r\n\tElectronic Excited States\r\n\tSolvation Effects\n\r\nEvaluation: Reports 40%, Mid-Term Exam. 30%, Final Exam. 30%\n\r\nReferences:\r\nIra N. Levine, Quantum Chemistry, 5th Edition, Prentice Hall, 2000.\r\nFrank Jensen, Introduction to Computational Chemistry, 2nd Edition, Wiley 2006.\r\nChristopher J. Cramer, Essential of Computational Chemistry, Theories and Models, 2nd Edition, Wiley 2004.\r\nAndrew R. Leach, Molecular Modelling, 2nd Edition, Prentice Hall 2001.\r\nMark A. Ratner, George C. Schatz, Introduction to Quantum Mechanics in Chemistry, Prentice Hall 2001. \r\nEncyclopedia of Computational Chemistry, Wiley.\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060584/local_syllabus/attachment/34733/2708003-%E5%8C%96%E7%94%9F-%E8%83%A1%E7%B6%AD%E5%B9%B3-%E8%A8%88%E7%AE%97%E5%8C%96%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "書報討論(二)",
+        "professor": "陳永恩",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "數學館304",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060455/local_syllabus/attachment/34725/2708011-STEM%E5%AD%B8%E7%A8%8B-%E9%99%B3%E6%B0%B8%E6%81%A9-%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "有機金屬化學",
+        "professor": "于淑君",
+        "credits": 3,
+        "time": "二B,C",
+        "location": "化生系102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060592/local_syllabus/attachment/34734/2708013-%E5%8C%96%E7%94%9F-%E4%BA%8E%E6%B7%91%E5%90%9B-%E6%9C%89%E6%A9%9F%E9%87%91%E5%B1%AC%E5%8C%96%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "高等細胞分子生物學(二)",
+        "professor": "蕭淑惠,陳永恩",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060609/local_syllabus/attachment/34736/2708014-%E7%94%9F%E9%86%AB-%E6%9D%8E%E6%B2%81%E8%95%AD%E6%B7%91%E6%83%A0-%E9%AB%98%E7%AD%89%E7%B4%B0%E8%83%9E%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%B8%28%E4%BA%8C%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "高等孢粉與環境",
+        "professor": "汪良奇",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "地震館203",
+        "type": "選修",
+        "description": "Course Description–(3 credits): This course deals with pollen and spores of modern plants that are used as references for the\r\nidentification of the fossilized ones using the shape and structures of pollen grains and spores. The course covers\r\ntaxonomy, application of fossil pollen in dating sediments is emphasized. This course involves field and laboratory works.\r\nMaximum number of students are ten.\r\nObjectives: Students who successfully complete this course\r\nshould have:\r\na. Describe the structures, textures, shapes of pollen grains and\r\nspores.\r\nb. Identify using an optical microscope the different pollen\r\ngrains/spores of modern and ancient plants.\r\nc. Explain how fossil pollen provides a record of past\r\nenvironment and ecology.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060520/local_syllabus/attachment/34728/2708020-%E5%9C%B0%E7%92%B0-%E6%B1%AA%E8%89%AF%E5%A5%87-%E9%AB%98%E7%AD%89%E5%AD%A2%E7%B2%89%E8%88%87%E7%92%B0%E5%A2%83.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "高等環境土壤學",
+        "professor": "陳建易,楊光",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "數學館106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070547/local_syllabus/attachment/35180/2708021-%E5%9C%B0%E7%92%B0-%E9%99%B3%E5%BB%BA%E6%98%93%E6%A5%8A%E5%85%89-%E9%AB%98%E7%AD%89%E7%92%B0%E5%A2%83%E5%9C%9F%E5%A3%A4%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "固態物理(一)",
+        "professor": "秦伊瑩",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "物理館307",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060559/local_syllabus/attachment/34730/2708029-%E7%89%A9%E7%90%86-%E7%A7%A6%E4%BC%8A%E7%91%A9-%E5%9B%BA%E6%85%8B%E7%89%A9%E7%90%86%28%E4%B8%80%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "電化學分析",
+        "professor": "周禮君",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "化生系317",
+        "type": "選修",
+        "description": "Course Description: \r\nThis course will introduce the basic concepts of analytical electrochemistry and the techniques involved in electrochemical analysis.\n\r\nObjectives: \r\nStudents who successfully complete this course should have:\r\na. An understanding of the fundamental of electrochemistry.\r\nb. An understanding of the electroanalytical methods.",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060600/local_syllabus/attachment/34735/2708034-%E5%8C%96%E7%94%9F-%E5%91%A8%E7%A6%AE%E5%90%9B-%E9%9B%BB%E5%8C%96%E5%AD%B8%E5%88%86%E6%9E%90.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "書報討論(四)",
+        "professor": "陳永恩",
+        "credits": 1,
+        "time": "三10,11",
+        "location": "數學館304",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060446/local_syllabus/attachment/34724/2708041-STEM%E5%AD%B8%E7%A8%8B-%E9%99%B3%E6%B0%B8%E6%81%A9-%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E5%9B%9B%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(2708011)書報討論(二)(及格)(2708005)書報討論(一)(及格)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "統計力學",
+        "professor": "蔡炎熾",
+        "credits": 3,
+        "time": "二D 四D",
+        "location": "物理館304",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060567/local_syllabus/attachment/34731/2708044-%E7%89%A9%E7%90%86-%E8%94%A1%E7%82%8E%E7%86%BE-%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "進階生物地球科學",
+        "professor": "許昺慕,胡司憲",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "地震館301",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060575/local_syllabus/attachment/34732/2708050-STEM-%E8%A8%B1%E6%98%BA%E6%85%95%E8%83%A1%E5%8F%B8%E6%86%B2-%E9%80%B2%E9%9A%8E%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "光電物理",
+        "professor": "段必輝",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "物理館304",
+        "type": "選修",
+        "description": "1. 光的波動性與Maxwell方程式回顧\r\nReview of the wave natures of light and Maxwell equations\r\n2. 光波傳遞：時間與空間域的干涉\r\nOptical wave propagation: interference in temporal and spatial domain\r\n3. 介面反射、折射、光波導與導引模\r\nInterfacial reflection and refraction for optical waveguides and guided modes\r\n4. 雷射基本原理：激發源、增益介質、共振腔\r\nBasic principles of lasers：pump sources, gain media, and optical resonators\r\n5. 雷射光的空間與時間調製\r\nTemporal and spatial modulation of laser fields\r\n6. 半導體物理及光電元件基礎\r\nFundamentals of semiconductor physics and optoelectronic devices\r\n7. 偏振光學\r\nPolarization optics\r\n8. 非線性光學\r\nNonlinear optics\r\n本課程旨在介紹一般從事光電領域相關研究時常用的半導體光電元件及裝置之基礎原理，期待藉由數值模擬分析及學期專題實務演練培養學生學用合一的科學素養。\r\nThe main goal of this course is to introduce the fundamental principles of the semiconductor-based optoelectronic devices used in the research of photonics. Students who take this course are expected to cultivate practical skills combined with the theoretical principles to solve realistic issues by the designed assignments of numerical simulation and the semester project presentation.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060529/local_syllabus/attachment/34729/2708058-%E7%89%A9%E7%90%86-%E6%AE%B5%E5%BF%85%E8%BC%9D-%E5%85%89%E9%9B%BB%E7%89%A9%E7%90%86.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "生物物理化學特論",
+        "professor": "李政怡,方前量",
+        "credits": 3,
+        "time": "五9,10,11",
+        "location": "生醫系534",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060463/local_syllabus/attachment/34726/2708066-%E7%94%9F%E9%86%AB-%E6%9D%8E%E6%94%BF%E6%80%A1%E6%96%B9%E5%89%8D%E9%87%8F-%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%B8%E7%89%B9%E8%AB%96.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "跨領域科學國際博士學位學程",
+        "name": "高等環境奈米",
+        "professor": "陳建易,夏宇恩",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "數學館106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070538/local_syllabus/attachment/35179/2708071-%E5%9C%B0%E7%92%B0-%E9%99%B3%E5%BB%BA%E6%98%93%E5%A4%8F%E5%AE%87%E6%81%A9-%E9%AB%98%E7%AD%89%E7%92%B0%E5%A2%83%E5%A5%88%E7%B1%B3.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

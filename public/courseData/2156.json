@@ -1,0 +1,275 @@
+[
+    {
+        "id": "地震研究所",
+        "name": "數位訊號處理",
+        "professor": "黃蕙珠",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "地震館301",
+        "type": "選修",
+        "description": "主要教導學生訊號處理的相關知識，包含FFT的原理、技術與應用、訊號取樣原理、各種時變系統的轉換分析及各種濾波器的設計與應用",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047402/local_syllabus/attachment/34214/DSP-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_20221216_f.pdf",
+        "targetGrade": "1",
+        "capacity": "38",
+        "memo": "碩博選修"
+    },
+    {
+        "id": "地震研究所",
+        "name": "觀測地震學",
+        "professor": "温士忠,温怡瑛",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "配合課程講述的理論，透過實際資料介紹與演練地震觀測分析技術，瞭解地震觀測內容。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063981/local_syllabus/attachment/34909/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-12212022.pdf",
+        "targetGrade": "1",
+        "capacity": "28",
+        "memo": ""
+    },
+    {
+        "id": "地震研究所",
+        "name": "工程地震學",
+        "professor": "黃蕙珠",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "地震館301",
+        "type": "選修",
+        "description": "訓練學生在地震工程方面的知識，課程內容涵蓋：地震學、地質學、地震動相關知識、地震危害度害評估、地震動預估、地震動模擬、地工技術及其他相關知識。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064701/local_syllabus/attachment/34952/2022%E5%B7%A5%E7%A8%8B%E5%9C%B0%E9%9C%87%E5%AD%B8-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_20221216_f.pdf",
+        "targetGrade": "1",
+        "capacity": "38",
+        "memo": "碩班課程，開放大三大四選修"
+    },
+    {
+        "id": "地震研究所",
+        "name": "書報討論（二）",
+        "professor": "李元希",
+        "credits": 1,
+        "time": "三7,8",
+        "location": "地震館301",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2155092_01",
+        "targetGrade": "1",
+        "capacity": "38",
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地震研究所",
+        "name": "書報討論（四）",
+        "professor": "李元希",
+        "credits": 1,
+        "time": "三10,11",
+        "location": "地震館301",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2155094_01",
+        "targetGrade": "1",
+        "capacity": "38",
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地震研究所",
+        "name": "陣列地震學",
+        "professor": "陳映年",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "地震館304",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047429/local_syllabus/attachment/34217/%E9%99%A3%E5%88%97%E5%9C%B0%E9%9C%87%E5%AD%B8_11202.doc",
+        "targetGrade": "1",
+        "capacity": "28",
+        "memo": "碩博選修"
+    },
+    {
+        "id": "地震研究所",
+        "name": "重磁法測勘",
+        "professor": "陳宏嘉",
+        "credits": 3,
+        "time": "四E,F",
+        "location": "地震館305",
+        "type": "選修",
+        "description": "本課程旨在介紹重力和磁力在地球科學中的基本原理及其應用。學生將學習如何利用重力和磁力測勘技術來研究地球的內部結構、資源分布和地質現象。課程內容主要是理論知識及儀器介紹，通過案例研究和現場實驗，使學生能夠將所學知識應用於實際問題的解決。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064720/local_syllabus/attachment/34954/114-2%E9%87%8D%E7%A3%81%E6%B3%95%E6%B8%AC%E5%8B%98%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%AE%8F%E5%98%89.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "地震研究所",
+        "name": "書報討論（二）",
+        "professor": "陳宏嘉",
+        "credits": 1,
+        "time": "三10,11",
+        "location": "地震館203",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2158001_01",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地震研究所",
+        "name": "書報討論（四）",
+        "professor": "陳宏嘉",
+        "credits": 1,
+        "time": "三12,13",
+        "location": "地震館203",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2158003_01",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "博士班必修/Ph.D. Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地震研究所",
+        "name": "高等孢粉與環境",
+        "professor": "汪良奇",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "地震館203",
+        "type": "選修",
+        "description": "This course deals with pollen and spores of modern plants that are used as references for the identification of the fossilized ones using the shape and structures of pollen grains and spores. The course emphasizes the application of fossil pollen in dating sediments, covering taxonomy. This course involves field and laboratory work. The maximum number of students is ten. ",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064765/local_syllabus/attachment/34959/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E7%AF%84%E6%9C%AC-%E4%B8%AD%E8%8B%B1%E6%96%87_%E5%9C%B0%E7%92%B0%E6%B1%AA%E8%89%AF%E5%A5%87%20%E8%8A%B1%E7%B2%89%E8%88%87%E7%92%B0%E5%A2%83.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "地震研究所",
+        "name": "歐亞大陸邊緣地體構造演化",
+        "professor": "李元希",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "地震館305",
+        "type": "選修",
+        "description": "Introduction and discussion of the tectonic evolution of Eurasia plate since Mesozoic",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047375/local_syllabus/attachment/34211/2158005%E6%AD%90%E4%BA%9E%E5%A4%A7%E9%99%B8%E9%82%8A%E7%B7%A3%E5%9C%B0%E9%AB%94%E6%A7%8B%E9%80%A0%E6%BC%94%E5%8C%96.doc",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "地震研究所",
+        "name": "理論地震學（一）",
+        "professor": "陳映年",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "地震館304",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2064738/local_syllabus/attachment/34956/%E7%90%86%E8%AB%96%E5%9C%B0%E9%9C%87%E5%AD%B8.doc",
+        "targetGrade": "1",
+        "capacity": "28",
+        "memo": ""
+    }
+]

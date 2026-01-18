@@ -1,0 +1,293 @@
+[
+    {
+        "id": "物理研究所",
+        "name": "統計力學",
+        "professor": "蔡炎熾",
+        "credits": 3,
+        "time": "二D 四D",
+        "location": "物理館304",
+        "type": "選修",
+        "description": "1.\tThermodynamics \r\n2.\tKinetic Theory and Transport P\r\n3.\tClassical Statistical Mechanics\r\n4.\tCanonical Ensemble and Grand Canonical Ensemble\r\n5.\tQuantum Statistical Mechanics\r\n6.\tGeneral Properties of the Partition Function\r\n7.\tFermi Systems\r\n8.\tBose Systems",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050994/local_syllabus/attachment/34324/%E8%94%A1%E7%82%8E%E7%86%BE-%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%B8%28%E8%8B%B1%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(2203041)熱統計物理學(60分以上)"
+    },
+    {
+        "id": "物理研究所",
+        "name": "電動力學（二）",
+        "professor": "林財鈺",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "物理館307",
+        "type": "選修",
+        "description": "讓學生熟悉電磁波之傳播，繞射，散射以及輻射。    ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051013/local_syllabus/attachment/34325/%E6%9E%97%E8%B2%A1%E9%88%BA-%E9%9B%BB%E5%8B%95%E5%8A%9B%E5%AD%B8%28%E4%BA%8C%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(2205041)電動力學（一）(及格)"
+    },
+    {
+        "id": "物理研究所",
+        "name": "量子力學（二）",
+        "professor": "吳欣澤",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "物理館303",
+        "type": "選修",
+        "description": "1. Theory of angular momentum (continued)\r\n2. Symmetry in quantum mechanics\r\n3. Approximation methods\r\n4.Density operator and quantum statistics\r\n5.Identical particles and many-particle systems\r\n6.Scattering theory",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051030/local_syllabus/attachment/34327/%E5%90%B3%E6%AC%A3%E6%BE%A4-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%B8%28%E4%BA%8C%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(2203021)量子物理（一）(及格)(2203022)量子物理（二）(及格)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "物理研究所",
+        "name": "理論物理",
+        "professor": "蔡炎熾",
+        "credits": 3,
+        "time": "一D 三D",
+        "location": "物理館304",
+        "type": "選修",
+        "description": "I. Two-dimensional electron system\r\nII. Time-dependent perturbation theory\r\nIII. Many-body physics (introduction)\r\nIV. Scattering theory\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051505/local_syllabus/attachment/34343/%E8%94%A1%E7%82%8E%E7%86%BE-%E7%90%86%E8%AB%96%E7%89%A9%E7%90%86.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "相對論",
+        "professor": "杜明憲",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "物理館303",
+        "type": "選修",
+        "description": "1.狹義相對論。\r\n2.廣義相對論。\r\n3.天文及宇宙學上的應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051514/local_syllabus/attachment/34344/%E6%9D%9C%E6%98%8E%E6%86%B2-%E7%9B%B8%E5%B0%8D%E8%AB%96.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "光電物理",
+        "professor": "段必輝",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "物理館304",
+        "type": "選修",
+        "description": "1. 光的波動性與Maxwell方程式回顧 \r\nReview of the wave natures of light and Maxwell equations\r\n2. 光波傳遞：時間與空間域的干涉\r\n  Optical wave propagation: interference in temporal and spatial domain\r\n3. 介面反射、折射、光波導與導引模\r\nInterfacial reflection and refraction for optical waveguides and guided modes\r\n4. 雷射基本原理：激發源、增益介質、共振腔\r\nBasic principles of lasers：pump sources, gain media, and optical resonators\r\n5. 雷射光的空間與時間調製\r\nTemporal and spatial modulation of laser fields\r\n6. 半導體物理及光電元件基礎\r\nFundamentals of semiconductor physics and optoelectronic devices\r\n7. 偏振光學\r\nPolarization optics\r\n8. 非線性光學\r\nNonlinear optics\r\n本課程旨在介紹一般從事光電領域相關研究時常用的半導體光電元件及裝置之基礎原理，期待藉由數值模擬分析及學期專題實務演練培養學生學用合一的科學素養。\r\nThe main goal of this course is to introduce the fundamental principles of the semiconductor-based optoelectronic devices used in the research of photonics. Students who take this course are expected to cultivate practical skills combined with the theoretical principles to solve realistic issues by the designed assignments of numerical simulation and the semester project presentation.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051524/local_syllabus/attachment/34345/%E6%AE%B5%E5%BF%85%E8%BC%9D-%E5%85%89%E9%9B%BB%E7%89%A9%E7%90%86%28%E8%8B%B1%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "固態物理（一）",
+        "professor": "秦伊瑩",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "物理館307",
+        "type": "選修",
+        "description": "1. Crystal structure: lattice types, basis vectors, unit cells.\r\n2. Crystal diffraction: Bragg condition, reciprocal lattice, Brillouin zones.\r\n3. Crystal binding: cohesive energy, ionic and covalent bonds.\r\n4. Lattice vibrations: acoustic and optic phonons\r\n5. Phonons: quantization, density of states, Bose-Einstein distribution, specific heat.\r\n6. Free-electron gas -- equilibrium: Fermi-Dirac distribution, Fermi-surface, specific heat.\r\n7. Free-electron gas -- transport: resistivity, thermal conductivity, Hall effect.\r\n8. Energy bands: Bloch function, Bloch’s Theorem, energy gaps.\r\n9. Magnetism.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂測驗",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051103/local_syllabus/attachment/34328/%E7%A7%A6%E4%BC%8A%E7%91%A9-%E5%9B%BA%E6%85%8B%E7%89%A9%E7%90%86%28%E4%B8%80%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "書報討論（二）",
+        "professor": "物理系待聘教師1",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "物理館307",
+        "type": "必修",
+        "description": "邀請國內外物理相關研究人員給予專題演講，介紹目前物理各領域之最新發展，增加學生認識物理相關專業新知，並洞悉國內外之最新發展趨勢，並與其他課堂所學知識融會貫通。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051475/local_syllabus/attachment/34341/%E7%BE%85%E6%9B%89%E6%95%8F-%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29%E8%8B%B1-%E7%A2%A9%20%281%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "電漿物理導論",
+        "professor": "曲宏宇",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "物理館420研討室 ",
+        "type": "選修",
+        "description": "課程以上課討論方式進行。講授實驗室常使用之電漿系統，以對電漿系統結構有初步的認知。\r\n進而討論電漿中分別視為粒子及流體的運動機制。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055717/local_syllabus/attachment/34528/%E6%9B%B2%E5%AE%8F%E5%AE%87-%E9%9B%BB%E6%BC%BF%E7%89%A9%E7%90%86%E5%B0%8E%E8%AB%96%28%E7%A2%A9%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "流體力學",
+        "professor": "姚松偉",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "物理館420研討室 ",
+        "type": "選修",
+        "description": "1) Continuous system and fluid elements\r\n2) Euler and Lagrange picture\r\n3) Euler equation\r\n4) Potential flow\r\n5) Water wave and sound wave\r\n6) Viscosity and Vorticity (if possible)",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052228/local_syllabus/attachment/34367/%E5%A7%9A%E6%9D%BE%E5%81%89-%E6%B5%81%E9%AB%94%E5%8A%9B%E5%AD%B8%28%E8%8B%B1%29%E7%A2%A9.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "物理研究所",
+        "name": "專題：奈米光電",
+        "professor": "許佳振",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "物理館303",
+        "type": "選修",
+        "description": "Nanophotonics is where photonics merges with nonoscience and nanotechnology, and where spatial confinement considerably modifies light propagation and light-mater interactions. This course will introduce basic phenomena, principles, experimental advances, and potential impact of nanophotonics. The course will highlight practical issues, material properties, device feasibility of materials with nanostructured feature. The following topics will be discussed in this course.    \n\r\n1. 1. Introduction\r\n  Nanoengineering and sciences, Nanophotonics materials, Nanofabrication, Nano characterization, Market and applications.\r\n2.\tFoundations of nanophotonics\r\n   Photons and electrons, Confinements of electron and photons, Tunneling, Localization effects, Cooperative effects, Nanoscale optical interactions, Surface plasma resonance.\r\n3.  Quantum confinement materials \r\n   Quantum wells, Quantum wires, Quantum dots, Manifestations of quantum confinement,\r\n4.  Photonic crystals fundamentals \r\n   Photonic crystals, Opal and inverse opal structures, One dimensional photonic crystal, Photonic bandgap, Two- and three-dimensional photonic crystals, Properties of photonic crystals and their applications, Defects in photonic crystals  \r\n5.  Nonlinear optics with photonic crystals\r\n   Nonlinear effects, Composite materials for nonlinear optics, Photonic bandgap nonlinear enhancements,\r\n6.  Photonic crystals slab waveguides \r\n   2D rods slab, 2D air membrane slab, microcavity and defects  \r\n7. Fabrication of photonic crystals\r\n   Top down techniques, Photo-lithography technique, E-beam lithography technique, Two photon lithography technique, Holography lithography technique, Bottom up techniques, Self-assembling of nano colloids, Self-assembling of block copolymers\r\n8.\tPhotonic crystal fiber\r\nConventional fiber, Photonic crystal fibers, Hollow core bandgap fibers, Solid core holey fiber, Onmi guide fiber, Nonlinear holey fibe\r\nNanophotonics plasmonics.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051152/local_syllabus/attachment/34330/%E8%A8%B1%E4%BD%B3%E6%8C%AF-%E5%A5%88%E7%B1%B3%E5%85%89%E9%9B%BB%28%E8%8B%B1%29%E7%A2%A9%20.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(2202032)電磁學（二）(60分以上)(2203050)光學(60分以上)(2202031)電磁學（一）(60分以上)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "物理研究所",
+        "name": "專題：書報討論（二）",
+        "professor": "甘宏志",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "物理館304A",
+        "type": "必修",
+        "description": "1.凝態物理領域相關演講\r\n2.光電物理領域相關演講\r\n3.表面物理領域相關演講\r\n4.磁性物理領域相關演講\r\n5.理論物理領域相關演講\r\n6.生物物理領域相關演講\r\n7.其他領域相關演講",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051463/local_syllabus/attachment/34340/%E7%94%98%E5%AE%8F%E5%BF%97-%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29-%E5%8D%9A.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

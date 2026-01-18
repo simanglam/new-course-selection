@@ -1,0 +1,294 @@
+[
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "書報討論（二）",
+        "professor": "范誠偉",
+        "credits": 1,
+        "time": "三7,8",
+        "location": "地震館305",
+        "type": "必修",
+        "description": "1. 學生透過蒐尋、研讀、集體討論科學期刊論文,口頭發表研讀討論整理後之結果,及書面報告之系列訓練。\r\n2. 出席系列校內外專家專題演講, 撰寫發問及心得報告。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2365002_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "書報討論（四）",
+        "professor": "呂學諭",
+        "credits": 1,
+        "time": "三12,13",
+        "location": "地震館305",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2365004_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "碩士班必修/M.S Required Course；書報討論須依順序修課，開課安排為上學期開設書報討論(一)(三)，下學期開設書報討論(二)(四)。若有特殊情形得不按順序，惟須事先通知系辦並經本系同意。Seminar must be taken in order. The course schedule is that Seminar (I) and Seminar (III) will be offered in the first semester, and Seminar (II) and Seminar (IV) will be offered in the second semester. If there are special circumstances where the order may not be followed, the department office must be notified in advance and the department must agree."
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "環境污染物傳輸",
+        "professor": "范誠偉",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "地震館305",
+        "type": "選修",
+        "description": "普通化學\r\n環境科學概論\r\n環境生態學\r\n環境化學\r\n環境工程 ",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2365022_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "碩班課程，開放大四選修"
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "時序分析",
+        "professor": "温怡瑛",
+        "credits": 3,
+        "time": "一C,D",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "介紹傅立葉轉換、時間域與頻率域的轉換分析、離散取樣的概念等，並練習如何設計實際分析的電腦程式。\r\n1. Analytic Fourier Transform\r\n2. Discrete Fourier Transform\r\n3. Fast Fourier Transform\r\n4. Applications (Filter Design and Programming)",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047261/local_syllabus/attachment/34205/%E6%99%82%E5%BA%8F%E5%88%86%E6%9E%90%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "28",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "高等環境土壤學",
+        "professor": "陳建易,楊光",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "數學館106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2365033_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "微體古生物學",
+        "professor": "汪良奇",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "地震館203",
+        "type": "選修",
+        "description": "微體古生物學的設計目的在教導學生認識化石的成因、保存及在地質學上的用途，其中會將課程內容主要集中在海洋微體生物化石的部份。海洋微體生物化石已被廣泛的使用於劃分沈積物地層、重建地球環境變化歷史及了解氣候系統改變上，因此教授學生微體古生物學將有助於學生增進地球科學相關領域知識。本課程包含2/27-3/2號與日本金澤大學聯合野外採樣，無法參與同學，請勿選課。如有問題請先寫信詢問授課老師。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063918/local_syllabus/attachment/34905/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%E5%BE%AE%E9%AB%94%E5%8F%A4%E7%94%9F%E7%89%A9%E5%AD%B8.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "測量在野外地質之應用",
+        "professor": "郭昱廷,陳嘉俞",
+        "credits": 3,
+        "time": "三13,14,15",
+        "location": "地震館301",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063964/local_syllabus/attachment/34907/2365042%E6%B8%AC%E9%87%8F%E5%9C%A8%E9%87%8E%E5%A4%96%E5%9C%B0%E8%B3%AA%E4%B9%8B%E6%87%89%E7%94%A8%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1114.pdf",
+        "targetGrade": "1",
+        "capacity": "38",
+        "memo": "碩班課程，開放大四選修"
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "工程地質學",
+        "professor": "郭昱廷",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "工程地質是透過地質資料、技術與原理等在工程上的相關應用。此課程將著重在讓學生瞭解工程與地質的關係，增強地質相關知識，介紹基本工程地質作業原理、術語、方法與程序，最後說明工程地質學在水庫、壩工及隧道等方面之應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047286/local_syllabus/attachment/34206/%E4%B8%AD%E6%AD%A3%E5%9C%B0%E7%92%B0_%E5%B7%A5%E7%A8%8B%E5%9C%B0%E8%B3%AA%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "28",
+        "memo": "碩班課程，開放大三大四選修"
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "遙測學與其應用",
+        "professor": "郭昱廷",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "地震館303",
+        "type": "選修",
+        "description": "透過本課程瞭解有關遙感探測之觀念、遙測影像類別、衛載、機載與無人機遙測儀器、影像處理和判釋等基本知識，主要內容如下：遙測光譜分析、遙測系統、無人機操作、資料處理、航空測量、遙測判釋與應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047313/local_syllabus/attachment/34207/%E4%B8%AD%E6%AD%A3%E5%9C%B0%E7%92%B0_%E9%81%99%E6%B8%AC%E5%AD%B8%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "碩班課程，開放大三大四選修"
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "構造地形",
+        "professor": "陳嘉俞",
+        "credits": 3,
+        "time": "四G,H",
+        "location": "地震館303",
+        "type": "選修",
+        "description": "This course aims at introducing how landscape features can be used for interpreting tectonic patterns and rates. For this purpose, the complex interaction between tectonics and earth surface processes under specific climatic conditions will be emphasized. \n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063972/local_syllabus/attachment/34908/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E6%A7%8B%E9%80%A0%E5%9C%B0%E5%BD%A2114.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "矽藻分析:重建古環境與天災史",
+        "professor": "汪良奇,鹿島薰",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "地震館203",
+        "type": "選修",
+        "description": " This course deals with diatom analysis, one of the micro-paleontological methods for paleoenvironment and natural hazards. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047358/local_syllabus/attachment/34210/2367002%E7%9F%BD%E8%97%BB%E5%88%86%E6%9E%90%E9%87%8D%E5%BB%BA%E5%8F%A4%E7%92%B0%E5%A2%83%E8%88%87%E5%A4%A9%E7%81%BD%E5%8F%B2Diatom%20analysis%2C%20a%20useful%20method%20for%20paleo-environment%20and%20histories%20of%20natural%20hazards_1213.docx",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系碩士班",
+        "name": "高等環境奈米",
+        "professor": "陳建易,夏宇恩",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "數學館106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2367006_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

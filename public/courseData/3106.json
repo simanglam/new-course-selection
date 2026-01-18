@@ -1,0 +1,367 @@
+[
+    {
+        "id": "社會福利研究所",
+        "name": "社會福利專題討論（二）",
+        "professor": "李妙純,郭惠瑜",
+        "credits": 1,
+        "time": "三2,3",
+        "location": "社科院229",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105002_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩一博一必修:本課程為碩博合班上課，碩一博一同學請選修社會福利專題討論(二)，如同一學期同時選修(二)及(四)，僅採認其中一門。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會福利專題討論（四）",
+        "professor": "李妙純,郭惠瑜",
+        "credits": 1,
+        "time": "三4,5",
+        "location": "社科院229",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105004_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩二博二必修:本課程為碩博合班上課，碩二博二同學請選修社會福利專題討論(四)，如同一學期同時選修(二)及(四)，僅採認其中一門。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會福利理論",
+        "professor": "吳明儒",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "社科院361",
+        "type": "必修",
+        "description": "作為研究社會福利制度與政策的基本理論基礎，本課程的內容包含四個面向：第一是人類需求，許多福利制度的設計都是從滿足個人的基本需求出發，因此如何從理論觀點檢視「基本需求」的內涵與意義，再從「福利權利」到「福利國家」進行討論，是當前福利理論的重要課題之一。其二、對於福利國家理論所重視的「利他」等社會價值的討論，隱含福利國家所企圖追求的理想境界。第三、隨著福利國家發展理論的脈絡，福利國家危機的顯現，後福特主義也面臨經濟環境的轉變，「多元福利主義」的出現、新自由主義的政策浪潮來襲，隨之國家與市場、國家與非營利組織、國家與非正式組織之間都產生新的課題，為解決福利國家的困境尋找出路。第四個部分則探討東亞及日本在福利發展上的趨勢與理論的基本架構，分析「福利社會」與「福利國家」之間的論述與觀點，重新思考以東亞或亞洲社會-政治¬¬-經濟環境下福利理論的可能詮釋與意義。\n\r\nAs the basic theoretical basis for studying social welfare systems and policies, the content of this course includes four aspects: The first is human needs. The design of many welfare systems is based on meeting the basic needs of individuals. Therefore, how to examine \"basic needs\" from a theoretical perspective? The connotation and significance of \"demand\" and then discussing from \"welfare rights\" to \"welfare state\" are one of the important topics in current welfare theory. Second, the discussion of social values ​​such as \"altruism\" that is valued by welfare state theory implies the ideal state that the welfare state attempts to pursue. Third, with the development of welfare state theory and the emergence of the welfare state crisis, post-Fordism is also facing changes in the economic environment. The emergence of \"welfare pluralist\" and the wave of neoliberal policies are coming, and with it, the relationship between the state and the market , the state and non-profit organizations, and the state and informal organizations have all generated new issues to find ways to solve the dilemma of the welfare state. The fourth part explores the trends and theoretical framework of welfare development in East Asia and Japan, analyzes the discussions and perspectives between \"welfare society\" and \"welfare state\", and rethinks the socio-politics of East Asia or Asia- Possible interpretations and implications of welfare theory in economic contexts.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060890/local_syllabus/attachment/34754/social%20welfare%20theory%2020260111.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班一年級必修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會政策",
+        "professor": "林煥笙",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "社科院361",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3105085_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班三選一必修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "低生育率與社會政策",
+        "professor": "王德睦",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "社科院361",
+        "type": "選修",
+        "description": "台灣的生育率自1984年即已低於替換水準（replacement level），埋下人口衰退的因子，因人口年齡組成仍屬年輕，直至2019年台灣人口仍持續增加，2020年之後人口方才下降。1984之後十餘年台灣的生育率一直維持中等生育率（moderate fertility）的水準，但1998年後卻再度持續下降，雖然在2000年龍年有些許回升，2001年後又持續下降，至今已成為世界最低生育率的國家之一。\r\n由於生育率持續且快速的下降，人口年齡組成必然大幅度且快速的改變，而對社會經濟產生重大的衝擊，常被討論的「人口老化」只是其一，因而有以政策回應的呼籲，也產生人口政策修訂的討論。\r\n並非只有台灣經歷極低的生育率。絕大多數的工業化國家的生育率均低於替換水準，而南歐、前社會主義國家、東亞新進工業化國家的生育率均很低，而以東亞國家特別低。在文獻上，此種極低生育率的起因、後果、與已實行的政策因應，均有豐富的討論。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061100/local_syllabus/attachment/34763/%E4%BD%8E%E7%94%9F%E8%82%B2%E7%8E%87%E8%88%87%E7%A4%BE%E6%9C%83%E6%94%BF%E7%AD%96.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會計量專題",
+        "professor": "顏詩耕",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院232電腦教室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106004_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "博士班一年級必修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社區政策專題討論二",
+        "professor": "吳明儒,陳芳珮,郭惠瑜",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106467_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "性別角色與健康專題討論二",
+        "professor": "李妙純,王舒芸,林煥笙",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106486_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "福利社會專題",
+        "professor": "吳明儒",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "社科院346",
+        "type": "選修",
+        "description": "教學目標：\r\n福利國家的發展雖然解決許多問題，但是卻也產生許多問題。過去學者對於福利國家的興趣與探討較多，相對地對於福利社會的了解卻較少。本課程目標在提供研究所階段的學生，從福利國家到福利社會可能轉變的思考。本課程從理論基礎與歷史脈絡及政策演變加以探討，希望對於現行福利政策的發展及其背後的困境有更多瞭解，晚近福利國家受到新福利道德經濟(new moral economy of welfare)的影響，福利改革的重點聚焦在責任的私有化(privatization of responsibility)。學者認為福利制度是建立在團結(solidarity)理念下集體主義及普遍主義原則的實踐，但是目前福利改革的方向雖是植基於市場、家庭及社區，卻以個人主義為前提。如果透過國家、市場及社區的多元福利論述仍然是以政府為中心、個人主義為出發，仍 然 是 新 貧 裝 舊 酒 ， 私 有 化 (privatization) 只 是 強 化 了 個 人 主 義(individualism)與自助(self-reliance)的價值，人與人的互助互利的價值反而趨於沒落。那麼令人好奇的是，是否有一種可能，繞過福利多元重返以公民社會的福利社會? \r\n因此，本課程從對福利國家發展制度的反省開始，其次，再展開有關福利社會與相關議題的討論。Rodge(2000)認為福利社會(welfare society)是”a social system in which welfare assumptions are an organic part of everyday life” 。福利社會的概念發展有兩種可能的解釋，其一是福利社會能夠延續福利國家的發展，因為福利國家的照顧、社會團結、認可公民權及社會政策等社會共識，能夠朝向福利社會延續；另者從反現代化(anti-modern)的觀點來看，福利社會恰好是福利國家的反證(antithesis)，福利社會並不是福利國家所演變而來。不過，不管是哪一種觀點，福利社會的概念是要讓我們在理論的結構下，觀察國家的福利方案與接受者之間對社會產生什麼衝擊，其次，前述兩者間在個人行為及社會及社區的層次產生什麼影響。 \r\n要觀察福利社會制度的存在與演變並不容易，本課程主要以尋找社區(community) 、社群主義、共享福利 (stakeholder welfare) 及共同生產(co-production)的觀念演變及方案實施(Time Bank)來探討相關概念。這是回應福利國家困境的另類途徑。共同生產的概念讓被動的案主(client is a passive term)轉變成行動的案主(clients are acted upon)。因此，公民權(citizenship)的落實就是一個最大可能參與(maximum feasible participation)公民社會(civil society)的實現。\r\n本課程重視文獻閱讀、課堂報告及分析能力。鼓勵修課同學在每一單元中提問並討論；期末必須撰寫一個以社區為主題之報告，使同學能對社會福利與社區相關政策未來的發展能有更清楚的輪廓。\n\r\n 授課大綱： \r\n(1) The Modernity debate and welfare society. \r\n(2) Is the welfare state in decline? Identifying the determinants \r\n(3) Society in decline? Social virtue and social capital \r\n(4) In search of community: Communitarianism and stakeholder welfare (5) What is co-production? Conceptual and theoretical perspectives  \r\n(6) Co-Production from a Normative Perspective \r\n(7) From engagement to co-production: how users and communities contribute to public services. \r\n(8) Co-production and service quality: a new perspective for the Swedish Welfare State. \r\n(9) New public governance, co-production and third sector social service in Europe: crowding in and crowding out",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061344/local_syllabus/attachment/34768/welfare%20society%20114-2%20wu.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會政策與社會不平等（二）",
+        "professor": "鄭清霞,阮曉眉,翁康容",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106520_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會福利理論與政策二",
+        "professor": "黃國治,劉豐佾",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106532_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "人口老化與長期照顧二",
+        "professor": "陳柯玫,顏詩耕",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "由於生育率下降與平均餘命延長，台灣人口老化趨勢快速，人口老化拉升醫療、長期照顧等服務需求，並衝擊社會福利體系的財務以及人力供給。台灣2016年開始的長期照顧2.0計畫以「在地老化」為精神的長期照顧制度，強調「以人為本」、「社區基礎」、「連續照顧」三大核心理念，目標是建立社區為基礎的長照體系、提供優質平價且普及的服務。本課程區分為上下學期，依據修課同學的論文寫作興趣，探討人口老化與長期照顧相關議題，指導學生閱讀文獻、分析議題並發展碩士論文初稿。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060928/local_syllabus/attachment/34756/114-2%E4%BA%BA%E5%8F%A3%E8%80%81%E5%8C%96%E8%88%87%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%28%E6%B7%B1%E8%80%95%E5%85%AC%E7%89%88%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本課程為研究生論文指導課程，須經指導教授同意後始得選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "人口流動與遷移專題",
+        "professor": "顏詩耕",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "社科院346",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106545_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "開放大三、大四選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "長期照顧保險",
+        "professor": "鄭清霞",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "社科院361",
+        "type": "選修",
+        "description": "長期照顧制度的財務來源與財務處理方式、保障範圍、給付項目、給付內容、給付水準以及部分負擔比例、支付設計…等制度設計影響費用水準以及人民福祉，同時也影響民眾照顧方式選擇與服務利用，又進一步影響勞動參與行為；另一方面，支付機制則影響供給方的行為以及服務品質，也同步影響長期照顧制度費用高低，費用水準的高低更進而影響收入面的財源籌措規劃選項。\r\n財務設計並非只是財源籌措議題，選擇稅收制或社會保險制同步影響給付項目規劃的可能性，同時也涉及世代公平性以及年輕世代對於制度規劃的認同以及繳費意願。本課程先介紹社會保險，其次討論長期照顧制度設計，後續在長期照顧財務規劃面向下介紹社會保險型式的長期照顧保險議題，最後希望能討論目前台灣長期照顧制度議題以及發展。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061082/local_syllabus/attachment/34761/114-2_%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E4%BF%9D%E9%9A%AA_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28112%E5%B9%B4%E6%B7%B1%E8%80%95%E5%85%AC%E7%89%88%29_251224.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "勞動政策",
+        "professor": "黃國治",
+        "credits": 3,
+        "time": "三12,13,14",
+        "location": "社科院361",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060775/local_syllabus/attachment/34751/Labor%20Policy%20syllabus%202026%20Spring.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "開放學士班選修。1.111學年度(含)以後入學者適用：專業必選修「社會政策面向」。2.110學年度(含)以前入學者適用：專業選修「社會政策與制度課群」。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會調查數據分析與應用",
+        "professor": "李妙純",
+        "credits": 3,
+        "time": "五E,F",
+        "location": "社科院232電腦教室",
+        "type": "選修",
+        "description": "一、學習目標：\r\n隨著AI時代來臨、循政治理風潮，數據資料運用能力已是重要基本技能之一。本課程旨在應用台灣地區公開申請運用的社會調查資料庫，透過程式設計工具、計量軟體運用，設計邏輯思維程式，對當前社會重要議題，進行資料整理、管理與分析、撰寫分析報告，並提出社會政策意涵。\r\n修課學生完成本課程並取得學分時，具體可達到下列的目標：(1)對國內外社會相關調查資料庫(例如國民健康訪問調查、中老年身心社會生活狀況長期追蹤調查、台灣地區社會變遷基本調查、台灣地區家庭與生育力調查系列、台灣青少年成長歷程研究、台灣高等教育資料庫、國民營養健康狀況變遷調查、華人家庭動態資料庫、台灣教育長期追蹤資料庫等)瞭解其調查目的、資料結構及其應用；(2)能具有基礎數據資料邏輯處理(描述性及分析性統計)與程式設計(do file)的能力；(3)能使用程式語言設計具邏輯思維程式，以利管理資料庫(數據編碼、資料合併、串連)，建置多層次之摘要資訊；(4)應用統計或計量軟體進行社會數據資料分析，於完成社會現象量化分析之實證報告；(5)能熟悉及運用STATA 軟體做為數據資料處理及分析工具。\n\r\n二、課程特色：\r\n1、以STATA軟體做為實證學習工具，在此過程中，學生可以培養邏輯思維、進行邏輯運算、程式設計，以發展高階的有效資料管理及分析能力。\r\n2、社會調查資料乃國家層級大型資料，可應用範圍廣、資料量龐大、且資料結構較為複雜。因此可在培養邏輯運算後，進一步訓練學生處理各式複雜量化資料的能力，有效整理及分析資料後，可提供各行政層級決策之參考依據。\r\n3、以社會調查研究資料庫為學習來源，用以提升學生對當代社會現象的剖析，加強問題因果關係之邏輯思考，深化邏輯思維。\r\n4、透過使用統計軟體程式語言，可以驗證學生所培養的邏輯運算與程式設計情形。\r\n5、透過使用各式統計軟體程式設計，做為學生程式設計之基本能力，有利於學習及發展其他統計應用程式撰寫能力，以及有能力建構及發展社會政策所需之資料庫。\r\n6、培養學生申請參加臺灣社會學會社會調查研究能力認證之「數據資料分析能力認證」。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061384/local_syllabus/attachment/34770/114_2%E7%A4%BE%E6%9C%83%E8%AA%BF%E6%9F%A5%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E8%88%87%E6%87%89%E7%94%A8syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "開放大二、大三、大四選修。"
+    },
+    {
+        "id": "社會福利研究所",
+        "name": "社會福利學術實務",
+        "professor": "翁康容",
+        "credits": 2,
+        "time": "一11,12",
+        "location": "社科院361",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3106659_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

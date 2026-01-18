@@ -1,0 +1,55 @@
+[
+    {
+        "id": "理學院學士班",
+        "name": "跨領域合作專題研究（二）",
+        "professor": "余俊頴,翁靖傑,洪靖",
+        "credits": 2,
+        "time": "一13,14",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048143/local_syllabus/attachment/34255/%E8%B7%A8%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%29.docx",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "本課程以分組方式進行跨領域合作專題。 部分課程安排於寒假期間。"
+    },
+    {
+        "id": "理學院學士班",
+        "name": "跨領域合作專題研究（四）",
+        "professor": "余俊頴,翁靖傑,洪靖",
+        "credits": 2,
+        "time": "三13,14",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048133/local_syllabus/attachment/34254/%E8%B7%A8%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%29.docx",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "先修科目(2013001)跨領域合作專題研究（一）(及格)(2012002)跨領域合作專題研究（二）(及格)(只要符合任一先修條件)本課程以分組方式進行跨領域合作專題。"
+    }
+]

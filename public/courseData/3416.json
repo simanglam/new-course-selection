@@ -1,0 +1,199 @@
+[
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "台灣國際關係史",
+        "professor": "林泰和",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3415009_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "策略規劃與問題解決",
+        "professor": "宋學文",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3415045_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "國際政治經濟",
+        "professor": "趙文志",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053763/local_syllabus/attachment/34430/IPE%20Syllabus-2026.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "溝通、談判與衝突管理",
+        "professor": "蔡育岱",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": "談判是一種議價過程，是藉由意見交換(溝通)以達成共識；所以，談判和溝通在本質上有很大程度的重疊，談判的結果可能代表折衷、妥協、合意，抑或是兩敗俱傷、不歡而散。談判溝通無所不在，不論個人與國家皆需具備談判要件，也需瞭解談判的本質，否則一旦出現認同差異、利益不調和、以及相左立場時，衝突即刻產生。\r\n其實，人際關係就是整個國際關係的縮影，談判牽涉心理(內在因素)與環境(外在因素)，而衝突則出自於人性與國家特性差異。故如何在衝突中，認知衝突的本質、尋求解決之道，已避免玉石同燼，另方面則尋求雙贏或多贏的結果，才是面對衝突的正確認知與態度。\r\n本課程主要介紹幾個核心議題。首先是對人性的探討，屬於心理層次；其次是對於談判與溝通分析，使學員能夠熟習談判理論架構；再者則在面對複雜的國際溝通與談判時，得以掌握先機，做出決策判斷。此外，本課程亦將討論衝突本質、原因，以及管理的基本概念，包含個人認知、權力與決策迷思、組織動態影響等等。最後則是透過經典案例探析，使學生能重新思考談判與溝通的理論與實務，以期未來在職場上學以致用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054588/local_syllabus/attachment/34467/%E6%BA%9D%E9%80%9A%E8%AB%87%E5%88%A4%E8%88%87%E8%A1%9D%E7%AA%81%E7%AE%A1%E7%90%862025.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "全球化與全球治理",
+        "professor": "郭祐輑",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3417006_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "國際政治",
+        "professor": "蔡育岱,邱昭憲",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院二館606",
+        "type": "必修",
+        "description": "本課程之授課範圍包括若干國際關係之基礎理論，如現實主義、新現實主義、自由主義、新自由主義及建構主義等研究國際政治之基礎學理。本課程乃希望藉由國際關係基礎理論的介紹配合以目前與台灣安全攸關之亞太區域安全之實際政治分析，提供同學在未來之課業研究上，希能藉由理論之思路引導，培養同學們面臨不同議題時，能夠具有對問題的分析與解決能力，並強化學生在學理與實務上之研究分析能力。\r\n除了理論之外，本課程亦重視國際情勢或政治分析的介紹，因此本課程為基礎理論紮根之課程，故課程安排將依學生吸收程度做調整。在實務面，我們將介紹一些與台灣較有相關之議題，如兩岸關係、美-中-日-台四邊關係、亞太區域安全等…等作為個案研究，以進一步與實務理論結合或驗證，課程中可能邀請知名學者專家或實務界人士以專題講座之方式，以提昇同學之多元學習效能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053752/local_syllabus/attachment/34429/2026%E5%9C%8B%E9%9A%9B%E6%94%BF%E6%B2%BB%E6%A6%82%E8%AB%96.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "國際事務時事導讀",
+        "professor": "楊志和",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": "本課程旨在提升國際事務英文文獻查詢與閱讀能力，閱讀資料來源包括The Diplomat、The  Economist、Foreign Affairs、Foreign Policy、Time等國際政治經濟及外交事務期刊，課程中將導讀國際現勢相關議題文獻，並透過撰寫報告追蹤各項議題發展現況，培養以英文掌握國際政治與外交事務最新訊息的知能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053724/local_syllabus/attachment/34428/114-2%20%E5%9C%8B%E9%9A%9B%E4%BA%8B%E5%8B%99%E6%99%82%E4%BA%8B%E5%B0%8E%E8%AE%80%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%2820260110%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "戰略暨國際事務研究所",
+        "name": "歐中戰略關係專題",
+        "professor": "邱昭憲",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": "隨著21世紀美中關係處於更多競爭關係以來，歐洲與中國不僅在戰略互動的範疇從傳統的軍事安全擴展至政治安全及經濟安全，更打破了傳統以來雙方安全戰略上並不存在衝突的觀點。誠然歐、中同為國際關係上重要的行為體，雙方在許多重要議題上存在合作與競爭。近年歐盟開始對中國的角色進行類別判定，包含「合作夥伴」、「協商夥伴」、「經濟競爭者」，以及「系統性對手」，雙方關係隨著國際與歐洲局勢變化出現較明顯的轉變。本課程在歐中歷史脈絡下，擇定雙方在政治、經濟、外交、社會文化、價值規範、制度治理等層面，就軟實力與銳實力、多極化與多邊主義、經貿發展、民主與威權、主權與人權、戰略夥伴關係、區域整合、全球與區域治理等議題進行比較探討，並從全球視角加入美、俄、日等大國以及台灣作為探討變項，期望對歐中關係有更全面認識與省思。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054625/local_syllabus/attachment/34470/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

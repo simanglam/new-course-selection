@@ -1,0 +1,283 @@
+[
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "醫療行銷管理",
+        "professor": "盧致誠",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院608",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355002_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "資本市場專題",
+        "professor": "陳安行",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355009_01",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "生成式人工智慧暨醫療產業的應用",
+        "professor": "林育秀",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355011_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "國際金融",
+        "professor": "何月芳",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院102",
+        "type": "必修",
+        "description": "This course introduces students to the complexities of financial management in an international context, emphasizing the importance of global integration of financial markets that create various risks and opportunities for individual investors and firms. The course will focus on theoretical and practical knowledge required by international financial executives and financial analysts who need to deal with problems related to the foreign exchange market, foreign exchange risk management, international markets, and international financial management. The in-class discussions will include some CFA (Chartered Financial Analyst) exam questions. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052365/local_syllabus/attachment/34374/International%20Finance-Graduate%20Spring%202026%20%28AACSB%E5%85%AC%E7%89%88%29.pdf",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": "IMF Core Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "選擇權市場",
+        "professor": "陳安行",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355213_01",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "醫療資料探勘實作",
+        "professor": "林育秀",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355513_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "機器學習",
+        "professor": "薩尼",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院221",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5355601_01",
+        "targetGrade": "1",
+        "capacity": "5",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "資訊科技與創新",
+        "professor": "沙拉溫",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院119",
+        "type": "選修",
+        "description": "With the rapid advancement of technological innovations accelerating economic growth and transforming key sectors such as economy, medicine, education, and finance, this course introduces both foundational and emerging technological trends. Graduate students will explore real-world applications through weekly case studies, strengthening their ability to critically analyze and apply innovative technological thinking within their current or future organizations.\n\r\nUpon completing the course, graduate students will be well-equipped for a range of roles, including technology consultant, innovation manager, IT project leader, digital transformation specialist, and R&D strategist. Whether working in tech startups, multinational corporations, government agencies, or research institutions, they will be prepared to lead and manage technological change, develop data-driven solutions, and drive innovation strategies in dynamic organizational environments",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052976/local_syllabus/attachment/34386/MS%20or%20MA%20Program%20Syllabus.%20Information%20Technology%20and%20Innovation.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "資訊策略與管理",
+        "professor": "張碩毅",
+        "credits": 3,
+        "time": "五C,D",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052994/local_syllabus/attachment/34388/Information%20Strategy%20and%20Management%20-%20Syllabus%20and%20Course%20Outline_IMF_2026.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "商業管理學術英文表達",
+        "professor": "鄧氏霞妝",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "This course develops effective English communication skills for business and finance professionals. Students will practice writing, speaking, listening, and presenting in business contexts. The course emphasizes practical skills through lectures, role-plays, group activities, video analysis, and presentations.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052453/local_syllabus/attachment/34377/114-2%20%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86%E5%AD%B8%E8%A1%93%E8%8B%B1%E6%96%87%E8%A1%A8%E9%81%94%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20AEBC%200111%205355704.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "公司理財個案研究",
+        "professor": "鄧氏霞妝",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "This course provides an in-depth exploration of key financial concepts through real-world case studies. Students will analyze and discuss critical financial decisions in areas such as valuation, capital structure, investment analysis, risk management, and mergers & acquisitions. Through active participation, group discussions, and case presentations, students will develop analytical and decision-making skills essential for finance professionals. The course emphasizes hands-on learning, requiring students to engage with financial data, evaluate business strategies, and articulate well-supported financial recommendations.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052436/local_syllabus/attachment/34376/AACSB_Case%20study%20in%20finance%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%205355706.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "IMF Elective Courses"
+    },
+    {
+        "id": "國際財務金融管理碩士學位學程",
+        "name": "股票價值分析",
+        "professor": "黃冠瑛",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052919/local_syllabus/attachment/34382/%28%E6%9B%B4%E6%96%B0%29AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29_%E9%BB%83%E5%86%A0%E7%91%9B_%E8%82%A1%E7%A5%A8%E5%83%B9%E5%80%BC%E5%88%86%E6%9E%90.docx",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": "IMF Elective Courses"
+    }
+]

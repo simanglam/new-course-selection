@@ -1,0 +1,85 @@
+[
+    {
+        "id": "(專)教育專業與學校領導數位學習碩士在職專班",
+        "name": "研究與學術寫作",
+        "professor": "許順利",
+        "credits": 3,
+        "time": "一3,4,5",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "This course provides practical training in research methods and academic writing in education. It combines short lectures with workshop-style activities. Students develop and refine their individual research ideas within a supportive community of practice, and gradually develop these into a full research proposal for their capstone thesis. The course aims to strengthen students’ academic literacy, critical engagement with research, and confidence in disciplinary writing. It also introduces ways of using AI tools appropriately and ethically to support academic research and writing.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081133/local_syllabus/attachment/35594/2025-2026%20Sem%202%20Online%20Research%20and%20Academic%20Writing.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)教育專業與學校領導數位學習碩士在職專班",
+        "name": "社區轉化學習",
+        "professor": "楊志和",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "Course Description\r\nThis course explores the potential for transformation and empowerment within adult learning environments. In the first stage, the course reviews transformative learning theory, key perspectives on adult education and adult learning, and the educator’s role in facilitating transformative learning. It then examines the awakening of critical consciousness and the development of networks of learning resources.\r\nIn the second stage, the course investigates how transformative learning occurs within learning communities across diverse settings, including arts-based programs, leadership development in higher education, adult basic education, workplace communication courses, and other specialized learning groups.\n\r\nCourse Purpose\r\nThe purpose of this course is to help students develop knowledge of adult learning and an understanding of how learners achieve changes in mindset and life empowerment through the learning process. In addition to studying best-practice cases in a global context, students will have the opportunity to demonstrate and analyze similar situations in their local communities, compare them with cases discussed in class, and explore possible solutions for future improvement. Through this process, students will acquire practical knowledge of transformative learning within a community context. Students are also encouraged to cultivate independent analytical and critical thinking skills from a leadership perspective, with a focus on resource management and educational planning in multicultural environments.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077565/local_syllabus/attachment/35489/%2820260114%29Transformative%20Learning%20Through%20Community%20Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)教育專業與學校領導數位學習碩士在職專班",
+        "name": "碩士論文",
+        "professor": "林永豐,高文彬,詹盛如,何德華,許順利",
+        "credits": 4,
+        "time": "五3,4,5,6",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": "This course prepares graduate students to evaluate the quality of academic research, analyze the structure and style of academic papers, write a research paper of publishable quality in preparation for their MA thesis writing, and practice presenting their research to an academic audience.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077099/local_syllabus/attachment/35449/Research%20and%20Academic%20Writing%202026.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    }
+]

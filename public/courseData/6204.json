@@ -1,0 +1,275 @@
+[
+    {
+        "id": "法律學系法制組",
+        "name": "法學德文（二）",
+        "professor": "法律系待聘教師1",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院202",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6201062_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "保險法",
+        "professor": "羅俊瑋",
+        "credits": 2,
+        "time": "一2,3",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203023_01",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "先修科目(6102020)民法債編總論（二）(曾經修習)(6012012)民法債編總論（二）(曾經修習)(6202019)民法債編總論（二）(曾經修習)(6302020)民法債編總論（二）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "民法債編各論（二）",
+        "professor": "法律系待聘教師1",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "法學院203",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203026_01",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "刑事訴訟法（二）",
+        "professor": "謝國欣",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院202",
+        "type": "必修",
+        "description": "本課程將介紹刑事訴訟體系中之重要原則與構成元素。原則宛如骨骼，架構出體系之輪廓。但這些抽象原則究竟如何在現實世界中運作？本課程除介紹重要原則外，亦將分析這些原則如何在實務中操作。雖然原則之重要性不言可喻，但刑事訴訟要遠比原則豐富與複雜。而構成元素猶如肌肉，與骨骼相互配合，賦予體系生命，方能使體系運作。課程內容將涵蓋刑事司法系統之模型、偵查、搜索與扣押、逮捕與緘默權等議題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061456/local_syllabus/attachment/34773/%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%20%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20PDF.pdf",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "民事訴訟法（二）",
+        "professor": "廖蕙玟",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "法學院201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203036_01",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": "先修科目(6103041)民事訴訟法（一）(曾經修習)(6203035)民事訴訟法（一）(曾經修習)(6303003)民事訴訟法（一）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "憲法實例演習（一）",
+        "professor": "吳信華",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "法學院202",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203042_01",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": "先修科目(6302011)行政法總論（二）(曾經修習)(6102044)行政法總論（二）(曾經修習)(6012032)行政法總論（二）(曾經修習)(6202044)行政法總論（二）(曾經修習)(只要符合任一先修條件)法制組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "經濟行政法",
+        "professor": "江嘉琪",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "法學院206",
+        "type": "選修",
+        "description": "本課程介紹經濟行政法之基本概念，包含經濟行政的憲法基礎、國家對於經濟活動的管制行為以及國家參與經濟行為所受之規範等面向。配合課程進度，除介紹經濟行政法制之共通原理原則外，並淺介公平交易法、產業創新條例、政府採購法、促進民間參與公共建設法、國營事業法等重要經濟法規。課程目標在使選課同學對於經濟行政法有基本的瞭解與掌握，並能知悉憲法、行政法總論與個別經濟行政法規間之體系關聯。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061539/local_syllabus/attachment/34775/%E7%B6%93%E6%BF%9F%E8%A1%8C%E6%94%BF%E6%B3%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "先修科目(6102044)行政法總論（二）(曾經修習)(6202044)行政法總論（二）(曾經修習)(6302011)行政法總論（二）(曾經修習)(6012032)行政法總論（二）(曾經修習)(只要符合任一先修條件)法制組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "傳播法",
+        "professor": "蕭文生",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院205",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061632/local_syllabus/attachment/34778/%E5%82%B3%E6%92%AD%E6%B3%95%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "法制組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "社會法各論",
+        "professor": "單鴻昇",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "法學院206",
+        "type": "選修",
+        "description": "本課程係社會法總論課程的延續，將聚焦於各項社會安全制度的具體規定，包含全民健康保險、失業保險、職業災害保險、老年福利、兒少福利、長期照護與社會救助等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061652/local_syllabus/attachment/34779/1142%E7%A4%BE%E6%9C%83%E6%B3%95%E5%90%84%E8%AB%96.docx",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "支援法律學系法學組法律學系法制組三年級A班;法律學系共同相對必修課程。"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "勞動法各論",
+        "professor": "周兆昱",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "法學院206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203064_01",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "支援法律學系法學組法律學系法制組三年級A班;法律學系共同相對必修課程。"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "證券交易法",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6203075_01",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "先修科目(6203020)公司法(曾經修習)(6303008)商事法總論及公司法(曾經修習)(6303025)公司法(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "訴願及行政訴訟法（二）",
+        "professor": "單鴻昇",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "法學院205",
+        "type": "必修",
+        "description": "本課程延續上學期課程，主要聚焦於行政訴訟法。具體而言，除行政訴訟制度之概說外，將深入探討行政訴訟法的不同訴訟類型，包含撤銷訴訟、課與義務訴訟、一般給付訴訟與確認訴訟之起訴要件與訴訟標的。為使課程內容更貼進實務，將結合實務案例說明。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061704/local_syllabus/attachment/34782/1142%E8%A8%B4%E9%A1%98%E6%B3%95%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%A8%B4%E8%A8%9F%E6%B3%95.docx",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": "先修科目(6202044)行政法總論（二）(曾經修習)(6302011)行政法總論（二）(曾經修習)(6012032)行政法總論（二）(曾經修習)(6102044)行政法總論（二）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法制組",
+        "name": "強制執行法",
+        "professor": "馮善詮",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "法學院205",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061715/local_syllabus/attachment/34783/%E5%BC%B7%E5%88%B6%E5%9F%B7%E8%A1%8C%E6%B3%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": "先修科目(6203035)民事訴訟法（一）(曾經修習)(6103041)民事訴訟法（一）(曾經修習)(6303003)民事訴訟法（一）(曾經修習)(只要符合任一先修條件)法律學系共同相對必修課程。"
+    }
+]

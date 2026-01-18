@@ -1,0 +1,55 @@
+[
+    {
+        "id": "教育學研究所課程博士班",
+        "name": "書報討論：課程學研究",
+        "professor": "蔡清田",
+        "credits": 1,
+        "time": "二7",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "本學科旨在提供選修書報討論之學生，系統地認識理解課程研究之概念，並嘗試從討論與練習中應用分析綜合評鑑研究的實作能力，奠定從事研究之實踐能力，呼應聯合國永續發展目標SDG4優質教育目標確保有教無類、公平及高品質的教育及提倡終身學習。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034292/local_syllabus/attachment/33846/11402%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%E8%AA%B2%E7%A8%8B%E5%AD%B8%E7%A0%94%E7%A9%B6.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "教育學研究所課程博士班",
+        "name": "學校本位課程發展專題研究",
+        "professor": "蔡清田",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "教育館507",
+        "type": "選修",
+        "description": "教學目標：呼應聯合國永續發展目標SDG4優質教育目標確保有教無類、公平以及高品質的教育，及提倡終身學習，旨提供選修學校本位課程發展專題者系統理解課程理念，從討論與練習選擇組織設計評量等課程發展素養因應課程改革",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034301/local_syllabus/attachment/33847/%E5%AD%B8%E6%A0%A1%E6%9C%AC%E4%BD%8D%E8%AA%B2%E7%A8%8B%E7%99%BC%E5%B1%95%E5%B0%88%E9%A1%8C11402.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "工學院碩博班",
+        "name": "半導體設備元件製程整合",
+        "professor": "陳永恩,賴臆升",
+        "credits": 2,
+        "time": "五11,12",
+        "location": "工學院B館117",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4015113_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

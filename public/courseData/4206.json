@@ -1,0 +1,566 @@
+[
+    {
+        "id": "機械工程研究所",
+        "name": "高等電腦輔助工程分析方法",
+        "professor": "劉德騏",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "本課程介紹主要介紹高等電腦輔助工程分析方法，包含電腦輔助工程分析的基本概念、變分法與能量法數學知識、以及固體力學領域中各類問題的基本推導公式與計算分析的技巧。本課程內容包含彈性分析、熱彈問題分析法、塑性變形分析法、動態問題分析法、無網格法、及工程應用實例探討等內容。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073372/local_syllabus/attachment/35299/4205054%E9%AB%98%E7%AD%89%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E5%B7%A5%E7%A8%8B%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95-%E5%8A%89%E5%BE%B7%E9%A8%8F.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "工具機PC NC架構之CNC人機介面設計與應用",
+        "professor": "高永洲",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "This course introduces the industrial CNC controller’s system structure, its application principle, operation, human-machine interface (HMI) design tool, and development methods. Students can become familiar with the value-adding system development technology of industrial CNC controllers through this course, as they learn CNC HMI technology and understand the Microsoft Visual Studio integrated development environment. AI methods in machining, with case studies, will be utilized, with a special emphasis on trustworthiness, transparency, and alignment with engineering standards and physical laws. Talented students will be cultivated for the precision machine tool industry. Students can understand networking, HMI design, AI enhancement, and development methodologies.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074040/local_syllabus/attachment/35317/114-2_PC%2BNC-%E9%AB%98%E6%B0%B8%E6%B4%B2.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "薄膜力學",
+        "professor": "黃北辰",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "薄膜堆疊結構如今廣泛被應用在各類半導體與顯示器結構當中，而微奈米尺度之薄膜材料其力學行為與傳統塊材有諸多相異之處。據此，本課程將針對薄膜材料在不同尺寸效應下的力學行為進行講述。結合破壞/非破壞性檢測方式以及基於連體與破壞力學理論之數值分析，可使授課學生瞭解薄膜堆疊結構引致之應力/應變、翹曲、脫層等力學行為解析與優化方法。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073554/local_syllabus/attachment/35302/4205367%E8%96%84%E8%86%9C%E5%8A%9B%E5%AD%B8_%E9%BB%83%E5%8C%97%E8%BE%B0.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "微奈米力學性質分析與應用",
+        "professor": "黃北辰",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "This course integrates materials characterization and mechanical theory to explore the mechanical effects on semiconductor devices and packaging structures arising from the mechanical property mismatch between components, crystallographic defects, and residual stress sources such as thermal and lattice strain. The curriculum covers fundamental theories through to practical research applications, encompassing both experimental techniques and numerical analysis methods.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074393/local_syllabus/attachment/35333/%E5%BE%AE%E5%A5%88%E7%B1%B3%E5%8A%9B%E5%AD%B8%E6%80%A7%E8%B3%AA%E5%88%86%E6%9E%90%E8%88%87%E6%87%89%E7%94%A8-%E9%BB%83%E5%8C%97%E8%BE%B0%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "核種遷移",
+        "professor": "任春平",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "本課程介紹放射性核種於地下水環境之遷移吸附等傳輸行為",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073640/local_syllabus/attachment/35304/4205566%E6%A0%B8%E7%A8%AE%E9%81%B7%E7%A7%BB-%E4%BB%BB%E6%98%A5%E5%B9%B3.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,機械工程國際學士學位學程不得選修;"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "無人載具飛行性能分析",
+        "professor": "劉益仲",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "創新大樓105",
+        "type": "選修",
+        "description": "本課程透過理論講述與實際設計案例進行無人機飛行性能教學，內容包含無人機基本氣動力設計、起飛、爬升、巡航、航程與耐航、下降與降落等性能分析，培養學生具備飛行性能分析與任務規劃能力。\r\nThis course uses the theoretical methods and several practical design cases to teach the flight performance of unmanned aerial vehicle, including initial aerodynamic design, analysis of takeoff, climb, cruise, range, endurance, descent and landing. It can cultivate students with flight performance analyses and mission planning capabilities.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073715/local_syllabus/attachment/35307/4205569%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7%E9%A3%9B%E8%A1%8C%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90-%E5%8A%89%E7%9B%8A%E4%BB%B2.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大二~大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "系統鑑別",
+        "professor": "姚賀騰",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "本科目將介紹各種系統識別的方法，包含參數模型法與非參數模型法，頻譜法與狀態空間法，透過各種不同的方法來了解如何針對不同的系統進行參數鑑別，並教導學生如何驗證系統之正確性",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073910/local_syllabus/attachment/35313/4205759%E7%B3%BB%E7%B5%B1%E9%91%91%E5%88%A5-%E5%A7%9A%E8%B3%80%E9%A8%B0.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "數位控制",
+        "professor": "洪博雄",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "工學院B館116",
+        "type": "選修",
+        "description": "In Digital Control, we will learn how to digitally implement the continuous dynamics synthesized by classical control or modern control to function as controllers, observers, filters, or phase-compensators. The implementation is finished in two stages: discrete equivalency and DSP programming. That is, the to-be-implemented continuous-dynamics is firstly transformed into a discrete-equivalent, which is then programmed into some microcontroller as a real-time processor. Unlike most of engineering curriculums that are computer-time technologies, Digital Control is a real-time technology.     \r\nThe contents of the course are listed as follows.\r\nPreface\r\nChapter1: Introduction to Digital Control \r\n1-1 Discrete synthesis versus discrete equivalents\r\n1-2 An example of classical control synthesis\r\n1-3 Sampling and ZOH: sequence number \r\n1-4 Discrete equivalent: trapezoidal approximation of integrator\r\n1-5 Digital implementation of analog computer\r\nChapter 2: Z Transform \r\n2-1 Take first-order dynamics as an introductory example \r\n2-2 Long division \r\n2-3 Unit-step response\r\n2-4 Convolution \r\n2-5 Unit pulse that defines transfer function \r\n2-6 Z-transform of time-delay \r\n2-7 Final-value theorem \r\n2-8 Discrete state space\r\nChapter 3: Frequency Domain\r\n3-1 Aliasing \r\n3-2 Frequency response\r\n3-3 Bode plots \r\n3-4 Nyquist Criterion \r\n3-5 Stability and robustness \r\n3-6 Discrete modes\r\n3-7 Discretization T/2 delay\r\n3-8 Robustness and performance   \r\nChapter 4: Discrete Equivalents\r\n4-1 Tustin-1 method\r\n4-2 Tustin-0 method \r\n4-3 Euler-0 method \r\n4-4 Euler-1 method \r\n4-5 MPH approximation \r\n4-6 Impulse-invariant approximation \r\n4-7 Pre-warping Tustin \r\nChapter 5: Practice in Discrete Equivalence\r\n5-1 Holder and sampler: dual structure  \r\n5-2\tZOH with T/2 embedded time-delay: demo in time and frequency domains  \r\n5-3 Linear holders: zero-order and first-order\r\n5-3\tTustin-1 and Tustin-0 equivalents of integrator by convolution \r\n5-5 Discrete equivalents of 1/s+1 \r\n5-6\tComplete bases of linear interpolation\r\n5-7\tDifferent kinds of discrete equivalents in discrete Bode plots\r\n5-8 Instability induced from the T/2 delay embedded in ZOH\r\nChapter 6: DSP Programming \r\n6-1 IIR versus FIR \r\n6-2 IIR-S: memorization of current state \r\n6-3\tIIR-P: memorization of past inputs and outputs (violates the principle of causality) \r\n6-4\tIIR-AC: iterative recursion of controllability canonical computer\r\n6-5 IIR-AO: iterative recursion of observability canonical computer\r\n6-6 IIR-S: Decomposition into a series of subsystems \r\n6-7 FIR: finite impulse response \r\nChapter 7: Special Issue on Half-a-sample Delay Embedded in ZOH \r\n7-1 Viewpoints from temporal signal \r\n7-2 Frequency responses of equivalents \r\n7-3 Nonlinear digital control: Tustin equivalent plus IIR-AC for van der Pol oscillators \r\nChapter 8: DSP-Programming into Microcontroller\r\n8-1 Introduction to special-purpose and general-purpose microcontrollers\r\n8-2 Overview of Microchip-dsPIC chips\r\n8-3 Peripherals and interruption\r\n8-4 Matlab-to/from-dsPIC\r\n8-5 Coding of IIRs\r\n8-6 Coding of signal generators\r\n8-7 Example1: Firmware-based instruments \r\n8-8 Example 2: Drivers/controllers of DC motors  \n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073805/local_syllabus/attachment/35310/%E6%95%B8%E4%BD%8D%E6%8E%A7%E5%88%B6%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "人工智慧",
+        "professor": "楊智媖",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "In this course, the reinforcement learning, machine learning, deep learning, and several practical algorithms will be introduced. Besides, the basic theories of Artificial Neural Network (ANN) and other applications will also be discussed in detail.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074003/local_syllabus/attachment/35315/%E7%A0%94-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7-%E6%A5%8A%E6%99%BA%E5%AA%96.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "高等訊號處理",
+        "professor": "姚賀騰",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "該課程可以讓學生進階了解機電系統中訊號如何擷取與處理。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073828/local_syllabus/attachment/35311/4205781%E9%AB%98%E7%AD%89%E8%A8%8A%E8%99%9F%E8%99%95%E7%90%86-%E5%A7%9A%E8%B3%80%E9%A8%B0.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大三大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "智慧數控實作",
+        "professor": "洪博雄",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "創新大樓201",
+        "type": "選修",
+        "description": "梯度下降法（Gradient Descent, GD）一直是AI-軟體的演算核心，而系統與控制的AI-韌體則是以GD來即時演算識別、估測、診斷、濾波與回饋補償等動態，並將此GD-動態安裝於嵌入式控制器，寫成應用套件。本課程選用Microchip DSP晶片作為嵌入式控制器。AI-韌體強調即時處理，與AI-軟體的線外處理有顯著不同。本課程將展示與實作AI-韌體，四個連續步驟如下： \r\n1. 合成AI-動態: 梯度下降法。 \r\n2. 離散AI-動態: 傳統數位控制。\r\n3. 學習微控制器的核心與周邊。 \r\n4. 實現AI-動態: 將離散GD-動態編碼至微控制器中。\r\n本課程提供兩個應用範例，供學生進行實踐，並供教師評估教學與學習成效：AI Luenberger Observers與Stackelberg Game-theoretic Control。\r\n關於上課方式，會給學生平日練習之實作題，在每一次的實作題中，知道學生的問題，並且加以解決。最後再藉由期末報告的成果進行成效的分析，檢討課程的設計，實作題的深度，以及預想中的成果。最終也會透過發放教學評量問卷的方式，得知學生是否因本課程而實力躍升。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074442/local_syllabus/attachment/35336/%E6%99%BA%E6%85%A7%E6%95%B8%E4%BD%8D%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "大三大四可修"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "專題研討",
+        "professor": "陳永松",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "創新大樓110大型會議室(銘珠講堂)",
+        "type": "必修",
+        "description": "每週邀請各領域專家學者蒞校演講，以期開拓研究生視野，及瞭解各領域研究現況。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073650/local_syllabus/attachment/35305/2026_%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E_%E6%A9%9F%E6%A2%B0%E7%B3%BB.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "光機系統設計",
+        "professor": "王祥辰",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "講解光機系統設計之基本原理，並介紹相關的光機設計工具與方法",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074231/local_syllabus/attachment/35323/4205962%E5%85%89%E6%A9%9F%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88-%E7%8E%8B%E7%A5%A5%E8%BE%B0.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大三大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "半導體製程設備與科技",
+        "professor": "賴臆升",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "工學院B館117",
+        "type": "選修",
+        "description": "本課程將介紹半導體產業之相關產業趨勢、製造流程、先進自動化工廠運作至環境永續發展等相關議題。針對半導體元件之晶片製作概要、原理機制以及設計發想等都會有相對適合學生的解說。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074255/local_syllabus/attachment/35325/%28%E5%85%A8%E8%8B%B1%E6%96%87%E6%8E%88%E8%AA%B2%29%20%E8%B3%B4%E8%87%86%E5%8D%87-%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E7%A8%8B%E8%A8%AD%E5%82%99%E8%88%87%E7%A7%91%E6%8A%80.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "疲勞分析與設計",
+        "professor": "林派臣",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "工學院B館214左",
+        "type": "選修",
+        "description": "本課程主要介紹工程材料在疲勞負載下疲勞破壞的基本機制，目前常見的疲勞測試方法和疲勞壽命預測模型，破壞力學的基本觀念和裂縫成長模型。目的在於延長和管理產品的疲勞壽命。最後是塑膠和複合材料在疲勞負載下的基本力學行為。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073387/local_syllabus/attachment/35300/4206356%E7%96%B2%E5%8B%9E%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88-%E6%9E%97%E6%B4%BE%E8%87%A3.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "電腦輔助曲線及曲面設計",
+        "professor": "姚宏宗",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "工學院B館214左",
+        "type": "選修",
+        "description": "自由曲線/曲面設計為近代電腦輔助設計系統最關鍵的核心技術。本課程透過近代曲線曲面的演進過程，由最早的Bezier 曲線，到B-Spline曲線，到現代功能最完整及最強大的NURBS(Non-Uniform Rational B-Spline)曲線曲面，做完整的推導和介紹，使學生可以學習了解曲線曲面背後最重要的數學基礎及演算法。此外，透過程式撰寫，學習如何將演算法編程為可以互動操作的設計程式，可以真正進行複雜曲線和曲面的設計。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074469/local_syllabus/attachment/35339/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E6%9B%B2%E7%B7%9A%E5%8F%8A%E6%9B%B2%E9%9D%A2%E8%A8%AD%E8%A8%88-%E5%A7%9A%E5%AE%8F%E5%AE%97.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "材料分析與檢測",
+        "professor": "敖仲寧",
+        "credits": 3,
+        "time": "一3,4,5",
+        "location": "工學院B館215右",
+        "type": "選修",
+        "description": "This course provides students with fundamental understanding on principles and techniques of modern materials analysis and characterization with emphasis on analysis of metallic and electronic materials. Fundamental knowledge on crystal structures of materials and microstrucutres of materials will be reviewed. Principles, instruments and techniques on optical microscopy, transmission and scanning electron-microscopy (SEM/TEM), X-ray diffraction (XRD), energy-dispersive spectroscopy (EDS), electron beam spectral diffraction (EBSD), and Raman spectroscopy are explained in details. \r\nTHIS COURSE IS AN EMI COURSE AND IS TAUGHT IN ENGLISH.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073567/local_syllabus/attachment/35303/Materials%20Analysis%20and%20Characterization%20Syllabus%20%E6%95%96%E4%BB%B2%E5%AF%A7.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "大四可修，與前瞻合開"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "光學系統設計與實務工程",
+        "professor": "葉志庭",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "課程概述：\r\n簡介光學系統設計之基本原理與科技理論，內容包含幾何光學、波動光學、干涉繞射與光學薄膜、\r\n色彩學，接著再以光學模擬軟體進行光學系統工程實務設計。同時培養學生思考及解決問題的能\r\n力。\r\nCourse Overview:\r\nIntroduce the basic principles and scientific and technological theories of optical system design, including \r\ngeometric optics, wave optics, interference diffraction and optical film, chromatics, and then use optical \r\nsimulation software to design the practical optical system engineering. At the same time, students are \r\ntrained to think and solve problems.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074243/local_syllabus/attachment/35324/4208951%E5%85%89%E5%AD%B8%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E8%88%87%E5%AF%A6%E5%8B%99%E5%B7%A5%E7%A8%8B-%E8%91%89%E5%BF%97%E5%BA%AD.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(4415126)顯示器光學與實務工程(70分以上)機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,機械工程國際學士學位學程不得選修;"
+    },
+    {
+        "id": "機械工程研究所",
+        "name": "自動化光學檢測技術與實作",
+        "professor": "王祥辰",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "工業4.0是一個德國政府提出的高科技計劃，用來提昇製造業的電腦化、數位化和智慧化。目標與以前不同，不是創造新的工業技術，而是將所有工業相關的技術、銷售與產品體驗統合起來，是建立具有適應性、資源效率和人因工程學的智慧工廠（Smart Factory），並在商業流程及價值流程中整合客戶以及商業夥伴。其技術基礎是智慧整合感控系統（Cyber-Physical System, CPS）及物聯網（Internet of Things, IoT），因應相關人才的大量需求，規劃此自動化光學檢測技術與實作課程。主要目的在培養學生之動手實作能力，奠定將來從事自動化光學檢測研發工作之良好基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074478/local_syllabus/attachment/35340/%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%89%E5%AD%B8%E6%AA%A2%E6%B8%AC%E6%8A%80%E8%A1%93%E8%88%87%E5%AF%A6%E4%BD%9C-%E7%8E%8B%E7%A5%A5%E8%BE%B0.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與前瞻合開"
+    }
+]

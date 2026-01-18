@@ -1,0 +1,925 @@
+[
+    {
+        "id": "企業管理研究所",
+        "name": "研究方法",
+        "professor": "盧龍泉,莊世杰,鄭祥麟",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205002_01",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "人文領導與企業倫理",
+        "professor": "賴璽方",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院455",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205159_01",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "影像．故事．行銷創意",
+        "professor": "曾光華",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205211_01",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "新創企業個案與實務研討",
+        "professor": "許嘉文",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075732/local_syllabus/attachment/35391/%E6%96%B0%E5%89%B5%E4%BC%81%E6%A5%AD%E5%80%8B%E6%A1%88%E8%88%87%E5%AF%A6%E5%8B%99%E7%A0%94%E8%A8%8E.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "商用英文（二）",
+        "professor": "陳詠卉",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": "Course Objective\t\r\n1.\tprovide sufficient schema to improve students’ reading comprehension in business related subjects\r\n2.\tcultivate business vocabulary sizes with skill-based instructions and activities\r\n3.\tencourage students to go beyond the text and develop critical thinking skills\r\n4.\tunderstand cultural, economic, and environmental differences\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070081/local_syllabus/attachment/35145/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "先修科目(5205226)商用英文（一）(及格)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "商用英文（四）",
+        "professor": "陳詠卉",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": "Course Objective\t\r\n1.\tdevelop students' business writing skills to achieve successful communications\r\n2.\tadopt sample business letters from a variety of context to familiarize learners with different writing styles\r\n3.\tencourage students to write effectively and confidently for a business environment\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069957/local_syllabus/attachment/35140/1142%20%E8%8B%B1%E6%96%87%E5%9B%9B%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "先修科目(5205226)商用英文（一）(及格)(5205228)商用英文（三）(及格)(5205227)商用英文（二）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習。\r\n限企管所及行銷所研究生。"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "商用英文職場實務",
+        "professor": "陳詠卉",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "Students will:\r\n1.\tdevelop essential business English skills in this new economic era\r\n2.\texpress ideas properly in writing and speaking under business contexts\r\n3.\texpand business-related vocabulary for communication\r\n4.\tdevelop language fluency and self confidence in the workplace environment\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073136/local_syllabus/attachment/35287/1142%20%E8%81%B7%E5%A0%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "支援管理學院碩博班國際經濟研究所財務金融研究所企業管理研究所會計與資訊科技研究所資訊管理研究所國際財務金融管理碩士學位學程金融科技碩士學位學程企業管理學系行銷與數位分析碩士班醫療資訊管理研究所一年級A班;限本系生修.外文系不得修習。\r\n限管院研究生。"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "衍生性金融商品",
+        "professor": "宋豪漳",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": "This course consists of two main parts: Futures and Options.\n\r\nI. Futures\r\nThe first part of the course provides an overview of derivative commodities and futures markets. It covers the fundamental concepts of futures contracts, trading systems, and market practices, including margining and settlement procedures. The course further examines the theoretical valuation of futures contracts, speculative trading activities, futures price analysis, and commonly used futures trading strategies.\n\r\nII. Options\r\nThe second part of the course introduces option markets and option contracts, with an emphasis on option pricing theory and basic option trading strategies.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070160/local_syllabus/attachment/35151/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%28%E8%A1%8D%E7%94%9F%E6%80%A7%E9%87%91%E8%9E%8D%E5%95%86%E5%93%81%29.pdf",
+        "targetGrade": "1",
+        "capacity": "14",
+        "memo": "歡迎大三、大四同學上修"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "創新創業微課程(二)",
+        "professor": "許嘉文",
+        "credits": 1,
+        "time": "五10",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069970/local_syllabus/attachment/35141/%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%BE%AE%E8%AA%B2%E7%A8%8B-2.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "數位時代下之通路創新與管理",
+        "professor": "游蓓怡",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": "「行銷通路」被認為是行銷策略當中，讓企業能維持競爭優勢中，重要的一環。而隨著數位時代下各式新科技的興起（例如AI，AR/VR及大數據及平台），讓企業在設計通路系統當中，不僅帶來許多新的機會，同時也帶來許多挑戰。本課程主要在探討數位時代下之通路創新及管理，課程內容涵蓋當代通路建構、設計，規劃與程序等相關議題。在十八週的課程當中，將由傳統通路系統出發，分析及比較通路系統的變革，並探討多元通路中之「全通路系統」所帶來的機會與挑戰。課程探討的議題包括：\r\n1.\t數位時代下之策略行銷通路的本質、組織結構、通路的功能與通路關係\r\n2.\t通路創新與變革對物流系統及通路伙伴的影響。\r\n3.\t零售通路的變革與創新\r\n4.\t行銷通路績效的管理與衡量\r\n5.\t行銷權力、衝突與合作\r\n6.\t新興通路的興起、平台經濟、國際通路的開發與經營，灰色市場行銷以及企業社會責任與永續。\n\r\nGoods and services were produced and delivered through a number of stages no matter the goods were sold to individual consumers or corporate/organisational buyers.  “Marketing Channels” has been considered one of the most important factors for firms to design effective marketing strategies in order to obtain sustainable competitive advantages over the competitors. \r\nIn an increasingly competitive digital age, with margins and profits under ever greater pressure, the effective and efficient management of these channels is central to the performance of the different supply chain partners, including manufacturers, distributors, wholesalers, retailers, and specialised logistics agencies. During the era of digitalization, the emergence of new technologies has not only brought new opportunities to form new business models but also brought new challenges to force old channel systems to be transformed. \r\nThis course provides a comprehensive introduction of designing, developing, and maintaining effective relationships among channel members, particularly in the digital age. Several issues will be addressed via a number of lectures:\r\n1.\tIntroduction of strategic marketing channels management: structure, functions, and relationships: The concept of Omni-channel ecosystem.\r\n2.\tThe design, organization and control of marketing channels and channel innovation\r\n3.\tChannel logistics/supply chain management and international partnership \r\n4.\tRetail product management \r\n5.\tAssessing marketing channel performance\r\n6.\tSome other contemporary important channel issues, such as pricing through the channel, trade promotions, grey marketing, consumers’ omni-channel behavior and corporate social responsibility.\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070149/local_syllabus/attachment/35150/Channel%20Management%20Syllabus_114_2_V1.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "先修科目(5205006)行銷管理(及格)"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "ESG與責任企業投資",
+        "professor": "宋豪漳",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "First part:\r\nThis course review focuses on the role of Environmental, Social, and Governance (ESG) factors in financial economics and asset pricing. It will discuss how ESG considerations shape portfolio efficiency through the ESG-efficient frontier and how environmental risks give rise to return premia, including the pollution premium. The review also explores how ESG-related information can be extracted from option markets and how ESG characteristics generate momentum effects. Empirical evidence from the Taiwanese stock market is used to illustrate how changes in ESG ratings influence investor behavior and stock prices.\r\nSecond part:\r\nWe will explore ESG and responsible business investing, focusing on corporate governance, sustainability, and relevant topics such as stakeholder capitalism, green corporations, and responsible investing, particularly in the Taiwanese financial sector.\r\nBy the end of the course, students will understand the significance of responsible business practices and the relevance of ESG.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069981/local_syllabus/attachment/35142/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28ESG%20and%20Responsible%20Business%20Investment%29.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "歡迎大三、大四同學上修"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "創新創業行動實踐微課程(二)",
+        "professor": "許嘉文",
+        "credits": 1,
+        "time": "五11",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070098/local_syllabus/attachment/35146/%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E8%A1%8C%E5%8B%95%E5%AF%A6%E8%B8%90%E5%BE%AE%E8%AA%B2%E7%A8%8B-2.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "企業實習(二)",
+        "professor": "連雅慧,李佩璇",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "本課程透過學生前往企業實習，進行職場探索，培養專業技能及實務經驗，以落實學用合一。\r\n學生選課(取得學分)之先決(必要)條件，請於課程第一周上課前完成eCourse2平台上傳認證時數證明。\n\r\n取得實習安全講習認證時數合計6小時(請整合成一個PDF檔案)，影音平台如下:\r\n1.\t公務人員終身學習入口網，「e等公務園+學習平臺」\r\nhttps://elearn.hrd.gov.tw/mooc/index.php\r\n\t性別平等 (2小時)\r\n\t職場霸凌 (2小時)\n\r\n2.\t勞動部職安署職業安全衛生數位學習平台\r\nhttps://isafeel.osha.gov.tw/mooc/index.php\r\n\t職業安全 (2小時)\r\n一般職業安全衛生教育訓練課程(上)\r\n一般職業安全衛生教育訓練課程(下)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070054/local_syllabus/attachment/35144/5205263-AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29-1142-v1.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "限本系生修.限本系生修習。"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "電腦套裝軟體應用",
+        "professor": "陳明德",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205265_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "策略行銷與人工智慧工具應用",
+        "professor": "鄭祥麟",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070369/local_syllabus/attachment/35163/%E7%AD%96%E7%95%A5%E8%A1%8C%E9%8A%B7%E8%88%87%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%B7%A5%E5%85%B7%E6%87%89%E7%94%A8%20%28114-2%E5%AD%B8%E6%9C%9F%29.docx",
+        "targetGrade": "1",
+        "capacity": "56",
+        "memo": "歡迎大三、大四同學上修"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "企業管理實務-創生行動學堂",
+        "professor": "連雅慧,楊文芬",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "管理學院演講廳",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5205272_01",
+        "targetGrade": "1",
+        "capacity": "160",
+        "memo": ""
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "策略管理專題研討（一）",
+        "professor": "鄭祥麟",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061925/local_syllabus/attachment/34799/%E5%8D%9A%E7%8F%AD%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86%E5%B0%88%E9%A1%8C%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "消費者行為專題研討",
+        "professor": "莊世杰",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206011_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "公司理財專題研討",
+        "professor": "王明昌",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049728/local_syllabus/attachment/34300/Seminar%20on%20Financial%20Management_2026_Spring.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "組織行為理論",
+        "professor": "賴璽方",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206104_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(5206223)管理理論(及格)限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "科技管理專題研討",
+        "professor": "許嘉文",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "管理學院443",
+        "type": "選修",
+        "description": "本課程旨在探討科技發展與管理決策之間的關聯，透過專題研討方式，引導學生深入理解科技創新、研發管理、技術策略、數位轉型與產業競爭等核心議題。課程強調理論與實務並重，結合學術文獻研讀、個案分析、產業趨勢觀察及學生專題報告，培養學生分析科技管理問題與提出策略性解決方案的能力。學生將在課程中針對特定科技管理主題進行深入研究與討論，學習如何評析學術研究成果、掌握科技趨勢對組織與產業的影響，並訓練口頭簡報與學術討論能力。透過互動式研討，提升批判性思考與跨領域整合能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065851/local_syllabus/attachment/35031/%E7%A7%91%E6%8A%80%E7%AE%A1%E7%90%86%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "產學研究專題研討(二)",
+        "professor": "連雅慧,曾光華",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "管理學院427",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5206210_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "大數據分析與管理專題研討",
+        "professor": "黃正魁",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": "Big data has emerged as a powerful force, revolutionizing the business landscape both internally and externally. The term \"big data\" has gained immense popularity, akin to its predecessor, cloud computing. It can trace back to 1998 when John Mashey of Silicon Graphics Inc. prominently mentioned it. In 2010, big data garnered significant attention from managers and researchers, and in 2012, The New York Times featured a column titled \"The Age of Big Data,\" heralding the arrival of the big data era. Data originates not only from structured databases within organizations but also from unstructured sources and external datasets. The avenues for data collection extend beyond enterprises themselves and include social network platforms, Internet of Things sensors, and government open data.\r\n\tAs its name suggests, big data refers to datasets that exceed the processing capacity of traditional database systems. Within this vast sea of data, we can harness the potential of data analytics, empowered by data mining algorithms, artificial intelligence, ChatGPT, and visualization tools, to unveil hidden correlations, uncover patterns, and discern market trends.\r\n\tIn this course, students will have the opportunity to delve into the realm of big data analysis and management. They will not only acquire knowledge of data mining and statistical approaches but also develop a keen understanding of analyzing data’s business significance. With the aid of artificial intelligence and ChatGPT, students will explore how to leverage big data for strategic decision-making, data-driven storytelling and gain valuable insights that drive business success.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070111/local_syllabus/attachment/35147/BD_Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "先修科目(5205005)管理資訊系統(及格)"
+    },
+    {
+        "id": "企業管理研究所",
+        "name": "知識發展專題研討（二）",
+        "professor": "許嘉文",
+        "credits": 1,
+        "time": "六10",
+        "location": "管理學院427",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049110/local_syllabus/attachment/34289/%E7%9F%A5%E8%AD%98%E7%99%BC%E5%B1%95%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "策略管理",
+        "professor": "鄭祥麟",
+        "credits": 2,
+        "time": "六9,10",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A101_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "碩士論文專題（二）",
+        "professor": "連雅慧,陳明德,曾光華,莊世杰,王明昌,黃正魁,許嘉文,鄭祥麟,游蓓怡,劉敏熙,賴璽方",
+        "credits": 3,
+        "time": "日10,11,12",
+        "location": "管理學院454",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A103_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限管理功能精鍊組/全方位領導決策組,已選指導教授之學生選課"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "電腦套裝軟體應用",
+        "professor": "陳明德,黃正魁",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": "The objective of this course is to survey the most popular, while powerful, software in the current market. The basic structure and operation procedures of the software will be introduced. Students who have basic computer background can easily exercise the software by following the instructions taught in this course, and can further become masters through the practice of the assigned projects.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079361/local_syllabus/attachment/35537/Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "金融科技",
+        "professor": "宋豪漳",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": "本課程以金融科技（FinTech）為核心，從科技與金融的基礎概念出發，依序介紹雲端運算與大數據分析、人工智慧、支付金融、社群金融平台與虛擬貨幣等重要主題，並搭配 Adyen、Upstart（UPST）、Hyperliquid 等實務案例進行分析。課程後半段聚焦於加密貨幣投資，分為兩個單元深入探討，並以期末專題報告與發表作為總結，培養學生對金融科技發展與應用的整體理解與實務分析能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080372/local_syllabus/attachment/35563/%28%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%28Financial%20Technology%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "大數據與系統模擬",
+        "professor": "黃正魁,企管系待聘教師1",
+        "credits": 2,
+        "time": "六7,8",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": "大數據(Big data) 自從2010年第四季被提出來以後，已經帶給企業內部與外部巨大的影響與衝擊，然而，很可惜地，大部分的企業經理人，對於大數據仍然停留在以資訊科技為主的想法，因此，他們認為此為企業技術人員之事，而非高階管理者之策略思考議題，因而，無法有效地評估大數據投資成本效益以及其商業價值。另外，由於管理者對大數據可能之不熟悉，所以無法瞭解如何有效地導入以及運用於企業當中，而失去了企業已擁有大量的資料，但不知如何產生競爭優勢與價值的遺憾。從資源基礎的觀點來看，資料是企業內唯一獨有的獨佔資源，其他競爭對手是無法模仿與抄襲，而產生競爭優勢；從人工智慧企業化的關鍵成功因素探討，企業資料也都扮演重要且無可取代的角色。\r\n\t有鑑於上述之議題，本課程主要的教學目標是教授大數據應有之管理思維，並且藉由教師實際輔導企業、組織、醫院之已完成與進行中的個案經驗(產學合作)，以及其他重要的大數據個案，來進行個案分析，以培養管理者的大數據管理能力。\r\n\t另外，因應生成式AI (例如：ChatGPT、laude、Google Gemini 與Midjourney)現在對人類的衝擊影響，本課程也將討論AI 將如何如人類，一起合作解決大數據管理與分析的工作，讓企業利用數據管理，產生更大的效益。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079342/local_syllabus/attachment/35536/%E5%A4%A7%E6%95%B8%E6%93%9A%E8%88%87%E7%B3%BB%E7%B5%B1%E6%A8%A1%E6%93%AC_Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "品牌社群行銷",
+        "professor": "蘇宏仁",
+        "credits": 2,
+        "time": "六12,13",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A178_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "財務自由與慢慢致富",
+        "professor": "王明昌",
+        "credits": 2,
+        "time": "六9,10",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080724/local_syllabus/attachment/35583/%E8%B2%A1%E5%8B%99%E8%87%AA%E7%94%B1%E8%88%87%E6%85%A2%E6%85%A2%E8%87%B4%E5%AF%8C-%E7%8E%8B%E6%98%8E%E6%98%8C_2026_Spring.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "團隊發展與管理",
+        "professor": "劉敏熙",
+        "credits": 2,
+        "time": "六7,8",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081484/local_syllabus/attachment/35606/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "組織領導",
+        "professor": "賴璽方",
+        "credits": 2,
+        "time": "六14,15",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A200_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組  課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "地緣政治與國際企業",
+        "professor": "鄭祥麟,龔天鈞",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077475/local_syllabus/attachment/35483/114-2%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%88%87%E5%9C%8B%E9%9A%9B%E4%BC%81%E6%A5%AD.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "管理功能精鍊組/管理菁英組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "紅塵學(一)",
+        "professor": "黃正魁,鄭祥麟,劉敏熙",
+        "credits": 2,
+        "time": "日4,5",
+        "location": "管理學院454",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A602_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組  課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "組織行為與變革領導",
+        "professor": "艾昌瑞",
+        "credits": 2,
+        "time": "六7,8",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A611_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "產業動態分析及商業模式創新",
+        "professor": "許嘉文",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": "本課程在介紹產業分析與商業模式的相關理論與概念，包括產業組織\r\n與五力分析、產業疆界、產業生態、產業標準、策略群組、價值體系、產\r\n業群落、產業與區位、產業生命週期、產業轉型與群落演化、動態競爭、\r\n價值網與競合關係。同時，藉由精選案例之探討，提供學習者策略管理的\r\n實務作法。如此，將使學習者得將產業分析與商業模式的相關理論與概念\r\n運用於企業經營實境中，同時能夠自分析及撰寫完整的產業報告。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081340/local_syllabus/attachment/35599/114-2-EMBA_NEW.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "公司治理與ESG",
+        "professor": "王明昌",
+        "credits": 2,
+        "time": "六14,15",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": "本課程提供上課同學能了解公司治理的理論原則，並利用過去發生的舞弊個案進行分析實務驗證。另外，E（環境）S（社會）G（治理）等三個構面的實質內容，及聯合國永續發展原則。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080715/local_syllabus/attachment/35582/%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86%E8%88%87ESG-%E7%8E%8B%E6%98%8E%E6%98%8C_2026_spring.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "企業海外參訪研習（一）",
+        "professor": "黃正魁,鄭祥麟,劉敏熙",
+        "credits": 2,
+        "time": "日7,8",
+        "location": "管理學院454",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079376/local_syllabus/attachment/35538/%E7%A7%BB%E5%9C%B0%E6%95%99%E5%AD%B8%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組  課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "韌力領導、學習與成長",
+        "professor": "連雅慧",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_520A649_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組 課程"
+    },
+    {
+        "id": "(專)企業管理研究所",
+        "name": "行銷策略與消費者趨勢動態分析",
+        "professor": "莊世杰,游蓓怡",
+        "credits": 2,
+        "time": "六9,10",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": "行銷策略與消費者趨勢動態分析課程的主要目的是探討市場趨勢與分析，並了解如何制定有效的行銷策略以應對這些趨勢。課程內容將涵蓋以下幾個重點：\r\n•\t市場環境及趨勢分析：了解市場分析工具及如何識別並解讀市場中的各種趨勢\r\n•\t消費者行為研究：學習消費者行為的重要理論，並深入了解消費者的需求、偏好和購買決策過程，並學會如何透過市場調查收集這些資訊。\r\n•\t行銷策略規劃：基於市場趨勢和消費者行為分析，學習如何制定有效的行銷策略，包括市場定位、品牌建立、廣告推廣等。\r\n•\t數據分析與應用：了解當前數據分析之工具，並學習如何將數據洞察應用於行銷策略中。\r\n•\t案例研究：透過實際案例的分析，了解不同企業是如何應對市場變化，以及他們的行銷策略如何成功或失敗。\r\n\"Marketing Strategy and Consumer Trend Analysis\" is a course to explore market trends and analysis, and to understand how to develop effective marketing strategies to address these trends. The course content will cover the following key points:\r\n•\tMarket Environment and Trend Analysis: Understand market analysis tools and how to identify and interpret various trends in the market.\r\n•\tConsumer Behavior Research: Learn important theories of consumer behavior, gain a deep understanding of consumer needs, preferences, and purchasing decision processes, and learn how to collect this information through market research.\r\n•\tMarketing Strategy Planning: Based on market trends and consumer behavior analysis, learn how to develop effective marketing strategies, including market positioning, brand building, advertising promotion, etc.\r\n•\tData Analysis and Application: Understand current tools for data analysis and learn how to apply data insights in marketing strategy.\r\n•\tCase Studies: Through the analysis of real cases, understand how different companies respond to market changes and how their marketing strategies succeed or fail.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080186/local_syllabus/attachment/35556/Syllabus_114_2V1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "全方位領導決策組/企業領袖組 課程"
+    }
+]

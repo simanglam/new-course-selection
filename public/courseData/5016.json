@@ -1,0 +1,88 @@
+[
+    {
+        "id": "管理學院碩博班",
+        "name": "商業管理學術英文表達",
+        "professor": "鄧氏霞妝",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "This course develops effective English communication skills for business and finance professionals. Students will practice writing, speaking, listening, and presenting in business contexts. The course emphasizes practical skills through lectures, role-plays, group activities, video analysis, and presentations.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072363/local_syllabus/attachment/35251/114-2%20%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86%E5%AD%B8%E8%A1%93%E8%8B%B1%E6%96%87%E8%A1%A8%E9%81%94%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20AEBC%205015004.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": ""
+    },
+    {
+        "id": "管理學院碩博班",
+        "name": "初階資產管理數位課程 (二)",
+        "professor": "李佩璇,賴靖宜",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "根據金管會推動亞洲資產管理中心的政策，旨在透過吸引資金流入、促進商品多元化以及人才培育等目的，提升台灣作為資產管理中心的地位。在人才培育面，面對全球資產管理業務的多樣化挑戰與商機，台灣金融研訓院積極整合金融業界資源，邀請具備實務經驗的專家講師，共同規劃完整的培訓課程，提供大專院校學生專業學習機會，培育未來資產管理領域的專業人才。\r\n「初階資產管理數位課程(一)、(二)」主要為培育有計畫將從事資產管理業務的人才，從四大主軸設計培訓課程，建立從事該業務需具備之基礎專業知識。透過線上數位課程進行，並輔以單元測驗呈現學習成果。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072831/local_syllabus/attachment/35273/Syllabus_%E5%88%9D%E9%9A%8E%E8%B3%87%E7%94%A2%E7%AE%A1%E7%90%86%E6%95%B8%E4%BD%8D%E8%AA%B2%E7%A8%8B%28%E4%BA%8C%29-1142-v1229.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": ""
+    },
+    {
+        "id": "管理學院碩博班",
+        "name": "企業實習(二)",
+        "professor": "連雅慧,李佩璇",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "本課程透過學生前往企業實習，進行職場探索，培養專業技能及實務經驗，以落實學用合一。\r\n學生選課(取得學分)之先決(必要)條件，請於課程第一周上課前完成eCourse2平台上傳認證時數證明。\n\r\n取得實習安全講習認證時數合計6小時(請整合成一個PDF檔案)，影音平台如下:\r\n1.\t公務人員終身學習入口網，「e等公務園+學習平臺」\r\nhttps://elearn.hrd.gov.tw/mooc/index.php\r\n\t性別平等 (2小時)\r\n\t職場霸凌 (2小時)\n\r\n2.\t勞動部職安署職業安全衛生數位學習平台\r\nhttps://isafeel.osha.gov.tw/mooc/index.php\r\n\t職業安全 (2小時)\r\n一般職業安全衛生教育訓練課程(上)\r\n一般職業安全衛生教育訓練課程(下)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075928/local_syllabus/attachment/35400/5205263-AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29-1142-v1.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    }
+]

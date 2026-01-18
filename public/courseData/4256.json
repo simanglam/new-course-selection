@@ -1,0 +1,616 @@
+[
+    {
+        "id": "化學工程研究所",
+        "name": "專題討論（二）",
+        "professor": "陳靜誼",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "工學院B館119",
+        "type": "必修",
+        "description": "邀請產、學、研界學有專精的專家，以及系上即將畢業的博士班學生，每週至系上演講研究主題，訓練學生熟練文獻調查與資料蒐集的方法，並培養口頭報告的表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025606/local_syllabus/attachment/33644/%E5%B0%88%E9%A1%8C%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "專題討論（四）",
+        "professor": "康嘉麟",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "工學院B館219",
+        "type": "必修",
+        "description": "邀請產、學、研界學有專精的專家，以及系上即將畢業的博士班學生，每週至系上演講研究主題，訓練學生熟練文獻調查與資料蒐集的方法，並培養口頭報告的表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025622/local_syllabus/attachment/33645/%E5%B0%88%E9%A1%8C%E8%A8%8E%E8%AB%96%28%E5%9B%9B%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "碩士論文（一）",
+        "professor": "陳靜誼",
+        "credits": 2,
+        "time": "二1 四1",
+        "location": "工學院B館201",
+        "type": "必修",
+        "description": "訓練學生熟練文獻調查與資料蒐集的方法，能主動閱讀文獻，具有成熟的書面及口頭報告的表達能力。以及訓練學生具備規劃研究計畫，從事實驗或理論研究與解決問題，分析數據，歸納結論，撰寫研究成果報告的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025631/local_syllabus/attachment/33646/4255050.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "碩士論文（三）",
+        "professor": "陳靜誼",
+        "credits": 2,
+        "time": "三13,14",
+        "location": "工學院B館201",
+        "type": "必修",
+        "description": "訓練學生熟練文獻調查與資料蒐集的方法，能主動閱讀文獻，具有成熟的書面及口頭報告的表達能力。以及訓練學生具備規劃研究計畫，從事實驗或理論研究與解決問題，分析數據，歸納結論，撰寫研究成果報告的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025640/local_syllabus/attachment/33647/4255070.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "高等輸送現象",
+        "professor": "鄭朝鴻",
+        "credits": 3,
+        "time": "三B,C",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "To instruct students to be able to manage fundamental and applied subjects in transport phenomena.  ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025649/local_syllabus/attachment/33648/4255210%E9%AB%98%E7%AD%89%E8%BC%B8%E9%80%81114%E5%AD%B8%E5%B9%B4%E5%BA%A6.docx",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "粉粒體技術",
+        "professor": "林昭任",
+        "credits": 3,
+        "time": "一G,H",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "本課程之目的在使學生瞭解的粉粒體技術基本原理與應用，透過教材與文獻的導演，能活用於粉體工程問題之解析及研究。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025688/local_syllabus/attachment/33649/4255250.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "非線性動態學",
+        "professor": "陳建忠",
+        "credits": 3,
+        "time": "四E,F",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "加強學生數學、邏輯與分析能力、能運用電腦程式與繪圖軟體。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025597/local_syllabus/attachment/33643/4255330.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "精密材料合成",
+        "professor": "蔡敬誠",
+        "credits": 3,
+        "time": "一G,H",
+        "location": "工學院B館318",
+        "type": "選修",
+        "description": "Introduction to polymers and catalysis",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026874/local_syllabus/attachment/33694/4255572.doc",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "生物高分子",
+        "professor": "陳錦坤",
+        "credits": 3,
+        "time": "二I,J",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "培養學生生物高分子相關之知識。\r\n113學年度第2學期\"生物高分子\"課程授課計畫。\r\n本課程包括一般課程,主要講述蛋白質,核酸,醣類與脂質的結構與功能;\r\n另安排5次special topics介紹生物高分子相關之產業概況。\r\n本課程安排數位學有專精之業界專家共同來上課,希望讓同學了解產業思維。\r\n課程規劃如附檔。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025578/local_syllabus/attachment/33642/%E3%80%8E%E7%94%9F%E7%89%A9%E9%AB%98%E5%88%86%E5%AD%90%E3%80%8F%E6%8E%88%E8%AA%B2%E8%A8%88%E7%95%AB-2023.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "材料鑑識特論",
+        "professor": "李承龍",
+        "credits": 3,
+        "time": "五I,J",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "Advanced Forensic Material Identification is the application of various scientific methods and principles to investigate criminal and civil actions which are of interest to the legal systems. Advanced Forensic Material Identification refers more specifically to the scientific collection and analysis of physical evidence in criminal cases such as murder, theft, or fraud. Forensic scientists examine objects, substances (including blood or drug samples), chemicals (paints, explosives), tissue traces (hair, skin), or impressions (fingerprints or tidemarks) left at the crime scene. All the clues collected from a crime scene are analyzed by forensic scientists in a crime laboratory and are converted into evidences worth producing in legal courts.\r\nIn the course, we provide overview of various Advanced Forensic Material Identification and their relation to presentation of evidence and problems of law.  Study the course is ideal if you are studying Chemistry A-level, have an interest in forensic science and want to apply your knowledge of chemical analysis to forensic investigation.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025698/local_syllabus/attachment/33650/4255802%28%E6%9D%90%E6%96%99%E9%91%91%E8%AD%98%29-114.doc",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "電分析化學",
+        "professor": "傅友君",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "This class is designed for those graduate students with need of understanding electrochemical analysis",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025722/local_syllabus/attachment/33651/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A1%A8%E6%A0%BC%20%E9%9B%BB%E5%88%86%E6%9E%90%E5%8C%96%E5%AD%B8-%E5%82%85-%E8%8B%B1%E6%96%87-revised.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "分子螢光學之原理與應用",
+        "professor": "陳靜誼",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "介紹光學原理及螢光分子之應用",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025731/local_syllabus/attachment/33652/4255932.doc",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "半導體製程設備與科技",
+        "professor": "賴臆升",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "工學院B館117",
+        "type": "選修",
+        "description": "本課程將介紹半導體產業之相關產業趨勢、製造流程、先進自動化工廠運作至環境永續發展等相關議題。針對半導體元件之晶片製作概要、原理機制以及設計發想等都會有相對適合學生的解說，課程將有業師輔助授課。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "評量尺規",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025749/local_syllabus/attachment/33653/112-2%20%E8%B3%B4%E8%87%86%E5%8D%87%20%E9%96%8B%E6%8E%88%E8%AA%B2%E7%A8%8B-%E7%A2%A9%20-%20%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E7%A8%8B%E8%A8%AD%E5%82%99%E8%88%87%E7%A7%91%E6%8A%80%20%281121206%29.pdf",
+        "targetGrade": "1",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "感測器材料技術應用",
+        "professor": "周盈年",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "感測器技術已成為現代科技發展中不可或缺的一部分，而感測器材料的研究與應用更是推動了感測器技術的發展。本課程將深入探討感測器材料技術在不同領域的應用，包括生醫感測器和化學感測器等方面。\r\n一、感測器材料介紹\r\n本部分將介紹感測器材料的基本概念和分類，包括半導體感測器材料、聚合物感測器材料、納米材料感測器材料等。學生將了解不同材料在感測器中的特性和應用。\r\n二、生醫感測器\r\n生醫感測器是指應用於醫學領域的感測器技術，主要用於檢測生物體內的生理參數、疾病檢測、藥物傳遞等。本部分將重點介紹生醫感測器的原理、設計和應用案例，並探討感測器材料在生醫感測器中的作用和發展趨勢。\r\n三、化學感測器\r\n化學感測器主要用於檢測和分析化學物質，廣泛應用於環境監測、食品安全、工業生產等領域。本部分將介紹化學感測器的工作原理、常見的感測技術以及感測器材料在化學感測器中的應用。同時，將通過案例分析和實驗演示，加深學生對化學感測器技術的理解和應用能力。課程將有業師輔助授課。\r\n目標：\r\n透過課程深刻了解感測器需求及相關材料的發展，並同時思考社會價值與跨領域人員協調整合之重要與必要性，讓學生思考對未來就業之規劃，達成良好國際觀並落實終身學習。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025762/local_syllabus/attachment/33654/112-2%20%E5%91%A8%E7%9B%88%E5%B9%B4%20%E9%96%8B%E6%8E%88%E8%AA%B2%E7%A8%8B-%E7%A2%A9%20-%20%E6%84%9F%E6%B8%AC%E5%99%A8%E6%9D%90%E6%96%99%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8-2.docx",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "人工智慧在化工上的應用",
+        "professor": "康嘉麟",
+        "credits": 3,
+        "time": "一E,F",
+        "location": "工學院B館303",
+        "type": "選修",
+        "description": "課程概述：\r\n1.學習Python程式語言\r\n2.基礎機器學習原理\r\n3.學生將深入了解控制過程/質量控制的基本概念。\r\n4.學生將理解多變量統計分析的原理，並將這些方法應用於實際問題。\r\n5.深度學習網路概念與工廠案例與資料分析。\n\r\n目標：\r\n學習Python程式語言、基礎機器學 習原理、深度學習網路概念，並了解化工領域實際應用與資料分析。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026725/local_syllabus/attachment/33689/113-1%20%E5%BA%B7%E5%98%89%E9%BA%9F%20%E9%96%8B%E6%8E%88%E8%AA%B2%E7%A8%8B-%E7%A2%A9%20-%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%9C%A8%E5%8C%96%E5%B7%A5%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8.docx",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "電腦在化工上的應用",
+        "professor": "王逢盛",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "工學院B館303",
+        "type": "選修",
+        "description": "本課程著重在如何運用電腦程式解決化工領域常見的工程計算問題，諸如質能守恆、動量傳送、熱量傳送、質量傳送以及化工單元如何用現代化電腦程式解決PDE、ODE以及線性代數。\r\nThis course is ideal for undergraduate students interested in learning modern computational methods for the analysis of complex chemical engineering systems; a modest mathematical background will suffice. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026907/local_syllabus/attachment/33697/%E9%9B%BB%E8%85%A6%E5%9C%A8%E5%8C%96%E5%B7%A5%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "開放大四學生選修"
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "博士專討（二）",
+        "professor": "王朝弘",
+        "credits": 1,
+        "time": "一13,14",
+        "location": "工學院B館203",
+        "type": "必修",
+        "description": "邀請產、學、研界學有專精的專家，以及系上即將畢業的博士班學生，每週至系上演講研究主題，訓練學生熟練文獻調查與資料蒐集的方法，並培養口頭報告的表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025786/local_syllabus/attachment/33655/4256022.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "博士專討（四）",
+        "professor": "王朝弘",
+        "credits": 1,
+        "time": "五13,14",
+        "location": "工學院B館203",
+        "type": "必修",
+        "description": "邀請產、學、研界學有專精的專家，以及系上即將畢業的博士班學生，每週至系上演講研究主題，訓練學生熟練文獻調查與資料蒐集的方法，並培養口頭報告的表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028053/local_syllabus/attachment/33748/4256042.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "博士論文（二）",
+        "professor": "王朝弘",
+        "credits": 1,
+        "time": "三13,14",
+        "location": "工學院B館203",
+        "type": "必修",
+        "description": "訓練學生熟練文獻調查與資料蒐集的方法，能主動閱讀文獻，具有成熟的書面及口頭報告的表達能力。以及訓練學生具備規劃研究計畫，從事實驗或理論研究與解決問題，分析數據，歸納結論，撰寫研究成果報告的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025794/local_syllabus/attachment/33656/4256061.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "博士論文（四）",
+        "professor": "王朝弘",
+        "credits": 1,
+        "time": "四13,14",
+        "location": "工學院B館203",
+        "type": "必修",
+        "description": "訓練學生熟練文獻調查與資料蒐集的方法，能主動閱讀文獻，具有成熟的書面及口頭報告的表達能力。以及訓練學生具備規劃研究計畫，從事實驗或理論研究與解決問題，分析數據，歸納結論，撰寫研究成果報告的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029935/local_syllabus/attachment/33778/4256071.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "博士論文（六）",
+        "professor": "陳靜誼",
+        "credits": 1,
+        "time": "二13,14",
+        "location": "工學院B館203",
+        "type": "必修",
+        "description": "訓練學生熟練文獻調查與資料蒐集的方法，能主動閱讀文獻，具有成熟的書面及口頭報告的表達能力。以及訓練學生具備規劃研究計畫，從事實驗或理論研究與解決問題，分析數據，歸納結論，撰寫研究成果報告的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025802/local_syllabus/attachment/33657/4256081.doc",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "軟物質材料之多尺度模擬法",
+        "professor": "華繼中",
+        "credits": 3,
+        "time": "五B,C",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "I. Introduction to the basic principles of quantum chemistry, molecular\r\ndynamics, and various kind of coarse-grained computational schemes.\r\nII. Applications to representative soft material systems.\r\nIII. Practice of simple simulation jobs and mini-projects.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026887/local_syllabus/attachment/33695/4257761.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程研究所",
+        "name": "論文寫作",
+        "professor": "傅友君",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "本課程專為準備開始撰寫科學論的研究生而設計。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025812/local_syllabus/attachment/33658/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A1%A8%E6%A0%BC1120216-%E5%82%85-%E8%8B%B1%E6%96%87-revised.doc",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    }
+]

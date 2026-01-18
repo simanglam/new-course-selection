@@ -1,0 +1,238 @@
+[
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "中正EMBA產官學合作論壇",
+        "professor": "許嘉文",
+        "credits": 1,
+        "time": "二12",
+        "location": "創新大樓563教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081306/local_syllabus/attachment/35596/%E4%B8%AD%E6%AD%A3EMBA%E7%94%A2%E5%AE%98%E5%AD%B8%E5%90%88%E4%BD%9C%E8%AB%96%E5%A3%87.pdf",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "碩士論文寫作研討",
+        "professor": "洪新原,張碩毅",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "創新大樓565教室",
+        "type": "必修",
+        "description": "The main purpose of this course is to help students understand the fundamental nature of the scientific approach with induction and deduction logics to problem solutions.  It aims at conveying the exciting quality of the research in general and in the relevant business areas in particular.  Consequently, it will cover the problem analysis, design of research, sources and collection of data, and analysis and interpretation of data.  Further, a section of paper presentation is followed to discuss the relevant issues of research method implied in the papers.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079312/local_syllabus/attachment/35533/Syllabus_RM%28EMBA%29_2026.docx",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "碩士論文",
+        "professor": "何加政,王瑜琳,洪新原,黃劭彥,鍾憲瑞,崔曉倩,張碩毅,鄭揚耀,許嘉文,劉敏熙,賴璽方",
+        "credits": 3,
+        "time": "一13,14,15",
+        "location": "創新大樓564教室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A086_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "投資策略與管理",
+        "professor": "鄭揚耀",
+        "credits": 2,
+        "time": "日5,6",
+        "location": "創新大樓565教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077706/local_syllabus/attachment/35491/%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%AD%B8%282026%E9%AB%98%E9%9A%8E%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "公司競爭策略",
+        "professor": "許嘉文",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "創新大樓564教室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081323/local_syllabus/attachment/35598/%E5%85%AC%E5%8F%B8%E7%AB%B6%E7%88%AD%E7%AD%96%E7%95%A5.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "企業籌資",
+        "professor": "何加政,羅澤成",
+        "credits": 2,
+        "time": "日3,4",
+        "location": "創新大樓565教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076937/local_syllabus/attachment/35442/Ent2026S_SY.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "資訊策略與管理",
+        "professor": "張碩毅",
+        "credits": 2,
+        "time": "六12,13",
+        "location": "創新大樓564教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A105_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "高階主管健康管理(一)",
+        "professor": "林晉榮",
+        "credits": 1,
+        "time": "日2",
+        "location": "高爾夫練習場1",
+        "type": "選修",
+        "description": "國立中正大學管理學院-高階主管健康管理114學年度第2學期\r\n(Recreation Activity and Health Promotion for Advance Manager)\n\r\n課程大綱 (2026/01/12)\n\r\n\t林晉榮教授，運動競技系暨運動與休閒教育研究所\r\n\t電話：0929954321;(05) 272-0411轉51000;26500;email: grczrl@ccu.edu.tw\r\n________________________________________\r\n\t課程目的\r\n\t瞭解運動與健康之意義與關係\r\n\t瞭解運動休閒對健康的效益，增進運動保健之專業知識與技能\r\n\t設定與執行規律運動方案\r\n\t習得健康促進與管理之方法\r\n\t促進學生身心健康、養成規律運動及建立優質的休閒生活。\r\n________________________________________\r\n\t上課方式\r\n\t概念解說、術科學習、網路教學、媒體觀賞、分組報告、課堂自由討論等互動式教學。\r\n________________________________________\r\n\t參考書藉與資料\r\n\thttp://140.123.226.200/\r\n\t林貴福（2002）。運動與保健。冠學文化出版事業有限公司。\r\n\t林貴福（2002）。運動生理學。台北：藝軒圖書公司。\r\n\t卓俊辰（民78）。體適能—健身運動處方的理論與實際。台北：師大書苑。\r\n\t陳美燕等（民90）。健康促進與人生。台北：啟英。\r\n\tCorbin, C.B., Welk, G.J.,Corbin,W.R.,Welk,K.A.(2006). Concepts of Physical Fitness: Active Lifestyles for Wellness，USA, McGraw-Hill College.\r\n\tEgger, G., Spark, R., & Lawson, J. (1994). Health Promotion Strategies & Methods, Australia: McGraw-Hill Co. Pty Ltd.\r\n\tGlaros, T. E. (1997). Health Promotion Ideas That Work: 84 Proven Activities for the Workplace. IL: Champaign, Human Kinetics.\r\n\t課堂上另有講義、補充教材。\n\r\n________________________________________\r\n\t課程要求\r\n\t自行主動參與分組教學活動及完成各項教學任務及作業。\r\n\t參考教科書並依課程內容撰寫學習報告書。\r\n________________________________________\r\n\t評分方式\r\n\t期中考20%、期末報告30%、平時作業與單元小考30%，平常成績20%\r\n________________________________________\r\n課程表\r\n第1堂\t課程介紹\t運動與健康的概念及健康體適能的意義\r\n第2堂\t網球（網球場）\t健康體適能的要素、測量與評估\r\n第3堂\t網球（網球場）\t人體內的能量系統之機轉\r\n第4堂\t射箭（射箭場）\t身體發展與運動能力發展的特性\r\n第5堂\t射箭（射箭場）\t運動與營養\r\n第6堂\t飛盤與棒壘球\t運動處方設計：心肺適能、柔軟度、肌肉                 適能、身體組成等處方\r\n第7堂\t飛盤與棒壘球\t體重控制策略：過重與肥胖、認識運動減肥、身體組成改變\r\n第8堂\t健走&野外探索\t健康生活型態探討\r\n第9堂\t健走&野外探索\t運動傷害防護：運動傷害的評估、處理與復健\r\n第10堂\t攀岩與羽球（攀岩場）\t運動與憂鬱症和焦慮症\r\n第11堂\t攀岩與羽球（攀岩場）\t運動與老化\r\n第12堂\t壁球與健身（壁球場）\t運動與癌症\r\n第13堂\t壁球與健身（壁球場）\t運動與心血管疾病\r\n第14堂\t壁球與健身（壁球場）\t規律運動與優質生活品質\r\n第15堂\t足球與高爾夫 (體育館廣場）\t運動與健康促進休閒活動的規劃與執行\r\n第16堂\t期末評量\n\r\n\t如有調課需要，另行通知調整。\r\n\t所有作業於課程表指定日期的下次上課前五分鐘繳交，不接受遲交。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077256/local_syllabus/attachment/35466/260112%E9%AB%98%E9%9A%8E%E4%B8%BB%E7%AE%A1%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86-%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E7%84%A1%E8%A1%A8%E6%A0%BC.doc",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "企業個案分析",
+        "professor": "許嘉文",
+        "credits": 2,
+        "time": "四13,14",
+        "location": "創新大樓565教室",
+        "type": "選修",
+        "description": "本課程旨在探索這些以新經濟為基礎的公司競爭策略及創新營運模式，藉由國內外案例的探討與學習，讓學習者經由文獻閱讀、課堂參與、問題分析與個案討論等多元學習管道，了解公司創新策略發展與企業價值創新的最新發展趨勢。此外，也訓練學員參加全國EMBA個案競賽。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081314/local_syllabus/attachment/35597/%E4%BC%81%E6%A5%AD%E5%80%8B%E6%A1%88%E5%88%86%E6%9E%90.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "(專)高階主管管理碩士在職專班",
+        "name": "賽局思維與策略應用",
+        "professor": "崔曉倩",
+        "credits": 2,
+        "time": "六5,6",
+        "location": "創新大樓565教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_565A127_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    }
+]

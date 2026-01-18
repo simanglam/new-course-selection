@@ -1,0 +1,98 @@
+[
+    {
+        "id": "光機電整合工程研究所",
+        "name": "專題討論",
+        "professor": "陳永松",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "創新大樓110大型會議室(銘珠講堂)",
+        "type": "必修",
+        "description": "每週邀請各領域專家學者蒞校演講，以期開拓研究生視野，及瞭解各領域研究現況。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074275/local_syllabus/attachment/35327/2026_%E5%B0%88%E9%A1%8C%E7%A0%94%E8%A8%8E_%E6%A9%9F%E6%A2%B0%E7%B3%BB.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "光機電整合工程研究所",
+        "name": "半導體製程技術導論",
+        "professor": "賴臆升",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "工學院B館116",
+        "type": "選修",
+        "description": "本課程將介紹半導體元件的製程原理和技術。在本課程中，將詳細介紹積體電路之發展和製程的介紹。由於商業用電子元件(包含手機、車用晶片、軍事用電子元件)的大量需求，加上全球電腦和網絡建設的推進以及普及，半導體產業之發展也隨時代的推演而更加蓬勃。其中，半導體之製程更是這些元件的發展基礎。為此，本課程將提供學生針對半導體元件製程技術的相關元件設計之知識以及必備的製程技術。此外，學生將在學期末進行口頭報告。\r\nThis course will introduce the process principles and technologies of semiconductor components. In this course, the development and process of integrated circuits will be introduced in detail. Due to the large demand for commercial electronic components (including mobile phones, automotive chips, and military electronic components), coupled with the promotion and popularization of global computer and network construction, the development of the semiconductor industry has also become more vigorous with the deduction of the times. Among them, the semiconductor manufacturing process is the basis for the development of these components. To this end, this course will provide students with the knowledge of related component design and necessary process technology for semiconductor component process technology. In addition, students will give an oral presentation at the end of the semester.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074342/local_syllabus/attachment/35329/%28%E5%85%A8%E8%8B%B1%E6%96%87%E6%8E%88%E8%AA%B2%29%E8%B3%B4%E8%87%86%E5%8D%87-%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E7%A8%8B%E6%8A%80%E8%A1%93%E5%B0%8E%E8%AB%96.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "光機電整合工程研究所",
+        "name": "螢光材料",
+        "professor": "丁初稷",
+        "credits": 3,
+        "time": "二13,14,15",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "螢光材料相關之光電特性原理與應用介紹",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074330/local_syllabus/attachment/35328/%E8%9E%A2%E5%85%89%E6%9D%90%E6%96%99-%E4%B8%81%E5%88%9D%E7%A8%B7.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(4415092)光機電材料(及格)"
+    }
+]

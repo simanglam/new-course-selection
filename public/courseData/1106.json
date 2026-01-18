@@ -1,0 +1,203 @@
+[
+    {
+        "id": "中國文學研究所",
+        "name": "論文寫作指導",
+        "professor": "張日郡",
+        "credits": 1,
+        "time": "四8",
+        "location": "文學院201",
+        "type": "必修",
+        "description": "本課程專為碩士新生設計，旨在系統性培養學術寫作能力，幫助學生熟悉從研究構想到成果發表的過程。課程聚焦於研究的三大步驟：第一，確立研究方向與資料收集。學生將學習尋找與閱讀學術文獻的方法，明確研究選題，培養問題意識，並建立研究背景與理論基礎。第二，制定研究大綱與撰寫初稿。課程將指導學生應用適切的研究方法，進行跨領域的學科整合與觀點轉換，同時撰寫初稿，逐步完善論文內容的邏輯與創意。第三，修訂與投稿準備。學生將學習如何自我檢視並修訂論文，回應審稿意見，並模擬學術期刊的投稿流程，熟悉評審標準。此外，課程安排學術講座，邀請專家分享各領域之治學方法，拓展學生的學術視野。學期末將舉行成果發表會，作為學習成果的檢驗與交流平台。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026898/local_syllabus/attachment/33696/114-2%E5%AF%AB%E4%BD%9C%E6%8C%87%E5%B0%8E%E4%B8%8A%E5%82%B3%E7%89%88%E6%9C%AC.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "近代漢語語法專題",
+        "professor": "曾若涵",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "文學院202",
+        "type": "選修",
+        "description": "本課程以廣義的漢語語法（Syntax）為討論對象，所謂近代，概指宋元明清之時代範圍。課程內容依據以下進度進行：語法學理論介紹、近代漢語語法、漢語語法研究工具。教學方法上，以書報導讀、問題導向之討論為主，期待學生能透過討論與辯證，加強對近代漢語語法的認識，有助學生建立近代文學與經學文獻之研究基礎，提升發現問題的敏感度。課程期間會穿插語言學論文的寫作教學，課程最後會有專題論文的學生發表。對漢語語法探索有興趣，且對產出小論文具有動力的同學，歡迎選修。\n\r\nThis course examines Chinese grammar during the modern period, covering the Song, Yuan, Ming, and Qing dynasties. The course will follow this sequence: an introduction to grammatical theories, a study of modern Chinese grammar, and an overview of research tools for grammatical analysis. Teaching methods include guided readings and problem-oriented discussions designed to deepen students’ understanding of modern Chinese grammar through dialogue and critical inquiry. The course aims to help students establish a solid foundation for research in modern literature and classical studies, while cultivating their sensitivity to linguistic problems. Instruction on linguistic essay writing will be integrated throughout the semester, culminating in a final presentation of a research paper.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026080/local_syllabus/attachment/33664/114-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E6%89%80_%E8%BF%91%E4%BB%A3%E6%BC%A2%E8%AA%9E%E8%AA%9E%E6%B3%95%E5%B0%88%E9%A1%8C.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "經學史研究",
+        "professor": "張書豪",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院201",
+        "type": "選修",
+        "description": "經學為中國文化的核心，亦為傳統學術的主流。因此「經學史研究」的課程，在於藉由歷史演變的視野，使學生一方面學習經學的基本知識，一方面瞭解歷代經學的特色，以認識傳統學術的根源及其流衍，體會中華文化的主體價值，進而引發同學未來從事群經研究的興趣。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024045/local_syllabus/attachment/33611/%E7%B6%93%E5%AD%B8%E5%8F%B2%E7%A0%94%E7%A9%B6-114.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "現代戲劇研究",
+        "professor": "鍾欣志",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院202",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1105724_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "物質文化專題研究",
+        "professor": "毛文芳",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "文學院201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1105755_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "道家思想專題研究",
+        "professor": "陳佳銘",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "文學院202",
+        "type": "選修",
+        "description": "     本課程預計以牟宗三先生的《老子哲學演講錄》與《齊物論演講錄》，以及徐復觀先生的《中國藝術精神》的「中國藝術精神主體之呈現—莊子的再發現」，來講述老子與莊子的哲學思想。其中，將特別介紹牟宗三先生對老子的境界型態的形上學，以體會道家不生之生、不宰之宰的創生性，也就是不塞其源、不禁其性的形式的存有論。並且，亦將試圖往齊物論的知識論、道家美學，以及道家意義治療學等面向進行現代詮釋。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024036/local_syllabus/attachment/33610/114%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E6%89%80%E9%81%93%E5%AE%B6.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "東亞漢詩文專題研究",
+        "professor": "李映瑾,李知灝",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "文學院004-1室",
+        "type": "選修",
+        "description": "漢詩源自中國，唐代確立其體裁，經宋元明清至今不衰，更向海外散播，在東亞、東南亞等地形成一個漢詩的社群網絡。台灣自明末鄭氏王朝將漢詩帶入本地，經清領、日治，乃至於戰後迄今，漢詩書寫與社群迭出，更在戰後與東亞、東南亞形成漢詩社群。本課程即從這樣的視角，對東亞漢詩發展進行多方探討。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2074031/local_syllabus/attachment/35316/114%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E6%9D%B1%E4%BA%9E%E6%BC%A2%E8%A9%A9%20%281%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "與台文創應所合開。"
+    },
+    {
+        "id": "中國文學研究所",
+        "name": "故事學專題",
+        "professor": "謝明勳",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院202",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023908/local_syllabus/attachment/33600/114-2%20%20%20%20%E6%95%85%E4%BA%8B%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%20%20%20%20%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

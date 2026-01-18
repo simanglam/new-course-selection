@@ -1,0 +1,417 @@
+[
+    {
+        "id": "地球與環境科學系",
+        "name": "地球與環境科學概論（二）",
+        "professor": "趙鴻椿,郭昱廷,陳宏嘉",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "地震館302",
+        "type": "必修",
+        "description": "Week 1 Ch-12 Deep Time: How Old Is Old?\r\n    Part 1: Geological timescale, relative and numerical time, physical principles of relative age determination, the principle of fossil succession, stratigraphic correlation, and geological map.\r\nWeek 2 Ch-12 Deep Time: How Old Is Old?\r\n    Part 2: The geological column, the geological time and life, numerical age, and the age of the Earth.\r\nWeek 3 Ch-13 A Biography of the Earth\r\n    Part 1: Methods for studying the past, the biography of the Earth: starting from forming of the Earth to the age of Precambrian.\r\nWeek 4 Ch-13 A Biography of the Earth、Memories of Past Life: Fossils and Evolution\r\n    Part 2: From Paleozoic to Cenozoic. Fossils and fossilization. Extinction.\r\nWeek 5 First mid-term exam\r\nWeek 6 Ch-14 Squeezing Power from a Stone: Energy Resources\r\nWeek 7 Ch-14 Squeezing Power from a Stone: Energy Resources\r\nWeek 8 Ch-15 Riches in Rock: Mineral Resources\r\nWeek 9 Ch-15 Riches in Rock: Mineral Resources\r\nWeek 10 Second exam\r\nWeek 11 Ch-16 Unsafe Ground: Landslides and Other Mass Movements\r\nWeek 12 Ch-17 Streams and Floods: The Geology of Running Water\r\nWeek 13 Ch-18 Restless Realm: Oceans and Coasts \r\n                   Ch-19 A Hidden Reserve: Groundwater \r\nWeek 14 Ch-20 An Envelope of Gas: The Earth’s Atmosphere and Climate \r\n                  Ch-21 Dry Regions: The Geology of Deserts\r\nWeek 15 Ch-22 Amazing Ice: Glaciers and Ice Ages \r\n                  Ch-23 Global Change in the Earth System\r\nWeek 16 Third exam",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046641/local_syllabus/attachment/34183/%E5%9C%B0%E7%90%83%E8%88%87%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "85",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地球與環境科學概論實習（二）",
+        "professor": "葉玉蓮",
+        "credits": 1,
+        "time": "二E,F",
+        "location": "數學館106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046678/local_syllabus/attachment/34184/Syllubus_20252_spring_semester.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "限本系生修.限本系學生修(大一學號「雙號」)，於加退選期間開放外系學生選修"
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地球與環境科學概論實習（二）",
+        "professor": "葉玉蓮",
+        "credits": 1,
+        "time": "五C,D",
+        "location": "數學館106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046695/local_syllabus/attachment/34185/Syllubus_20252_spring_semester.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "限本系生修.限本系學生修(大一 學號「單號」)，於加退選期間開放外系學生選修"
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "應用力學",
+        "professor": "陳映年",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "地震館102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046815/local_syllabus/attachment/34188/%E6%87%89%E7%94%A8%E5%8A%9B%E5%AD%B8.doc",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "構造地質學",
+        "professor": "李元希",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "地震館302",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046874/local_syllabus/attachment/34190/2352012%E6%A7%8B%E9%80%A0%E5%9C%B0%E8%B3%AA%E5%AD%B8%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "85",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地震導論",
+        "professor": "温士忠",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "地震館102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046727/local_syllabus/attachment/34187/2352014%E5%9C%B0%E9%9C%87%E5%B0%8E%E8%AB%96%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地理資訊系統",
+        "professor": "鄭凱謙",
+        "credits": 3,
+        "time": "五E,F",
+        "location": "地震館305",
+        "type": "選修",
+        "description": "介紹地理資訊系統(Geographical Information System, GIS)的定位、歷史、發展，探討在地球科學與環境科學上的應用",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046956/local_syllabus/attachment/34192/26_GIS_syllabus.pdf",
+        "targetGrade": "2",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "程式設計",
+        "professor": "呂學諭",
+        "credits": 3,
+        "time": "一G 三G",
+        "location": "地震館302",
+        "type": "必修",
+        "description": "This course is intended to be a beginning course in programming and numerical computing with C++, which is supported by enormous subroutines for scientific programming.  There is no prerequisite for this course but students should have basic experiences in computer operations. Students will be able to use program design to develop and implement computer-based solutions to problems after complete this course.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046827/local_syllabus/attachment/34189/syllabus_cht.docx",
+        "targetGrade": "2",
+        "capacity": "85",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "光性礦物學",
+        "professor": "李元希",
+        "credits": 2,
+        "time": "三12,13",
+        "location": "地震館304",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047008/local_syllabus/attachment/34193/2352028%E5%85%89%E6%80%A7%E7%A4%A6%E7%89%A9%E5%AD%B8.doc",
+        "targetGrade": "2",
+        "capacity": "28",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "大地測量",
+        "professor": "鄭凱謙",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "地震館107",
+        "type": "選修",
+        "description": "介紹大地測量及測量學的定位與發展沿革，探討大地測量學與地球科學其他學門的關係",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047051/local_syllabus/attachment/34196/26_Geodesy_syllabus.pdf",
+        "targetGrade": "3",
+        "capacity": "24",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "環境化學",
+        "professor": "范誠偉",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "地震館302",
+        "type": "必修",
+        "description": "普通化學\r\n環境生態學",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2353006_01",
+        "targetGrade": "2",
+        "capacity": "85",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地球物理探勘",
+        "professor": "陳宏嘉",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "地震館301",
+        "type": "選修",
+        "description": "教授各種地球物理探勘的方法及應用。包含反射震測、折射震測、重力測勘、磁力測勘、地電阻測勘、大地電磁測勘...等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047093/local_syllabus/attachment/34197/114-2%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%8E%A2%E5%8B%98%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%AE%8F%E5%98%89.pdf",
+        "targetGrade": "3",
+        "capacity": "38",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "機器學習",
+        "professor": "呂學諭",
+        "credits": 3,
+        "time": "一E 三E",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "There are two cores in this course: 1. To learn coding with Python. 2. To learn mathematical fundamentals of machine learning. Both cores will be applied on processing data in the environmental sciences.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047032/local_syllabus/attachment/34195/syllabus_cht.docx",
+        "targetGrade": "3",
+        "capacity": "28",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "地球化學",
+        "professor": "趙鴻椿",
+        "credits": 3,
+        "time": "一G 三G",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "介紹並讓學生瞭解元素在宇宙、太陽系與地球中的分佈與分化行為。\n\r\n第一週：Course overview\r\n第二週：The properties of elements (I)\r\n第三週：The properties of elements (II)\r\n第四週：Crystal chemistry (I): Atmoic structure\r\n第五週：Crystal chemistry (II): Chemical bonding\r\n第六週：Mass conservation and elemental fractionation\r\n第七週：Element transport\r\n第八週：Geochemical systems\r\n第九週：Mid-term exam\r\n第十週：The Earth’s aggregate physical and chemical state\r\n第十一週：The Earth in the solar system\r\n第十二週：The solid Earth\r\n第十三週：Chemistry of igneous rocks (I)\r\n第十四週：Chemistry of igneous rocks (II)\r\n第十五週：Chemical controls on soil formation and diagenesis\r\n第十六週：Chemical controls on metamorphism and hydrothermal ore deposition\r\n第十七週：The element barn\r\n第十八週：Final exam\n\r\n評分：作業：25 ％、考試：75 ％。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2353048_01",
+        "targetGrade": "3",
+        "capacity": "28",
+        "memo": ""
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "專題研究（二）",
+        "professor": "温怡瑛",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "地震館304",
+        "type": "選修",
+        "description": "1.\t若同學第一次選修專題，則請同學自行與系上老師討論，選擇一位老師為專題指導老師，並與指導老師討論後決定專題研究方向。教導學生如何從事專題研究，包含相關論文期刊之收集和閱讀、相關資料之收集、實際進行分析研究、以及撰寫報告等。\r\n2.\t若同學上學期已修過專題(一)，則這次可延續上學期題目或換題目進行。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061727/local_syllabus/attachment/34784/%E5%B0%88%E9%A1%8C-%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-12.26.2025.pdf",
+        "targetGrade": "3",
+        "capacity": "28",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "地球與環境科學系",
+        "name": "石油地質",
+        "professor": "吳榮章",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "地震館102",
+        "type": "選修",
+        "description": "講授業界有關石油及天然氣探勘、開發及生產之專業知識與技能，從油氣工業簡介到石油及天然氣探勘、開發及生產導論談起,並進入油氣特性及分析、有機地球化學分析及生油岩評估、地球化學測勘及應用、含油氣盆地油氣賦存與沉積、大地構造與盆地分析及其應用、儲集層分析、蓋層、上覆地層與封閉、礦區石油系統分析、野外地質調查及測勘作業、石油駐井地質及電測、地球物理測勘及應用、礦區經濟評估、油氣田生產地質、油層開發評估、油氣田鑽井、開發及生產、整合解析等專業講授與討論,讓學生學會有關石油及天然氣探勘、開發及生產之各項專業知識與技能，以具備進入國內或國外石油公司工作之基礎知識及專業技術能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047144/local_syllabus/attachment/34199/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_112%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8.docx",
+        "targetGrade": "4",
+        "capacity": "55",
+        "memo": ""
+    }
+]

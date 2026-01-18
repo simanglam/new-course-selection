@@ -1,0 +1,574 @@
+[
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "孫佳宏",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院107",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042618/local_syllabus/attachment/34075/114S2%20course%20outline%20ECON.pdf",
+        "targetGrade": "1",
+        "capacity": "125",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "沈豪斌",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院336",
+        "type": "必修",
+        "description": "While the first economics course zooms in on how individuals and businesses make decisions, Macroeconomics zooms out to look at the economy as a massive, interconnected machine.\r\nThis course explores how the national economy works, why it sometimes crashes, and what governments can (and cannot) do to fix it. It is less about the price of a single apple and more about the price of everything across the country.\r\nKey Questions You Will Answer\r\nInstead of memorizing complex formulas, this course focuses on understanding the forces that affect our daily lives:\r\n•\tThe Business Cycle: Why does the economy have \"boom\" years where everyone is hiring, followed by \"bust\" years (recessions) where jobs are scarce?\r\n•\tInflation: Why does a dollar buy less today than it did 10 years ago? Is falling prices actually a good thing?\r\n•\tUnemployment: What does the unemployment rate actually measure? Why is there always some unemployment, even in good times?\r\n•\tGovernment Policy: When the government cuts taxes or the Central Bank changes interest rates, how does that actually ripple through the banking system to your wallet?\r\n•\tGlobal Trade: How do exchange rates work, and what does it mean when a country has a \"trade deficit\"?\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042696/local_syllabus/attachment/34076/2026%20Spring%205101002%20Principles%20of%20Economics%20II%20AACSB%20syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援數學系經濟學系一年級A班B班;財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "許毓珊",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院120",
+        "type": "必修",
+        "description": "This course is designed for students with a basic understanding of principles of economics. By the end of course, students are expected to learn the principles of economics, which is split between the study of microeconomics, focusing on the decision making of individual consumers and firms and macroeconomics with focuses on aggregate level economic questions such as GDP, CPI, interest rates, government spending, among others. Moreover, we also try to train students to understand business ethical issues.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042727/local_syllabus/attachment/34077/AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29-11402%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%8E%9F%E7%90%86%E4%BA%8C.pdf",
+        "targetGrade": "1",
+        "capacity": "120",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援財務金融學系一年級A班B班;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "孫佳宏",
+        "credits": 3,
+        "time": "一8,9 三8,9",
+        "location": "管理學院114",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042738/local_syllabus/attachment/34078/114S2%20course%20outline.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援企業管理學系一年級A班B班;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "陳和全",
+        "credits": 3,
+        "time": "二4,5 四4,5",
+        "location": "創新大樓164",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5101002_05",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)支援會計與資訊科技學系一年級A班B班;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "經濟學原理（二）",
+        "professor": "翁世芳",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院320",
+        "type": "必修",
+        "description": "This course will introduce market structures and  basic principles of Macroeconomics. Students can learn from this course of 1. how GDP is formed; 2. how a country can increase its GDP; 3. the relation between human capital and GDP; 4. how a government's fiscal policies and monetary policies affect the growth of GDP; 5. why  unemployment and inflation  are inevitable in any economy; 6. how to manage the unemployment rate within the socially acceptable range; and 7. the trade off between a reasonable inflation rate and unemployment rate.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042839/local_syllabus/attachment/34080/Principles%20of%20Economics%282%29.pdf",
+        "targetGrade": "1",
+        "capacity": "24",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "個體經濟學（二）",
+        "professor": "唐孟祺",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院426會議室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102102_01",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "個體經濟學（二）",
+        "professor": "陳偉智",
+        "credits": 3,
+        "time": "一4,5 三4,5",
+        "location": "管理學院105",
+        "type": "必修",
+        "description": "This course examines the decision makings of consumers and firms, and how resources are allocated in different market structures. In Microeconomics II, we will look into the cost minimization problem, monopoly, oligopoly, and game theory. You will need to understand a basic level of algebra and calculus to follow the lectures and do the problem sets.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044228/local_syllabus/attachment/34113/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%81%89%E6%99%BA_%E5%80%8B%E9%AB%94%E7%B6%93%E6%BF%9F%E5%AD%B8II.pdf",
+        "targetGrade": "2",
+        "capacity": "65",
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "總體經濟學（二）",
+        "professor": "馮立功",
+        "credits": 3,
+        "time": "一9 三7,8,9",
+        "location": "管理學院105",
+        "type": "必修",
+        "description": "本課程的教學目標是延續「總體經濟學（一）」課程之後，介紹總體經濟學其他相關議題的發展與應用，俾使學生對總體經濟問題形成的原因以及解決之道，有更完整的認識。主要討論範圍大致可分為（1）經濟成長模型：包括新古典成長模型與內生成長模型。（2）總體經濟學的個體基礎方面：諸如，消費、投資、貨幣需求以及貨幣供給之分別討論，有助於進一步了解總合需求之各組成要件的決定與影響。（3）跨期模型的介紹：介紹消費與投資的跨期選擇，以及跨期均衡等。（4）政策制定問題：諸如，最適貨幣回饋法則的決定、理性預期與Lucas’ Critique、法則抑或權衡、以及政策的時間不一致問題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044120/local_syllabus/attachment/34110/114.2%E7%B8%BD%E7%B6%93%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "總體經濟學（二）",
+        "professor": "許毓珊",
+        "credits": 3,
+        "time": "一2,3 三2,3",
+        "location": "管理學院107",
+        "type": "必修",
+        "description": "本課程延續「總體經濟學（一）」課程內容，介紹總體經濟學其他相關議題的發展與應用，俾使學生對總體經濟問題形成的原因以及解決之道，有更完整的認識。主要討論範圍大致可分為（1）經濟成長模型：包括新古典成長模型與內生成長模型。（2）總體經濟學的個體基礎方面：諸如，消費、投資、貨幣需求以及貨幣供給之分別討論，有助於進一步了解總合需求之各組成要件的決定與影響。（3）跨期模型的介紹：介紹消費與投資的跨期選擇，以及跨期均衡等。（4）政策制定問題：諸如，最適貨幣回饋法則的決定、理性預期與Lucas’ Critique、法則抑或權衡、以及政策的時間不一致問題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044133/local_syllabus/attachment/34111/%E7%B8%BD%E9%AB%94%E4%BA%8C-11402.pdf",
+        "targetGrade": "2",
+        "capacity": "125",
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "統計學（二）",
+        "professor": "李偉銘",
+        "credits": 3,
+        "time": "二4,5 四4,5",
+        "location": "管理學院105",
+        "type": "必修",
+        "description": "統計學為學習計量經濟學、從事經濟實證分析、與數據分析的重要基礎，因此本課程延續統計學 (一) 的課程以提供學生正確的機率與統計概念，並加強學生推導與證明各估計式與檢定統計量之統計性質的能力，以使學生有良好的基礎來學習計量經濟學、從事經濟實證分析、與數據分析。本課程將會應用極限的概念 (與簡單的微分與積分)，因此對微積分有基本的瞭解為學習本課程的基本要求。此外，本課程要求之先修課程為經濟學系開設之統計學 (一)，未曾修習該課程者請勿修習本課程。本課程上課教室為管理學院 105 教室，其可容納的最適上課人數為 60 人，故本課程不提供加簽。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2044276/local_syllabus/attachment/34114/SII-syllabus2026.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技學系不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "統計學（二）",
+        "professor": "曾富民",
+        "credits": 3,
+        "time": "二4,5 四4,5",
+        "location": "管理學院106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102302_02",
+        "targetGrade": "2",
+        "capacity": "80",
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)財務金融學系不得選修,企業管理學系不得選修,會計與資訊科技研究所不得選修,資訊管理學系不得選修;"
+    },
+    {
+        "id": "經濟學系",
+        "name": "管制經濟學",
+        "professor": "陳和全",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "管理學院106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5102401_01",
+        "targetGrade": "2",
+        "capacity": "80",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "勞動經濟學",
+        "professor": "黃維喬",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103110_01",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "產業經濟學",
+        "professor": "崔曉倩",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103160_01",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "先修科目(5102101)個體經濟學（一）(曾經修習)(5102102)個體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "高等統計學（二）",
+        "professor": "李偉銘",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "統計學為學習計量經濟學、從事經濟實證分析、與數據分析之重要基礎，因此本課程將從數學的角度更深入地探討同學們於大二所修習之統計學 (二)的內容 (統計學 (一) 的內容已於上學期的高等統計學 (一) 中探討)。其主要目的在於提供學生 (i) 正確的機率與統計概念; 與 (ii) 推導與證明機率與統計性質的能力; 與 (iii) 統計推論 (估計與假設檢定) 的理論基礎，以使學生有良好的基礎來學習計量經濟學、從事經濟實證分析、與數據分析。本課程將有許多的推導與證明，其中會應用極限的概念與基本的微分與積分 (包含雙重積分及其變數轉換技巧)，因此對微積分有基本的瞭解為學習本課程的基本要求。此外，曾經修習經濟學系開設之統計學 (一) 與統計學 (二) 亦為學習本課程的基本要求。未曾修習上述課程者請勿修習本課程，未曾修習高等統計學 (一)者，亦不建議修習本課程。本課程上課教室為管理學院 320 教室，其可容納的最適上課人數為 24 人，故本課程不提供加簽。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045188/local_syllabus/attachment/34131/MSII-syllabus2026.pdf",
+        "targetGrade": "3",
+        "capacity": "24",
+        "memo": "先修科目(5102301)統計學（一）(曾經修習)(5102302)統計學（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "計量經濟學（二）",
+        "professor": "賴宏彬",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "管理學院336",
+        "type": "選修",
+        "description": "This course introduces the econometric analysis of conditional models and applications of the models. The lecture will focus on discussion of empirical econometric issues and methods. Students will also learn how to use STATA to conduct the empirical analysis.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045207/local_syllabus/attachment/34132/UGECM_2_syllabus.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5103311)計量經濟學（一）(曾經修習)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "數理經濟學(二)",
+        "professor": "陳怡妏",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "This course covers the topics of mathematical theorems and methods that are related to economics. The objective of this course is that students need to know how to apply those mathematical knowledge and techniques in learning related economics courses, e.g. microeconomics, macroeconomics, and econometrics.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045275/local_syllabus/attachment/34134/Syllabus_Mathematical%20Economics%20%28II%29.pdf",
+        "targetGrade": "3",
+        "capacity": "24",
+        "memo": "先修科目(5103362)數理經濟學(一)(曾經修習)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "國際金融理論與政策（一）",
+        "professor": "歐陽溥蔓",
+        "credits": 3,
+        "time": "一8,9 三8,9",
+        "location": "管理學院106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5103501_01",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "國際金融理論與政策（一）",
+        "professor": "鄧氏霞妝",
+        "credits": 3,
+        "time": "二7,8,9 四7",
+        "location": "管理學院105",
+        "type": "必修",
+        "description": "This course is an undergraduate-level course in international trade and open-economy macroeconomics. It focuses on the theoretical foundations of international economic interactions in an open economy setting. Topics include national income accounting and the balance of payments; exchange rate determination and foreign exchange markets; money and interest rates; short-run and long-run exchange rate dynamics; exchange rate regimes; and international monetary systems.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045149/local_syllabus/attachment/34130/114-2-5103501_02.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5102201)總體經濟學（一）(曾經修習)(5102202)總體經濟學（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "財政學",
+        "professor": "洪以儒",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": "Public finance focuses on the government’s activities and the associated economic effects. We first start by understanding why government should exist. The discussion also includes the government’s activities—purchasing goods and services, investing, and transferring payments. These topics are covered in Public Economics in the Fall semester.\n\r\nThis course centers on the revenue side of a government—how a government pays for its activities, especially on taxation. Government activities can be achieved through taxes, debts, asset transfers, public enterprise operations, seigniorage, and other means. The choice of a government financing means would affect the efficiency of markets, consumption, and the formation and distribution of income and wealth. \n\r\nWe will start by discussing the tax analysis framework, mainly on tax incidence analyses. The second part of this course will introduce each of the main tax systems, including (1) the theory of income taxation, (2) the taxation of corporate income, (3) taxes on consumption and sales, and the taxes on wealth and property.\n\r\nWhile proceeding in a traditional lecture style, this course will incorporate many discussions on relevant public policy issues. Both international and domestic issues may be used as supplemental materials in classes. Summarizing the relevant issues and/or policies and presenting your thoughts and analyses will be required. Moreover, class participation is emphasized, and students will be evaluated based on their class engagement (asking and answering questions in class and group presentation).",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期中報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045300/local_syllabus/attachment/34135/syllabus_s2026.pdf",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "投資學",
+        "professor": "郭芳彰",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045237/local_syllabus/attachment/34133/syllabus.pdf",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "先修科目(5101002)經濟學原理（二）(曾經修習)(5101001)經濟學原理（一）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "經濟學系",
+        "name": "高效職場文書與報表處理能力養成",
+        "professor": "李明青",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "管理學院107",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5104912_01",
+        "targetGrade": "4",
+        "capacity": "125",
+        "memo": ""
+    },
+    {
+        "id": "經濟學系",
+        "name": "淨零排放概論",
+        "professor": "劉文献,郭鴻儀,許又仁",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院322",
+        "type": "選修",
+        "description": "本課程旨在鼓勵選修學員由法律遵行、企業組織治理、企業實踐案例、淨零排放目標達成之成本與效益分析等面向，進行跨領域知識構面整合，並提供淨零分析所需的入門知識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045525/local_syllabus/attachment/34147/114-2%20NZ%20Syllabus.pdf",
+        "targetGrade": "4",
+        "capacity": "22",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(所有先修條件都必須符合)"
+    }
+]

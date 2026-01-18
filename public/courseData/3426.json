@@ -1,0 +1,132 @@
+[
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "國際政治經濟",
+        "professor": "楊志和,趙文志",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "社科院二館606",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077124/local_syllabus/attachment/35452/IPE%20Syllabus-2026-%E5%B0%88%E7%8F%AD.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "碩士論文（一）",
+        "professor": "楊志和,林泰和,蔡育岱,趙文志,邱昭憲",
+        "credits": 3,
+        "time": "日3,4,5",
+        "location": "社科院二館607",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A012_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(342A015)社會科學方法論(及格)限本系生修."
+    },
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "碩士論文（二）",
+        "professor": "楊志和,林泰和,蔡育岱,趙文志,邱昭憲",
+        "credits": 3,
+        "time": "日7,8,9",
+        "location": "社科院二館607",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A013_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(342A012)碩士論文（一）(及格)限本系生修."
+    },
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "社會科學方法論",
+        "professor": "林泰和,邱昭憲",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "社科院二館607",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A015_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "策略規劃與問題解決",
+        "professor": "宋學文,邱昭憲",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "社科院二館606",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_342A022_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "(專)戰略暨國際事務研究所戰略暨國家安全碩士在職專班",
+        "name": "國家安全實務與演練",
+        "professor": "蔡育岱",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "社科院二館607",
+        "type": "選修",
+        "description": "本課程旨在讓本所學生能從多元的視野瞭解戰略暨國家安全。開課教師授課的部份，將補充安全研究相關的理論知識，配合專班同學工作業務上的實務分享，讓大家對於國家安全在實務與運作層面上有進一步的理解。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079402/local_syllabus/attachment/35541/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AF%A6%E5%8B%99%E8%88%87%E6%BC%94%E7%B7%B4.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修."
+    }
+]

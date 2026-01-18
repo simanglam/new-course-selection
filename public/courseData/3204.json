@@ -1,0 +1,517 @@
+[
+    {
+        "id": "勞工關係學系",
+        "name": "民法概論",
+        "professor": "李玉春",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "社科院258",
+        "type": "必修",
+        "description": "民法係規範私人間權利義務關係之主要法律。本課程包含對於民法基本概念之介紹，使非法律相關科系學生對民法之體系與規範內容有基本認識。並藉由實際案例之分析，培養學生法律邏輯思考之能力，以使修課同學習得法律人之思考方法。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062142/local_syllabus/attachment/34807/%E4%B8%AD%E6%AD%A3%E5%8B%9E%E5%B7%A5%20114-2%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%9A%E6%B0%91%E6%B3%95%E6%A6%82%E8%AB%96.docx",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": "先修科目(3201001)勞工關係(曾經修習)"
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "人力資源管理",
+        "professor": "黃文柔",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "社科院258",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062188/local_syllabus/attachment/34809/113-2%20%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86-%E9%BB%83%E6%96%87%E6%9F%94%E8%80%81%E5%B8%AB.docx",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "個體經濟學",
+        "professor": "吳啓新",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院258",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062169/local_syllabus/attachment/34808/11402%E5%80%8B%E9%AB%94%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞動市場與就業專題討論",
+        "professor": "林淑慧",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院326",
+        "type": "選修",
+        "description": "本課程的目的在以全球化產業與勞動力變動的趨勢，探討當前台灣不同勞動力族群所面對的勞動市場概況和需要面對與克服的挑戰。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062245/local_syllabus/attachment/34810/114-2%E5%8B%9E%E5%8B%95%E5%B8%82%E5%A0%B4%E5%B0%88%E9%A1%8C%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(3201003)經濟學(曾經修習)"
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "就業諮商與輔導",
+        "professor": "朱柔若",
+        "credits": 3,
+        "time": "五1,2,3",
+        "location": "社科院328",
+        "type": "選修",
+        "description": "This course introduces students to the foundations, theories, and practices of employment counseling and career guidance in a global and digital context. Students will explore both the job seeker's perspective (self-understanding, employability, adaptability) and the counselor's perspective (assessment, interview techniques, ethics). Through a bilingual EMI approach, students will practice English communication for professional settings and apply career counseling concepts creatively.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062269/local_syllabus/attachment/34811/2026%E4%B8%8A%E5%8B%9E%E5%B7%A5%E7%B3%BBEMI%E8%AA%B2%E7%A8%8B%E9%80%B2%E5%BA%A6%E8%A1%A8~%E5%B0%B1%E6%A5%AD%E8%AB%AE%E5%95%86%E8%88%87%E8%BC%94%E5%B0%8E.pdf",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞動基準法",
+        "professor": "楊通軒",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "社科院258",
+        "type": "必修",
+        "description": "1.本課程主要在針對勞基法的內容加以介紹，希望能幫助學生建立一體系感。\r\n2. 除了理論之外，將會大量地引用國內各級法院有關勞工法案例之判決、以及行政機關之解釋，以訓練學生處理勞工法案件之能力。\r\n3.由於勞動法的範圍廣泛，除了國內的勞動法外，國際的勞動法（尤其是國際勞工組織的公約）亦有值得借鏡之處。故擬一併介紹。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期中報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062375/local_syllabus/attachment/34814/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E5%9F%BA%E6%B3%95%28114%E4%B8%8B%E5%AD%B8%E6%9C%9F%29.docx",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞工保險理論與實務",
+        "professor": "丁文卿",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "社科院329",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062390/local_syllabus/attachment/34815/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E5%8B%9E%E5%B7%A5%E4%BF%9D%E9%9A%AA%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%283202030%29-Ting.pdf",
+        "targetGrade": "2",
+        "capacity": "30",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "就業安全理論與實務",
+        "professor": "周玟琪",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "社科院326",
+        "type": "選修",
+        "description": "失業問題已成為台灣重大的社會議題。身為勞工所的學生，除了對問題的本質宜有所瞭解，更值得好好培養與提昇自己的專業知識與能力，進而成為台灣就業安全服務輸送的主力之一。本課程鑑於目前台灣就業服務專業人力的不足，希望能培養我們的學生一方面強化失業與就業的專業、理論知識，另外，也將把老師們的實務經驗傳授給學生，希望在學習過程中，也協助同學累積自己未來的就業能力 (Employ-ability)與研究能力 (Research- ability)。\n\r\n本課程鼓勵同學除了學習基礎、理論性知識外，藉以擴深自己對問題的認識。並能藉著政策、實務層次知識的瞭解與掌握，培養自己對台灣就業安全政策理解、規劃及改革的能力。三個層次的知識，將會視實際需要，進行適當的組合。\n\r\n主題一：全球化經濟與失業問題\r\n1.全球化的概念與發展趨勢\r\n(1) 何謂全球化，各家的說法\r\n\t(2) 全球化與國際化、本土化的關連\r\n\t(3) 台灣如何受到全球化經濟與自由貿易協定簽署之影響\r\n2.全球化與各國失業問題的出現\r\n\t(1) 勞動市場結構的轉變？\r\n\t(2) 勞動市場的兩極化發展？\r\n\t(3) 失業問題的社會學及政治經濟學分析\r\n    (4) 台灣的失業問題\r\n3.全球化與就業安全制度的規劃與設計 \r\n\t(1) 經濟變遷趨勢下的就業安全制度\r\n(2) 失業給付、就業服務、職業訓練與就業促進\r\n(3) 何謂積極性勞動市場政策？\r\n\t(4) 何謂工作福利？工作與福利宜如何連結？是否應該連結？\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062291/local_syllabus/attachment/34813/%E5%91%A8%E7%8E%9F%E7%90%AA%E8%80%81%E5%B8%AB%E5%A4%A7%E5%AD%B8%E9%83%A8__%E5%B0%B1%E6%A5%AD%E5%AE%89%E5%85%A8%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99114-2.docx",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "統計學",
+        "professor": "王安祥",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "社科院258",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062278/local_syllabus/attachment/34812/%E7%B5%B1%E8%A8%88%E5%AD%B8%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_new.pdf",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞動經濟學",
+        "professor": "吳啓新",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "社科院258",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062465/local_syllabus/attachment/34819/11402%E5%8B%9E%E5%8B%95%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞工政策",
+        "professor": "吳育仁",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "社科院115",
+        "type": "必修",
+        "description": "勞工政策課程從以下四個面向切換視角：\r\n規範面向（法律層面）： 包含《勞基法》、職業安全衛生、集體勞動權（工會法）。\r\n經濟面向（市場層面）： 包含最低工資調整、產業轉型下的勞動力供需、就業保險。\r\n社會面相（福利層面）： 包含勞保年金改革、工作與生活平衡、弱勢族群就業促進。\r\n前瞻面向（趨勢層面）： 包含 AI 自動化衝擊、遠距上班、平台經濟者（外送員）就業。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062404/local_syllabus/attachment/34816/2023-9%E5%8B%9E%E5%8B%95%E9%83%A8%E6%A5%AD%E5%8B%99%E5%A0%B1%E5%91%8A.pdf",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "國際勞工運動",
+        "professor": "吳育仁",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "社科院119",
+        "type": "選修",
+        "description": "本課程旨在帶領學生深入探索全球化浪潮下的勞動權益變革，核心目的有三：\n\r\n(一)\t奠定理論基石：課程將系統性地介紹國際勞工運動發展的多元理論，包括馬克思主義、多元主義及社會運動聯盟等架構。透過理論分析，學生能理解勞工組織如何從地方性的職業工會，演變為具備跨國影響力的社會行動者，並反思資本主義擴張對勞動本質的影響\r\n(二)\t解構歷史與政經結構：我們探討在全球化政治經濟架構下，勞工運動形成的歷史脈絡。課程將解析新自由主義、跨國供應鏈轉移以及國際組織（如 ILO、WTO）對各國勞動政策的衝擊，幫助學生釐清國際勞工運動如何在資本跨國流動的夾縫中，尋求制度性的突破。\r\n(三)\t實踐數位時代的發掘與批判：因應科技演進，本課程特別強調透過網際網路與新媒體工具，即時追蹤當前的勞權案例。學生將學習如何利用數位平台發掘國際勞工運動的最新目的、核心價值、抗爭策略及其具體成效。從社群媒體上的跨國連署到數位零工經濟的勞權爭取，本課程致力於培養學生具備敏銳的社會觀察力，成為具備國際視野的勞動議題專家。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062421/local_syllabus/attachment/34817/2026%E5%9C%8B%E9%9A%9B%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "績效考核與管理",
+        "professor": "李育憶",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "社科院326",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062505/local_syllabus/attachment/34820/%E7%B8%BE%E6%95%88%E8%80%83%E6%A0%B8%E8%88%87%E7%AE%A1%E7%90%86%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E5%AD%B8%E5%A3%AB%E7%8F%AD-%E6%9D%8E%E8%82%B2%E6%86%B6.docx",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "全球化與勞動",
+        "professor": "馬財專",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院509",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3203050_01",
+        "targetGrade": "3",
+        "capacity": "41",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "國際人力資源管理",
+        "professor": "陳彥君",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "社科院326",
+        "type": "選修",
+        "description": "本課程旨在介紹有關國際人力資源管理之理論、實務概況、企業環境之知識，並培養學生思考及解決問題的能力。課程內容包含國際企業的員工招募、訓練、績效管理、外派等議題，並加入國際企業和時事，讓學生更了解國際企業和相關職場問題，以拓展學生之國際視野。\r\n[114-2將與美國大學以線上合作進行期中報告，並安排2場實務講座]\r\n課程大綱和注意事項以新版ppt為主。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062560/local_syllabus/attachment/34824/114%20%E5%9C%8B%E9%9A%9B%E4%BA%BA%E7%AE%A1_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "勞保給付、爭議與救濟",
+        "professor": "楊通軒",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "社科院326",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062433/local_syllabus/attachment/34818/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E4%BF%9D%E7%B5%A6%E4%BB%98%E7%88%AD%E8%AD%B0%28%E4%B8%AD%E6%AD%A3114%E4%B8%8B%E5%AD%B8%E6%9C%9F%29.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "量化研究方法",
+        "professor": "陳彥君",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院329",
+        "type": "必修",
+        "description": "本課程主要是讓大學生了解基本的研究方法概念，並針對社會中勞資關係與人力資源管理的議題，進行診斷和提問，進而撰寫研究提案。本課將協助學生了解如何執行一個研究的流程，包含具體的文獻閱讀和整理，以及量化的研究方法。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062542/local_syllabus/attachment/34822/114-2%20%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29_new.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "先修科目(3203001)集體協商(及格)(3203041)社會科學統計應用(及格)(3203031)勞資爭議處理(及格)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)"
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "質化研究方法",
+        "professor": "丁文卿",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "社科院329",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062533/local_syllabus/attachment/34821/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E8%B3%AA%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%283203069%29-Ting.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "先修科目(3203001)集體協商(曾經修習)(3203041)社會科學統計應用(曾經修習)(3203031)勞資爭議處理(曾經修習)(所有先修條件都必須符合)「量化研究方法」及「質化研究方法」(二選一)"
+    },
+    {
+        "id": "勞工關係學系",
+        "name": "量化資料分析與解讀",
+        "professor": "林淑慧",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "社科院312",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062581/local_syllabus/attachment/34825/114-2%E5%AD%B8%E5%A3%AB%E7%8F%AD%E9%87%8F%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E8%88%87%E8%A7%A3%E8%AE%80.pdf",
+        "targetGrade": "3",
+        "capacity": "12",
+        "memo": "先修科目(3202037)統計學(曾經修習)(3203041)社會科學統計應用(曾經修習)(所有先修條件都必須符合)"
+    }
+]

@@ -1,0 +1,433 @@
+[
+    {
+        "id": "語言中心",
+        "name": "入門日語發音與字詞",
+        "professor": "王慈敏",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "語言中心語言教室226",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076009/local_syllabus/attachment/35409/%E5%85%A5%E9%96%80%E6%97%A5%E8%AA%9E%E7%99%BC%E9%9F%B3%E8%88%87%E5%AD%97%E8%A9%9E1142%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "1)本課程適級程度為「日語入門」；2)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選；需自行留意篩選結果；3)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；4)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。(Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test.)"
+    },
+    {
+        "id": "語言中心",
+        "name": "入門華語（二）",
+        "professor": "陳欣徽",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "語言中心語言教室011",
+        "type": "選修",
+        "description": "This course will\r\n1. introduce Hanyu Pinyin as a learning tool of Chinese pronunciation.\r\n2. help beginners build and practice Chinese pronunciation and Chinese characters.\r\n3. focus on four language skills, which include listening, reading, speaking and writing.\r\n4. build up students’ ability to complete communicational tasks.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076095/local_syllabus/attachment/35413/Spring2026Syllabus-Chinese%20for%20Beginners%20%28II%29%20%E5%85%A5%E9%96%80%E8%8F%AF%E8%AA%9E%28%E4%BA%8C%29_Tue%2020251227.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "This course will\r\n1. introduce Hanyu Pinyin as a learning tool of Chinese pronunciation.\r\n2. help beginners build and practice Chinese pronunciation and Chinese characters.\r\n3. build up basic vocabulary and phrases, such as greetings and self-introduction, common expression for daily interactions, and numbers, days of the week, and simple questions, etc."
+    },
+    {
+        "id": "語言中心",
+        "name": "基礎日語實用聽說（一）",
+        "professor": "王慈敏",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "語言中心語言教室225",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076036/local_syllabus/attachment/35410/1142%E5%9F%BA%E7%A4%8E%E6%97%A5%E8%AA%9E%E5%AF%A6%E7%94%A8%E8%81%BD%E8%AA%AA%E4%B8%80.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「日語基礎」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選；需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。(Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test.)"
+    },
+    {
+        "id": "語言中心",
+        "name": "基礎日語實用聽說（二）",
+        "professor": "王慈敏",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "語言中心語言教室225",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076062/local_syllabus/attachment/35411/1142%E5%9F%BA%E7%A4%8E%E6%97%A5%E8%AA%9E%E5%AF%A6%E7%94%A8%E8%81%BD%E8%AA%AA%E4%BA%8C.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「日語基礎」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選；需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。(Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test.)"
+    },
+    {
+        "id": "語言中心",
+        "name": "基礎華語（二）",
+        "professor": "陳欣徽",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "語言中心語言教室011",
+        "type": "選修",
+        "description": "This course will\r\n1. focus on four language skills, which include listening, reading, speaking and writing.\r\n2. help students make basic conversations of daily living such as exchanging personal information, talking about food and drink, locations and positions, time, transportation, leisure and the appearance of people and things, etc.\r\n3. build up students’ ability to fulfill a communicational task.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076142/local_syllabus/attachment/35414/Spring2026Syllabus-Basic%20Chinese%28II%29%20%E5%9F%BA%E7%A4%8E%E8%8F%AF%E8%AA%9E%28%E4%BA%8C%29%20_Tue%2020251227.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "This course will\r\n1. focus on four language skills, which include listening, reading, speaking and writing.\r\n2. help students make basic conversations of daily living such as exchanging personal information, talking about food and drink, locations and positions, time, transportation, leisure and the appearance of people and things, etc.\r\n3. build up students’ ability to fulfill a communicational task."
+    },
+    {
+        "id": "語言中心",
+        "name": "中階學術英文聽說技巧（一）",
+        "professor": "楊岳龍",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "語言中心語言教室226",
+        "type": "選修",
+        "description": "This course aims to develop students' integrated listening and speaking skills through authentic materials from National Geographic and TED talks. By engaging with real people, real places, and real language, students will explore important global issues across social, cultural, and academic contexts. The course emphasizes the use of effective strategies for academic speaking tasks and real-world communication, while helping students consolidate academic vocabulary through structured speaking activities. Through thematic content connected to students' lives, learners are encouraged to think critically, express ideas clearly, and participate actively in meaningful discussions.\n\r\n本課程以 National Geographic 與 TED 所提供的真實語料為核心，透過真實人物、真實場域與真實語言，引導學生認識當今世界的重要議題，並培養其英語聽說整合能力。課程內容涵蓋多元社會、文化與學術情境，著重於提升學生在學術口語任務與真實生活溝通中所需的表達策略，同時透過口說活動強化學術字彙的運用。此外，課程結合主題式學習與學生自身經驗，鼓勵學生進行思辨與批判思考，並能清楚表達觀點，積極參與討論。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073085/local_syllabus/attachment/35284/1142_1902115_01.pdf",
+        "targetGrade": "2",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「中階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    },
+    {
+        "id": "語言中心",
+        "name": "初級日語：口語表達與生活文化（二）",
+        "professor": "王慈敏",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "語言中心語言教室225",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076086/local_syllabus/attachment/35412/1142%E5%88%9D%E7%B4%9A%E6%97%A5%E8%AA%9E%EF%BC%9A%E5%8F%A3%E8%AA%9E%E8%A1%A8%E9%81%94%E8%88%87%E7%94%9F%E6%B4%BB%E6%96%87%E5%8C%96%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+        "targetGrade": "2",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「日語初級」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選；需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。(Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test.)"
+    },
+    {
+        "id": "語言中心",
+        "name": "初級華語（二）",
+        "professor": "陳欣徽",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "語言中心語言教室011",
+        "type": "選修",
+        "description": "This course will\r\n1. focus on four language skills, which include listening, reading, speaking and writing.\r\n2. increase the students’ vocabulary related to various topics such as moving home, living environment, leisure activities, national environment, socializing, and etc.\r\n3. help students work on their writing skills in Chinese by composing well-organized paragraphs.\r\n4. develop students’ listening and speaking skills. Students will engage lots of activities in class and need to complete the language tasks.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076171/local_syllabus/attachment/35415/Spring2026Syllabus-Intermediate%20Chinese%28II%29%20%E5%88%9D%E7%B4%9A%E8%8F%AF%E8%AA%9E%28%E4%BA%8C%29_Thu%2020251227.pdf",
+        "targetGrade": "2",
+        "capacity": "10",
+        "memo": ""
+    },
+    {
+        "id": "語言中心",
+        "name": "進階英文學術聽力（一）",
+        "professor": "李佳家",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "語言中心語言教室227",
+        "type": "選修",
+        "description": "This course is designed to help students improve their listening skills in English, especially for academic settings. Throughout the semester, students will listen to different types of academic lectures with a strong focus on the logical organization of spoken academic texts.\n\r\nThe course will teach important listening strategies, such as predicting, identifying main ideas and supporting details, recognizing signaling language, and checking if they understand what they hear. Students will also learn new academic words and practice taking notes in ways that help them better understand and summarize the lecture content.\n\r\nTo boost students' confidence in academic discussions, the course incorporates practice with authentic materials and the delivery of formal presentations. This course prepares students to respond thoughtfully to various perspectives, articulate their own ideas clearly, and actively participate in intellectual dialogues in English.\n\r\n本課程旨在協助學生提升英文學術聽力技能。學生將聆聽多種類型的學術講演內容，並重點培養對學術口語文本邏輯結構的理解能力。\r\n課程將引導學習者學習多項關鍵的的聽力策略，包括預測內容、辨識主旨與支持細節、辨認提示語言，以及檢核自身理解程度。此外，學生亦將學習學術詞彙，並練習有效的筆記模式，以提昇其理解並摘要講演內容的能力。\r\n為了提升學生在學術討論的自信心，課程融入真實教材的練習以及正式口頭報告的訓練。本課程將幫助學生能夠回應多元觀點、清楚表達自身想法，並以英語積極參與學術對話交流。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072915/local_syllabus/attachment/35279/1142_1903101-01_English%20Academic%20Listening%20High-intermediate%20%28I%29.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「進階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    },
+    {
+        "id": "語言中心",
+        "name": "進階英文閱讀技巧（二）",
+        "professor": "楊岳龍",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "語言中心語言教室227",
+        "type": "選修",
+        "description": "This course focuses on developing students' academic reading abilities across a range of academic disciplines. Students will be guided to apply a variety of reading skills and strategies, including identifying main ideas, recognizing cause-and-effect relationships, managing unfamiliar vocabulary, analyzing text organization, and interpreting complex grammatical structures commonly found in academic texts. The course also aims to expand students' academic vocabulary and foster critical thinking skills through evaluating and synthesizing information from extensive reading materials. In addition, students will develop basic academic writing skills to support their comprehension and expression of academic ideas, while gradually improving reading speed and efficiency.\n\r\n本課程旨在培養學生跨多元學術領域之學術閱讀能力。課程將引導學生運用各種閱讀技巧與策略，包括掌握文章主旨、理解因果關係、處理生字詞、分析文章結構，以及解讀學術文本中常見的語法與語篇特徵。透過大量閱讀，學生將逐步累積學術字彙，並藉由評估與統整閱讀內容，提升批判思考能力。此外，課程亦著重於培養學生基本的學術寫作能力，以協助其更有效地理解與表達學術概念，同時提升整體閱讀速度與閱讀效率。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072968/local_syllabus/attachment/35281/1142-1903208-01.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「進階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    },
+    {
+        "id": "語言中心",
+        "name": "進階英文聽說技巧（一）",
+        "professor": "吳永倩",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "語言中心語言教室227",
+        "type": "選修",
+        "description": "This course is designed to help you build up listening, speaking, and academic study skills necessary to excel at university and in future professional careers. Through thought-provoking real-world material and topics, engaging and skills-based lessons, you will develop language competency and critical thinking skills in key areas of listening comprehension and oral communication. If you hope to listen confidently and speak fluently while achieving accuracy and appropriateness in university and professional settings, this course is where you need to be. \n\r\n這門課程旨在幫助你建立在大學全英文課程及未來專業發展所需的聽力、口說技能。透過真實素材與領域知識相關之主題內容，以及強調溝通互動技巧的課程活動與學習任務，這門聽說訓練課程將提升你的聽力理解力、口語溝通力、及批判思考力，幫助你在大學及未來專業職場環境中，展現自信的聽力與流利的表達，同時兼顧語言使用的準確性與適切性。\n\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072959/local_syllabus/attachment/35280/1142-1903409-01_English%20Listening%20and%20Speaking%20High%20Intermediate.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「進階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    },
+    {
+        "id": "語言中心",
+        "name": "進階英文商務溝通（一）",
+        "professor": "李佳家",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "語言中心語言教室227",
+        "type": "選修",
+        "description": "This course aims to help learners enhance their Business English communication skills. Through authentic, real-world materials, learners will develop a stronger understanding of core business concepts and current global business trends. The course emphasizes the development of English communication skills valued in professional settings, including business case discussion skills and written communication skills applicable to business contexts. By strengthening learners'  ability to analyze business issues, participate effectively in discussions, and apply written communication skills, the course supports students in enhancing their future career prospects.\n\r\n本課程旨在協助學習者提升英語商務溝通能力。透過真實情境素材的聽力及閱讀，學習者將提昇對核心商業概念與當前全球商業趨勢的理解。課程著重於發展業界重視的英語溝通能力，包括商業個案討論能力，以及適用於商務情境的書面溝通能力。透過強化學習者對商業議題的分析能力、參與討論的技巧，以及書面溝通技巧，本課程有助於提升學生的職涯發展潛力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073021/local_syllabus/attachment/35283/1142_1903423-01_English%20Business%20Communication_High-Int%20%28I%29.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「進階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    },
+    {
+        "id": "語言中心",
+        "name": "進階學術英文讀寫整合（四）",
+        "professor": "楊岳龍",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "語言中心語言教室227",
+        "type": "選修",
+        "description": "This course is designed to develop students' academic English proficiency through integrated reading, writing, and discussion activities. Students will learn to apply effective reading strategies to comprehend extended texts from interdisciplinary fields and a variety of genres. Emphasis is placed on fostering critical thinking skills by guiding students to analyze, evaluate, and synthesize information, including assessing arguments, evidence, sources, and authors' purposes. The course also focuses on developing academic writing skills, enabling students to produce coherent essays using different text patterns. Through collaborative group discussions and peer interaction, students will have opportunities to apply critical thinking skills to deepen their understanding of reading texts and to refine their writing.\n\r\n本課程旨在透過整合式的閱讀、寫作與討論活動，培養學生之學術英文能力。課程引導學生運用有效的閱讀技巧與策略，理解來自不同學術領域與多元文類的長篇文本，並著重於培養學生的批判思考能力，透過分析、評估與統整閱讀內容，深入探討論點、證據、引用來源及作者的寫作目的。課程同時加強學術寫作訓練，協助學生掌握不同篇章結構與寫作模式，完成組織清楚、內容連貫的學術文章。此外，透過小組討論與合作學習，學生將實際運用批判思考能力，深化對閱讀內容的理解，並提升寫作表達與同儕回饋能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073127/local_syllabus/attachment/35286/1142_1903440-01.pdf",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "1)本課程僅限本校「應用英外語學程生」選修；2)本課程適級程度為「進階」；3)若系統選修本課程人數超過限修人數，則由選課系統進行亂數篩選，需自行留意篩選結果；4)系統未篩選上課程者，開學第一週依缺額遞補後，以加簽方式選課；5)第一次上課將進行程度檢核測驗，授課教師得依據檢核結果建議調整修課。*Attendance at the first class session is mandatory. Students must be present at the first class session to complete the placement test."
+    }
+]

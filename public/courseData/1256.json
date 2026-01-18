@@ -1,0 +1,182 @@
+[
+    {
+        "id": "哲學研究所",
+        "name": "哲學基本問題討論（二）",
+        "professor": "侯維之",
+        "credits": 1,
+        "time": "三9,10",
+        "location": "文學院412",
+        "type": "必修",
+        "description": "*碩二同學選擇一篇完成的論文進行課堂報告，除準備與排練之外，以此協助、鼓勵學生參與學術會議發表。\r\n*碩一同學二人一組由IEP（Internet Encyclopedia of Philosophy）主題擇一報告，希望碩一學生能學習合作，並對基本哲學議題與相關理論有所認識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062590/local_syllabus/attachment/34826/%E5%9F%BA%E6%9C%AC%E5%95%8F%E9%A1%8C%E8%A8%8E%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班必修課，開放博士班選修。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "進階邏輯",
+        "professor": "王仁俊",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "文學院408",
+        "type": "必修",
+        "description": "The goal of this course is to provide students the basic knowledge of modern symbolic logic, which includes the basic technical results and philosophical questions concerning logic.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062869/local_syllabus/attachment/34839/%E9%80%B2%E9%9A%8E%E9%82%8F%E8%BC%AF%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班必修課，開放博士班選修。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "模態邏輯",
+        "professor": "王仁俊",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "文學院408",
+        "type": "選修",
+        "description": "Modal logic is an important extension of classical logic. In philosophy, it can be viewed as a technical tool for formally investigating a range of key concepts, such as knowledge, obligation, time, and counterfactuals. Throughout this course, students will learn the basic concepts and techniques of modal logic so they can apply them in the future across various areas of philosophy, as well as in fields like computer science and game theory.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063024/local_syllabus/attachment/34843/2026-114%20Spring%20Modal%20Logic.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "屬「數理邏輯與哲學邏輯」領域。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "倫理自然主義",
+        "professor": "吳秀瑾",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "文學院412",
+        "type": "選修",
+        "description": "課程說明：\r\n本課程以 David Copp（2025）對倫理自然主義與規範性問題的系統性辯護為核心，\r\n深入探討近年間後設倫理學中關於規範性（normativity）、理由（reasons）、\r\n演化去蔽論證（EDA）與方法論自然化的正反辯論。課程最後以 Philippa Foot 與 Mary Midgley 的「厚自然主義」作為替代與批判性總結。\n\r\n課程目標：\r\n1. 精準重構當代倫理自然主義的主要論證。\r\n2. 理解規範性問題在後設倫理中的不同層次。\r\n3. 能以厚自然主義回應當代去蔽論證與規範性挑戰。\n\n\r\nWeek 1 導論：規範性問題的提出\r\nCopp (2025) Introduction;\r\nScanlon (1998) ch.1\r\nWeek 2 自然主義的挑戰：Open Question \r\nCopp (2025), ch.1\r\nMoore (1903)\r\nMackie (1977), ch.1\r\nWeek 3 規範性與理由\r\nCopp (2025), ch.2\r\nParfit (2011); Scanlon (2014)\r\nWeek 4 倫理自然主義的形上學基礎\r\nCopp (2025), ch.3\r\nRailton (1986)\r\nWeek 5 功能、自然事實與規範性\r\nCopp (2025), ch.4\r\nMillikan (1984)\n\r\nWeek 6 演化挑戰：Darwinian Debunking Arguments\r\nCopp (2025), ch.5\r\nStreet (2006)\n\r\nWeek 7 回應 Street：規範治理與合理性\r\nCopp (2025), ch.6\r\nStreet (2011)\n\r\nWeek 8 社會規範、權威與自然化方法\r\nCopp (2025), ch.7\r\nHanson (2019)\n\r\nWeek 9 期中考週\n\r\nWeek 10 規範性形上學 vs 語義學\r\nCopp (2025), ch.8\r\nEnoch (2011), ch.5\n\r\nWeek 11 實踐權威與規範性理由\r\nCopp (2025), ch.9\r\nRaz (1979), ch.2\n\r\nWeek 12反自然主義的當代挑戰\r\nCopp (2025), ch.10\r\nParfit (2011), vol.2 ch.26\n\r\nWeek 13｜倫理自然主義的整體辯護\r\nCopp (2025), ch.11\r\nFinlay (2014), ch.6\n\r\nWeek 14｜Copp 理論的限制與批判\r\nCopp (2025), ch.12\r\nBedke (2014)\n\r\nWeek 15｜轉向厚自然主義：生命形式與自然善\r\nFoot (2001), chs.1–3\n\r\nWeek 16｜Midgley：反還原的倫理自然主義\r\nMidgley (1995), chs.1–2\r\nMidgley (2001), ch.6\n\r\nWeek 17 自主學習週\r\nWeek 18 期末考週\n\r\n指定教材\n\r\nBoyd, R. (1988). How to be a moral realist. In G. Sayre-McCord (Ed.), Essays on moral realism.\r\nCopp, D. (2025). Ethical naturalism and the problem of normativity. Oxford University Press.\r\nDarwall, S. (2006). The second-person standpoint. Harvard University Press.\r\nEnoch, D. (2011). Taking morality seriously. Oxford University Press.\r\nFinlay, S. (2014). Confusion of tongues. Oxford University Press.\r\nFoot, P. (2001). Natural goodness. Oxford University Press.\r\nKahane, G. (2011). Evolutionary debunking arguments. Noûs, 45(1), 103–125.\r\nMidgley, M. (1995). Beast and man. Routledge.\r\nMidgley, M. (2001). Science and poetry. Routledge.\r\nParfit, D. (2011). On what we owe to each other. Oxford University Press.\r\nRailton, P. (1986). Moral realism. Philosophical Review, 95(2), 163–207.\r\nScanlon, T. (1998). What we owe to each other. Harvard University Press.\r\nStreet, S. (2006). A Darwinian dilemma for realist theories of value. Philosophical Studies, 127, 109–166.\n\n\r\n評量方式：\r\n碩士生\r\n課堂參與 30%\r\n報告 20%\r\n期末研究論文 50%\n\r\n博士生\r\n課堂參與 25%\r\n報告 25%\r\n期末研究論文 50%\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063551/local_syllabus/attachment/34877/Ethical%20Naturalism%20%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81s%202026.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "屬「倫理學與法政哲學」領域。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "生物哲學文獻選讀",
+        "professor": "歐陽敏",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "文學院408",
+        "type": "選修",
+        "description": "本課程將以生物性別為主題，研讀生物哲學領域中的相關文獻。 ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063055/local_syllabus/attachment/34845/%E7%A0%94%E7%A9%B6%E6%89%80%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%28%E7%94%9F%E7%89%A9%E5%93%B2%E5%AD%B8%E6%96%87%E7%8D%BB%E9%81%B8%E8%AE%80114-2%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "屬「科學史與科學哲學」領域。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "理由論",
+        "professor": "王一奇",
+        "credits": 3,
+        "time": "二5,6,7",
+        "location": "文學院408",
+        "type": "選修",
+        "description": "本課程關心的議題為理由、行動、以及兩者間的關連。在課程中，我們將針對以下議題的相關文獻進行討論，包含「規範理由」、「理由與決策」、「理由與理性」、「依理由而行動」等議題。學生們被預期將閱讀課堂相關指定文獻，以及針對最新相關議題研究文獻進行報告，並繳交期末報告。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062848/local_syllabus/attachment/34837/2026-Spring-%E7%90%86%E7%94%B1%E8%AB%96%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-2025-12-23.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "屬「形上學」領域。"
+    },
+    {
+        "id": "哲學研究所",
+        "name": "後設倫理學專題：道德相對主義、道德客觀性與道德規範性",
+        "professor": "許漢",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院408",
+        "type": "選修",
+        "description": "道德相對論（MR）雖是道德哲學中較少被討論，卻是道德與道德規範性的理論難以規避的挑戰。道德規範性是當代（其實，一直是)道德哲學的核心議題，哲學上所有的道德理論終究要對此有所主張，正面、反面或承認無解。這門課以後設倫理學的觀點來討論MR，許多後設主張與議題如客觀性、普遍性是MR必定面對與回應的，因為這是道德/道德規範性理論的要素也是MR的難題。道德客觀性(MO)如Mackie所說，是一階道德的預設，MR可以堅持反MO的立場如Harman的MR，也可以如David Wong的MR試圖調和MO。雖然這門課主要是以後設的觀點來看待MR，但，MR會以不同方式涉及更實質的主張，不僅是一階的倫理主張如約定論或契約論，甚至在一定意義上和跨疆界的倫理或政治哲學議題相關如Rawls的民族間的律法(The Law of Peoples)，提出所謂現實主義的烏托邦式特性的規範的國際政治哲學，但，其現實面就離不開文化多樣性的事實，這或也相關到霍布斯式的政治現實主義，如此，MR也和國際或全球的政治道德議題相關。這門課當然不可能討論MR每個相關議題，課程的核心議題是MR與道德觀規範性，而以道德客觀性為MR理論在道德規範性之議題的引爆點。\r\n〈道德相對主義、道德客觀性與道德規範性〉是後設倫理學的議題，其重要性似乎被忽視了，一方面或如David Wong(2006)所說的，哲學界都避免討論，但，他2023說，MR是令人憂心的議題。Simon Blackburn說得相當令人印象深刻，當文化是MR的基礎，文化相對論(CR)對許多價值議題的意見似乎是final word(定讞)，如此，以CR為基礎的MR似乎就是道德的壁壘了。但，哲學家如休謨就不認為事實蘊含價值。休謨對當代後設倫理學的影響可說無與倫比。休謨沒對MR表達過看法，但應該是反對的，而，Harman是休謨主義者，他與Blackburn(也是休謨論者)對MR的看法正好相左。課程中有濃厚休謨主義的痕跡(課程選讀文獻呈現的傾向，不是我個人偏好)，無論如何，這是extraordinary(借用Rawls對休謨的一個評論用語，但這不一定符合羅爾斯之評論的意圖)。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063533/local_syllabus/attachment/34875/%E9%81%93%E5%BE%B7%E7%9B%B8%E5%B0%8D%E4%B8%BB%E7%BE%A9%E3%80%81%E9%81%93%E5%BE%B7%E5%AE%A2%E8%A7%80%E6%80%A7%E8%88%87%E9%81%93%E5%BE%B7%E8%A6%8F%E7%AF%84%E6%80%A72026%20Spring%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "屬「倫理學與法政哲學」領域。"
+    }
+]

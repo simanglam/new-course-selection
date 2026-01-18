@@ -1,0 +1,115 @@
+[
+    {
+        "id": "(專)政治學系政府與公共事務碩士在職專班",
+        "name": "政治學導論",
+        "professor": "藍玉春,劉從葦,陳光輝,林平,李翠萍,魏楚陽,郭祐輑,林瓊珠,莊文忠",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "社科院二館709",
+        "type": "必修",
+        "description": "本課程主要是為非政治學相關科系之大學部同學所開設之政治學導論課程。將藉由政治學入門教科書的閱讀與台灣政治時事的討論，協助修課同學對政治學此一學科的認識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077285/local_syllabus/attachment/35469/intro%20to%20political%20science_GE.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)政治學系政府與公共事務碩士在職專班",
+        "name": "政治分析",
+        "professor": "蔡榮祥",
+        "credits": 3,
+        "time": "五12,13,14",
+        "location": "社科院二館105",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_331A245_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)政治學系政府與公共事務碩士在職專班",
+        "name": "公共政策專題研究",
+        "professor": "徐千偉",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "社科院二館709",
+        "type": "必修",
+        "description": "本課程旨在介紹公共政策的本質、相關理論、運作過程、類型及實務，課程編排方式著重於公共政策的運作過程（包含政策問題認定、政策規劃、政策合法化、政策執行、政策評估）及相關論題的學習。透過三次專題報告的練習，將上課所學的理論知識運用在自己的工作實務中。本課程學習完後，學生應具有公共政策的基本理論知識，執行公共政策個案分析的基本能力，及具有公共行政與公共政策等相關領域的研究基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080669/local_syllabus/attachment/35579/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%20114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)政治學系政府與公共事務碩士在職專班",
+        "name": "碩士論文（一）",
+        "professor": "藍玉春,李佩珊,劉從葦,蔡榮祥,陳尚志,陳光輝,林平,李翠萍,徐千偉,魏楚陽,郭祐輑,林瓊珠,莊文忠",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_331A290_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(331A246)公共政策專題研究(及格)(331A245)政治分析(及格)(只要符合任一先修條件)限本系生修.限二年級以上本系同學選修，至少修畢30學分，已確定指導老師，不計鐘點費"
+    },
+    {
+        "id": "(專)政治學系政府與公共事務碩士在職專班",
+        "name": "碩士論文（二）",
+        "professor": "藍玉春,李佩珊,劉從葦,蔡榮祥,陳尚志,陳光輝,林平,李翠萍,徐千偉,魏楚陽,郭祐輑,林瓊珠,莊文忠",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_331A291_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(331A245)政治分析(及格)(331A246)公共政策專題研究(及格)(只要符合任一先修條件)限本系生修.限二年級以上本系同學選修，至少修畢30學 分，已確定指導老師，不計鐘點費"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "id": "會計與資訊科技學系",
+        "name": "初級會計學(二)",
+        "professor": "邱献良",
+        "credits": 3,
+        "time": "三7,8,9 五7",
+        "location": "創新大樓164",
+        "type": "必修",
+        "description": "The purpose of this course is to give students general understanding of the accounting concepts, framework, and practice. I will try to finish lecturing one chapter within two weeks and some complex chapters may take more than two.\n\r\nThe course is primarily for the freshmen who major in accounting and information technology. Others are also welcomed to take this course.\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070916/local_syllabus/attachment/35215/%E5%88%9D%E6%9C%83%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "初級會計學（二）",
+        "professor": "謝佩君",
+        "credits": 3,
+        "time": "二10,11 四10,11",
+        "location": "管理學院107",
+        "type": "選修",
+        "description": "This course is designed to introduce you to basic accounting principles, concepts, and practices including terminology and the elements of the accounting cycle.  The objectives are to be able to prepare and analyze basic financial statements and to develop an understanding of how accounting information is used in making business decisions.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070933/local_syllabus/attachment/35216/Intro%20FA-Spring%202026%20Econ.docx",
+        "targetGrade": "1",
+        "capacity": "125",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "初級會計學（二）",
+        "professor": "謝佩君",
+        "credits": 3,
+        "time": "二7,8 四7,8",
+        "location": "管理學院116",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261105_04",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "初級會計學（二）",
+        "professor": "黃劭彥",
+        "credits": 3,
+        "time": "二7 四7,8,9",
+        "location": "創新大樓162",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261105_05",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "統計學",
+        "professor": "林岳喬",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "創新大樓164",
+        "type": "必修",
+        "description": "The main purpose of this course is to learn the basic statistical theory and models and also practice how to implement basic statistical analysis via Excel or SPSS.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071243/local_syllabus/attachment/35219/AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E5%AD%B8%E5%A3%AB%E7%8F%AD%E7%B5%B1%E8%A8%88%E5%AD%B8%20Syllabus.docx",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "民法概要",
+        "professor": "曾錦源",
+        "credits": 3,
+        "time": "一12,13,14",
+        "location": "創新大樓164",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5261610_01",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "程式設計",
+        "professor": "邱献良",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "創新大樓261",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071345/local_syllabus/attachment/35221/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "中級會計學（二）",
+        "professor": "卓佳慶",
+        "credits": 3,
+        "time": "二7,8,9 四7",
+        "location": "創新大樓164",
+        "type": "必修",
+        "description": "Intermediate Accounting I follows Accounting I & II that is based on Accounting Principle to give students a deep look at financial accounting information and its increasingly varied uses in the world today. In addition, comparing the rule of IFRS, US GAAP and ROC GAAP with the accounting practice or the research cases with the real world financial statements in USA and Taiwan helps students better understand how to apply the class knowledge for future business environment. The perspective of this course emphasizes both preparers’ role in processing accounting information and users’ view in decision making. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071432/local_syllabus/attachment/35226/AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-1142-%E4%B8%AD%E6%9C%83%E4%BA%8C.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "中級會計學（二）",
+        "professor": "卓佳慶,謝佳純",
+        "credits": 3,
+        "time": "三7,8,9 五7",
+        "location": "創新大樓163",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071481/local_syllabus/attachment/35227/Intermediate%20Accounting%20114%E4%B8%8B%E5%AD%B8%E6%9C%9F.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "成本及管理會計學(二)",
+        "professor": "吳貞慧",
+        "credits": 3,
+        "time": "一5 五4,5,6",
+        "location": "創新大樓164",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5262110_01",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "政府會計",
+        "professor": "陳玲娜",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "創新大樓162",
+        "type": "選修",
+        "description": "經課堂中由淺入深的說明與講述，讓學生能夠達到下列三個學習目標：\r\n1.了解政府會計之原理、原則與程序。\r\n2.了解我國政府預算制度、會計制度。\r\n3.了解我國政府會計觀念公報及政府會計準則公報內容。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142196/local_syllabus/attachment/35646/114-2%E6%94%BF%E6%9C%83%E5%A4%A7%E7%B6%B1ok.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "金融科技趨勢與創新",
+        "professor": "黃柏森",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "資訊處217教室",
+        "type": "選修",
+        "description": "本課介紹有關金融科技(Financial Technology)之技術、應用、服務和商業模式，並透過課程創新模式的案例分析，即時掌握金融科技創新服務之發展，以啟發宏觀思維及創新意識之學習成效。\r\nThis course introduces the technologies, applications, services, and business models of Financial Technology (FinTech). Through case studies with an innovative course design, students will gain real-time insights into the development of FinTech services. The goal is to foster macro-level thinking and an awareness of innovation.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071567/local_syllabus/attachment/35229/114-2_Financial%20Technology%20Trends%20and%20Innovation_Syllabus_Po-Sen%20Huang_v2.1_E.pdf",
+        "targetGrade": "2",
+        "capacity": "47",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "日本文化與語言",
+        "professor": "高田敏文",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "創新大樓271",
+        "type": "選修",
+        "description": "Syllabus for the spring semester 2026\n\r\nTakada",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071580/local_syllabus/attachment/35230/JLC%202026%20Spring%20Syllabus.pdf",
+        "targetGrade": "2",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "系統分析與設計",
+        "professor": "張麗敏",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "創新大樓261",
+        "type": "選修",
+        "description": "Modern Systems Analysis and Design covers the concepts, skills, methodologies, techniques, tools, and perspectives essential for systems analysts to successfully develop information systems. This course uses the systems development life cycle (SDLC) model as an organizing tool throughout the topics to provide students with a strong conceptual and systematic framework. \n\r\nThis is a practical course about information systems development methods. All businesses and organizations develop information systems. You can be assured that you will play some role in the systems analysis and design for those systems – either as a customer or user of those systems or as a developer of those systems. Systems analysis and design is about business problem solving and computer applications. The methods you will learn in this course can be applied to a wide variety of problem domains, not just those involving the computer.\n\r\nWe start in Part One – Foundations for Systems Development (The Systems Development Environment, The Origins of Software, Managing the Information Systems Project) with fundamental concepts, philosophies, and trends that provide the context of systems analysis and design methods – in other words, the basics! If you understand these basics, you will be better able to apply, with confidence, the practical tools, and techniques you will learn in Part Two – Planning (Identifying and Selecting Systems Development Projects, Initiating and Planning Systems Development Projects). Part Three - Analysis (Determining System Requirements, Structuring System Process Requirements, Structuring System Data Requirements). Part Four - Design (Designing Databases, Designing Forms and Reports, Designing Interfaces and Dialogues, Designing Distributed and Internet Systems), and Part Five – Implementation and Maintenance (System Implementation, Maintaining Information Systems).\n\r\nWhile providing broad coverage of the systems development life cycle, this course also presents topics that should be covered in any introductory systems analysis and design course. Such topics include business information systems concepts; mission statements; strategic planning; feasibility studies; fact-finding techniques; data flow diagrams; structured English; decision tables; decision trees; object-oriented analysis and design; enterprise computing; make or buy decisions; employee empowerment; prototyping; CASE tools; systems flowcharts; the use of codes; reducing input errors; data security; automated design tools; entity-relationship diagrams; cardinality; normalization; UML notation; database design and management; traditional file organization; online versus batch processing; centralized versus distributed processing; LANs and WANs; client/server systems; software engineering; unit, link, and system testing; documentation; training; systems changeover; post-implementation evaluation; support activities; maintenance activities; capacity planning; communication tools; feasibility and cost analysis tools; and project management tools. Each of these topics is covered in detail and clearly linked to the appropriated phase or phases of the SDLC, so that students understand where they fit with the larger systems development life cycle.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071591/local_syllabus/attachment/35231/114-2%20AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29_%E6%9C%83%E8%B3%87%E7%B3%BB%28SAD%29_1141202.pdf",
+        "targetGrade": "2",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "成本及管理會計學（二）",
+        "professor": "吳貞慧",
+        "credits": 3,
+        "time": "三10 四10,11,12",
+        "location": "創新大樓164",
+        "type": "選修",
+        "description": "本課程主要介紹衡量、分析及報導有關組織資源取得及消耗之財務性與非財務性資訊的程序，以協助管理者制定達成目標之決策。為了協助了解如何制定較佳決策，本課程將講解企業編製整體預算及責任會計、彈性預算、存貨計價及產能分析、策略、定價決策及成本管理、成本分攤、顧客獲利及銷售差異分析 ，並介紹新管理哲學在業界的應用，以便讓學生充分了解達成較佳決策制定的企業營運策略與執行步驟。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072069/local_syllabus/attachment/35238/2025_CostManag_Syllabus_ACC.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "高級會計學（二）",
+        "professor": "鍾宇軒",
+        "credits": 3,
+        "time": "一10,11,12 三10",
+        "location": "創新大樓162",
+        "type": "必修",
+        "description": "This two-semester course is designed to provide special topics in financial accounting, including business combinations, consolidation procedure and disclosure, intercompany transactions, Investment in a Subsidiary, Indirect and mutual holdings, derivatives, and foreign currency transactions.  The content discussed in the class is adequate procedural coverage as to be sufficient to ensure students are built upon a solid conceptual foundation that explains and presents the international accounting environment.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072137/local_syllabus/attachment/35239/1142%20%E8%AA%B2%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "審計學（一）",
+        "professor": "黃婉綺",
+        "credits": 3,
+        "time": "一4 三4,5,6",
+        "location": "創新大樓162",
+        "type": "必修",
+        "description": "本課程旨在使學生了解會計師查核工作與相關審計實務知識，以協助其對未來潛在職業有更多的認識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072162/local_syllabus/attachment/35240/1142_%E5%AF%A9%E8%A8%88%E5%AD%B8_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "永續發展與綠色會計",
+        "professor": "謝佳純",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "創新大樓163",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂測驗",
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072423/local_syllabus/attachment/35252/Sustainable%20Development%20and%20Green%20Accounting%202025%20AACSB.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "財務報表分析",
+        "professor": "謝佩君",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "共同教室大樓215",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072211/local_syllabus/attachment/35242/FSA%20Syllabus-Spring%202026.docx",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "會計資訊系統",
+        "professor": "黃婉綺",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "創新大樓161",
+        "type": "必修",
+        "description": "本課程旨在引導學生深入理解會計與資訊技術的整合應用。課程內容涵蓋交易處理循環、文件化技術與內部控制框架。除理論講解外，亦探討 ERP 實務、資料庫設計及新興科技對會計的影響。並且透過個案分析與實務演講安排，培養學生評估資訊系統風險與設計控制流程的能力，為未來從事會計、稽核或資訊諮詢工作奠定堅實基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072849/local_syllabus/attachment/35275/1142_%E6%9C%83%E8%A8%88%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": ""
+    },
+    {
+        "id": "會計與資訊科技學系",
+        "name": "會計資訊系統",
+        "professor": "黃婉綺",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "創新大樓161",
+        "type": "必修",
+        "description": "本課程旨在引導學生深入理解會計與資訊技術的整合應用。課程內容涵蓋交易處理循環、文件化技術與內部控制框架。除理論講解外，亦探討 ERP 實務、資料庫設計及新興科技對會計的影響。並且透過個案分析與實務演講安排，培養學生評估資訊系統風險與設計控制流程的能力，為未來從事會計、稽核或資訊諮詢工作奠定堅實基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072298/local_syllabus/attachment/35244/1142_%E6%9C%83%E8%A8%88%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_v1.docx",
+        "targetGrade": "4",
+        "capacity": "60",
+        "memo": ""
+    }
+]
