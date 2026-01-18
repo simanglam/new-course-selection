@@ -657,36 +657,6 @@ const Timetable = ({
                             </div>
                         )}
                     </section>
-
-                    {generalEdCourses.length > 0 && (
-                        <section>
-                            <div className="flex items-center justify-between mb-3">
-                                <h4 className="flex items-center gap-2 text-sm font-bold text-[#B09E99]">
-                                    <span className="w-2 h-2 rounded-full bg-[#B09E99]"></span>
-                                    通識
-                                </h4>
-                                <span className="text-xs font-medium text-[#9A9694] bg-[#EAE7E2] px-2 py-0.5 rounded">
-                                    {
-                                        generalEdCourses.filter(
-                                            (c) =>
-                                                courseStatuses[`${c.name}-${c.professor}`] ===
-                                                "selected"
-                                        ).length
-                                    }{" "}
-                                    門已選
-                                </span>
-                            </div>
-                            <div className="flex flex-wrap gap-2">
-                                {generalEdCourses.map((c) => (
-                                    <span
-                                        key={c.id}
-                                        className={`text-[10px] px-2 py-1 rounded border ${courseStatuses[`${c.name}-${c.professor}-${c.time}`] === "selected" ? "bg-[#B09E99] text-white border-[#B09E99]" : "bg-white text-[#9A9694] border-[#DCD8D2]"}`}>
-                                        {c.name}
-                                    </span>
-                                ))}
-                            </div>
-                        </section>
-                    )}
                 </div>
             </div>
         </div>
