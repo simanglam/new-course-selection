@@ -390,7 +390,7 @@ import { Course, CourseStatus } from "../types/course"
 import CourseRow from "./CourseRow"
 
 const parseTime = (timeStr: string) => {
-    const match = timeStr.match(/([一二三四五])\s+(\d+)-(\d+)/)
+    const match = timeStr.match(/([一二三四五])\s+(\d+),(\d+)/)
     if (!match) return null
     return {
         day: match[1],
