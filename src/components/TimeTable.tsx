@@ -456,7 +456,7 @@ const Timetable = ({
         return myCourses.find((c) => {
             // Only show Selected courses in the main grid to avoid clutter,
             // or show both but visually distinct. Let's show selected only for grid clarity as requested by "Timetable".
-            if (courseStatuses[c.id] !== "selected") return false
+            if (courseStatuses[`${c.name}-${c.professor}`] !== "selected") return false
 
             const parsed = parseTime(c.time)
             if (!parsed) return false
@@ -473,8 +473,9 @@ const Timetable = ({
         const ids = new Set<string>()
         const activeCourses = myCourses.filter(
             (c) =>
-                courseStatuses[c.id] === "selected" ||
-                courseStatuses[c.id] === "considering"
+                courseStatuses[`${c.name}-${c.professor}`] === "selected" ||
+                courseStatuses[`${c.name}-${c.professor}`] === "considering" ||
+                courseStatuses[`${c.name}-${c.professor}`] === "conflict"
         )
 
         for (let i = 0; i < activeCourses.length; i++) {
@@ -506,12 +507,12 @@ const Timetable = ({
     // Filter out conflicts from selected/considering to avoid duplication in display
     const selectedCourses = myCourses.filter(
         (c) =>
-            courseStatuses[c.id] === "selected" &&
+            courseStatuses[`${c.name}-${c.professor}`] === "selected" &&
             !conflictingCourseIds.has(c.id)
     )
     const consideringCourses = myCourses.filter(
         (c) =>
-            courseStatuses[c.id] === "considering" &&
+            courseStatuses[`${c.name}-${c.professor}`] === "considering" &&
             !conflictingCourseIds.has(c.id)
     )
 
@@ -582,7 +583,7 @@ const Timetable = ({
                         <div className="flex items-center justify-between mb-3">
                             <h4 className="flex items-center gap-2 text-sm font-bold text-[#748E95]">
                                 <span className="w-2 h-2 rounded-full bg-[#748E95]"></span>
-                                已選 (Primary Choice)
+                                已選
                             </h4>
                             <span className="text-xs font-medium text-[#9A9694] bg-[#EAE7E2] px-2 py-0.5 rounded">
                                 {selectedCredits} 學分
@@ -622,7 +623,7 @@ const Timetable = ({
                         <div className="flex items-center justify-between mb-3">
                             <h4 className="flex items-center gap-2 text-sm font-bold text-[#A3B1C2]">
                                 <span className="w-2 h-2 rounded-full bg-[#A3B1C2]"></span>
-                                考慮 (Backup)
+                                考慮
                             </h4>
                             <span className="text-xs font-medium text-[#9A9694] bg-[#EAE7E2] px-2 py-0.5 rounded">
                                 {consideringCredits} 學分
@@ -669,7 +670,7 @@ const Timetable = ({
                                     {
                                         generalEdCourses.filter(
                                             (c) =>
-                                                courseStatuses[c.id] ===
+                                                courseStatuses[`${c.name}-${c.professor}`] ===
                                                 "selected"
                                         ).length
                                     }{" "}
@@ -680,7 +681,7 @@ const Timetable = ({
                                 {generalEdCourses.map((c) => (
                                     <span
                                         key={c.id}
-                                        className={`text-[10px] px-2 py-1 rounded border ${courseStatuses[c.id] === "selected" ? "bg-[#B09E99] text-white border-[#B09E99]" : "bg-white text-[#9A9694] border-[#DCD8D2]"}`}>
+                                        className={`text-[10px] px-2 py-1 rounded border ${courseStatuses[`${c.name}-${c.professor}`] === "selected" ? "bg-[#B09E99] text-white border-[#B09E99]" : "bg-white text-[#9A9694] border-[#DCD8D2]"}`}>
                                         {c.name}
                                     </span>
                                 ))}

@@ -28,11 +28,6 @@ export const STATUS_CONFIG = {
         color: MORANDI_PALETTE.accent4,
         textColor: "#fff"
     },
-    conflict: {
-        label: "衝堂",
-        color: MORANDI_PALETTE.accent5,
-        textColor: "#fff"
-    },
     rejected: {
         label: "不選",
         color: MORANDI_PALETTE.accent6,

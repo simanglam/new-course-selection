@@ -42,7 +42,7 @@ const CourseRow = ({
                 <div className="flex items-center gap-2 text-xs text-[#9A9694]">
                     {/* ID Pill */}
                     <span className="px-2 py-0.5 font-medium tracking-wide rounded bg-[#EAE7E2] text-[#748E95]">
-                        {course.id}
+                        {course.code}
                     </span>
                     <span className="w-1 h-1 rounded-full bg-[#DCD8D2]"></span>
                     <span className="font-medium">{course.professor}</span>
@@ -84,7 +84,7 @@ const CourseRow = ({
                 </div>
 
                 {/* Restrictions */}
-                <div className="w-20 shrink-0 hidden lg:block">
+                {/* <div className="w-20 shrink-0 hidden lg:block">
                     <div className="text-[9px] text-[#B0B0B0] uppercase tracking-wider mb-0.5">
                         擋修
                     </div>
@@ -96,6 +96,7 @@ const CourseRow = ({
                             : course.restrictions}
                     </div>
                 </div>
+                */}
 
 
                 {/* Download Action */}

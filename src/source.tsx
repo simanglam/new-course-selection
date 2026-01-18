@@ -512,7 +512,7 @@ const Sidebar = ({
     currentView: ViewType
 }) => {
     const [expandedCollege, setExpandedCollege] = useState<string | null>(
-        "文學院"
+        
     )
     
 
@@ -602,7 +602,7 @@ const Sidebar = ({
 }
 
 const App = () => {
-    const [selectedDept, setSelectedDept] = useState("中文系")
+    const [selectedDept, setSelectedDept] = useState("文學院學士班")
     const [selectedDeptNum, setSelectedDeptNum] = useState("1014")
     const [courses, setCourses] = useState<Course[]>([])
     const [selectedCourse, setSelectedCourse] = useState<Course | null>(null)
@@ -630,18 +630,18 @@ const App = () => {
     // Main Logic: Update tracked courses when status changes
     const handleStatusChange = (course: Course, status: CourseStatus) => {
         // Update visual status map
-        setCourseStatuses((prev) => ({ ...prev, [course.id]: status }))
+        setCourseStatuses((prev) => ({ ...prev, [`${course.name}-${course.professor}`]: status }))
 
         // Sync with My Plan List
         // We add to list if user expresses interest (Selected or Considering)
         if (status === "selected" || status === "considering") {
             setMyPlanCourses((prev) => {
-                if (prev.some((c) => c.id === course.id)) return prev
+                if (prev.some((c) => `${c.name}-${c.professor}` === `${course.name}-${course.professor}`)) return prev
                 return [...prev, course]
             })
         } else {
             // Remove if marked as rejected or none
-            setMyPlanCourses((prev) => prev.filter((c) => c.id !== course.id))
+            setMyPlanCourses((prev) => prev.filter((c) => `${c.name}-${c.professor}` !== `${course.name}-${course.professor}`))
         }
     }
 
@@ -651,8 +651,7 @@ const App = () => {
         return courses.filter(
             (c) =>
                 c.name.toLowerCase().includes(lowerQuery) ||
-                c.professor.toLowerCase().includes(lowerQuery) ||
-                c.id.toLowerCase().includes(lowerQuery)
+                c.professor.toLowerCase().includes(lowerQuery)
         )
     }, [courses, searchQuery])
 
@@ -792,7 +791,7 @@ const App = () => {
                                                         // Check if it's in myPlan to show 'selected', otherwise fall back to local status map
                                                         status={
                                                             courseStatuses[
-                                                                course.id
+                                                                `${course.name}-${course.professor}`
                                                             ] || "none"
                                                         }
                                                         onClick={() =>
@@ -854,7 +853,7 @@ const App = () => {
                 onClose={() => setSelectedCourse(null)}
                 status={
                     selectedCourse
-                        ? courseStatuses[selectedCourse.id] || "none"
+                        ? courseStatuses[`${selectedCourse.name}-${selectedCourse.professor}`] || "none"
                         : "none"
                 }
                 onStatusChange={(status) => {

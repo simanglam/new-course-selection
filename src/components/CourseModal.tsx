@@ -36,7 +36,7 @@ const CourseModal = ({
                             </h2>
                             <div className="flex items-center gap-3 text-sm text-[#9A9694]">
                                 <span className="font-medium text-[#748E95] tracking-wide">
-                                    {course.id}
+                                    {course.code}
                                 </span>
                                 <span className="w-1 h-1 rounded-full bg-[#DCD8D2]"></span>
                                 <span className="text-[#5E5C5C] font-medium">
