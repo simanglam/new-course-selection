@@ -1,0 +1,260 @@
+[
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "通俗文學與文化",
+        "professor": "王櫻芬",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "文學院004-1室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033606/local_syllabus/attachment/33837/%E8%AA%B2%E7%B6%B1-%E9%80%9A%E4%BF%97%E6%96%87%E5%AD%B8%E8%88%87%E6%96%87%E5%8C%9602-%E7%A2%A9%E7%8F%AD.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "東亞漢詩文專題研究",
+        "professor": "李映瑾,李知灝",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "文學院004-1室",
+        "type": "選修",
+        "description": "漢詩源自中國，唐代確立其體裁，經宋元明清至今不衰，更向海外散播，在東亞、東南亞等地形成一個漢詩的社群網絡。台灣自明末鄭氏王朝將漢詩帶入本地，經清領、日治，乃至於戰後迄今，漢詩書寫與社群迭出，更在戰後與東亞、東南亞形成漢詩社群。本課程即從這樣的視角，對東亞漢詩發展進行多方探討。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033408/local_syllabus/attachment/33829/114%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E6%9D%B1%E4%BA%9E%E6%BC%A2%E8%A9%A9%20%281%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "跨國電影美學與敘事",
+        "professor": "王萬睿",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "文學院004-2室",
+        "type": "選修",
+        "description": "台灣電影發展至今逾百年，不僅是標示著台灣地方性的文化生產、抗衡著殖民主義話語、面對冷戰意識形態的干擾，更是一個持續性的跨國影像實踐與軟實力的美學展示。本課程主要將「越境美學」（Border Aesthetics）作為為一個理論方法，分別從作者論、跨國性、與跨媒介三個向度，帶領學生重新反思台灣電影在上世紀八十年代至本世紀初的越境敘事與電影美學系譜，透過電影研究學術文獻的閱讀與研討，建立跨國文化研究的批判性視野，並將台灣電影作為創造台灣軟實力的基礎，持續與全球人文學的發展進行跨領域的整合與對話。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033679/local_syllabus/attachment/33839/114-2%E8%B7%A8%E5%9C%8B%E9%9B%BB%E5%BD%B1%E7%BE%8E%E5%AD%B8%E8%88%87%E6%95%98%E4%BA%8B%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "論文寫作（二）",
+        "professor": "王萬睿",
+        "credits": 0,
+        "time": "三10,11",
+        "location": "文學院004-1室",
+        "type": "必修",
+        "description": "本課程指導學生論文寫作的規劃和資料蒐集、以及完成論文的相關具體步驟。其中，對於學生基礎能力的培養，嫻熟文學批評術語、理論脈絡、研究方法等常識均有著墨，並且達成學生能「自立為文」的目標。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033515/local_syllabus/attachment/33833/114-2%E8%AB%96%E6%96%87%E5%AF%AB%E4%BD%9C%EF%BC%88%E4%BA%8C%EF%BC%89.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "語言研習（英文二）",
+        "professor": "王萬睿",
+        "credits": 1,
+        "time": "三8,9",
+        "location": "文學院004-2室",
+        "type": "必修",
+        "description": "主要內容在訓練學生英語聽、說、讀、寫能力的培養。\r\n(1)課程藉以豐富多元且貼進學生生活、興趣的題材，以期引起學生學習動機。\r\n(2)藉著課前暖身活動，課文閱讀及文化筆記的介紹，希望提升學生學習興趣、讓學生學習並應用不同的閱讀技巧及增進學生的文化視野。\r\n(3)會話練習及延伸活動的進行可讓學生學習以簡易英文介紹自己的生活、興趣及文化。\r\n(4)反覆練習方式可增進學生聽說能力及對字彙、慣用語的熟悉。 \n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033491/local_syllabus/attachment/33832/%E8%AA%9E%E8%A8%80%E7%A0%94%E7%BF%92%EF%BC%88%E8%8B%B1%E6%96%87%E4%BA%8C%EF%BC%89114-2.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "語言研習（日文二）",
+        "professor": "楊智景",
+        "credits": 1,
+        "time": "四9,10",
+        "location": "文學院004-1室",
+        "type": "必修",
+        "description": "培養基礎日語聽說讀寫和自主學習之能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033460/local_syllabus/attachment/33831/114-2%E6%97%A5%E6%96%87%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "田野調查、文獻整理與資訊化（二）",
+        "professor": "李知灝",
+        "credits": 1,
+        "time": "三10,11",
+        "location": "文學院004-2室",
+        "type": "必修",
+        "description": "從閱讀研究論著出發，結合AI輔助研究。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033587/local_syllabus/attachment/33835/114-2%E7%94%B0%E9%87%8E%E8%AA%BF%E6%9F%A52%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "臺灣原住民民族誌與紀錄片製作",
+        "professor": "江寶釵,童信智",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "文學院004-2室",
+        "type": "選修",
+        "description": "民族誌來自於「對人群的敘寫」(writing about people)。質性研究方法早先是源自於人類學領域採行的田野研究與參與觀察，而這種對人類文化研究的過程與結果，我們通稱為民族誌(ethnography)。 \r\n本課程將聚焦「排灣群（排灣、魯凱、卑南）」民族誌專題，試圖透過田野調查、文獻檢索、數位平台、主題規劃、課堂互動，積澱對原住民族的深入了解，強化挖掘地方問題的觀察力，建立大數據的人文分析能力，並以邏輯思考解決問題的方案，以檔案的解讀來創造多元脈絡的故事開發，能將議題直接落實到文字、影音製作與數位化，以深度報導、紀錄片拍攝、影像傳播作為再現工具。\r\n「民族誌專題」有其好處―具脈絡化和全面性，將能使學生尋找開闊、多元的角度，更了解嘉義的地方特質、文化蘊含，從議題擇定、創意發想、展開調訪、故事發展、寫作、攝影，到紀錄片拍攝，在影像傳播的方法基礎上，表述深刻的思維，追溯過去，記錄現在，瞻望未來，而數位檔案的參與建置過程，如大數據分析與資料探勘、GIS(空間信息處理) 、數位多媒體、數位平台、也可增進未來數位人文之發展。\r\n本課程的教學設計，鼓勵學生在國際原住民民族誌紀錄片中進行數位學習，並創新製作議題。分週規劃為三大部分如下：\r\n一、深化對原住民族與民族誌紀錄片的認識；\r\n二、觀看一般主題的記錄片，如Discovery臺灣部落寶藏的一般介紹；\r\n特定原住民族特色或具批判意識者，如：阿美族的野菜、泰雅族織布歌——尤瑪．達陸演唱、馬耀比吼《天堂的小孩》、林建享《Kawut na cinat'kelang划大船》、布拉瑞揚舞團的「《路吶》我是舞者　也是人生的勇士」、嫄夢者《施秀菊》琉璃工坊，透過食衣住行樂舞工藝，展開對台灣原住民族的歸返之路。\r\n三、將原住民族與數位人文創新理念與實務結合，打造原創新時代。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033532/local_syllabus/attachment/33834/114-2%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%B0%91%E6%97%8F%E8%AA%8C%E8%88%87%E7%B4%80%E9%8C%84%E7%89%87%E8%A3%BD%E4%BD%9C.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "殖民地旅行文學",
+        "professor": "李映瑾,楊智景",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "文學院004-1室",
+        "type": "選修",
+        "description": "本課程以日治時期及其前後脈絡為主要視域，聚焦「行旅敘事／旅行書寫」如何生產地方想像與文化他者。課程核心將考察居台或遊台日本文人作品中的台灣形象，並進一步納入台灣作家的旅日、旅外與旅中書寫，以及日本作家的旅中或旅外文本，嘗試在多向度移動之中形成比較視角：不同出發位置的旅行者如何觀看他者、如何書寫自我與地方、又如何在異文化接觸的情境裡（再）編排權力關係與文化位階。\r\n課程將引入後殖民研究、異文化接觸理論與觀光人類學等觀點，分析行旅敘事中的凝視、再現、差異化與知識生產機制，並關注文本如何建構／協商殖民秩序下的身份、階級、種族與性別位置。為了使閱讀具有語境厚度，課程亦將先行介紹現當代文學與文化理論，並輔以同時代評論與歷史資料，作為對讀工具，以發掘行旅敘事在「彼時」的歷史意義，以及在「當代」仍具啟發性的文化與政治意涵；並透過「比較」的操作─「以『誰在旅行、為何旅行、如何書寫』為比較軸，對照不同族群／帝國位置下的移動經驗與地方再現。」\r\n具體教學目標如下：\r\n1. 透過精讀，精確掌握行旅敘事的敘事策略、修辭與觀看位置。\r\n2. 建立結合時代脈絡與歷史材料的解讀能力，能從社會結構與權力關係分析文本。\r\n3. 學習並應用後殖民理論、異文化接觸理論與觀光人類學視角，形成跨文本、跨地域的比較研究能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033650/local_syllabus/attachment/33838/114-2-%E6%A5%8A%E6%99%BA%E6%99%AF-%E6%AE%96%E6%B0%91%E5%9C%B0%E6%97%85%E8%A1%8C%E6%96%87%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "台灣文學與創意應用研究所",
+        "name": "台語文教學",
+        "professor": "陳瀅州",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "文學院004-1室",
+        "type": "選修",
+        "description": "本課程旨在探討台語文教學之相關知識，透過討論、分享與實務分析，培養台語文教學能力及其文化底蘊。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033416/local_syllabus/attachment/33830/%E5%8F%B0%E8%AA%9E%E6%96%87%E6%95%99%E5%AD%B8%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

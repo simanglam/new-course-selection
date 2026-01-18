@@ -1,0 +1,137 @@
+[
+    {
+        "id": "應用數學研究所",
+        "name": "偏微分方程數值方法（一）",
+        "professor": "陳孟豁",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "數學館312",
+        "type": "選修",
+        "description": "基礎偏微分方程式數值解與數值分析概述、parabolic與elliptic類型偏微分方程式的數值方法。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052910/local_syllabus/attachment/34381/NumericalPDE_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "應用數學研究所",
+        "name": "深度學習專題",
+        "professor": "呂秉澤",
+        "credits": 3,
+        "time": "一E 三E",
+        "location": "數學館307B",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052326/local_syllabus/attachment/34373/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%B0%88%E9%A1%8C%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "應用數學研究所",
+        "name": "機器學習專題",
+        "professor": "賴振耀",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "數學館308A",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2105741_01",
+        "targetGrade": "1",
+        "capacity": "24",
+        "memo": ""
+    },
+    {
+        "id": "應用數學研究所",
+        "name": "偏微分方程與物理專題",
+        "professor": "黃博峙",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "數學館308B",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2106233_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "應用數學研究所",
+        "name": "應用數學方法專題",
+        "professor": "尤玲凰",
+        "credits": 3,
+        "time": "一B 三B",
+        "location": "數學館307B",
+        "type": "選修",
+        "description": "Perturbation methods underlie almost all applications of physical applied mathematics, for instance, convection in porous media, fluid mechanics, celestial mechanics, traffic flow, optics, shock waves, reaction-diffusions and nonlinear oscillations. The aims of the course are to give a systematic account of modern perturbation methods and to show how it can be applied to differential equations (initial value problems, boundary value problems, eigenvalue problems). It includes introduction, methods of regular perturbations, methods of strained coordinates for periodic solutions, methods of matched asymptotic expansions, WKB methods, methods of multiple scales.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052314/local_syllabus/attachment/34372/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1pm.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "應用數學研究所",
+        "name": "論文選讀",
+        "professor": "廖文欽",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "數學館312",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2108804_01",
+        "targetGrade": "1",
+        "capacity": "36",
+        "memo": ""
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "張瑞恩",
+        "credits": 4,
+        "time": "二4,5 三6 四4,5",
+        "location": "數學館205",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_01",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援數學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "江謝宏任",
+        "credits": 4,
+        "time": "一6 二4,5 四4,5",
+        "location": "共同教室大樓206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_02",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援化學暨生物化學系一年級A班B班;星期一第6節為演習課，上課地改至數學館204教室。"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "賴振耀",
+        "credits": 4,
+        "time": "一4,5,6 三4,5",
+        "location": "共同教室大樓401",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101002_03",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援物理學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "張覺心",
+        "credits": 3,
+        "time": "二C 三6 四C",
+        "location": "共同教室大樓215",
+        "type": "必修",
+        "description": "教學目標：\r\n(一) 主要目標：使學生清楚的了解微積分的基本概念，透過各種實例的介紹，讓學生能對微積分有更多的認識，以備學生研習管理及社會科學相關數理課程時能有充分而紮實的數量基礎。\r\n(二) 次要目標：經由微積分的實做演算，培養學生應用微積分解決相關數學問題的能力及數學嚴密性的要求。\r\n課程概述：(1) 函數之積分及其應用；(2) 多變數函數之微分、積分及應用; (3) 微積分在機率上的應用。\r\n先修科目或先備能力：微積分（一）",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043318/local_syllabus/attachment/34096/114_2_Syllabus_1228.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院106教室。"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "陳孟豁",
+        "credits": 3,
+        "time": "二C 三6 四C",
+        "location": "共同教室大樓216",
+        "type": "必修",
+        "description": "教學目標： \r\n(一) 主要目標：使學生清楚的了解微積分的基本概念、法則及數學證明的要求，透過各種實例的介紹，讓學生能對微積分有更多的認識，以備學生研習管理及社會科學相關數理課程時能有充分而紮實的數量基礎。\r\n(二) 次要目標：經由微積分的實做演算，培養學生應用微積分解決相關數學問題的能力及數學嚴密性的要求。\r\n課程概述：(1) 函數之極限概念；(2) 函數之微分及其應用；(3) 指數與對數函數之微分及應用。\r\n先修科目或先備能力：無\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043387/local_syllabus/attachment/34097/%E5%BE%AE%E7%A9%8D%E5%88%86%28%E7%AE%A1%E9%99%A2%292025Spring_syllabus.doc",
+        "targetGrade": "1",
+        "capacity": "100",
+        "memo": "支援經濟學系一年級A班B班;星期三第6節為演習課，上課地改至管理學院107教室。"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分",
+        "professor": "呂秉澤",
+        "credits": 4,
+        "time": "一4,5 三4,5 四6",
+        "location": "共同教室大樓422",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2043408/local_syllabus/attachment/34098/Syllabus20241210.pdf",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "支援資訊管理學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "線性代數（一）",
+        "professor": "江謝宏任",
+        "credits": 3,
+        "time": "一E 二6 三E",
+        "location": "數學館205",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101011_01",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "支援數學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "線性代數",
+        "professor": "黃博峙",
+        "credits": 3,
+        "time": "二B,6 四B",
+        "location": "數學館201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101013_01",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "支援心理學系經濟學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分",
+        "professor": "潘志祥",
+        "credits": 3,
+        "time": "二C 三6 四C",
+        "location": "共同教室大樓211",
+        "type": "必修",
+        "description": "High school matheatics",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,Calculus,%20An%20applied%20approach&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
+        "targetGrade": "1",
+        "capacity": "100",
+        "memo": "支援財務金融學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "褚孫錦",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "共同教室大樓214",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101020_04",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "廖文欽",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "共同教室大樓211",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2101020_01",
+        "targetGrade": "1",
+        "capacity": "100",
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "尤玲凰",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "數學館201",
+        "type": "必修",
+        "description": "介紹無窮級數﹑多變數實數值函數之微分及積分﹑向量值函數之微分及積分，以及其計算之方法與應用",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042926/local_syllabus/attachment/34086/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1ce2.pdf",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "徐淑裕",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "共同教室大樓215",
+        "type": "必修",
+        "description": "教學目標：\r\n(一)\t主要目標：使學生清楚的了解微積分的基本概念、法則及數學證明的要求，透過各種實例的介紹，讓學生能對微積分有更多的認識，以備學生研習理工相關領域專業課程，能有充分而紮實的數學基礎。\r\n(二)\t次要目標：經由微積分的實作演算，培養學生應用微積分解決相關數學問題的能力及數學嚴密性的要求。\r\n先修科目或先備能力：微積分(一)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042960/local_syllabus/attachment/34087/%E5%B7%A5%E5%AD%B8%E9%99%A2%E5%BE%AE%E7%A9%8D%E5%88%86%28%E4%BA%8C%29%E8%AA%B2%E7%B6%B1%283%E5%AD%B8%E5%88%86-%E9%9B%BB%E6%A9%9F%2C%E6%A9%9F%E6%A2%B0%2C%E5%8C%96%E5%B7%A5%2C%E9%80%9A%E8%A8%8A%29.docx",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "黃志強",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "共同教室大樓204",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042970/local_syllabus/attachment/34088/Syllabus-114.2_Calculus.pdf",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援資訊工程學系電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組化學工程學系通訊工程學系一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "王琪仁",
+        "credits": 3,
+        "time": "一C 三C 四6",
+        "location": "共同教室大樓203",
+        "type": "必修",
+        "description": "To enable students to clearly understand the basic concepts, rules, and requirements of mathematical proofs of calculus. Through the introduction of various examples, students can have a better understanding of calculus so that they can have a sufficient and solid mathematical foundation when studying professional courses in science and engineering related fields. \r\nThrough practical calculations of calculus, cultivate students' ability to use calculus to solve related mathematical problems and the requirement of mathematical rigor.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042980/local_syllabus/attachment/34089/2026SCalculusSyllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "支援機械工程國際學士學位學程一年級A班B班;"
+    },
+    {
+        "id": "數學系",
+        "name": "微積分（二）",
+        "professor": "張守德",
+        "credits": 3,
+        "time": "一6 二C 四C",
+        "location": "共同教室大樓203",
+        "type": "必修",
+        "description": "教學目標：\r\n(一)\t主要目標：使學生清楚的了解微積分的基本概念、法則及數學證明的要求，透過各種實例的介紹，讓學生能對微積分有更多的認識，以備學生研習理工相關領域專業課程，能有充分而紮實的數學基礎。\r\n(二)\t次要目標：經由微積分的實作演算，培養學生應用微積分解決相關數學問題的能力及數學嚴密性的要求。\r\n先修科目或先備能力：微積分(一)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042993/local_syllabus/attachment/34090/%E5%BE%AE%E7%A9%8D%E5%88%86%EF%BC%88%E4%BA%8C%EF%BC%893%E5%AD%B8%E5%88%86.docx",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "支援地球與環境科學系一年級A班B班;星期一第6節為演習課，上課地改至數學館203教室。"
+    },
+    {
+        "id": "數學系",
+        "name": "高等微積分（二）",
+        "professor": "黃志強",
+        "credits": 4,
+        "time": "二4,5 三6 四4,5",
+        "location": "數學館201",
+        "type": "必修",
+        "description": "Syllabus: Advanced Calsulus (II)\n\r\n1. Description:\n\r\nThis course is concerned with the basic theories of the analysis of sequences and functions deﬁned on R n or a complete metric space. There are two topics that we will cover throughout the course:\n\r\n1: Multidimensionall Theory: Sequences, functions, diﬀerentiablity, ingetrability on R n . 2: Abstract Theory.\n\r\n2. Topic prerequisites:\n\r\nCalculus.\n\r\n3. Couse information:\n\r\n(a) Lecture: Every Tue. and Thu. 10:10-12:00\n\r\n(b) Seminar: Every Wed. 12:10-13:00\n\r\n(c) Room: Math. Building 201\n\r\n(d) Textbook:\n\r\n• An Introduction to Analysis/ William R. Wade\n\r\n• Elementary classical analysis /Jerrold E. Marsden, Michael J. Hoﬀman\n\r\n• Principles of Mathematical Analysis /W. Rudin\n\r\n(e) Teacher: Chih-Chiang Huang, E-mail: cchuang@ccu.edu.tw, Math Building 435\n\r\n(f) Oﬃce hours: Wed. 13:00-15:00, Math. Building 435\n\r\n4. Grading Grade (100%)= Final exam (40%)+ Midterm exam 1,2 (20%*2)+ Quiz (20%) ( Choose 5 from\n\r\n6)\n\r\n5. Exam Schedule\n\r\n(a) Quiz1-6: In 2nd, 4th, 8th, 10th, 14th, 16th weeks.\n\r\n(b) Midterm Exam1, 2: In 6th, 12th weeks\n\r\n(c) Final Exam: In 18th week.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058962/local_syllabus/attachment/34651/Syllabus%20114.2%20Advanced%20Calculus.pdf",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "數學系",
+        "name": "代數",
+        "professor": "張守德",
+        "credits": 4,
+        "time": "一4,5 三4,5",
+        "location": "數學館203",
+        "type": "必修",
+        "description": "教學目標：\r\n(一)\t主要目標：使學生清楚的了解代數的基本概念、法則及數學證明的要求，透過各種實例的介紹，讓學生能對代數有基本的認識，以備學生研習數學專業課程，能有充分而紮實的基礎。\r\n(二)\t次要目標：經由代數的實作演算，培養學生應用代數解決相關數學問題的能力及數學嚴密性的要求。\r\n先修科目或先備能力：以修過數學導論、線性代數（一）（二）為佳",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059085/local_syllabus/attachment/34652/%E4%BB%A3%E6%95%B8.docx",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "數學系",
+        "name": "向量微積分",
+        "professor": "張覺心",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "數學館204",
+        "type": "選修",
+        "description": "本課程是微積分的延伸課程，主要內容為：介紹多變數實數值、單變數向量值、多變數向量值等類型之函數的微分與積分的觀念與計算。\r\n課程概述： 1. 連續、微分、梯度、散度、旋度 2. 參數化曲線、參數化曲面 3. 線積分、面積分、Green 定理、Stokes定理。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059458/local_syllabus/attachment/34674/114_2_Syllabus_1229.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "數學系",
+        "name": "數值分析導論",
+        "professor": "王琪仁",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "數學館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2103613_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "數學系",
+        "name": "統計科學",
+        "professor": "沈仲維",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "數學館527",
+        "type": "選修",
+        "description": "教學目標：介紹統計學中處理資料及發現訊息之方法與原理，並由數理之角度描述與解釋這些方法與原理。\r\n課程概述：由介紹隨機現象可由參數化之機率模型描述開始，進而討論如何估計參數並介紹估計方法、誤差量法及一些最佳化性質，最後介紹假設檢定方法及其性質。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059220/local_syllabus/attachment/34658/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E6%95%B8%E5%AD%B8%E7%B3%BB%20%E7%B5%B1%E8%A8%88%E7%A7%91%E5%AD%B8.pdf",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": "先修科目(2102702)機率模型(及格)(2102701)機率論(及格)(只要符合任一先修條件)"
+    },
+    {
+        "id": "數學系",
+        "name": "統計方法",
+        "professor": "王价輝",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "數學館204",
+        "type": "選修",
+        "description": "本課程介紹統計學的基礎概念與方法，從機率概念由淺入深導引學生進入基本統計觀念，瞭解抽樣分配與估計的演算與運用。主題包括機率概念、常用之機率分配(離散和連續)、抽樣分配、點估計、區間估計、假設檢定與迴歸分析等，透過數學推導及解釋，建立學生對統計方法的理解與應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059231/local_syllabus/attachment/34659/2103711%E7%B5%B1%E8%A8%88%E6%96%B9%E6%B3%95.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "先修科目(2102701)機率論(及格)(2102702)機率模型(及格)(只要符合任一先修條件)"
+    },
+    {
+        "id": "數學系",
+        "name": "偏微分方程導論",
+        "professor": "黃博峙",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "數學館203",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2104201_01",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": ""
+    }
+]

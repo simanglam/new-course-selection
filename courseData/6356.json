@@ -1,0 +1,270 @@
+[
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "民法債編總論",
+        "professor": "楊宏暉",
+        "credits": 2,
+        "time": "四12,13",
+        "location": "台北校區教室1",
+        "type": "必修",
+        "description": "民法債編總論為民事法律行為交易中最重要的部分。本課程擬以循序漸進之說明方式，介紹民法債編總論的基本規定與原理原則，建立正確之思考模式。另外，鑑於近年歐盟在債法上的統合與德國債法的修正，因此，除說明我國法之規定外，並於相關部分介紹最新之立法動向。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080503/local_syllabus/attachment/35568/%E5%82%B5%E7%B8%BD%E6%A6%82%E8%BF%B0%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "刑法分則",
+        "professor": "盧映潔",
+        "credits": 2,
+        "time": "四14,15",
+        "location": "台北校區教室1",
+        "type": "必修",
+        "description": "本課程的教學目標在於：刑法為所有刑事法規之根本，而刑法分則又為罪名的基從，欲掌握刑事法令，並進一步適切運用，則對最基本罪名之理解與掌握乃成為首要之工作。刑法分則主要係針對罪名的構成要件提供分折之指導方針，對各種犯罪行為之適用加以拆解。本課程乃以闡明分則中各非之意義及法理詮釋為根本之工作，進而將各罪名加以系統化之整合，以利修研者能易於掌握刑法真正之內涵。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [],
+        "assessmentMethods": [
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077537/local_syllabus/attachment/35488/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%8F%B0%E5%8C%97%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E5%88%91%E5%88%86%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "勞動法",
+        "professor": "鄭津津,周兆昱",
+        "credits": 2,
+        "time": "六7,8",
+        "location": "台北校區教室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077836/local_syllabus/attachment/35501/%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E5%8B%9E%E5%8B%95%E6%B3%95-%E9%84%AD%E6%B4%A5%E6%B4%A5%20%E5%91%A8%E5%85%86%E6%98%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "信託法",
+        "professor": "謝哲勝,高階主管法律碩士在職專班待聘教師1",
+        "credits": 2,
+        "time": "日1,2",
+        "location": "台北校區教室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_635A023_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "畢業論文(一)",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,江義雄,李仁淼,郝鳳鳴,廖蕙玟,盧映潔,黃俊杰,葉錦鴻,盛子龍,林盟翔,林洲富,許兆慶,林韋仲,劉建宏,江嘉琪,曾品傑,王韻茹,廖宗聖,洪令家,姚信安,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,梁弘孟,謝國欣,李文輝,封昌宏,江朝聖,張韻琪,蔡明誠,蔡鐘慶,林家祺,馮善詮,林琬珊,周廷翰,趙士瑋,蘇倚德",
+        "credits": 2,
+        "time": "五1,2",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": " ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077229/local_syllabus/attachment/35463/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%EF%BC%88%E4%B8%80%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "請務必完成論文指導教授申請，方可選修。"
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "畢業論文(二)",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,江義雄,李仁淼,郝鳳鳴,廖蕙玟,盧映潔,黃俊杰,葉錦鴻,盛子龍,林盟翔,林洲富,許兆慶,林韋仲,劉建宏,江嘉琪,曾品傑,王韻茹,廖宗聖,洪令家,姚信安,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,梁弘孟,謝國欣,李文輝,封昌宏,江朝聖,張韻琪,蔡明誠,蔡鐘慶,林家祺,馮善詮,林琬珊,周廷翰,趙士瑋,蘇倚德",
+        "credits": 2,
+        "time": "五3,4",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077220/local_syllabus/attachment/35462/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)或同時修習畢業論文(一)。"
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "畢業論文(三)",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,江義雄,李仁淼,郝鳳鳴,廖蕙玟,黃俊杰,葉錦鴻,盛子龍,林盟翔,林洲富,許兆慶,林韋仲,劉建宏,江嘉琪,曾品傑,王韻茹,廖宗聖,洪令家,姚信安,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,梁弘孟,謝國欣,李文輝,封昌宏,江朝聖,張韻琪,蔡明誠,蔡鐘慶,林家祺,馮善詮,林琬珊,周廷翰,趙士瑋,蘇倚德",
+        "credits": 2,
+        "time": "五5,6",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": " ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077210/local_syllabus/attachment/35461/%E7%95%A2%E6%A5%AD%E8%AB%96%E6%96%87%28%E4%B8%89%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "請務必完成論文指導教授申請，方可選修。 需修習過畢業論文(一)與畢業論文(二)或同時修習畢業論文(一)與畢業論文(二)。"
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "憲法專題",
+        "professor": "吳信華,張志偉,單鴻昇",
+        "credits": 2,
+        "time": "六1,2",
+        "location": "台北校區教室1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080637/local_syllabus/attachment/35576/%E9%AB%98%E9%9A%8E%E5%B0%88%E7%8F%AD%E6%86%B2%E6%B3%95%E5%B0%88%E9%A1%8C%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "建議曾修習過憲法基礎課程者選修，未修習過上述課程者請自行斟酌修讀。"
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "論文寫作方法與AI輔助",
+        "professor": "高文琦,高階主管法律碩士在職專班待聘教師1",
+        "credits": 2,
+        "time": "五12,13",
+        "location": "台北校區教室1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_635A221_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "洗錢防制與打擊資恐",
+        "professor": "高階主管法律碩士在職專班待聘教師1",
+        "credits": 2,
+        "time": "六3,4",
+        "location": "台北校區教室1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2142352/local_syllabus/attachment/35654/%E6%B4%97%E9%8C%A2%E9%98%B2%E5%88%B6%E8%88%87%E6%89%93%E6%93%8A%E8%B3%87%E6%81%90%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A1%A8%E6%A0%BC%20%28002%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "智慧財產法專題研究",
+        "professor": "蘇倚德",
+        "credits": 2,
+        "time": "日7,8",
+        "location": "台北校區教室1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082074/local_syllabus/attachment/35616/%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E6%AC%8A%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%29%28%E8%98%87%E5%80%9A%E5%BE%B7%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法學院高階主管法律碩士在職專班",
+        "name": "ESG與法律專題研究(二)",
+        "professor": "廖宗聖",
+        "credits": 2,
+        "time": "六9,10",
+        "location": "台北校區教室1",
+        "type": "選修",
+        "description": "1. 「永續發展」概念、定義及議題係從國際環境法發展而來，2015年至2030年聯合國制訂永續發展目標（SDGs），做為各國遵循的目標指引。另一方面，2005年聯合國倡議：「金融機構負責任的投資」，進而提出ESG（環境、社會及治理）投資的指標，並作為引導的依據。處於永續發展及永續金融的趨勢下，對我國公、私部門（特別是企業）而言，不僅是挑戰也是機會。\r\n2.ESG與法律（一）的課程重點在於氣候變遷、淨零排放與法律的部分，ESG與法律（二）的部分將會重心放在整體ESG與法律部分。\r\n3.時間：每位老師上課一次，每次4個小時。\r\n1. The concept, definition, and issues surrounding \"Sustainable Development\" originated from the development of international environmental law. From 2015 to 2030, the United Nations established the Sustainable Development Goals (SDGs) to serve as a guiding framework for nations to follow. Concurrently, in 2005, the United Nations advocated for \"Responsible Investment by Financial Institutions,\" leading to the introduction of ESG (Environmental, Social, and Governance) indicators as investment guidelines. In the context of these trends in sustainable development and sustainable finance, both the public and private sectors in Taiwan—particularly corporations—face a landscape that presents both significant challenges and unique opportunities.\r\n2. The curriculum for ESG and Law (I) focuses primarily on climate change, net-zero emissions, and the law. In contrast, ESG and Law (II) shifts its focus toward the comprehensive legal framework of ESG as a whole.\r\n3. Schedule: Each instructor will conduct one session, with each session lasting four hours.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079209/local_syllabus/attachment/35528/ESG%E8%88%87%E6%B3%95%E5%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B62%28%E7%A2%A9%E5%B0%88%E7%8F%AD%E6%96%B0%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

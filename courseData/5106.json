@@ -1,0 +1,455 @@
+[
+    {
+        "id": "國際經濟研究所",
+        "name": "個體經濟理論（二）",
+        "professor": "沈豪斌",
+        "credits": 3,
+        "time": "二C,D",
+        "location": "管理學院322",
+        "type": "必修",
+        "description": "Economic theories are fables: simplified stories that convey insight by distilling complex realities into stylized, imaginary settings. In this course, we aim to look past the mathematical wrapper that often serves auxiliary purposes in economic research, and instead extract the core lessons offered by modern economic theory.\n\r\nThe course is organized into two main parts. In the first part, we focus on the foundational tools required to formulate a sound economic theory. This includes learning logic and game theory in a constructive manner. Students are expected to master the material in this section and develop the analytical skills that will be essential for the remainder of the course.\n\r\nIn the second part, we explore a range of topics from applied economic theory. The objective here is not to work through technical details, but to understand the fundamental incentive mechanisms underlying classic results, such as free-riding in teamwork, stable matching in marriage markets, Arrow's impossibility theorem, and persuasion through information concealment.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045746/local_syllabus/attachment/34152/2026%20Spring%20Microeconomics%20Theory%20II%20AACSB%20syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "產業組織（一）",
+        "professor": "唐孟祺",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "管理學院322",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105161_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "產業組織（三）",
+        "professor": "郭芳彰",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": "This course provides a graduate-level introduction to Industrial Organization (IO), with a focus on empirical methods and applications. Structural models are the key components in modern Industrial Organization. We will start by introducing production function estimation. Demand estimation will be the main part of this course. We will also cover empirical applications in different industries, and see how these empirical techniques apply to analyses of competition policies. \n\r\nThe goal of this course is to provide students with knowledge and toolkit to conduct empirical analyses that involves structural models, to evaluate economic/business policies, and to critically read quantitative research papers.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048218/local_syllabus/attachment/34260/syllabus2026.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "計量經濟學（二）",
+        "professor": "賴宏彬",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "管理學院336",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045850/local_syllabus/attachment/34154/ECM2_G_syllabus_20260117.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "個體計量經濟學（一）",
+        "professor": "曾富民",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院336",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105311_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "國際貿易（一）",
+        "professor": "陳偉智",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "管理學院336",
+        "type": "必修",
+        "description": "The objective of this course is to introduce students to theoretical models and empirical studies of international trade at the graduate level. Topics covered include the Ricardian and HO models, increasing returns and gravity equations, regional trade agreements, tariff and non-tariff trade policies, political economy of trade policies, and FDI and multinational firms. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045660/local_syllabus/attachment/34150/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_%E9%99%B3%E5%81%89%E6%99%BA_%E5%9C%8B%E9%9A%9B%E8%B2%BF%E6%98%93I.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "國際金融（一）",
+        "professor": "歐陽溥蔓",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5105501_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "國際金融（二）",
+        "professor": "吳致寧",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "管理學院320",
+        "type": "必修",
+        "description": "Both theoretical models and empirical applications will be discussed in this course. Students who register are assumed to be familiar with time series econometrics. Technical details may not be discussed in the course. There is a mid-term examination but no final examination. You are required to hand in a term paper. The topics of your term paper should be related to the topics in the syllabus. If the size of the class is very small then I may ask for class presentation. The grade of your class presentation depends on several factors such as the successfulness of your presentation and the importance of the selected article. Your final grade is determined by your class presentation (0 or 10%), term paper (70%) and the mid-term examination (20% or 30%). The literature with a star (*) in the syllabus will be discussed in class if we have enough time. Sit in the class is not suggested since you are likely to waste your time.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048042/local_syllabus/attachment/34249/Syllabus__2017_Sv.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "勞動經濟學",
+        "professor": "陳怡妏",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "This course covers the topics on work horizon, human capital, labor supply and so on. Also, introduce related econometric methods in order to gain comprehensive knowledge and skills on labor economics. This course is designed to provide students with the required ability and knowledge to explore related labor issues further. The class format will be lecture and discussion.\n\r\nThe objective of this course is that graduate students need to know how to apply those knowledge and econometric skills to explore and study the related issues on labor economics and improve the presentation skills in English.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045885/local_syllabus/attachment/34155/Syllabus_Labor%20Economics.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "都市經濟學",
+        "professor": "洪以儒",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院336",
+        "type": "選修",
+        "description": "Location matters. Economic activities vary across space. Locations shape individuals' labor market opportunities, residential choices, schooling, and accessibility to consumption and services. For firms, locations determine the cost of inputs and outputs, the level of competition, accessibility to markets, local regulations and policies, and, thus, profits. The aggregation of individuals’ and businesses’ location decisions affects the size and performance of cities and regions.\n\r\nThis course will be taught in Mandarin, though most, if not all, course materials will be in English. The course, Topics in Urban Economics, designed for students with an advanced understanding of microeconomics and econometrics, introduces core ideas and models in urban economics, especially related to city formation, size, productivity, and housing prices. In this course, we will apply microeconomic concepts to understand the differences in economic activities across spaces. We will also investigate the role of cities and regions in aggregate economic development. Finally, we will discuss applications to related fields in economics, including labor economics, economics of race and discrimination, environmental economics, and other socioeconomic topics related to spaces.\n\r\nAnother main goal of this course is to introduce research strategies, modeling tools, and potential measurement and identification problems while studying urban economics. These tools and methods can also be useful in various economic topics, especially for your thesis. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045638/local_syllabus/attachment/34148/syllabus_spring2026.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "國際經濟研究所",
+        "name": "國際經濟專題研討（二）",
+        "professor": "劉文献",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "管理學院208",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045647/local_syllabus/attachment/34149/5105804.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(5105101)個體經濟理論（一）(曾經修習)(5105201)總體經濟理論（一）(曾經修習)(5105301)計量經濟學（一）(曾經修習)(所有先修條件都必須符合)博士生修習此課程須填報擋修單加簽"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "碩士論文（一）",
+        "professor": "王瑜琳,陳芳岳,崔曉倩,劉文献,孫佳宏,李偉銘,賴宏彬,陳和全,翁世芳,唐孟祺,許毓珊,陳偉智,曾富民,歐陽溥蔓,郭芳彰,陳怡妏,洪以儒,沈豪斌",
+        "credits": 3,
+        "time": "二13,14,15",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "本課程由學生與指導教授互動，進行論文編寫等研討",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076955/local_syllabus/attachment/35444/index.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "同學先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "碩士論文（二）",
+        "professor": "王瑜琳,陳芳岳,崔曉倩,劉文献,孫佳宏,李偉銘,賴宏彬,陳和全,翁世芳,唐孟祺,許毓珊,陳偉智,曾富民,歐陽溥蔓,郭芳彰,陳怡妏,洪以儒,沈豪斌",
+        "credits": 3,
+        "time": "三13,14,15",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "本課程由學生與指導教授互動，進行論文編寫等研討",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076966/local_syllabus/attachment/35445/index.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(510A008)碩士論文（一）(曾經修習)同學須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "世界貿易組織法律與政策",
+        "professor": "林韋仲",
+        "credits": 2,
+        "time": "六10,11",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": "本課程的講授內容係以國際公法基本原理為出發點，首先就國際經濟法的概念、法源進行介紹，並進一步就世界貿易組織的組織架構、主要規範內容及爭端解決機制進行介紹。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080158/local_syllabus/attachment/35554/%28%E6%9B%B4%E6%96%B0%29AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29%20-%20%E4%B8%96%E7%95%8C%E8%B2%BF%E6%98%93%E7%B5%84%E7%B9%94%E6%B3%95%E5%BE%8B%E8%88%87%E6%94%BF%E7%AD%96.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本系選修課修課人數若低於12人,得不開課"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "財經市場動態",
+        "professor": "郭芳彰",
+        "credits": 2,
+        "time": "六12,13",
+        "location": "管理學院426會議室",
+        "type": "選修",
+        "description": "1.\t理解金融市場的結構與功能\r\n能夠說明股票、債券、匯率與大宗商品市場的基本架構與運作方式。\r\n2.\t掌握核心財經指標的意涵與解讀能力\r\n能夠解讀CPI、GDP、利率、匯率、失業率等指標在實務與政策上的意涵。\r\n3.\t追蹤與分析國內外財經新聞\r\n能以經濟學視角解析當前重大財經事件（如升息、戰爭、貿易摩擦等）對市場的影響。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079411/local_syllabus/attachment/35542/%E8%B2%A1%E7%B6%93%E5%B8%82%E5%A0%B4%E5%8B%95%E6%85%8B_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本系選修課修課人數若低於12人,得不開課"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "論文導讀（一）",
+        "professor": "王瑜琳,陳芳岳,崔曉倩,劉文献,孫佳宏,李偉銘,賴宏彬,陳和全,翁世芳,唐孟祺,許毓珊,陳偉智,曾富民,歐陽溥蔓,郭芳彰,陳怡妏,洪以儒,沈豪斌",
+        "credits": 3,
+        "time": "四13,14,15",
+        "location": "管理學院320",
+        "type": "選修",
+        "description": "本課程由學生與指導教授互動，進行論文編寫等研討",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076946/local_syllabus/attachment/35443/index.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "學生須先修滿12學分，且經指導教授同意後，才能選修「論文導讀(一)」及「碩士論文(一)、(二)」，且「碩士論文(一)、(二)」不得同時選修。"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "國際經濟分析",
+        "professor": "陳芳岳,許毓珊",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "管理學院426會議室",
+        "type": "必修",
+        "description": "幫助學員簡要 有效的學習國際經濟專業知識與分析技能， 理論與實證並重， 培養學生 對相關政策的評估與論述能力。 邀請產官學界國際經濟的菁英演講，幫助 同學日後深化學習提供優良的基礎，修課學員可以進一步延展到學習商學領域的相關科目。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期中報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080063/local_syllabus/attachment/35552/11402%E5%9C%8B%E9%9A%9B%E7%B6%93%E6%BF%9F%E5%88%86%E6%9E%90%28%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29BB.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(510A601)經濟分析(曾經修習)"
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "專題與研究選讀",
+        "professor": "陳怡妏,洪以儒",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "管理學院426會議室",
+        "type": "必修",
+        "description": "This course explores various economics research topics in recent literature.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079264/local_syllabus/attachment/35532/%E5%B0%88%E9%A1%8C%E8%88%87%E7%A0%94%E7%A9%B6%E9%81%B8%E8%AE%80_2026.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)國際經濟研究所",
+        "name": "數據實務與AI寫作",
+        "professor": "賴宏彬,曾富民",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "管理學院336",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_510A805_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本系選修課修課人數若低於12人,得不開課."
+    }
+]

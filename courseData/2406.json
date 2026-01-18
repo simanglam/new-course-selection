@@ -1,0 +1,98 @@
+[
+    {
+        "id": "數學研究所",
+        "name": "分析通論(一)",
+        "professor": "褚孫錦",
+        "credits": 3,
+        "time": "一E 三E",
+        "location": "數學館308B",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405005_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "數學研究所",
+        "name": "近代幾何學導論（二）",
+        "professor": "張瑞恩",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "數學館308B",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405008_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "數學研究所",
+        "name": "複變分析（一）",
+        "professor": "徐淑裕",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "數學館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058793/local_syllabus/attachment/34643/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-complex%20analysis.doc",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "數學研究所",
+        "name": "代數通論（二）",
+        "professor": "陳星谷",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "數學館308B",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2405402_01",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "數學研究所",
+        "name": "論文選讀",
+        "professor": "廖文欽",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "數學館312",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2408806_01",
+        "targetGrade": "1",
+        "capacity": "36",
+        "memo": ""
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "id": "生物醫學研究所",
+        "name": "生物醫學書報討論（二）",
+        "professor": "戴建國",
+        "credits": 1,
+        "time": "五2,3",
+        "location": "生醫系228",
+        "type": "必修",
+        "description": "藉由本課程讓學生瞭解現今生物醫學的發展與最新知識。此外亦將訓練學生研讀生物醫學科學期刊論文之能力以及訓練學生對科學性結果之表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055060/local_syllabus/attachment/34503/1_2_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "生醫碩一必修"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "生物醫學書報討論（四）",
+        "professor": "吳淑芬",
+        "credits": 1,
+        "time": "五4,5",
+        "location": "生醫系236",
+        "type": "必修",
+        "description": "藉由本課程讓學生瞭解現今生物醫學的發展與最新知識。此外亦將訓練學生研讀生物醫學科學期刊論文之能力以及訓練學生對科學性結果之表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055069/local_syllabus/attachment/34504/2_2_%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%96%28%E5%9B%9B%29.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "生醫碩二必修"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "高等細胞生物學",
+        "professor": "李沁",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "生醫系236",
+        "type": "必修",
+        "description": "To understand the structure-function cellular mechanisms of eukaryotic cells",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055079/local_syllabus/attachment/34505/1_2_%E9%AB%98%E7%AD%89%E7%B4%B0%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%B8.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[限大四以上學生選修]"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "基因治療與免疫專題研究（二）",
+        "professor": "戴建國,吳淑芬",
+        "credits": 2,
+        "time": "一13,14 三13,14",
+        "location": "生醫系460",
+        "type": "選修",
+        "description": "本課程內容乃著重在基因載體的研究與應用及其分子技術實際操作。其中包括：組織培養、基因載體的設計、純化與基因治療的運用。介紹與了解免疫學與免疫治療的相關研究。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055106/local_syllabus/attachment/34506/%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%99%82%E8%88%87%E5%85%8D%E7%96%AB%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "生物物理化學特論",
+        "professor": "李政怡,方前量",
+        "credits": 3,
+        "time": "五9,10,11",
+        "location": "生醫系534",
+        "type": "選修",
+        "description": "統整物理與化學的基礎，結合新穎技術，進行生物課題的探討，培養分析問題與科學研究的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055115/local_syllabus/attachment/34507/%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%B8%E7%89%B9%E8%AB%96.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[A.基因體與蛋白質體學群]"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "表觀基因體學",
+        "professor": "蕭淑惠,呂昱瑋,陳永恩",
+        "credits": 3,
+        "time": "四G,H",
+        "location": "生醫系236",
+        "type": "選修",
+        "description": "藉由基礎學理之介紹輔以其在正常發育及疾病產生之佐證，讓學生循序了解表觀基因體學在現代醫學之重要性",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055137/local_syllabus/attachment/34508/Syllabus_Epigenomics_Graduate_2025.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[A.基因體暨蛋白質體學群][分生碩_必選(三選一)]"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "表觀基因體學專題研究（二）",
+        "professor": "蕭淑惠,陳永恩",
+        "credits": 2,
+        "time": "一13,14 三13,14",
+        "location": "生醫系236",
+        "type": "選修",
+        "description": "藉由本課程訓練學生研讀表觀基因體學等相關論文之能力以及訓練學生 對科學性結果之分析及論文寫作能力",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055168/local_syllabus/attachment/34509/%E8%A1%A8%E8%A7%80%E5%9F%BA%E5%9B%A0%E9%AB%94%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E4%BA%8C.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "癌症幹細胞專題研究(二)",
+        "professor": "翁靖傑",
+        "credits": 1,
+        "time": "四13,14",
+        "location": "生醫系534",
+        "type": "選修",
+        "description": "藉由國際文獻期刊的選讀增進學生英文閱讀能力，從而訓練學生縝密的邏輯以及連貫思考的能力。於每周的授課中我們會探討癌症生物學以及癌症動物模式的最新發展，這些閱讀的過程中將會加強基礎研究工作的深度以及廣度。這些結果將會培養學生對研究成果之閱讀、討論與評價之能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055179/local_syllabus/attachment/34510/%E7%99%8C%E7%97%87%E5%B9%B9%E7%B4%B0%E8%83%9E%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "人類疾病的細胞機制特論",
+        "professor": "黃敏郎",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": "以人類疾病出發，探討各種細胞機制之原理及其相關之病理，進而探索細胞機制之未來研究方向。上課包含老師引領討論及學生分組上台報告專業論文兩部分，上台報告前老師予以輔導，報告後繳交作業，讓同學練習自我學習、 組織、及溝通能力、及語言文字表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055187/local_syllabus/attachment/34511/4_2%28%20%E7%94%9F%E9%86%AB%E7%A2%A9%29%E4%BA%BA%E9%A1%9E%E7%96%BE%E7%97%85%E4%B9%8B%E7%B4%B0%E8%83%9E%E6%A9%9F%E5%88%B6%E7%89%B9%E8%AB%96_112%E5%AD%B8%E5%B9%B4%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[B.分子與細胞生物學群]"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "模式生物之生物醫學研究特論",
+        "professor": "黃敏郎",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": "模式生物為探索疾病機制之重要工具，且為測試藥物及探索尖端醫療之前哨， 本課旨在了解模式生物在生物醫學研究上的應用。上課包含老師引領討論及學生分組上台報告專業論文兩部分，上台報告前老師予以輔導，報告後繳交作業，讓同學練習自我學習、  組織、及溝通能力、及語言文字表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055216/local_syllabus/attachment/34512/%28%20%E7%94%9F%E9%86%AB%E7%A2%A9%29%E6%A8%A1%E5%BC%8F%E7%94%9F%E7%89%A9%E4%B9%8B%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E7%A0%94%E7%A9%B6_112%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[B.分子與細胞生物學群]"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "醫學與研究倫理",
+        "professor": "陳祖裕",
+        "credits": 1,
+        "time": "一10",
+        "location": "生醫系456(研討室)",
+        "type": "選修",
+        "description": "本課程為提供生物醫學研究所學生於從事醫學相關研究時所需遵循的倫理守則及必要的知識。授課內容涵蓋三個部分：(1) 醫學倫理的基礎：從事醫學相關研究之人員，宜對臨床醫療的倫理有基本的認識，本部分是以案例引導學生認知及思考臨床醫療的倫理原則、倫理抉擇的秘訣，以及常見的臨床倫理議題；(2) 人體研究參與者的保護：醫學研究常會使用人的檢體或資料，甚至採用介入方法從事診斷或治療，本部分是以案例引導學生認知及思考人體研究倫理及如何保護研究參與者的安全與權益；(3) 研究廉正：這是所有研究者必須遵循的規範，本部分是以案例引導學生認知及思考學術研究的基本倫理。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055021/local_syllabus/attachment/34501/%E7%94%9F%E9%86%AB%E7%A2%A9_%E9%86%AB%E5%AD%B8%E8%88%87%E7%A0%94%E7%A9%B6%E5%80%AB%E7%90%86%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_113%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8%20%28%E9%99%B3%E7%A5%96%E8%A3%95%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "本門課採隔週上課，每次2小時(週一16:00-18:00)"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "高等病毒學",
+        "professor": "楊玫琳",
+        "credits": 3,
+        "time": "一E,F",
+        "location": "生醫系236",
+        "type": "選修",
+        "description": "本課程主要介紹病毒的相關知識，更深入的探討病毒的基本結構、形態、基因組成、複製模式、致病機轉與宿主生物的相互作用等。並著重於分子病毒學、病毒診斷及抗病毒策略的探討，學習各類病毒的特徵及病毒學的研究對生物科技領域的應用。除了參考書籍中的內容外並結合最新的期刊文獻與學生討論，增加師生互動。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055242/local_syllabus/attachment/34513/6_%E7%94%9F%E9%86%AB%E7%A2%A9_%E9%AB%98%E7%AD%89%E7%97%85%E6%AF%92%E5%AD%B8.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "生醫碩_必選(三選一)"
+    },
+    {
+        "id": "生物醫學研究所",
+        "name": "科學英文寫作與溝通",
+        "professor": "黃步敏",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": "As a graduate student and scholar, “Scientific English Writing and Communication” is very important. This course will illustrate what a basic scientific paper is, and student can then know how to read and criticize a scientific paper. Besides, writing a scientific proposal, presenting data in public, and defending his/her thesis will also be introduced.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055050/local_syllabus/attachment/34502/5_%E7%94%9F%E9%86%AB%E7%A2%A9_%E7%A7%91%E5%AD%B8%E8%8B%B1%E6%96%87%E5%AF%AB%E4%BD%9C%E8%88%87%E6%BA%9D%E9%80%9A%20113-2%20%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "[C.其他核心課程]"
+    }
+]

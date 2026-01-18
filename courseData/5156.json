@@ -1,0 +1,520 @@
+[
+    {
+        "id": "財務金融研究所",
+        "name": "財務程式設計",
+        "professor": "陳立文",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": "本課程幫助財務金融系學生培養足夠的程式設計能力，以利分析大數據、應用高科技，進而實現財金新創意。具體目標為：\r\n第一、強化學生程式設計的知識與能力，以利未來學習其他程式語言。\r\n第二、幫助學生了解自己在財務金融軟體開發過程中所扮演的角色。\r\n第三、培養學生與其他程式設計師溝通與合作的能力。\n\r\n課程重點在於程式設計的技術而非理論，因此課堂練習與分組專案為上課主軸。本課程設計一系列由淺入深的課堂練習，幫助學生熟悉基本程式語法以及應用方式。專案要求學生根據所學財務理論設定問題，並開發輔助程式以實際解決問題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049629/local_syllabus/attachment/34298/%E8%B2%A1%E5%8B%99%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(5155100)財務管理(曾經修習)(5153340)期貨與選擇權(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "財務資料分析",
+        "professor": "雲慕書",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": "本⾨課主要⽬的為訓諫學⽣在財務資料上的實證分析能⼒，透過課堂指導、討論、與分組報告來熟悉該如\r\n何將所學的財務理論實際上投⼊市場分析。課堂使⽤的程式為SAS 統計軟體。SAS 在⼤量資料的處理上具\r\n有⾼度效率，並且包含了各種常財務資料常⽤的統計分析模組。透過程式撰寫，學⽣可以對於加深對於財\r\n務資料結構的了解、並熟悉該如何以程式語⾔和電腦溝通。這不論是對於接下來的論⽂撰寫、乃⾄於畢業\r\n後從事分析相關的⼯作都為不可或缺的技能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049569/local_syllabus/attachment/34296/%E8%B2%A1%E5%8B%99%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_2026.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(5155200)投資管理學(及格)(5155100)財務管理(及格)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "期貨市場",
+        "professor": "何加政",
+        "credits": 3,
+        "time": "一3,4,5",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": "This course is to provide students with a general understanding of the economic functions of futures markets.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049118/local_syllabus/attachment/34290/FM2026S_SY.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "選擇權市場",
+        "professor": "陳安行",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5155235_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "永續金融",
+        "professor": "林佳賢",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院350",
+        "type": "選修",
+        "description": "This is an introductory course of sustainable finance. This course provides students with a broad understanding of how financial system includes the ESG considerations.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049362/local_syllabus/attachment/34292/sustainable%20finance_syllabus_2026_spring.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "不動產估價實務",
+        "professor": "花良釗",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049406/local_syllabus/attachment/34293/114-2%20%E8%B2%A1%E5%8B%99%E9%87%91%E8%9E%8D%20%E6%89%80%E4%B8%8D%E5%8B%95%E7%94%A2%E4%BC%B0%E5%83%B9%E5%AF%A6%E5%8B%99%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "指數化投資",
+        "professor": "陳慧倢",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院350",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5155655_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "財務報表分析",
+        "professor": "鄭揚耀",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049746/local_syllabus/attachment/34302/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%28G2026%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "投資組合分析",
+        "professor": "蔡佩蓉",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049497/local_syllabus/attachment/34295/AACSB%20grad_syllabus_spring26.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "股票價值分析",
+        "professor": "黃冠瑛",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060386/local_syllabus/attachment/34720/%28%E6%9B%B4%E6%96%B0%29AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E7%A2%A9%E5%A3%AB%E7%8F%AD%29_%E9%BB%83%E5%86%A0%E7%91%9B_%E8%82%A1%E7%A5%A8%E5%83%B9%E5%80%BC%E5%88%86%E6%9E%90.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "金融科技市場與服務",
+        "professor": "金融科技碩士學位學程待聘教師1",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "管理學院102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5156250_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "國際金融",
+        "professor": "何月芳",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院102",
+        "type": "選修",
+        "description": "This course introduces students to the complexities of financial management in an international context, emphasizing the importance of global integration of financial markets that create various risks and opportunities for individual investors and firms. The course will focus on theoretical and practical knowledge required by international financial executives and financial analysts who need to deal with problems related to the foreign exchange market, foreign exchange risk management, international markets, and international financial management. The in-class discussions will include some CFA (Chartered Financial Analyst) exam questions. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049579/local_syllabus/attachment/34297/International%20Finance-Graduate%20Spring%202026%20%28AACSB%E5%85%AC%E7%89%88%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "財務金融研究所",
+        "name": "資本市場專題",
+        "professor": "陳安行",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院359",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5157104_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "金融市場與機構",
+        "professor": "林佳賢",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082220/local_syllabus/attachment/35626/FMI%20_syllabus_2026_spring.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "期貨市場",
+        "professor": "何加政",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "管理學院201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079230/local_syllabus/attachment/35530/FMW2026S_SY.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "證券分析",
+        "professor": "陳安行",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_515A012_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "論文（一）",
+        "professor": "何加政,林文昌,陳安行,李佩璇,鄭揚耀,賴靖宜,林子綾,雲慕書,林佳賢,黃冠瑛",
+        "credits": 3,
+        "time": "四13,14,15",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077721/local_syllabus/attachment/35492/%E8%AB%96%E6%96%87%28%E4%B8%80%29%E4%BF%AE%E8%AA%B2%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(515A003)金融市場與機構(曾經修習)"
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "論文（二）",
+        "professor": "何加政,林文昌,陳安行,李佩璇,鄭揚耀,賴靖宜,林子綾,雲慕書,林佳賢,黃冠瑛",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077751/local_syllabus/attachment/35494/%E8%AB%96%E6%96%87%28%E4%BA%8C%29%E4%BF%AE%E8%AA%B2%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(515A003)金融市場與機構(曾經修習)"
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "統計與數量方法",
+        "professor": "賴靖宜",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": "本課程設計旨在使修課同學認識數量統計的分析方法，熟悉財經資料庫的使用與資料處理的程序，並執行資料分析工具的應用。同學將在修課期間學習至少一種計量軟體的操作，俾助於後續論文研究的順利執行，以及提升職場所需之數據分析的技能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080395/local_syllabus/attachment/35565/syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "財務報表分析",
+        "professor": "鄭揚耀",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077730/local_syllabus/attachment/35493/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%282026%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)財務金融研究所",
+        "name": "不動產估價實務",
+        "professor": "花良釗",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081430/local_syllabus/attachment/35602/114-2%E4%B8%AD%E6%AD%A3%E8%B2%A1%E9%87%91%E6%89%80%E5%B0%88%E7%8F%AD%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "id": "英語教學研究所",
+        "name": "研究方法",
+        "professor": "吳勉禛",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "文學院355",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1365006_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "英語教學研究所",
+        "name": "文法教學",
+        "professor": "林惠玲",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院355",
+        "type": "選修",
+        "description": "One of the most controversial issues surrounding the teaching of grammar is whether to teach it at all. This course aims to discuss this issue by introducing what grammar is and explaining why it is necessary to teach grammar. Theories, practical issues, and resources of grammar teaching will be introduced to familiarize students with the available choices.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060317/local_syllabus/attachment/34714/2026_Grammar%20Teaching.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "英語教學研究所",
+        "name": "英語閱讀教學",
+        "professor": "陳慧菁",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "文學院355",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1365063_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "英語教學研究所",
+        "name": "AI輔助學術寫作",
+        "professor": "鄭英雪",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "文學院355",
+        "type": "選修",
+        "description": "This course is a research-and-practice seminar on AI-assisted academic writing. Each week, students read and discuss journal articles on generative AI (e.g., ChatGPT) in academic writing and L2 writing contexts, and complete short practice tasks that connect research insights to their own writing and research design. The final course product is a full paper in which students explore a self-selected topic within AI-assisted academic writing research areas (e.g., AI feedback uptake, AI literacy, paraphrasing practices, policy/disclosure, AWE vs GenAI, learner perceptions). ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058953/local_syllabus/attachment/34650/01%20Syllabus-AI-assisted%20Academic%20Writing.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

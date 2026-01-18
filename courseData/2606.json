@@ -1,0 +1,381 @@
+[
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "有機合成（二）",
+        "professor": "洪伯誠",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "化生系402",
+        "type": "選修",
+        "description": "學習進階有機反應及有機合成等知識並加以運用，並藉由逆合成分析研究設計合成有機分子的策略。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033115/local_syllabus/attachment/33812/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_114%E5%AD%B8%E5%B9%B4%E5%BA%A6-2026.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "高等有機化學（一）",
+        "professor": "許岱欣",
+        "credits": 3,
+        "time": "五C,D",
+        "location": "化生系502",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033374/local_syllabus/attachment/33826/%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "生化分子",
+        "professor": "朱延和",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "化生系502",
+        "type": "選修",
+        "description": "Protein biotechnology; bacterial quorum sensing; antibiotics and their mechanisms of action.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033152/local_syllabus/attachment/33813/%E7%94%9F%E5%8C%96%E5%88%86%E5%AD%90%20%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_114%E5%AD%B8%E5%B9%B4%E5%BA%A6.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "藥物生化",
+        "professor": "程中玉",
+        "credits": 3,
+        "time": "五B,C",
+        "location": "化生系317",
+        "type": "選修",
+        "description": "藥物生化大綱\n\r\n課程要旨:使大四及碩博班學生能由生物學(大ㄧ安排之選修)及生物化學(一)(二)(大三之必修選修)知識延伸至與藥物結構和藥物作用原理相關的化學,也藉此科目做為研究藥物化學的開端\n\r\n書名如下: \r\nMedical pharmacology at a glance (上課講義)\r\nPrinciple of human physiology (6th edition課本)\r\n上課以課文解說生物生理與藥物之關聯,再以講義輔助化學性質與藥物作用做整理,學生容易一目了然並記憶活用.\n\r\n1.\tPrinciple of drug actions\r\n2.\tDrug absorption distribution and excretion and metabolism\r\n3.\tThe Gastrointestinal system and related therapeutic drugs (I)\r\n4.\tThe Gastrointestinal system and related therapeutic drugs (II)\r\n5.\tThe blood and its coagulation action \r\n6.\tDrugs on anticoagulation\r\n7.    The respiratory systems and related therapeutic drugs (I)\r\n8.\tThe respiratory systems and related therapeutic drugs (II)\r\n9.\tThe urinary system: renal function and related therapeutic drugs (I)\r\n10.\tThe urinary system: renal function and related therapeutic drugs (II)\n\r\n符合之系所核心能力\r\n1.\t具備化學、生物化學或材料化學之專業知識\r\n2.\t創新思考、解決問題及獨立研究之能力\r\n3.\t閱讀英文書籍與期刊文獻的能力\r\n4.    對於化學相關領域具備國際視野。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042867/local_syllabus/attachment/34081/2026%E8%97%A5%E7%89%A9%E7%94%9F%E5%8C%96%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "有機金屬化學",
+        "professor": "于淑君",
+        "credits": 3,
+        "time": "二B,C",
+        "location": "化生系102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605328_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "無機光譜化學",
+        "professor": "華紹安",
+        "credits": 3,
+        "time": "四B,C",
+        "location": "化生系502",
+        "type": "選修",
+        "description": "無機化學\r\n群論",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ccu.primo.exlibrisgroup.com/discovery/search?query=any,contains,Fundamentals%20of%20Molecular%20Spectroscopy&tab=Everything&search_scope=MyInst_and_CI&vid=886CCU_INST:886CCU_INST&lang=zh-tw&offset=0",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "生物化學特論：生物分子結構與功能",
+        "professor": "陳皓君",
+        "credits": 3,
+        "time": "一C,D",
+        "location": "化生系402",
+        "type": "選修",
+        "description": "學習各種生物分子之結構與功能，包括蛋白質、核酸、脂質、碳水化合物和代謝物，讓學生可以將之應用於不同的研究領域。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042895/local_syllabus/attachment/34083/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1--%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%B8%E7%89%B9%E8%AB%96-114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "計算化學",
+        "professor": "胡維平",
+        "credits": 3,
+        "time": "二B,C",
+        "location": "化生系313",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605457_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "電化學分析",
+        "professor": "周禮君",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "化生系317",
+        "type": "選修",
+        "description": "This course will introduce the basic concepts of analytical electrochemistry and the techniques involved in electrochemical analysis. Students who successfully complete this course should have: (1) An understanding of the fundamental of electrochemistry. (2) An understanding of the electroanalytical methods.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033262/local_syllabus/attachment/33817/ECA-outline114.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "分離方法",
+        "professor": "陳彥伶",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "化生系116",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605527_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "專題演講(二)",
+        "professor": "王少君",
+        "credits": 1,
+        "time": "二8,9",
+        "location": "化生系315",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605802_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "化學教學法與實習",
+        "professor": "王少君",
+        "credits": 3,
+        "time": "一H,I",
+        "location": "化生系201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605804_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "有機化學書報討論（二）",
+        "professor": "洪伯誠",
+        "credits": 1,
+        "time": "四8,9",
+        "location": "化生系317",
+        "type": "必修",
+        "description": "閱讀，報告，探討和學習，最新發表在世界頂尖期刊上前沿的有機化學相關論文。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033316/local_syllabus/attachment/33821/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1-2026-Feb.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "無機化學書報討論（二）",
+        "professor": "曾炳墝",
+        "credits": 1,
+        "time": "一8,9",
+        "location": "化生系502",
+        "type": "必修",
+        "description": "引導學生選擇適當的一篇文獻研讀，並且配合相關文獻補充，在課堂上報告，並且接受問題詢問及回答。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033329/local_syllabus/attachment/33822/%E7%84%A1%E6%A9%9Fseminar%28114-2%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "物理化學書報討論（二）",
+        "professor": "蔡旻燁",
+        "credits": 1,
+        "time": "一8,9",
+        "location": "化生系402",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2605929_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "分析化學書報討論（二）",
+        "professor": "周禮君",
+        "credits": 1,
+        "time": "一8,9",
+        "location": "化生系319",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033355/local_syllabus/attachment/33824/SemG-outline114b.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "化學暨生物化學研究所",
+        "name": "分析化學書報討論（四）",
+        "professor": "陳皓君",
+        "credits": 1,
+        "time": "一8,9",
+        "location": "化生系315",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033364/local_syllabus/attachment/33825/2026%20AC%20Sem%20rules-Grad.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id": "機械工程國際學士學位學程",
+        "name": "應用力學(二)",
+        "professor": "張怡玲",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "工學院B館117",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065596/local_syllabus/attachment/35013/%E6%87%89%E7%94%A8%E5%8A%9B%E5%AD%B8%E4%BA%8C-%E5%BC%B5%E6%80%A1%E7%8E%B2%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "1",
+        "capacity": "23",
+        "memo": "限本系生修.與機械系合開"
+    },
+    {
+        "id": "機械工程國際學士學位學程",
+        "name": "工程圖學(二)",
+        "professor": "陳翼弘",
+        "credits": 1,
+        "time": "一7,8,9",
+        "location": "創新大樓201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065605/local_syllabus/attachment/35014/Engineering_Graphics_%28II%29-YiHung_Chen.pdf",
+        "targetGrade": "1",
+        "capacity": "23",
+        "memo": "限本系生修.與機械系合開"
+    },
+    {
+        "id": "機械工程國際學士學位學程",
+        "name": "工場實習(二)",
+        "professor": "巫翔裘",
+        "credits": 1,
+        "time": "五4,5,6",
+        "location": "工學院C館實習工廠102",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065614/local_syllabus/attachment/35015/MachineShop02_outline_Eng0106_02.pdf",
+        "targetGrade": "1",
+        "capacity": "23",
+        "memo": "先修科目(4231004)工場實習(一)(及格)限本系生修.與機械系合開"
+    }
+]

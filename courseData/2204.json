@@ -1,0 +1,966 @@
+[
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "林俊元",
+        "credits": 1,
+        "time": "四5 五4,5",
+        "location": "物理館106",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032733/local_syllabus/attachment/33806/%E6%9E%97%E4%BF%8A%E5%85%83-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2905.docx",
+        "targetGrade": "1",
+        "capacity": "42",
+        "memo": "支援通訊工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "甘宏志",
+        "credits": 1,
+        "time": "四9 五4,5",
+        "location": "物理館206",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032809/local_syllabus/attachment/33807/%E7%94%98%E5%AE%8F%E5%BF%97-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2906.docx",
+        "targetGrade": "1",
+        "capacity": "54",
+        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "姚欣佑",
+        "credits": 1,
+        "time": "四5 五2,3",
+        "location": "物理館206",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032883/local_syllabus/attachment/33808/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2907-A.docx",
+        "targetGrade": "1",
+        "capacity": "52",
+        "memo": "支援機械工程學系機械工程組一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "林財鈺",
+        "credits": 1,
+        "time": "四5 五2,3",
+        "location": "物理館112",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032958/local_syllabus/attachment/33809/%E6%9E%97%E8%B2%A1%E9%88%BA-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2908.docx",
+        "targetGrade": "1",
+        "capacity": "54",
+        "memo": "支援機械工程學系光機電整合工程組一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "陶巧妤",
+        "credits": 1,
+        "time": "四7,8,9",
+        "location": "物理館502TEAL教室",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033031/local_syllabus/attachment/33810/%E9%99%B6%E5%B7%A7%E5%A6%A4-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2909.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "支援機械工程國際學士學位學程一年級A班;第1次上課務必出席"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "物理系待聘教師1",
+        "credits": 1,
+        "time": "一7,8,9",
+        "location": "物理館506光學實驗室",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033105/local_syllabus/attachment/33811/%E7%BE%85%E6%9B%89%E6%95%8F-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2910.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "先修科目(2201002)普通物理實驗（二）(曾經修習);實際上課地點於物理館502 TEAL教室,第一堂課開始點名"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "李宗翰",
+        "credits": 1,
+        "time": "一8,9 四5",
+        "location": "物理館101",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032640/local_syllabus/attachment/33803/%E6%9D%8E%E5%AE%97%E7%BF%B0-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2904.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "支援電機工程學系一年級B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "門福國",
+        "credits": 1,
+        "time": "一10,11 三5",
+        "location": "物理館502TEAL教室",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032068/local_syllabus/attachment/33785/%E9%96%80%E7%A6%8F%E5%9C%8B-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2901.docx",
+        "targetGrade": "1",
+        "capacity": "47",
+        "memo": "支援化學暨生物化學系一年級A班;地球與環境科學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "姚欣佑",
+        "credits": 1,
+        "time": "一10,11 三5",
+        "location": "物理館101",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032149/local_syllabus/attachment/33786/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2907-A.docx",
+        "targetGrade": "1",
+        "capacity": "44",
+        "memo": "支援地球與環境科學系一年級A班;化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席,實際上課地點於物理館502 TEAL教室"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理實驗（二）",
+        "professor": "温秉彝",
+        "credits": 1,
+        "time": "一8,9 四5",
+        "location": "物理館502TEAL教室",
+        "type": "必修",
+        "description": "從簡單的物理實驗，培養基礎動手作實驗能力，學習分析實驗現象與分析數據方法，進一步深入了解普通物理學內容。\r\n項次\t名稱\t內容\r\n1\t實驗一：靜電實驗及靜電場模擬\t(1)觀察靜電感應與電荷問相互作用力的現象。(2)觀察靜電屏蔽現象。(3)利用數值運 \r\n                          算程式模擬靜電場之電場及電位分佈。\r\n2\t實驗二：三用電錶(電壓)操作實驗與等電位實驗 (1)練習使用三用電錶測量電路元件之電壓。 (2)觀察各種不同電荷分 \r\n                          布的等電位面(equipotential surface)垂直的電力線形狀。\r\n3\t實驗三：靜電力實驗\t測量一般狀態下空氣的介電係數 。\r\n4\t實驗四：三用電錶(電流)、歐姆定律與電容實驗\t(1)練習使用三用電錶測量電路元件之電流。 (2)觀察電阻兩端電壓 \r\n                          與所通過電流之關係, 驗證歐姆定律。(3)以鋁箔為電極製作簡單之電容，按高斯定律所得之公式，估算其電 \r\n                          容值，並將估算值與電容錶所量測之結果比較。\r\n5\t實驗五：克希荷夫實驗\t量測電路中的電流與電位差, 並與理論值比較,驗證克希荷夫定律，並了解克希荷夫定律在電 \r\n                          路上的應用。\r\n6\t實驗六：示波器操作與RC 直流電路\t(1)熟悉示波器及波形產生器的歸零操作及校正。(2)研究RC電路中電荷的鬆弛現 \r\n                          象(Relaxation)。\r\n7\t實驗七：磁力實驗\t(1)研究在2條導線間所受的磁力。(2)測量磁導率 。\r\n8\t實驗八：法拉第定律\t透過磁通量變化和感應電流的關係來了解法拉第感應定律。\r\n9\t實驗九：RLC 直流電路\t研究RLＣ線路的電荷振盪現象。\r\n10\t實驗十：RLC 交流電路\t研究RCL電路的強迫振盪現象。\r\n11\t實驗十一：光的繞射與干涉\t(1)觀察光通過單狹縫時所產生的繞射現象，並量測亮、暗紋的位置和理論值比較。\r\n                              (2)觀察光通過雙狹縫後所產生的繞射及干涉條紋，並利用此條紋側量出雷射光源的波長。(3)觀察多狹縫 \r\n                              及光柵的繞  射現象，並利用光柵繞射求出雷射光的波長。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032224/local_syllabus/attachment/33787/%E6%B8%A9%E7%A7%89%E5%BD%9D-%E6%99%AE%E7%89%A9%E5%AF%A6%E9%A9%97%28%E4%BA%8C%2903-A%20%281%29.docx",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": "支援電機工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;第1次上課務必出席"
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理（二）",
+        "professor": "包健華",
+        "credits": 4,
+        "time": "二4 三10 四4 五4",
+        "location": "物理館212",
+        "type": "必修",
+        "description": "1. Electrostatics: charge and field\n\r\n2. The Electric potential\n\r\n3. Electric Field around Conductors\n\r\n4. Electric Currents\n\r\n5. The Fields of Moving Charges\n\r\n6. The Magnetic Field\n\r\n7. Electromagnetic Induction\n\r\n8. Alternating-Current Circuits\n\r\n9. Maxwell’s Equations and Electromagnetic Waves\n\r\n10. Electric Fields in Matter\n\r\n11. Magnetic Fields in Matter",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2033897/local_syllabus/attachment/33843/%E5%8C%85%E5%BB%BA%E8%8F%AF-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E4%BA%8C%29B.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理實驗學（二）A組",
+        "professor": "曲宏宇",
+        "credits": 4,
+        "time": "四7,8,9,10",
+        "location": "物理館525",
+        "type": "必修",
+        "description": "課程分課堂講授與實驗室實驗二部分。講授電腦軟體Matlab程式撰寫，圖形化程式介面，LC / RC / RLC電路及模擬，類比濾波 / 數位濾波，二極體/電晶體/運算放大器/數位IC，DAQ，常用感測器，PDE方程式，模擬Wave equation運動，arduino wifi控制，Vpython等內容。最後課程以專題實作檢驗學習成效。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034200/local_syllabus/attachment/33844/%E6%9B%B2%E5%AE%8F%E5%AE%87-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E4%BA%8C%29A.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "先修科目(2201008)基礎物理實驗學（一）A組(60分以上)限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "陶巧妤",
+        "credits": 3,
+        "time": "二4,5 四4",
+        "location": "物理館307",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2029943/local_syllabus/attachment/33779/%E9%99%B6%E5%B7%A7%E5%A6%A4-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2903.docx",
+        "targetGrade": "1",
+        "capacity": "58",
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "姚欣佑",
+        "credits": 3,
+        "time": "二4,5 四4",
+        "location": "物理館106",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2030380/local_syllabus/attachment/33781/%E5%A7%9A%E6%AC%A3%E4%BD%91-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2904-AB.docx",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": "支援機械工程國際學士學位學程一年級A班;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "温秉彝",
+        "credits": 3,
+        "time": "二4,5 四4",
+        "location": "物理館206",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2030806/local_syllabus/attachment/33782/%E6%B8%A9%E7%A7%89%E5%BD%9D-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2905.docx",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "甘宏志",
+        "credits": 3,
+        "time": "二8,9 四8",
+        "location": "物理館206",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2031195/local_syllabus/attachment/33783/%E7%94%98%E5%AE%8F%E5%BF%97-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2906.docx",
+        "targetGrade": "1",
+        "capacity": "100",
+        "memo": "支援化學工程學系一年級A班;地球與環境科學系不得選修,化學暨生物化學系不得選修,電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,通訊工程學系不得選修;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "包健華",
+        "credits": 3,
+        "time": "四12,13,14",
+        "location": "物理館107",
+        "type": "必修",
+        "description": "這是一門非同步線上自我學習的課程，若有學習上面或作業上的問題可選擇參加每週四的演習 課，若欲註冊此課程的同學 (包含加簽），第一堂課必須出席(at room 107, 6pm on 2/26/2026).\r\nIf you plan to register this on-line course, you must show up in the first class meeting at room 107 at 6pm on 2/26/2026. I will give a lecture for what you need to do in this on-line course and the requirements to pass this on-line course.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2031645/local_syllabus/attachment/33784/%E5%8C%85%E5%81%A5%E8%8F%AF-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2907-%E9%87%8D-%E9%81%A0.docx",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "先修科目(2201011)普通物理（一）(60分以上)(2201012)普通物理（二）(曾經修習)(所有先修條件都必須符合)限本系生修.第一堂為實體上課; 欲修課但未符合先修條件者第一堂務必出席"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "物理系待聘教師1",
+        "credits": 3,
+        "time": "一4,5 三4",
+        "location": "物理館206",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028228/local_syllabus/attachment/33761/%E7%BE%85%E6%9B%89%E6%95%8F-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2901.docx",
+        "targetGrade": "1",
+        "capacity": "100",
+        "memo": "支援地球與環境科學系化學暨生物化學系一年級A班;電機工程學系不得選修,機械工程學系光機電整合工程組不得選修,機械工程學系機械工程組不得選修,化學工程學系不得選修,通訊工程學系不得選修;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "張晃暐",
+        "credits": 3,
+        "time": "二4,5 四4",
+        "location": "理學院215演講廳",
+        "type": "必修",
+        "description": "Introducing the general concept of physics for the students majoring science and engineering\r\n週次\t上課內容\r\n1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II)\r\n3\tGauss’s Law \r\n4\tElectric Potential \r\n5\tCapacitance and Dielectrics \r\n6\tElectric Current and Resistance \r\n7\tDirect Current (DC) Circuits \r\n8\tThe Magnetism \r\n9\tSources of Magnetic Field (I)\r\n10\tSources of Magnetic Field (II)\r\n11\tElectromagnetic Induction and Faraday’s Law\r\n12\tInductance, Magnetic oscillations, and AC circuits (I) \r\n13\tInductance , Magnetic oscillations, and AC circuits (II)\r\n14\tMaxwell’s Equations and Electromagnetic Waves (I)\r\n15\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n16\tThe Nature of Light and Interference of Light Waves \r\n17\tDiffraction and Polarization",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2028643/local_syllabus/attachment/33764/%E5%BC%B5%E6%99%83%E6%9A%90-%E6%99%AE%E7%89%A9%28%E4%BA%8C%2902.docx",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "支援電機工程學系機械工程學系光機電整合工程組機械工程學系機械工程組通訊工程學系一年級A班B班;地球與環境科學系不得選修,化學暨生物化學系不得選修,化學工程學系不得選修;"
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理實驗學（二）B組",
+        "professor": "段必輝",
+        "credits": 4,
+        "time": "二7,8,9,10",
+        "location": "物理館502TEAL教室",
+        "type": "必修",
+        "description": "本課程旨介紹不同感測器及電子元件之特性及應用，搭配電學實驗、Arduino開發板控制，使學生對程式語言撰寫更為熟練，並進而培養基礎儀器控制之能力，以完成簡易專案之開發。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2034252/local_syllabus/attachment/33845/%E6%AE%B5%E5%BF%85%E8%BC%9D-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E4%BA%8C%29B.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "先修科目(2201009)基礎物理實驗學（一）B組(60分以上)限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理演習（二）",
+        "professor": "包健華",
+        "credits": 1,
+        "time": "四5",
+        "location": "物理館212",
+        "type": "選修",
+        "description": "1.\t Electric Field  (10 hrs)                                 \r\n2.\t Coulomb Law and Gauss Law  Potential (6 hrs)         \t \t\t                       \r\n3.\tCapacitance and Dielectric (6 hrs)\r\n4.\tElectrostatic field in Matter (2 hrs) \r\n5.\tCurrent and Resistance (4 hrs) \r\n6.\tMagetostatics  Lorentz force, Biot-Savart Law and Ampere Law (6 hrs)\r\n7.\tMagnetrostatic field in Matter  (2 hrs)                       \r\n8.\tElectromagnetic Inducton  (Faraday’s Law)   (4 hrs)\r\n9.\tInductance and AC circuits   (6 hrs)  \r\n10.\tMaxwell’s Equations and Electromagnetic Waves (6 hrs) \r\n11.\tOptics (Interference and Diffraction)  (6 hrs)\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041407/local_syllabus/attachment/34065/%E5%8C%85%E5%BB%BA%E8%8F%AF-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E4%BA%8C%29%E6%BC%94%E7%BF%92B.docx",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "學術活動研習",
+        "professor": "姚欣佑",
+        "credits": 2,
+        "time": "五13,14",
+        "location": "物理館206",
+        "type": "選修",
+        "description": "以「做中學」為核心理念，透過參與並協助大型學術會議的籌備與執行，讓學生在真實的學術社群情境中培養專業素養與社會實踐能力。課程設計結合課堂講授、分組討論與實際操作，學生將在團隊合作、任務規劃、活動執行與成果反思的過程中，逐步建立正確的學習態度與價值觀。課程同時強調人際溝通、情緒管理與問題解決能力的養成，並引導學生認識學術社群的運作模式與未來發展趨勢。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048197/local_syllabus/attachment/34258/%E5%A7%9A%E6%AC%A3%E4%BD%91%E6%9B%B2%E5%AE%8F%E5%AE%87-%E5%AD%B8%E8%A1%93%E6%B4%BB%E5%8B%95%E7%A0%94%E7%BF%92.docx",
+        "targetGrade": "1",
+        "capacity": "110",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理（二）",
+        "professor": "陳偉家",
+        "credits": 4,
+        "time": "二4,5 三10 四4",
+        "location": "物理館105",
+        "type": "必修",
+        "description": "1\tThe Electric Field and Coulomb Law (I)\r\n2\tThe Electric Field and Coulomb Law (II), Gauss’s Law\r\n3\tGauss’s Law, Electric Potential\r\n4\tElectric Potential, Capacitance and Dielectrics\r\n5\tElectric Current, Resistance, and direct Current (DC) Circuits\r\n6\tThe Magnetism\r\n7\tSources of Magnetic Field (I)\r\n8\tSources of Magnetic Field (II), \r\nElectromagnetic Induction and Faraday’s Law (I)\r\n9\tElectromagnetic Induction and Faraday’s Law (II)\r\n10\tInductance, Magnetic oscillations, and AC circuits (I)\r\n11\tInductance, Magnetic oscillations, and AC circuits (II),\r\nMaxwell’s Equations and Electromagnetic Waves (I)\r\n12\tMaxwell’s Equations and Electromagnetic Waves (II)\r\n13\tThe Nature of Light and Interference of Light Waves\r\n14\tDiffraction and Polarization\r\n15\tEarly Quantum theory and Models of the atom (I)\r\n16\tEarly Quantum theory and Models of the atom (II), \r\nQuantum Mechanics (I)\r\n17\tQuantum Mechanics (II)\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041416/local_syllabus/attachment/34066/%E9%99%B3%E5%81%89%E5%AE%B6-%E6%99%AE%E7%89%A9%28%E4%BA%8C%29A%E7%B5%84.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "支援物理學系一年級;限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "觀念物理（二）",
+        "professor": "陳偉家",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "物理館307",
+        "type": "必修",
+        "description": "日常生活處處有物理。透過本課程引導學生以科學眼光來看世界。科學知識並不是我們教學之目的，而是傳授掌握方法與精神，讓學生藉由探索思維過程來認識科學發現的歷程與進展。本課程教材將搭配物理學影集系列-「科學的足跡」。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041888/local_syllabus/attachment/34067/%E9%99%B3%E5%81%89%E5%AE%B6-%E8%A7%80%E5%BF%B5%E7%89%A9%E7%90%86%28%E4%BA%8C%29.docx",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "支援生物醫學科學系一年級;"
+    },
+    {
+        "id": "物理學系",
+        "name": "普通物理演習(二)",
+        "professor": "陳偉家",
+        "credits": 1,
+        "time": "四5",
+        "location": "物理館105",
+        "type": "選修",
+        "description": "Introduce the general concept of physics for the Students in the major of Science and Engineer",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041938/local_syllabus/attachment/34068/%E9%99%B3%E5%81%89%E5%AE%B6-%E6%99%AE%E7%89%A9%E6%BC%94%E7%BF%92%28%E4%BA%8C%29A.docx",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "限本系生修.務必選修普通物理(二)220102201課程"
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理數學",
+        "professor": "吳欣澤",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "物理館206",
+        "type": "選修",
+        "description": "I. Linear Algebra:\r\n1.\tVector Spaces\r\n2.\tLinear Transformations\r\n3.\tMatrix Algebra\r\n4.\tSystems of Linear Equations\r\n5.\tEigenvalues and Eigenvectors\r\n6.\tQuadratic Forms\r\nII. Vector Calculus:\r\n1. Line, Surface and Volume Integrals\r\n2. Gradient, Divergence, and Curl\r\n3. Divergence and Stokes’ Theorems\r\n4. Curvilinear Coordinates\r\n5. Introduction to Tensors\t",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2041970/local_syllabus/attachment/34069/%E5%90%B3%E6%AC%A3%E6%BE%A4-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E6%95%B8%E5%AD%B8.docx",
+        "targetGrade": "1",
+        "capacity": "110",
+        "memo": "支援物理學系一年級;"
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理（四）",
+        "professor": "蘇旺昌",
+        "credits": 4,
+        "time": "二4,5 四4,5",
+        "location": "物理館107",
+        "type": "必修",
+        "description": "(IV) Statistical Thermodynamics\r\n1.\tFluid Mechanics(6hrs)                                   \t                       \r\n2.\tEnergy and the first law (6hrs)                           \r\n3.\tEntropy and the second law\t(8hrs)                        \r\n4.\tInteractions and Implications(6hrs)                          \r\n5.\tEngines and Refrigerators(4hrs)                            \r\n6.\tThermodynamic potential (8hrs)                          \t\t                     \r\n7.\tThe Boltzman statistics\t (8hrs)                          \r\n8.\tThe Quantum statistics\t(12hrs)",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042260/local_syllabus/attachment/34070/%E8%98%87%E6%97%BA%E6%98%8C-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E5%9B%9B%29B.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理演習（四）",
+        "professor": "蘇旺昌",
+        "credits": 1,
+        "time": "四8",
+        "location": "物理館105",
+        "type": "選修",
+        "description": "(IV) Statistical Thermodynamics\r\n1.\tFluid Mechanics (6 hrs)             \r\n2.\tEnergy and the first law (6 hrs)\r\n3.\tEntropy and the second law\t 8 hrs)\r\n4.\tInteractions and Implications (6 hrs)\r\n5.\tEngines and Refrigerators (4 hrs)\r\n6.\tThermodynamic potential (8 hrs)\t   \r\n7.\tThe Boltzman statistics (8 hrs)\r\n8.\tThe Quantum statistics (12 hrs) \t ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042324/local_syllabus/attachment/34071/%E8%98%87%E6%97%BA%E6%98%8C-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%28%E5%9B%9B%29%E6%BC%94%E7%BF%92B.docx",
+        "targetGrade": "2",
+        "capacity": "30",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "應用數學（二）",
+        "professor": "李宗翰",
+        "credits": 3,
+        "time": "一B 三B",
+        "location": "物理館106",
+        "type": "必修",
+        "description": "1.The Theory of Complex variables \r\n2.Applications of Complex variables\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042333/local_syllabus/attachment/34072/%E6%9D%8E%E5%AE%97%E7%BF%B0-%E6%87%89%E7%94%A8%E6%95%B8%E5%AD%B8%28%E4%BA%8C%29.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "基礎物理實驗學（四）B組",
+        "professor": "姚松偉",
+        "credits": 4,
+        "time": "一7,8,9,10",
+        "location": "物理館525",
+        "type": "必修",
+        "description": "本課程為為期四學期系列課程實驗物理一至四的第四學期課程。實驗物理課程主要為物理系大學部B軌系統學生設計，為其物理入門必修基礎課程，涵蓋程式語言撰寫，計算物理模擬，電子學實驗，光學實驗，儀器控制，影像處理，真空電漿鍍膜，黃光微影等。旨在培養學生未來進入研發環境實驗能力為基礎理念。期望學生打破自我學習恐懼的障礙，自我學習，學習團隊合作。本學期課程將著重整合進階技術，實現動手解決問題之能力。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042454/local_syllabus/attachment/34073/%E5%A7%9A%E6%9D%BE%E5%81%89-%E5%9F%BA%E7%A4%8E%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8%28%E5%9B%9B%29B.docx",
+        "targetGrade": "2",
+        "capacity": "22",
+        "memo": "先修科目(2202010)基礎物理實驗學（三）B組(60分以上)限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "進階光學實驗學",
+        "professor": "林俊元",
+        "credits": 4,
+        "time": "一7,8,9,10",
+        "location": "物理館505進階光學實驗室",
+        "type": "選修",
+        "description": "1.傅立葉光學\r\n2.光學鑷子\r\n3.光譜與光電效應\r\n4.聲光調變器實驗\r\n5.全像術\r\n6.基礎液晶教學實驗\r\n7.磁光柯爾效應\r\n8.差動共焦顯微術\r\n註: 實驗室提供桌上型電腦與Matlab軟體供學生做儀器自動化控制使用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047790/local_syllabus/attachment/34232/%E6%9E%97%E4%BF%8A%E5%85%83-%E9%80%B2%E9%9A%8E%E5%85%89%E5%AD%B8%E5%AF%A6%E9%A9%97%E5%AD%B8.docx",
+        "targetGrade": "3",
+        "capacity": "18",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "近代物理實驗學",
+        "professor": "秦伊瑩",
+        "credits": 4,
+        "time": "一7,8,9,10",
+        "location": "物理館522",
+        "type": "選修",
+        "description": "1. Photolithography\r\n2. Mask transfer\r\n3. Speed of light measurement\r\n4. Electron diffraction\r\n5. Millikan oil drop experiment\r\n6. Microwave interference experiment\r\n7. Electron spin resonance experiment\r\n8. Zeeman effect \r\n9. Franck-Hertz experiment\r\n10. Nuclear magnetic resonance experiment\r\n11. Faraday effect\r\n12. Hall effect\r\n利用實驗，培養學生解決問題的能力。學生必須蒐集資料以了解題目的物理意義，擬定實驗計畫、儀器組裝、數據取得、分析，藉由書面及口頭報告，接受其他同學的質疑，完成一完整的實驗工作。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047831/local_syllabus/attachment/34234/%E7%A7%A6%E4%BC%8A%E7%91%A9-%E8%BF%91%E4%BB%A3%E7%89%A9%E7%90%86%E5%AF%A6%E9%A9%97%E5%AD%B8.docx",
+        "targetGrade": "3",
+        "capacity": "18",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "物理學系",
+        "name": "量子物理（一）",
+        "professor": "包健華",
+        "credits": 4,
+        "time": "二8,9 四8,9",
+        "location": "物理館107",
+        "type": "必修",
+        "description": "1.\tThe Emergence of Quantum Physics\r\n•\tBlackbody Radiation \r\n•\tThe Bohr Atom (the Correspondence Principle)         \r\n2.\tWave Particle Duality, Probability and the Schrödinger Equation (Wave Mechanics) \r\n•\tClassical vs. Wave mechanics (duality of particle and wave) \r\n•\tThe Probability  Interpretation of the Wave Function \r\n•\tThe Schrödinger equation\r\n•\tProbability \r\n•\tNormalization \r\n•\tMomentum \r\n•\tUncertainty Principle  \r\n•\tWave Function in Momentum Space\r\n3.\tTime-independent Schrödinger Equation (1D cases)\r\n•\tStationary States The free particle\r\n•\tThe free particle\r\n•\tThe Infinite Square Well Potential \r\n•\tThe Harmonic Oscillator \r\n•\tThe Delta-function potential and its related problems\r\n•\tFinite Square Well Potential: Potential Well, Potential step, and Potential barrier\r\n4.\tFormalism for Quantum Mechanics \r\n•\tThe Stern-Gerlach experiment \r\n•\tQuantum states: the space of states; kets and its dual space-bras; inner product. \r\n•\tOperators, Eigenstates, Hermitian operators. \r\n•\tBase kets, Completeness, and Expansion in Eigenstates. \r\n•\tMatrix Representation. \r\n•\tChange of Basis \r\n•\tPostulates of Quantum Mechanics. \r\n•\tMeasurements, Observables, Commuting Operator, Compatible Observables, Noncommuting Operators, Incompatible Observables. \r\n•\tUncertainty Relations. \r\n•\tPosition, Momentum, and Translation. \r\n•\tWave Functions in Position and Momentum Space \r\n•\tApplication to Harmonic Oscillators\r\n5.\tQuantum Dynamics\r\n•\tTime Dependence and Classical limit \r\n•\tTime Evolution Operator \r\n•\tEnergy-time Uncertainly Relation \r\n•\tThe Schrodinger Picture versus Heisenberg Picture \r\n•\tThe Evolution of Momentum and Position in Harmonic Oscillator \r\n•\tCoherent States of Harmonic Oscillator\r\n6.\tSpin and addition of angular momentum\r\n•\tSpin: from Classical to Quantum Mechanics\r\n•\tEigenstates of spin 1/2 \r\n•\tSpin Precession and NMR \r\n•\tParamagnetic Resonance \r\n•\tAddition of Angular Momentum\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2042474/local_syllabus/attachment/34074/%E5%8C%85%E5%81%A5%E8%8F%AF-%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%28%E4%B8%80%29.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2201021)普通物理（一）(50分以上)(2201022)普通物理（二）(50分以上)(2101001)微積分（一）(50分以上)(2101002)微積分（二）(50分以上)(所有先修條件都必須符合)B組需加簽,但不列入畢業學分。"
+    },
+    {
+        "id": "物理學系",
+        "name": "電磁波",
+        "professor": "杜明憲",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "物理館106",
+        "type": "選修",
+        "description": "1.\tElectrodynamics\r\n2.\tConservation Laws\r\n3.\tElectromagnetic Waves\r\n4.\tPotentials and Fields\r\n5.\tElectromagnetic Radiation\r\n6.\tElectrodynamics and Relativity",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047861/local_syllabus/attachment/34235/%E6%9D%9C%E6%98%8E%E6%86%B2-%E9%9B%BB%E7%A3%81%E6%B3%A2.docx",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "先修科目(2202030)電磁學(及格)"
+    },
+    {
+        "id": "物理學系",
+        "name": "物理專題（二）",
+        "professor": "姚松偉",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "物理館303",
+        "type": "必修",
+        "description": "1.建立大學部高年級學生獨立研究的能力和參與研究計劃.                            \r\n2.學習閱讀各研究文章\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047993/local_syllabus/attachment/34246/%E5%A7%9A%E6%9D%BE%E5%81%89-%E7%89%A9%E7%90%86%E5%B0%88%E9%A1%8C%28%E4%BA%8C%29.docx",
+        "targetGrade": "3",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "物理學系",
+        "name": "論文研習與撰寫（二）",
+        "professor": "吳欣澤,李宗翰",
+        "credits": 4,
+        "time": "二13,14 四13,14",
+        "location": "物理館303",
+        "type": "必修",
+        "description": "本課程為四學期系列課程之第二學期的課程。主要為物理系大學部B軌系統學生設計，旨在搭配學生修習物理專題(一)~(四)參與物理系其一研究領域後，藉由研習相關文獻培養學生於此領域所需之專業知識，並加以訓練學生撰寫學術論文及口頭報告之能力。\r\n課程分為學術文獻研討及論文撰寫兩部分。\r\n每學年結束前將安排學生針對個人研究論文進度進行公開報告。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048032/local_syllabus/attachment/34248/%E5%90%B3%E6%AC%A3%E6%BE%A4%E6%9D%8E%E5%AE%97%E7%BF%B0-%E8%AB%96%E6%96%87%E7%A0%94%E7%BF%92%E8%88%87%E6%92%B0%E5%AF%AB%28%E4%BA%8C%29.docx",
+        "targetGrade": "3",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "物理學系",
+        "name": "論文",
+        "professor": "甘宏志",
+        "credits": 2,
+        "time": "三12 五12",
+        "location": "物理館304",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_2203117_01",
+        "targetGrade": "3",
+        "capacity": "35",
+        "memo": "B組必修"
+    },
+    {
+        "id": "物理學系",
+        "name": "固態物理導論（一）",
+        "professor": "林財鈺",
+        "credits": 3,
+        "time": "三C 五C",
+        "location": "物理館304",
+        "type": "選修",
+        "description": "1. Crystal structure: lattice types, basis vectors, unit cells.\r\n2. Crystal diffraction: Bragg condition, reciprocal lattice, Brillouin zones.\r\n3. Crystal binding: cohesive energy, ionic and covalent bonds.\r\n4. Lattice vibrations: acoustic and optic phonons\r\n5. Phonons: quantization, density of states, Bose-Einstein distribution, specific heat.\r\n6. Free-electron gas -- equilibrium: Fermi-Dirac distribution, Fermi-surface, specific heat.\r\n7. Free-electron gas -- transport: resistivity, thermal conductivity, Hall effect.\r\n8. Energy bands: Bloch function, Bloch’s Theorem, energy gaps.\r\n9. Semiconductors: semiclassical equations of motion, holes, mobility, donors and acceptors, applications.\r\nIf time permits:\r\n1. Magnetism.\r\n2. Superconductors.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048079/local_syllabus/attachment/34251/%E6%9E%97%E8%B2%A1%E9%88%BA-%E5%9B%BA%E6%85%8B%E7%89%A9%E7%90%86%E5%B0%8E%E8%AB%96.docx",
+        "targetGrade": "4",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "物理學系",
+        "name": "物理專題（四）",
+        "professor": "曲宏宇",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "物理館304",
+        "type": "必修",
+        "description": "1.建立大學部高年級學生獨立研究的能力和參與研究計劃.                            \r\n2.學習閱讀各研究文章\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048101/local_syllabus/attachment/34252/%E6%9B%B2%E5%AE%8F%E5%AE%87-%E7%89%A9%E7%90%86%E5%B0%88%E9%A1%8C%28%E5%9B%9B%29.docx",
+        "targetGrade": "4",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "物理學系",
+        "name": "論文研習與撰寫(四)",
+        "professor": "蔡炎熾,温秉彝",
+        "credits": 4,
+        "time": "一13,14 三13,14",
+        "location": "物理館303",
+        "type": "必修",
+        "description": "本課程為四學期系列課程之第二學期的課程。主要為物理系大學部B軌系統學生設計，旨在搭配學生修習物理專題(一)~(四)參與物理系其一研究領域後，藉由研習相關文獻培養學生於此領域所需之專業知識，並加以訓練學生撰寫學術論文及口頭報告之能力。\r\n課程分為學術文獻研討及論文撰寫兩部分。每學年結束前將安排學生針對個人研究論文進度進行公開報告。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048121/local_syllabus/attachment/34253/%E8%94%A1%E7%82%8E%E7%86%BE%E6%B8%A9%E7%A7%89%E5%BD%9D-%E8%AB%96%E6%96%87%E7%A0%94%E7%BF%92%E8%88%87%E6%92%B0%E5%AF%AB%28%E5%9B%9B%29.docx",
+        "targetGrade": "4",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "物理學系",
+        "name": "進階光學",
+        "professor": "許佳振",
+        "credits": 3,
+        "time": "三G 五G",
+        "location": "物理館303",
+        "type": "選修",
+        "description": "本門課是大學「光學」課程的延伸。透過這門課，我們一方面希望學生對於基礎光學學理的認識能趨於完整；另方面，也希望學生能對光學的應用有初步認識，並能利用這門課所學去瞭解我國各項的光電產業。\r\n1. Interference\r\n2. Diffraction\r\n3. Modern Optics: Lasers, Nonlinear Optics and Fiber Optics\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048182/local_syllabus/attachment/34257/%E8%A8%B1%E4%BD%B3%E6%8C%AF-%E9%80%B2%E9%9A%8E%E5%85%89%E5%AD%B8.docx",
+        "targetGrade": "4",
+        "capacity": "36",
+        "memo": ""
+    }
+]

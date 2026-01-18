@@ -1,0 +1,598 @@
+[
+    {
+        "id": "生物醫學科學系",
+        "name": "普通生物學（二）",
+        "professor": "蕭淑惠,黃敏郎",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "生醫系331",
+        "type": "必修",
+        "description": "提供對生命科學有興趣者一個了解當今生物學發展的入門介紹，以幫助學生建立好的生命科學基礎，以期能為將來更高深的領域探索。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053793/local_syllabus/attachment/34433/Syllabus_Biology_2025_Spring.pdf",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "先修科目(2501001)普通生物學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "普通生物學實驗（二）",
+        "professor": "蕭淑惠,黃敏郎",
+        "credits": 1,
+        "time": "一G,H",
+        "location": "生醫系343",
+        "type": "必修",
+        "description": "輔助生物學上課之內容，使學生能由實驗操作觀摩中更了解生物學，並同時學習如何設計、證明實驗來探索科學之真相",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053831/local_syllabus/attachment/34434/Syllabus_Exp%20Biology_2022_Spring-20220210.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "先修科目(2501001)普通生物學（一）(曾經修習)(2501002)普通生物學實驗（一）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "有機化學（一）",
+        "professor": "李政怡",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "生醫系331",
+        "type": "必修",
+        "description": "介紹有機化學的基本知識，使學生學習有機分子的結構鑑定方法、有機化學反應、官能基與反應性之關係、化學轉化的機制。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053867/local_syllabus/attachment/34435/113-2%20%E6%9C%89%E6%A9%9F%E5%8C%96%E5%AD%B8%E4%B8%80%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1_%E7%B0%A1%E7%89%88.doc",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "線性代數",
+        "professor": "周正中",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "生醫系316",
+        "type": "必修",
+        "description": "學習線性方程組求解方法、幾何意義以及相關應用。研究矩陣和向量空間及相關主題。了解線性變換、特徵值問題及其應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053890/local_syllabus/attachment/34436/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8%E8%AA%B2%E7%B6%B12024.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "先修科目(2501009)微積分(曾經修習)(2501001)普通生物學（一）(曾經修習)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生物醫學研究導論",
+        "professor": "吳淑芬",
+        "credits": 1,
+        "time": "三4",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": "The course will introduce the study of the faculty in the Department.\r\nThe aim is to familiarize the students with the main research topic and tools of modern biomedical sciences.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053916/local_syllabus/attachment/34437/114-2%20%E7%94%9F%E7%89%A9%E9%86%AB%E5%AD%B8%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96%E8%AA%B2%E7%A8%8B%E9%A0%86%E5%BA%8F%28%E8%8D%89%E6%A1%88%29.docx",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "分子生物學",
+        "professor": "陳浩仁,江明格,余俊頴",
+        "credits": 4,
+        "time": "二8,9 四8,9",
+        "location": "生醫系333",
+        "type": "必修",
+        "description": "本課程以James Watson 的課本為主，傳授學生基本的分子生物學概念。內容包含: 介紹分子生物學的發展歷史及最新研究成果；研究分子生物學所\r\n利用的技術；DNA、RNA 及protein 的結構與功能，基因表現與複製的調控，以及現代基因體學與蛋白質體學知識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032326/local_syllabus/attachment/33791/2_2_%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%B8.pdf",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2502011)生物化學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生物化學（二）",
+        "professor": "翁靖傑",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "生醫系333",
+        "type": "必修",
+        "description": "教授學生了解細胞的代謝路徑與調控機制",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032367/local_syllabus/attachment/33792/2_2_%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%B8%28%E4%BA%8C%29.doc",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2502011)生物化學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生命科學實驗（二）",
+        "professor": "翁靖傑",
+        "credits": 1,
+        "time": "四G,H",
+        "location": "生醫系347",
+        "type": "必修",
+        "description": "藉由本課程讓同學瞭解分生實驗之基本原理與操作，並增加學生實作的經驗、同時加深學習效果。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032384/local_syllabus/attachment/33793/2_2_%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%B8%E5%AF%A6%E9%A9%97%28%E4%BA%8C%29.doc",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "先修科目(2502011)生物化學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生化分析",
+        "professor": "余俊頴",
+        "credits": 3,
+        "time": "一E 三E",
+        "location": "生醫系333",
+        "type": "必修",
+        "description": "藉由介紹各式生物分子(核酸、蛋白質、脂肪、醣類等)的分析實驗，更進一步理解各實驗所針對的分子特性，正確詮釋出實驗結果，與論文的實驗設計邏輯。\n\r\n課本：\r\nBioanalytics, Analytical Methods and Concepts in Biochemistry and Molecular Biology (2018)\r\nFriedrich Lottspeich, Joachim Engels\r\nPrint ISBN: 978-3-527-33919-8\r\nePDF ISBN: 978-3-527-69444-0\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032458/local_syllabus/attachment/33794/%E7%94%9F%E5%8C%96%E5%88%86%E6%9E%90.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2502011)生物化學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "人體生理學",
+        "professor": "沈正煌,趙崇男,張家銘",
+        "credits": 3,
+        "time": "五C,D",
+        "location": "生醫系333",
+        "type": "選修",
+        "description": "人體生理學是一門很有趣的科目之一，探討我們人體所產生的一切生理現象之科學。幾乎每個人都會想學習關於身體功能方面和涉及的醫學應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032487/local_syllabus/attachment/33795/2_1_%E4%BA%BA%E9%AB%94%E7%94%9F%E7%90%86%E5%AD%B8%28%E4%BF%AE%29.doc",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(2501001)普通生物學（一）(曾經修習)[C.其他核心課程]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生物資訊概論",
+        "professor": "周正中",
+        "credits": 3,
+        "time": "三C,D",
+        "location": "資訊處214教室",
+        "type": "選修",
+        "description": "教導學生使用Excel Ｍacro Class (巨集)和數理演算法的觀念與角度認知DNA、 RNA、基因、基因體、蛋白質以及motif/domain，從而對傳統分子生物學有另一層的體認",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2032528/local_syllabus/attachment/33796/2_2_%E7%94%9F%E7%89%A9%E8%B3%87%E8%A8%8A%E6%A6%82%E8%AB%96%2810812%E6%9B%B4%E6%96%B0%29.doc",
+        "targetGrade": "2",
+        "capacity": "38",
+        "memo": "先修科目(2501001)普通生物學（一）(曾經修習)[A.基因體暨蛋白質體學群]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "臺灣生技產業概論",
+        "professor": "許英昌",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "生醫系333",
+        "type": "選修",
+        "description": "介紹台灣生技製藥產業研究狀況、與國外生技產業發展情形，藉此課程了解台灣生技製藥產業的優勢及強項",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2053784/local_syllabus/attachment/34432/%E8%87%BA%E7%81%A3%E7%94%9F%E6%8A%80%E7%94%A2%E6%A5%AD%E6%A6%82%E8%AB%96_%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_112%E5%AD%B8%E5%B9%B4%E5%BA%A6%E8%B5%B7%E9%81%A9%E7%94%A8%20%281%29.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": ""
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "細胞生物學",
+        "professor": "蕭淑惠,陳永恩",
+        "credits": 4,
+        "time": "一4,5 三4,5",
+        "location": "生醫系331",
+        "type": "必修",
+        "description": "To understand the structure-function cellular mechanisms of eukaryotic cells",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054247/local_syllabus/attachment/34450/Syllabus_Cell%20Biology_2025_spring_undergraduate_rev_Hsiao.pdf",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "先修科目(2502011)生物化學（一）(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "免疫學",
+        "professor": "吳淑芬,曾昱超",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "生醫系335",
+        "type": "必修",
+        "description": "In this lecture, students will learn about what is the immune system, the cells and molecules against pathogens and the interactive mechanisms of the immune system and pathogens.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期中報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054271/local_syllabus/attachment/34451/%E5%85%8D%E7%96%AB%E5%AD%B8_113%E5%AD%B8%E5%B9%B4%E6%96%B0%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "先修科目(2503010)醫用微生物學(曾經修習)"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "分子癌症學",
+        "professor": "戴建國",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": "癌症生物學概論: 包含腫瘤之分類、擴散與增生、癌症之起因、與癌症遺傳等。概述重要之致癌基因、抑癌基因、癌症之診斷、治療與預防等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059241/local_syllabus/attachment/34660/3_1_%E5%88%86%E5%AD%90%E7%99%8C%E7%97%87%E5%AD%B8.doc",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "[B.分子與細胞生物學群]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "專題研究實驗（二）",
+        "professor": "陳浩仁",
+        "credits": 1,
+        "time": "二I,J",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": "經由實做，增進學生對生科研究領域之實驗設計概念、執行與討論之能力，進而解決研究相關問題。此外，鼓勵學生研讀研究領域最新相關文獻，增進學生研究視野，並且為碩士班研究之基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054298/local_syllabus/attachment/34452/3_2_%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E5%AF%A6%E9%A9%97%28%E4%BA%8C%29.pdf",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": "[限本系專題生修]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "基礎藥理學",
+        "professor": "蕭淑惠,陳建民",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "生醫系460",
+        "type": "選修",
+        "description": "研究藥物之生理和生化作用、作用機轉、治療用途等的科學。\r\n學習目標: 讓學生瞭解常見藥物的治療原理。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054307/local_syllabus/attachment/34453/%E5%9F%BA%E7%A4%8E%E8%97%A5%E7%90%86%E5%AD%B8_%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1_2025.pdf",
+        "targetGrade": "3",
+        "capacity": "20",
+        "memo": "先修科目(2502007)分子生物學(及格)(2502011)生物化學（一）(及格)(所有先修條件都必須符合)[B.分子與細胞生物學群]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "基礎人體胚胎學",
+        "professor": "黃步敏",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": "This course comprehensively covers the basic knowledge of tissue and organ developments in normal human body, which is essential for students to study medicine, health care, and anatomical sciences.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054330/local_syllabus/attachment/34454/3_%E7%94%9F%E9%86%AB%E7%B3%BB%20%E5%9F%BA%E7%A4%8E%E4%BA%BA%E9%A1%9E%E8%83%9A%E8%83%8E%E5%AD%B8%20113-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "36",
+        "memo": "[B.分子與細胞生物學群]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "基因與細胞治療",
+        "professor": "楊玫琳",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "生醫系228",
+        "type": "選修",
+        "description": "課程為瞭解基因與細胞治療現況與應用，包含基因治療之病毒載體、非病毒載體、免疫治療及DNA疫苗、免疫及細胞基因治療等。介紹細胞與基因治療於癌症臨床治療、自體免疫疾病及遺傳性疾病的應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054341/local_syllabus/attachment/34455/7_%E7%94%9F%E9%86%AB%E7%B3%BB_%E5%9F%BA%E5%9B%A0%E8%88%87%E7%B4%B0%E8%83%9E%E6%B2%BB%E7%99%82%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1rev.docx",
+        "targetGrade": "3",
+        "capacity": "36",
+        "memo": "先修科目(2502007)分子生物學(曾經修習)(2503009)醫用病毒學(曾經修習)(所有先修條件都必須符合)[C.其他核心課程]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "專題討論（二）",
+        "professor": "江明格",
+        "credits": 1,
+        "time": "一4,5",
+        "location": "生醫系228",
+        "type": "必修",
+        "description": "藉由本課程讓學生瞭解現今分子生物學的發展與最新知識。此外亦將訓練學生研讀分子生物學科學期刊論文之能力以及訓練學生對科學性研究結果之分析及表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054832/local_syllabus/attachment/34486/4_2_%E5%B0%88%E9%A1%8C%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.doc",
+        "targetGrade": "4",
+        "capacity": "36",
+        "memo": "[B班: 學號雙號學生修]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "專題討論（二）",
+        "professor": "陳浩仁",
+        "credits": 1,
+        "time": "四10,11",
+        "location": "生醫系228",
+        "type": "必修",
+        "description": "藉由本課程讓學生瞭解現今分子生物學的發展與最新知識。此外亦將訓練學生研讀分子生物學科學期刊論文之能力以及訓練學生對科學性研究結果之分析及表達能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054869/local_syllabus/attachment/34487/4_2_%E5%B0%88%E9%A1%8C%E8%A8%8E%E8%AB%96%28%E4%BA%8C%29.doc",
+        "targetGrade": "4",
+        "capacity": "36",
+        "memo": "[A班: 學號單號學生修]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "專題研究實驗（四）",
+        "professor": "陳浩仁",
+        "credits": 1,
+        "time": "二I,J",
+        "location": "生醫系335",
+        "type": "選修",
+        "description": "經由實做，增進學生對生科研究領域之實驗設計概念、執行與討論之能力，進而解決研究相關問題。此外，鼓勵學生研讀研究領域最新相關文獻，增進學生研究視野，並且為碩士班研究之基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054880/local_syllabus/attachment/34488/4_2_%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E5%AF%A6%E9%A9%97%28%E5%9B%9B%29.pdf",
+        "targetGrade": "4",
+        "capacity": "80",
+        "memo": "[限本系專題生修]"
+    },
+    {
+        "id": "生物醫學科學系",
+        "name": "生殖生理學",
+        "professor": "黃步敏",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "生醫系236",
+        "type": "選修",
+        "description": "本課程著重於了解動物及人類生殖生理是如何運行，並介紹雄性與雌性個體間生殖功能的差異。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054889/local_syllabus/attachment/34489/4_%E7%94%9F%E9%86%AB%E7%B3%BB%20%E7%94%9F%E6%AE%96%E7%94%9F%E7%90%86%20113-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "4",
+        "capacity": "36",
+        "memo": "[B.分子與細胞生物學群]"
+    }
+]

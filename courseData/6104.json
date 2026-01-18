@@ -1,0 +1,470 @@
+[
+    {
+        "id": "法律學系法學組",
+        "name": "法學緒論",
+        "professor": "高文琦",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "法學院206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6101001_01",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "限本系生修.法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "英美法導論",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "法學院205",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6101054_01",
+        "targetGrade": "1",
+        "capacity": "70",
+        "memo": "法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "刑法總則實例演習（二）",
+        "professor": "林琬珊",
+        "credits": 1,
+        "time": "一9",
+        "location": "法學院209",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6101093_01",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "先修科目(6301007)刑法總則（一）(曾經修習)(6201090)刑法總則（一）(曾經修習)(6011021)刑法總則（一）(曾經修習)(6101090)刑法總則（一）(曾經修習)(只要符合任一先修條件)本課程與6011022刑法總則（二）01班課程接續上課，如無法同時選修該班課程之同學，請勿選修。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "法學緒論",
+        "professor": "梁弘孟",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "法學院209",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6101097_01",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "支援政治學系一年級A班B班;"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "日文（一）",
+        "professor": "周兆昱",
+        "credits": 2,
+        "time": "三2,3",
+        "location": "法學院206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6102060_01",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "德文（二）",
+        "professor": "楊美娟",
+        "credits": 2,
+        "time": "二2,3",
+        "location": "共同教室大樓213",
+        "type": "選修",
+        "description": "1. 聽德語CD及學德語歌曲, 讓同學們摹擬及熟悉德語語調, 並訓練同學的德語聽力。\r\n2. 同學們在課堂上輪流朗誦德文並適時給與發音指導, 以訓練同學的德語發音。\r\n3. 分組做日常生活中各種情境的簡單德語對話, 訓練同學造句及口語表達能力。\r\n4. 培養同學的德文閱讀能力。\r\n5. 觀看介紹德語國家生活與文化的影片。\r\n6. 介紹德語國家的風俗民情及重要節慶。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059272/local_syllabus/attachment/34662/%E4%B8%AD%E6%AD%A3%E6%B3%95%E5%BE%8BG%282%29%E6%95%99%E7%B6%B1%28Schritte%201%29.docx",
+        "targetGrade": "2",
+        "capacity": "50",
+        "memo": "先修科目(6102062)德文（一）(曾經修習)(7301038)德文（一）(曾經修習)(只要符合任一先修條件)法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "長者人權門診",
+        "professor": "施慧玲",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "法學院205",
+        "type": "選修",
+        "description": "老年離學生或許太遙遠，縱使用盡文字或言語也無法體驗老化的感受，透過以長者為主題的電影及文學作品，感知一個老化的生命，觀察與長者共同努力的人們，希望透過考量現實層面的因素，由法律人利用專業及理性，去診斷、理解高齡者的人權因法律與社會的互動下所生的問題，應用敘事分析方法，由聽故事、整理人權議題、涵攝法律規範與實踐，進一步嘗試解決問題或改善困境。\n\r\n雲嘉地區為全國人口老高化快速的地區，對於中正大學師生而言，在地人口老化所帶來的危機，也是學習正向面對困境的轉機。傳統法律人權教育，較缺乏在地實踐取向之資訊分析及跨領域共學。本課程帶領跨領域學生，在做中學與團隊學習的氛圍中，培養長者人權服務的跨領域多元視野及科際整合知能，進而成為將來服務在地社會之長者人權實踐者。\n\r\n「請尊重智慧財產權，不得非法影印教師指定之教科書籍」\n\r\nThe concept of aging may seem too distant for students, and no matter how many words or expressions are used, it is still difficult to truly experience the feeling of growing old. Through films and literary works focused on the elderly, students can gain a sense of aging life and observe those who work closely with older adults. By taking into account practical realities, legal professionals can apply their expertise and rationality to diagnose and understand the human rights issues faced by older adults that arise from interactions between law and society. Using narrative analysis—listening to stories, organizing human rights issues, incorporating legal norms and practices—this approach seeks to address or improve existing challenges.\n\r\nThe Yunlin-Chiayi area is one of the fastest-aging regions in the country. For faculty and students at National Chung Cheng University, the crisis brought about by local demographic aging is also an opportunity to learn how to face adversity positively. Traditional legal and human rights education often lacks locally grounded, practice-oriented information analysis and interdisciplinary collaboration. This course guides interdisciplinary students in a hands-on and collaborative learning environment, cultivating a diverse and integrated perspective on elder human rights services, thereby preparing them to become future practitioners of elder human rights in local communities.\n\r\n\"Please respect intellectual property rights. Unauthorized photocopying of textbooks designated by the instructor is prohibited.\"",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059284/local_syllabus/attachment/34663/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%B3%BB%E6%B3%95%E5%AD%B8%E7%B5%84%29-%E9%95%B7%E8%80%85%E4%BA%BA%E6%AC%8A%E9%96%80%E8%A8%BA.docx",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "保險法",
+        "professor": "羅俊瑋",
+        "credits": 2,
+        "time": "一2,3",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6103023_01",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "先修科目(6012012)民法債編總論（二）(曾經修習)(6202019)民法債編總論（二）(曾經修習)(6302020)民法債編總論（二）(曾經修習)(6102020)民法債編總論（二）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "民法債編各論（二）",
+        "professor": "楊宏暉",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6103026_01",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "刑事訴訟法（二）",
+        "professor": "盧映潔",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院205",
+        "type": "必修",
+        "description": "本課程的教學目標在於：刑事訴訟為所有刑事實體法之具體實踐，若無刑事訴訟，則刑事實體法形同抽象具文。而刑事訴訟又為一個國家的基本人權的測震儀，若能真正理解與掌握刑事訴訟絕對有助於日後的實務工作。本課程乃以闡明刑事訴訟各個程序，進而輔以實務見解，以利修研者能易於掌握刑事訴訟真正之適用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059550/local_syllabus/attachment/34679/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E8%A8%B4%29%28LU%29.docx",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "先修科目(6103033)刑事訴訟法（一）(曾經修習)"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "民事訴訟法（二）",
+        "professor": "周廷翰",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "法學院206",
+        "type": "必修",
+        "description": "請見下開檔案之說明",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059585/local_syllabus/attachment/34680/%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "先修科目(6103041)民事訴訟法（一）(曾經修習)(6203035)民事訴訟法（一）(曾經修習)(6303003)民事訴訟法（一）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "法律哲學",
+        "professor": "謝世民,高文琦",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "法學院203",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6103070_01",
+        "targetGrade": "4",
+        "capacity": "30",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "公司法實例演習",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "法學院201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6103079_01",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": "先修科目(6303008)商事法總論及公司法(曾經修習)(6303025)公司法(曾經修習)(6203020)公司法(曾經修習)(只要符合任一先修條件)支援法律學系法學組法律學系法制組三年級A班;"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "國際環境法",
+        "professor": "廖宗聖",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "法學院202",
+        "type": "選修",
+        "description": "1. 本課程採用老師建構的「發展式學習法」（DLM, Developmental Learning Method）：參與探索習得轉化創造 ParticipateExploreLearn TransformcreAte (Pelta；希臘、羅馬時代士兵使用的小型、輕巧盾牌)\r\n2.  大學部學生於二年級修習完成或正在修習國際公法課程（2學分），或已修習完成國際公法案例研究（2學分），將對國際公法之基本原則與發展，國際公法對國際、國內社會的影響，以及台灣對國際法的實踐有所瞭解認識。而本課程即為該國際公法課程的延續課程。不過選修本課程「不需」以上過前述課程前提。\r\n3.  本課程將對國際環境法（跨國環境法）的重要基本概念、原則與重要議題進行教學，並將重心置於生物多樣性主題，嘗試幫中正大學建構「後山保育共生地」，作為風災復原的永續規劃。\r\n4.  學生報告當天需使用powerpoint進行，每人時間至少半小時（彈性調整）。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059624/local_syllabus/attachment/34682/%E5%9C%8B%E9%9A%9B%E7%92%B0%E5%A2%83%E6%B3%95%E8%A9%B3%E7%B4%B0%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": ""
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "強制執行法",
+        "professor": "林洲富",
+        "credits": 2,
+        "time": "五13,14",
+        "location": "法學院209",
+        "type": "選修",
+        "description": "強制執行程序中，債權人、債務人以及執行機關之法律關係為何，學者通說\r\n認係三面關係說，即債權人依據執行名義聲請執行機關強制執行，是為聲請\r\n關係。執行機關依據執行名義對債務人強制執行，則為侵害關係。債權人與\r\n債務人間則為權利執行關係 。強制執行係實現私法權利之程序及債權之最終\r\n保護手段，故如何確保執行程序之合法性及實現法律之正當性，以發揮強制\r\n執行之功能，乃執行法院所應追求之目的，亦為執行之重點所在。本課程內\r\n容分為總則、保全、不動產、動產、其他財產及非金錢債權之執行。因強制\r\n執行法為實用性之民事程序法，學者對此法之研究，大多偏重於實務之運作\r\n，是作者以其從事強制執行之實務經歷及教授強制執行法之心得，茲就執行\r\n程序之進行，作全面及詳盡之理論分析及實務說明。本書以分析、歸納學說\r\n為論理之基礎，並參諸實務之見解作為實證。為能有效處理執行之諸問題，\r\n而於每章之末節處，亦針對執行所面額之法律爭議，加以解析及討論，試提\r\n出解決方案，是本書為理論及實務兼具之論述，可作為教授強制執行法之教\r\n科書及實務工作者之操作手冊。因強制執行法為司法官特考之應試學科，為\r\n使讀者知悉國家考試之動向及重點，茲收錄國家考試試題，分別就其內容編\r\n排至相關之章節處，並以實務及學說為論據，進行說明及分析，提供學習者\r\n參考與練習，可藉由考題之研習，瞭解強制執行法之學習重點及法律爭議所\r\n在，並熟悉考試之趨勢。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059928/local_syllabus/attachment/34696/%E5%BC%B7%E5%88%B6%E5%9F%B7%E8%A1%8C%E6%B3%95.pptx",
+        "targetGrade": "4",
+        "capacity": "90",
+        "memo": "先修科目(6103041)民事訴訟法（一）(曾經修習)(6203035)民事訴訟法（一）(曾經修習)(6303003)民事訴訟法（一）(曾經修習)(只要符合任一先修條件)法律學系共同相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "訴願及行政訴訟法（二）",
+        "professor": "江嘉琪",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "法學院204",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6104008_01",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": "先修科目(6104001)訴願及行政訴訟法（一）(曾經修習)(6204001)訴願及行政訴訟法（一）(曾經修習)(只要符合任一先修條件)"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "民事法實例演習（一）",
+        "professor": "周廷翰",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "法學院204",
+        "type": "選修",
+        "description": "透過實際案例之分析與診斷，使同學習得民事案例之處理方法，甚至可兼從「策略」與「戰術」之角度來剖析案情，藉此精熟民事實體法與民事程序法之結合運用，培養妥善解決紛爭之綜合實戰能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059964/local_syllabus/attachment/34698/%E6%B0%91%E4%BA%8B%E6%B3%95%E5%AF%A6%E4%BE%8B%E6%BC%94%E7%BF%92%EF%BC%88%E4%B8%80%EF%BC%89.pdf",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": "先修科目(6302020)民法債編總論（二）(曾經修習)(6102020)民法債編總論（二）(曾經修習)(6012012)民法債編總論（二）(曾經修習)(6202019)民法債編總論（二）(曾經修習)(只要符合任一先修條件)法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "刑事法實例演習（二）",
+        "professor": "盧映潔",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "法學院202",
+        "type": "選修",
+        "description": "本課程為一學期的課程。授課方式係訓練修課同學面對國家考試時的解題技巧。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059976/local_syllabus/attachment/34699/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E5%AF%8A%29%28LU%29.docx",
+        "targetGrade": "4",
+        "capacity": "50",
+        "memo": "先修科目(6102032)刑法分則（二）(曾經修習)(6202032)刑法分則（二）(曾經修習)(6012022)刑法分則（二）(曾經修習)(只要符合任一先修條件)法學組專業相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "家事事件法",
+        "professor": "周廷翰",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "法學院205",
+        "type": "選修",
+        "description": "請見下開課程大綱檔案",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060016/local_syllabus/attachment/34700/%E5%AE%B6%E4%BA%8B%E4%BA%8B%E4%BB%B6%E6%B3%95%E8%AA%B2%E7%B6%B1114-2.pdf",
+        "targetGrade": "4",
+        "capacity": "70",
+        "memo": "先修科目(6203035)民事訴訟法（一）(曾經修習)(6303003)民事訴訟法（一）(曾經修習)(6103041)民事訴訟法（一）(曾經修習)(只要符合任一先修條件)支援法律學系法學組法律學系法制組四年級A班;"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "法律倫理學",
+        "professor": "鄭津津",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "法學院101階梯教室",
+        "type": "選修",
+        "description": "「法律倫理學」之目的並非限制法律人的行為，而是協助法律人（包括法官、檢察官、律師、法務人員等）解決實際執行法律工作時可能面臨的道德難題。由於「法律倫理學」並非國家考試科目，再加上有些人將該項科目視為「法律學門的生活與倫理」，「法律倫理學」在法學教育中一直是被忽略的科目。在台灣社會對法律人（尤其是司法官、檢察官與律師）有普遍偏見的今天，本課程更形重要。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060032/local_syllabus/attachment/34701/114.2%E6%B3%95%E5%BE%8B%E5%80%AB%E7%90%86%E5%AD%B8.pdf",
+        "targetGrade": "4",
+        "capacity": "120",
+        "memo": "支援法律學系法學組法律學系法制組四年級A班;法律學系共同相對必修課程。"
+    },
+    {
+        "id": "法律學系法學組",
+        "name": "法律服務（二）",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "法學院307",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6104301_01",
+        "targetGrade": "4",
+        "capacity": "20",
+        "memo": "先修科目(6102020)民法債編總論（二）(曾經修習)(6012012)民法債編總論（二）(曾經修習)(6202019)民法債編總論（二）(曾經修習)(6302020)民法債編總論（二）(曾經修習)(只要符合任一先修條件)法學組專業相對必修課程。"
+    }
+]

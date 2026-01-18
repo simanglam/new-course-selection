@@ -1,0 +1,1080 @@
+[
+    {
+        "id": "法律學研究所",
+        "name": "德文法學名著選讀（二）",
+        "professor": "江嘉琪",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "法學院509",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055008_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "法律學研究所",
+        "name": "民法專題研究（一）",
+        "professor": "法律系待聘教師1",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "法學院306",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055017_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "商事法專題研究－國際海事法（二）",
+        "professor": "羅俊瑋",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "法學院508",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055067_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "憲法專題研究－基本人權（二）",
+        "professor": "蕭文生",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "法學院306",
+        "type": "選修",
+        "description": "一、基本人權為普世價值，本課程在使學生深入認識基本人權之基本理論以及 個別具體人權之內容。\r\n二、基本人權在世界各國之發展時間與成熟度並不相同，本課程除強調我國司法院大法官釋字之重要性外，另要求學生閱讀美國、德國或日本相關憲法法院之判決，以開闊學生之視野。\r\n三、修課期間，每一學生必須選擇一項人權相關議題於課堂上提出口頭報告，並於學期末繳交書面報告。\r\n四、授課時數，每週2小時。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063493/local_syllabus/attachment/34871/%E6%86%B2%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6-%E5%9F%BA%E6%9C%AC%E4%BA%BA%E6%AC%8A%EF%BC%88%E4%BA%8C%EF%BC%89%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班公法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "社會法專題研究（二）",
+        "professor": "單鴻昇",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院407",
+        "type": "選修",
+        "description": "眾所皆知，社會保險制度源於俾斯麥統治時期的德國，德國社會法體系對我國影響深遠。然而英國作為另一個社會福利模式代表-貝弗里奇模式的創始國，一直以來我國社會法學界對其的關注卻較為有限。因此，本課程將聚焦於英國的社會安全制度的法律框架與立法趨勢，將以Ogus, A.I., Barendt, E.M. and Wikeley, N. 等人合著的「社會安全法律」一書(The Law of Social Security)(2002年五版)作為指定閱讀素材。課程前半部將依修課人數安排導讀，後半部則由修課同學針對特定主題進行報告。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063741/local_syllabus/attachment/34891/1142%20%E7%A4%BE%E6%9C%83%E6%B3%95%E5%B0%88%E9%A1%8C.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班勞動法與社會法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "刑法基礎理論專題研究（四）",
+        "professor": "林琬珊",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院507",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055140_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班刑事法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "刑事政策專題研究 (三)",
+        "professor": "盧映潔",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "法學院507",
+        "type": "選修",
+        "description": "本課程預計以國民法官相關議題，引領學生自正義為出發，描繪犯罪及刑事司法程序中的冤案探索圖像，幫助法律系學生或法律研究所的碩博士生學習如何理解國民法官問題在刑事司法程序中的影響，這對於法律系學生未來的法律實務相關工作有非常重要的影響。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063615/local_syllabus/attachment/34883/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E5%B0%88%29%28LU%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班刑事法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "勞動法專題研究（二）",
+        "professor": "鄭津津",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "法學院406",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063702/local_syllabus/attachment/34887/114.2%E5%8B%9E%E5%B0%882.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班勞動法與社會法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "日本勞動法專題研究（二）",
+        "professor": "周兆昱",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院306",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055200_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班勞動法與社會法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "行政法專題研究－行政救濟法（二）",
+        "professor": "江義雄",
+        "credits": 2,
+        "time": "二11,12",
+        "location": "法學院507",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055212_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班公法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "商事法專題研究（資本市場法制）（二）",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院307",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055315_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "民事程序法專題研究（民事訴訟法）（四）",
+        "professor": "周廷翰",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院406",
+        "type": "選修",
+        "description": "請見下述課程大綱之內容",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063227/local_syllabus/attachment/34854/%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法學日文（四）",
+        "professor": "李仁淼",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院508",
+        "type": "選修",
+        "description": "閱讀翻譯講解比較法文獻",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063866/local_syllabus/attachment/34902/%E6%B3%95%E5%AD%B8%E6%97%A5%E6%96%87%EF%BC%88%E5%9B%9B%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法學德文（二）",
+        "professor": "吳信華",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "法學院509",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055344_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法學英文（四）",
+        "professor": "鄭津津",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "法學院101階梯教室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062604/local_syllabus/attachment/34827/114.2%E6%B3%95%E8%8B%B14.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "法律學研究所",
+        "name": "民事特別法專題研究（一）－信託法",
+        "professor": "謝哲勝",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "法學院306",
+        "type": "選修",
+        "description": "本課程以信託法為核心，探討信託法之概念與其社會作用。\r\n本學期課程主要內容如下：\r\n一、介紹信託法制之規範內容\r\n　　介紹信託法之概念\r\n二、瞭解信託法之經濟作用\r\n　　研究信託法於經濟上之作用與重要性。\r\n三、問題研究\r\n　　深入探討信託法之爭議問題。\r\n四、研究實例問題\r\n　　培養同學們處理具體案件之能力。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061868/local_syllabus/attachment/34793/%E4%BF%A1%E8%A8%97%E6%B3%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "民事特別法專題研究（十五）－消費者保護法與公平交易法（一）",
+        "professor": "楊宏暉",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "法學院406",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055396_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "碩士班民商法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "行政法基礎理論與行政組織法專題研究（三）",
+        "professor": "江嘉琪",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "法學院508",
+        "type": "選修",
+        "description": "本學期課程擬自公私協力之理論出發，以實務上之促參契約為主要對象，配合法院裁判，探討其中涉及之法律爭議問題，也透過促參之實務運作經驗，反思我國促參法之理論與實踐。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063568/local_syllabus/attachment/34879/Seminar1142dg.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班公法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "國際私法專題研究－涉外民事法律關係（一）",
+        "professor": "廖蕙玟",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "法學院509",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055425_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班國際法及環境永續組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "國際環境法專題研究（一）",
+        "professor": "廖宗聖",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "法學院407",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055440_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班國際法及環境永續組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "國際環境法專題研究（二）",
+        "professor": "廖宗聖",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院407",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055441_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班國際法及環境永續組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法理學及法學方法專題研究（一）",
+        "professor": "高文琦",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "法學院407",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055467_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班基礎法學組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "科際法律專題研究（二）",
+        "professor": "施慧玲",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "法學院406",
+        "type": "選修",
+        "description": "第一部份：科際法律\r\n  壹、從部門法到科際法\r\n  貳、科際法律之發展與內涵\r\n    一、作為一種視野\r\n    二、作為一種觀點\r\n    三、作為一種法學方法\r\n    四、活生生的法律\r\n    五、審判過程之研究\r\n    六、社會工程學\r\n  參、法學發展之新趨勢－－科際法學的影響\r\n    一、社會問題立法研究\r\n    二、偏差行為入刑之社會學研究\r\n    三、科際整合研究\r\n    四、政治經濟學研究\r\n    五、敘事分析\r\n第二部份：科際法律專題\r\n  壹、從敘事切入\r\n  貳、以生命故事省思法律\r\n  參、跨領域法律功能之整合\r\n  肆、法律與生命的關聯性與互動\n\r\n「請尊重智慧財產權，不得非法影印教師指定之教科書籍」\n\r\nPart One: Interdisciplinary Law\r\nI. From Sectoral Law to Interdisciplinary Law\r\nII. The Development and Connotation of Interdisciplinary Law\r\n　1. As a Vision\r\n　2. As a Perspective\r\n　3. As a Legal Method\r\n　4. Living Law\r\n　5. Study of the Judicial Process\r\n　6. Social Engineering\r\nIII. New Trends in Legal Studies-The Influence of Interdisciplinary Jurisprudence\r\n　1. Legislative Studies on Social Issues\r\n　2. Sociological Studies on the Criminalization of Deviant Behavior\r\n　3. Interdisciplinary Integration Studies\r\n　4. Political Economy Studies\r\n　5. Narrative Analysis\r\nPart Two: Topics in Interdisciplinary Law\r\nI. Approaching Through Narrative\r\nII. Reflecting on Law Through Life Stories\r\nIII. Integration of Interdisciplinary Legal Functions\r\nIV. The Relationship and Interaction Between Law and Life\n\r\n\"Please respect intellectual property rights. Unauthorized photocopying of textbooks designated by the instructor is prohibited.\"",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063788/local_syllabus/attachment/34895/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%89%80%29-%E7%A7%91%E9%9A%9B%E6%B3%95%E5%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班基礎法學組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法律史專題研究（二）",
+        "professor": "梁弘孟",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "法學院407",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055498_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班基礎法學組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "公法理論與實務專題研究（四）-憲法與行政法之整合",
+        "professor": "李仁淼",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "法學院508",
+        "type": "選修",
+        "description": "研究所有別於大學部，除了扎實學術之基礎，更在於學術知識的授取，因此，就憲法的各種問題，本課程將藉由開課教師之多篇學術論文，帶出教師本人之觀點想法，並由學生進行專題報告，彼此切磋交流。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063522/local_syllabus/attachment/34874/%E5%85%AC%E6%B3%95%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%EF%BC%89-%E6%86%B2%E6%B3%95%E8%88%87%E8%A1%8C%E6%94%BF%E6%B3%95%E4%B9%8B%E6%95%B4%E5%90%88%20114%E4%B8%80%E8%88%AC%E7%94%9F.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩士班公法組相對必修課程。"
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法學論文寫作專題研究（二）",
+        "professor": "郝鳳鳴",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "法學院508",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055556_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "法律學研究所",
+        "name": "法院實習（二）",
+        "professor": "李文輝",
+        "credits": 2,
+        "time": "三13,14 五13,14",
+        "location": "法學院307",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_6055564_01",
+        "targetGrade": "1",
+        "capacity": "6",
+        "memo": "先修科目(6055563)法院實習（一）(及格)限本系生修.限法學院研究生選修，須經法律學系與嘉義地方法院審核後始得選修。實習地點於嘉義地方法院，實習時數每學期80小時，實習時間由嘉義地方法院與法律學系視實習導師與選課同學時間，另行協商排定。"
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "憲法（二）",
+        "professor": "吳信華,高文琦",
+        "credits": 2,
+        "time": "六6,7",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A008_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "刑法總則（二）",
+        "professor": "盧映潔",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "法學院206",
+        "type": "必修",
+        "description": "本課程的教學目標在於：刑法為所有刑事法規之根本，而刑法總則又為所有刑罰法令適用之指導原則，欲掌握刑事法令，並進一步適切運用，則對最基本原理原則之理解與掌握乃成為首要之工作。刑法總則主要係針對行為刑罰可罰性提供判斷之指導方針，對各種犯罪行為共同性及一般性之適用原則加以規範。作為判斷犯罪行為的基礎標準。本課程乃以闡明總則中各原則之意義及法理詮釋為根本之工作，進而將各原理原則加以系統化之整合，以利修研者能易於掌握刑法真正之內涵。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077510/local_syllabus/attachment/35487/114-2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%88%91%E7%B8%BDLU%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "勞動法（二）",
+        "professor": "鄭津津,周兆昱",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "法學院206",
+        "type": "必修",
+        "description": "介紹集體勞動法之基本概念及我國現行相關勞動法規之規範內容。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077806/local_syllabus/attachment/35500/114.2%E5%8B%9E%E5%8B%95%E6%B3%95%28%E4%BA%8C%EF%BC%89%E5%B0%88%E7%8F%AD.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "商事法（二）",
+        "professor": "羅俊瑋",
+        "credits": 2,
+        "time": "日2,3",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A014_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "民法物權",
+        "professor": "楊宏暉",
+        "credits": 2,
+        "time": "日4,5",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A025_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "刑事訴訟法（二）",
+        "professor": "謝國欣",
+        "credits": 2,
+        "time": "日6,7",
+        "location": "法學院206",
+        "type": "必修",
+        "description": "本課程將介紹刑事訴訟體系中之重要原則與構成元素。原則宛如骨骼，架構出體系之輪廓。但這些抽象原則究竟如何在現實世界中運作？本課程除介紹重要原則外，亦將分析這些原則如何在實務中操作。雖然原則之重要性不言可喻，但刑事訴訟要遠比原則豐富與複雜。而構成元素猶如肌肉，與骨骼相互配合，賦予體系生命，方能使體系運作。課程內容將涵蓋刑事司法系統之模型、偵查、搜索與扣押、逮捕與緘默權等議題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077771/local_syllabus/attachment/35496/%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%20%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20PDF.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "行政法總論（二）",
+        "professor": "蕭文生,李仁淼,江嘉琪",
+        "credits": 2,
+        "time": "六8,9",
+        "location": "法學院206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079461/local_syllabus/attachment/35545/%E8%A1%8C%E6%94%BF%E6%B3%95%E7%B8%BD%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%20114-2%20%EF%BC%88%E4%B8%89%E4%BA%BA%E5%90%88%E9%96%8B%EF%BC%89.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "民事訴訟法",
+        "professor": "周廷翰",
+        "credits": 2,
+        "time": "六10,11",
+        "location": "法學院206",
+        "type": "必修",
+        "description": "人民之權利或法律地位如果遭受侵害或陷入危險，即需賦予向法院請求救濟之機會與權利，此乃憲法第16條保障訴訟權與禁止人民自力救濟之意旨。換言之，如果欠缺適正且實效之裁判制度，不僅受害民眾求助無門，實體法亦將形同虛設並陷入慢性崩解，故如何妥善運作民事訴訟制度，實屬實體法修習完畢後所必然面對之緊要課題。在此一想法下，本學期課程將聚焦於裁判制度之基本理念與運作原則，對之進行總論式之說明後，以實際案例為教材（尤其對常見之最高法院裁判進行分析與介紹）就重要議題進行解說，使學生不但繼續深化實體法之研習，更能由淺入深瞭解民事訴訟程序之運作實態，知悉程序展開之風險與利害，始能在面對並解決紛爭時，可全局權衡相關利弊，謀求雙贏之妥處方案。故本課程與系所發展目標及學生基本能力指標相符。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2078085/local_syllabus/attachment/35512/%E5%B0%88%E7%8F%AD%E6%B0%91%E8%A8%B4.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "畢業論文",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,李仁淼,郝鳳鳴,廖蕙玟,盧映潔,劉建宏,江嘉琪,王韻茹,廖宗聖,洪令家,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,謝國欣,林琬珊,周廷翰,單鴻昇",
+        "credits": 6,
+        "time": "五4,5,6,7,8,9",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A100_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "需有論文指導教授"
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "畢業論文（一）",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,李仁淼,郝鳳鳴,廖蕙玟,盧映潔,劉建宏,江嘉琪,王韻茹,廖宗聖,洪令家,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,謝國欣,林琬珊,周廷翰,單鴻昇",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A123_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "需有論文指導教授"
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "畢業論文（二）",
+        "professor": "吳信華,施慧玲,謝哲勝,鄭津津,蕭文生,李仁淼,郝鳳鳴,廖蕙玟,盧映潔,劉建宏,江嘉琪,王韻茹,廖宗聖,洪令家,高文琦,羅俊瑋,王正嘉,楊宏暉,周兆昱,謝國欣,林琬珊,周廷翰,單鴻昇",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A124_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(605A123)畢業論文（一）(曾經修習)需有論文指導教授"
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "公法理論與實務專題研究（二）－憲法與行政法整合",
+        "professor": "李仁淼",
+        "credits": 2,
+        "time": "日2,3",
+        "location": "法學院306",
+        "type": "選修",
+        "description": "研究所有別於大學部，除了扎實學術之基礎，更在於學術知識的授取，因此，就憲法的各種問題，本課程將藉由開課教師之多篇學術論文，帶出教師本人之觀點想法，並由學生進行專題報告，彼此切磋交流。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080552/local_syllabus/attachment/35570/%E5%85%AC%E6%B3%95%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E5%8B%99%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "法學方法與憲法思維專題研究(二)",
+        "professor": "吳信華,高文琦",
+        "credits": 2,
+        "time": "六8,9",
+        "location": "法學院209",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A143_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "法律與文學專題研究（二）",
+        "professor": "施慧玲",
+        "credits": 2,
+        "time": "六6,7",
+        "location": "法學院209",
+        "type": "選修",
+        "description": "【文學賞析】\r\nVera Drake天使薇拉卓克、Dead Man Walking越過死亡線、The Hours時時刻刻、Mona Lisa Smile蒙娜麗莎的微笑、Awakenings睡人、Patch Adams心靈點滴、I am Sam他不笨他是我爸爸。\n\r\n【圓桌論壇】\r\n一、從Vera Drake與Dead Man Walking兩部電影，我們看到什麼樣的「正義」（justice）或「不正義」（injustice）？在決定一個生命應該開始或必須結束之時，「正義」與「不正義」的判斷標準在哪裡？\r\n二、從The Hours及Mona Lisa Smile兩部電影去思考：Virginia Woolf所說「To look at life in the face, to know it, to love it for what it is, then to put it away」並且反省如果「Art is art until someone says it」，是否也有可能「Life is life until someone says it」，而那個someone正是「法律人」？\r\n三、從Awakenings及Patch Adams兩部電影去省思：一個人要能成為「如人一般的」（human）「存在體」（being），最重要的是什麼？法律人如何能定義或評斷一個生命的「存在價值」？\r\n四、在電影I am Sam中，女律師對Sam說「I am afraid I’m getting more from this relationship than I can give」。一位常勝的傑出女律師竟然說：她可以從一個「自閉而且智障」的當事人身上得到的，比她可以給予他的還多？！從這部電影、這句話，法律人可以得到什麼樣的啟發或反省？\r\n五、法律人如何思考或重新思考「生命」與「專業權威」間的關係？對於生命的規訓與制約，是該順從「人性」，或該恪遵「法理」？\n\r\n「請尊重智慧財產權，不得非法影印教師指定之教科書籍」\n\r\n[Literary/Film Appreciation]\r\nVera Drake, Dead Man Walking, The Hours, Mona Lisa Smile, Awakenings, Patch Adams, I Am Sam.\n\r\n[Roundtable Discussion]\r\n1.From the films Vera Drake and Dead Man Walking, what forms of \"justice\" or \"injustice\" do we witness? When deciding whether a life should begin or must end, what are the standards by which we judge \"justice\" or \"injustice\"?\r\n2.Reflecting on The Hours and Mona Lisa Smile: Virginia Woolf once said, “To look at life in the face, to know it, to love it for what it is, then to put it away.” If “Art is art until someone says it,” could it also be that “Life is life until someone says it”—and could that someone be the \"legal professional\"?\r\n3.From Awakenings and Patch Adams, consider: What is essential for a person to be a truly \"human being\"? How can legal professionals define or evaluate the \"existential value\" of a life?\r\n4.In I Am Sam, the female lawyer tells Sam, “I am afraid I’m getting more from this relationship than I can give.” How could a successful and outstanding lawyer admit that she is receiving more from her autistic and intellectually disabled client than she is able to give? What inspiration or reflection does this line—and this film—offer to legal professionals?\r\n5.How should legal professionals think—or rethink—the relationship between “life” and “professional authority”? When it comes to disciplining or regulating life, should one follow “humanity” or adhere strictly to “legal principles”?\n\r\n\"Please respect intellectual property rights. Unauthorized photocopying of textbooks designated by the instructor is prohibited.\"",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079420/local_syllabus/attachment/35543/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%9C%A8%E8%81%B7%E5%B0%88%E7%8F%AD%29-%E6%B3%95%E5%BE%8B%E8%88%87%E6%96%87%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "民法專題研究(一)",
+        "professor": "廖蕙玟,楊宏暉",
+        "credits": 2,
+        "time": "日6,7",
+        "location": "法學院508",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A251_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "刑法專題研究（一）",
+        "professor": "林琬珊",
+        "credits": 2,
+        "time": "日8,9",
+        "location": "法學院306",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A308_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "行政法專題研究－行政救濟法",
+        "professor": "蕭文生,李仁淼,江嘉琪",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "法學院209",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079444/local_syllabus/attachment/35544/%E8%A1%8C%E6%94%BF%E6%95%91%E6%BF%9F%E6%B3%95%20114-2%20%EF%BC%88%E4%B8%89%E4%BA%BA%E5%90%88%E9%96%8B%EF%BC%89.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "社會法專題研究（二）",
+        "professor": "郝鳳鳴,單鴻昇",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "法學院306",
+        "type": "選修",
+        "description": "因應高齡少子化社會的來臨，照護責任的公共化係不可避免的趨勢。本課程將聚焦於長期照護制度的法律框架及相關爭議問題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077904/local_syllabus/attachment/35506/1142%E5%B0%88%E7%8F%AD%E7%A4%BE%E6%9C%83%E6%B3%95.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "勞動法專題研究（三）",
+        "professor": "鄭津津,周兆昱",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "法學院209",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077797/local_syllabus/attachment/35499/114.2%E5%8B%9E%E5%B0%883%EF%BC%88%E5%B0%88%E7%8F%AD%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "證券交易法專題研究",
+        "professor": "洪令家",
+        "credits": 2,
+        "time": "日6,7",
+        "location": "法學院306",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A714_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "國際私法專題研究",
+        "professor": "廖蕙玟",
+        "credits": 2,
+        "time": "日8,9",
+        "location": "法學院508",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_605A911_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)法律學研究所",
+        "name": "國際公法專題研究（一）",
+        "professor": "廖宗聖",
+        "credits": 2,
+        "time": "日4,5",
+        "location": "法學院306",
+        "type": "選修",
+        "description": "1.\t本課程採用老師建構的「發展式學習法」（DLM, Developmental Learning Method）：參與探索習得轉化創造ParticipateExploreLearn TransformcreAte (Pelta；希臘、羅馬時代士兵使用的小型、輕巧盾牌)\r\n2.\t本課程以學生習得的法律基本知識為基礎，進一步教授國際/跨國法基本原則的背後思想、理論及適用等。選修本課程「不需」以上過「國際公法專題研究一」或「國際公法」為限，課程教材為中文教材為主。\r\n3.\t本課程主題為：跨國環境法，並選擇目前在台灣社會最具挑戰的淨零排放相關部分切入，重新回顧立法背景、基礎及過程，具體檢視、闡述相關法條內容及制度，進而反思、檢討渠等規範對我國產生何種效果或爭議，最後達到對未來法學議題具有獨立判斷、省思及預測的能力。（參與探索習得轉化創造）\r\n4.\t課程導論、第二次至第七次「上」的部分由老師單獨授課（T），其餘部分（第二次至第七次「下」的部分）將由學生就各主題進行報告（S）、討論。\r\n1. Pedagogical Approach\r\nThis course adopts the \"Developmental Learning Method\" (DLM) developed by the instructor. The process follows five stages: Participate → Explore → Learn → Transform → creAte (forming the acronym PELTA, which refers to the small, lightweight shields used by soldiers in Ancient Greece and Rome).\n\r\n2. Course Prerequisites and Materials \r\nBuilding upon students' foundational knowledge of law, this course delves into the underlying philosophies, theories, and applications of fundamental principles in international and transnational law. Enrollment is not limited to students who have previously taken \"Special Topics in International Public Law (I)\" or \"Public International Law.\" The primary instructional materials will be in Chinese.\n\r\n3. Course Theme and Objectives \r\nThe theme of this course is Transnational Environmental Law, focusing specifically on Net-Zero Emissions, one of the most challenging issues in contemporary Taiwanese society.\n\r\nThe course will review the legislative background and foundations, examine specific legal provisions and systems, and reflect upon the effects or controversies these regulations create within Taiwan. Ultimately, students will develop the capacity for independent judgment, reflection, and prediction regarding future legal issues (Participate → Explore → Learn → Transform → creAte).\n\r\n4. Course Format\r\nThe course introduction and the first half of sessions 2 through 7 will be conducted via lectures by the instructor (T). The second half of sessions 2 through 7 will consist of student presentations (S) and group discussions on assigned topics.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079218/local_syllabus/attachment/35529/%E5%9C%8B%E9%9A%9B%E5%85%AC%E6%B3%95%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B62%28%E7%A2%A9%E5%B0%88%E7%8F%AD%E6%96%B0%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

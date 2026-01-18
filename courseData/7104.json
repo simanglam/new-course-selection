@@ -1,0 +1,524 @@
+[
+    {
+        "id": "成人及繼續教育學系",
+        "name": "創造力發展",
+        "professor": "陳玉樹",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "教育館204",
+        "type": "必修",
+        "description": "教學目標 \r\n創意經濟時代，組織最大的問題在於其員工缺乏創新思考與解決問題的能力。如何培養具創造性思考能力的員工，增進其創造力，藉以提升創新績效，乃是各組織普遍關切的問題。創意並非憑空而來的，創意是可以透過訓練加以提升。本課程將討論創造力發展的意義與內涵，讓同學能瞭解創造力發展的研究主題、趨勢及技法。在修完本課程後，學生將有能力：\r\n\t瞭解創造力的意義與內涵。\r\n\t瞭解有關創造力發展的理論、趨勢及主題。\r\n\t熟知創造力激盪術。\r\n設計創意活動與遊戲。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049781/local_syllabus/attachment/34304/114-1--%E5%89%B5%E9%80%A0%E5%8A%9B%E7%99%BC%E5%B1%95--%E5%A4%A7%E5%AD%B8.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "人力資源發展與管理",
+        "professor": "高文彬",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "教育館204",
+        "type": "必修",
+        "description": "This EMI course introduces basic concepts about Human Resource Development and Management (HRDM) to undergraduate students, looking into how public and private sectors effectively recruit, select, train, and develop their workforce. Some key topics including Job Analysis, Recruitment, Career Planning and Development, Training and Professional Development, Performance Management will be discussed. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049935/local_syllabus/attachment/34307/%E4%B8%8A%E5%82%B320260106%E5%A4%A7%E5%AD%B8%E9%83%A8EMI%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E7%99%BC%E5%B1%95%E8%88%87%E7%AE%A1%E7%90%86%E8%AA%B2%E7%B6%B1%E8%A1%A8%20%E6%97%A5%E6%9C%9F.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "教育傳播與科技",
+        "professor": "潘璿安",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "教育館204",
+        "type": "選修",
+        "description": "This course delves into the dynamic relationship between educational media and technology, emphasizing the use of innovative tools and strategies to enhance teaching and learning across diverse educational contexts. Students will explore foundational instructional design models, examine emerging trends in educational technology, and apply practical methods to engage learners in digital, hybrid, and traditional settings. Through a combination of hands-on activities, collaborative projects, and critical analysis of real-world case studies, participants will acquire the skills to effectively integrate multimedia, Web 2.0 tools, social media, and generative AI into their instructional practices, fostering meaningful and interactive learning experiences.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049885/local_syllabus/attachment/34306/114-2_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E6%95%99%E8%82%B2%E5%82%B3%E6%92%AD%E8%88%87%E7%A7%91%E6%8A%80-%E5%A4%A7%E4%B8%80%E9%81%B8.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "健康老化與健康促進",
+        "professor": "陳毓璟",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "教育館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3401034_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育史哲與社會思潮",
+        "professor": "李雅慧",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "教育館204",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049845/local_syllabus/attachment/34305/114-2%E5%A4%A7%E4%B8%80%E5%8F%B2%E5%93%B2.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "社區營造與文化創新",
+        "professor": "蔡秀美",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": "請先修習成教系一年級的社區教育與發展，或具備對社區教育的基礎知識。",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3402035_01",
+        "targetGrade": "2",
+        "capacity": "32",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "教育統計",
+        "professor": "施宇澤",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "教育館206",
+        "type": "必修",
+        "description": "本課程的內容包括敘述統計及推論統計之學理與統計軟體操作兩大部分。主要的目的在介紹統計學的基本概念及培養資料整理與統計分析技能，以便用來解決與教育統計相關的問題。\n\r\n教學目標\r\n1.\t瞭解教育統計的基本概念並將其應用在教育領域的研究分析中。\r\n2.\t培養學生有初步問卷設計與統計資料整理與分析的能力。\r\n3.\t培養學生有基本使用套裝程式 (SPSS、SAS-EM、EXCEL) 的基本能力與操作經驗。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050088/local_syllabus/attachment/34311/114%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%A4%A7%E5%AD%B8%E9%83%A8%E7%89%88%29%E6%95%99%E8%82%B2%E7%B5%B1%E8%A8%88%28%E6%96%B0%E7%89%88%29.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育專案管理",
+        "professor": "高文彬",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "教育館204",
+        "type": "選修",
+        "description": "成人教育專案管理課程之開設目的在使學生具備專案管理觀念、瞭解管理工具之應用，並能運用專案管理技術於成人教育活動之規劃、推廣與執行。本學期預定任務如下\r\n1.\t學會專案管理理論、工具與實務\r\n2.\t學會專案管理企畫書之撰寫\r\n3.\t歸納所學之專案管理知識，撰寫專案管理秘笈\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050204/local_syllabus/attachment/34312/%E4%B8%8A%E5%82%B320260106%20%E5%A4%A7%E5%AD%B8%E9%83%A8%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E8%AA%B2%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "樂齡生涯規劃",
+        "professor": "李雅慧",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "教育二館556",
+        "type": "選修",
+        "description": "Course description\r\nLifespan development is an important issue, particularly in the middle- late adulthood. The course will examine continuity and change based on relevant conceptions. Upon completion of the course the student will be able to understand physical, cognitive and mental health, and work changes, and the effects of retirement across the mid-late adulthood. The students will develop and apply career planning skills to design an appropriate program for middle-aged and older adults. \r\nAt the end of the course, the students should (1) understand the main concepts of adult development, aging, and planning for mid-late life. (2) be able to apply this knowledge and planning skills to adults’ development.\n\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050405/local_syllabus/attachment/34316/114-2%E6%A8%82%E9%BD%A1%E7%94%9F%E6%B6%AF%E8%A6%8F%E5%8A%83.pdf",
+        "targetGrade": "2",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "新住民識字教育",
+        "professor": "陳怡華",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "教育二館233",
+        "type": "選修",
+        "description": "        現代社會中，「識字」不再只是一種溝通工具的習得，更是具有「增能賦權」（empowerment）的實質意義。尤其是對於我國的新住民而言，因為婚姻而在台灣落地生根，卻立時成為「目不識丁，有口難言」的文盲與半啞吧。因此，國內外諸多研究都顯示，移民人口中最迫切的教育需求，永遠都是與溝通相關的識字教育，而我國有關新住民的教育活動，也多落實於識字教育活動。但是，若進一步檢視我國的識字教育，因為數十年來掃盲有成，加上低識字人口凋零，在統計數字是漂亮的甚至是罕見的1.4%。但實際上卻有數十萬的新住民，因為母國學歷不被認可，加上中文聽說讀寫能力的低落，常是受困於自身環境而無法脫離，被迫成為社會弱勢族群。若有幸者，得以進入學習機構從事識字學習活動，但卻又受限於我國傳統識字教學方法，不僅引用教育國小學齡學生的教法；多數教師亦未受過成人教育培訓，甚至不瞭解新住民族群；雖然近年來各縣市多有針對新住民編輯識字教材，但幾乎都是未經試教實驗，或是未能加以系統化分級編纂，也鮮少針對不同國籍新住民進行適合教材編寫，幾乎千篇一律的以我國社會民情為主軸的教材內容；甚至是靜態的「認識字」，缺少以識字做為對自身處境的批判對話與解放的「賦權」活動。終使得新住民識字活動，成為領取身分證所需72小時識字課程證明。也讓此些新住民終其只能習得日常聽講能力，於識讀能力絕緣。影響所及不只是限制新住民自身行動能力，也無法指導子女課業、取得更佳職場環境、更有利家人溝通、以及自修學習。\r\n成人教育者，尤其是在新住民識字教育領域，若能帶進適合新住民識字學習方法、設計出適當的識字課程與教材、實踐識字即是賦權的理想，對我國新住民識字教育發展，將是注入強心針。故本課程旨在促進學生對於新住民識字教育相關理論與實務的瞭解，協助學生具備實施新住民識字教育之教學活動、教材設計、評量、活動規劃等專業知能的提升與運用。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050439/local_syllabus/attachment/34317/114-2%20%20%E6%96%B0%E4%BD%8F%E6%B0%91%E8%AD%98%E5%AD%97%E6%95%99%E8%82%B2%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "42",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育方案協調者之人際溝通技巧",
+        "professor": "林安緹",
+        "credits": 2,
+        "time": "四11,12",
+        "location": "教育館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050279/local_syllabus/attachment/34313/INTERPERSONAL%20COMMUNICATION%20FOR%20ADULT%20EDUCATION%20COORDINATOR%20SYLLABUS.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育社會學",
+        "professor": "林麗惠",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "教育二館556",
+        "type": "必修",
+        "description": "教學目標\r\n1.瞭解社會學的理論內涵。\r\n2.分析成人教育的各項議題。\r\n3.應用社會學觀點與理論來詮釋成人教育的議題。\r\n4.探討社會學理論並將其應用在成人教育議題之剖析。\r\n5.運用社會設計的創新概念提出成人教育的創意提案。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050360/local_syllabus/attachment/34315/114-2%20%E6%88%90%E4%BA%BA%E6%95%99%E8%82%B2%E7%A4%BE%E6%9C%83%E5%AD%B8%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "36",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "樂齡產業發展",
+        "professor": "成教系待聘教師1",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "This course provides a comprehensive exploration of the \"Silver Economy,\" a rapidly expanding global market driven by the needs and aspirations of the aging population. Moving beyond traditional views of aging as a social burden, we will analyze it as a powerful engine for economic growth and social innovation. Students will examine the demographic shifts, policy frameworks, and business models shaping this industry both in Taiwan and in the international arena. Through case studies, lectures, field work and develop project proposals, we will investigate key sectors of the silver economy including technology, housing, finance, health, lifelong learning, and leisure. The course aims to equip our students with the strategic thinking and practical tools necessary to develop sustainable, ethical, and human-centered products and services for the super aged society like Taiwan.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2073013/local_syllabus/attachment/35282/EMI%20Silver%20Economy%20114%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%A4%A7%E5%AD%B8%E9%83%A8%E7%89%88%29ok.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "各國高齡服務創新",
+        "professor": "周傳久",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "本課程專為對國際高等教育新知、跨領域共學創新和高齡者獨立自主福祉服務有興趣之同學設計。非常歡迎不同科系同學一起學習。在這門課您看到自己來讀大學的意義與價值！您逐漸發現自己的潛力和未來人生方向。\r\n同學不只學習共同顧念為別人的幸福，也從中看到自己的潛力、價值，更認識自己，有助未來就業規劃，能投入高齡產業，也能轉化應用於不同職場的發展自信與創新素養。\r\n本課程引用荷蘭大學實驗有成全面實施之DBE（design based education）教學法，融合學理、臨場服務與觀察、設計思考運用，同學將經驗到有效、豐富、個別化的學習經驗。同時強化當前我國國民與業界最需要的素養-與人合作的能力。所介紹之國外經驗均為成熟累積服務量能和社會評價良好，以及學術研究證實有助高齡幸福之案例，讓同學擴展視野與包容、創新素養。\r\nThis course is designed for students interested in new knowledge in international higher education, interdisciplinary collaborative learning and innovation, and independent well-being services for the elderly. Students from different disciplines are warmly welcome to learn together. In this course, you will see the meaning and value of your university education! You will gradually discover your potential and future life direction.\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056346/local_syllabus/attachment/34560/114-2%E5%90%84%E5%9C%8B%E9%AB%98%E9%BD%A1%E6%9C%8D%E5%8B%99%E5%89%B5%E6%96%B0.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "家庭生活教育概論",
+        "professor": "陳怡華",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "教育二館233",
+        "type": "選修",
+        "description": "        家庭是人類最早接觸也是終其一生最核心的人際組織，而婚姻則是家庭組成與延續的關鍵要件。兩性由擇偶、戀愛、結婚，到離婚、喪偶、再婚等家庭的建立，歷經了建立、破裂與再重組等婚姻經驗，雖然不必然每個人皆會走向情愛關係、婚姻結合、家庭建立、子女養育、父母孝養等生涯經歷。然而，個人生命軌跡與生活範疇卻始終圍繞在由感情與親情等，家庭與婚姻關係所形成的人際網絡中。尤其，面對社會快速變遷的衝擊，使得原有的傳統家庭制度逐漸瓦解，家庭功能亦漸為其他組織所取代，甚至維繫家庭成員的情感連結亦漸次衰微，劈腿、情殺、性侵害、一夜情、未婚媽媽、婚外情、離婚、再婚、同性戀、單親家庭、家庭暴力、受虐兒童、買賣婚姻、姻親衝突、婆媳問題等層出不窮，造成親密關係、婚姻與家庭在當代社會中，面臨前所未有的空前挑戰。其根本之道乃在於真確認識親密關係、婚姻關係與家庭組織的本質、意義、現象、問題與因應方法，以及反省檢視自我觀點的謬誤與迷思，由偏向思維中掙脫出，重新架構適己、健康、正確的感情與親情關係，進而走向完滿豐富的情愛人生。\r\n是以，本課程教學目的旨在教導學生有關家庭生活的理論與實務，透過多元教學方法，讓學生瞭解家庭生活教育的本質、發展歷程、內涵、未來的發展、家庭生活教育方案的設計與評鑑等；期望學生具備家庭生活教育專業知能及規劃家庭生活教育生涯的能力。甚而，協助學生形塑出圓滿愛戀關係、和諧婚姻經營、以及健康家庭生活模型，並促進學生能在親密關係中成長茁壯。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050069/local_syllabus/attachment/34310/114-2%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%B4%BB%E6%95%99%E8%82%B2%E5%B0%8E%E8%AB%96%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "42",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "教材設計與製作",
+        "professor": "潘璿安",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "教育館204",
+        "type": "必修",
+        "description": "This course offers a comprehensive introduction to integrating technology into teaching practices, emphasizing the latest trends and tools in eLearning. Students will delve into instructional design theories, engage in hands-on practice with digital platforms, and explore emerging technologies such as augmented reality (AR), virtual reality (VR), and artificial intelligence (AI) to craft dynamic and interactive learning experiences. Through a combination of case studies, collaborative projects, and expert guest lectures, this course equips participants with the knowledge and skills needed to design, implement, and innovate teaching media tailored for a global and technology-driven classroom environment.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050302/local_syllabus/attachment/34314/114-2_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-v1-%E6%95%99%E6%9D%90%E8%A8%AD%E8%A8%88%E8%88%87%E8%A3%BD%E4%BD%9C-%E5%A4%A7%E4%BA%8C%E5%BF%85.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "教育訓練與人才發展",
+        "professor": "李藹慈",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "教育館206",
+        "type": "必修",
+        "description": "教育訓練發展為人力資源發展之核心功能之一，意指組織藉由有計畫的、系統的方式促進員工學習工作上之專業能力。本門課旨在藉由教育訓練相關概念與理論的介紹，以及實際的演練，使學生獲得從事教育訓練工作的基本能力。修完本課程後學生將能夠：\r\n1. 說出企業訓練與發展的意義、功能及相關理論\r\n2. 掌握企業或組織辦理教育訓練品質確保的要素\r\n3. 應用教育訓練活動的流程與步驟\r\n4. 具備從事教育訓練規劃與課程設計的基本能力\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2050459/local_syllabus/attachment/34318/114-2%20Training%20and%20Talent%20Development%20%28syllabus%29.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育組織與管理",
+        "professor": "王維旎",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "教育館206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3403045_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育學系",
+        "name": "成人教育生涯定向",
+        "professor": "魏惠娟",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "教育二館532",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056378/local_syllabus/attachment/34562/114-2%20%E6%88%90%E4%BA%BA%E6%95%99%E8%82%B2%E7%94%9F%E6%B6%AF%E5%AE%9A%E5%90%91%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "32",
+        "memo": ""
+    }
+]

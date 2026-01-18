@@ -1,0 +1,308 @@
+[
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "金融科技市場與服務",
+        "professor": "金融科技碩士學位學程待聘教師1",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "管理學院102",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051021/local_syllabus/attachment/34326/%E9%87%91%E8%9E%8D%E7%A7%91%E5%B8%82%E5%A0%B4%E8%88%87%E6%9C%8D%E5%8B%99%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "永續金融",
+        "professor": "林佳賢",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院350",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051622/local_syllabus/attachment/34351/sustainable%20finance_syllabus_2026_spring.pdf",
+        "targetGrade": "1",
+        "capacity": "25",
+        "memo": "「財務金融領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "電子商務與應用",
+        "professor": "林勝為",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院221",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406333_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "「資管領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "資料分析與視覺化",
+        "professor": "簡廷軒",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "管理學院351",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406444_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "「金融科技領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "金融科技區塊鏈應用",
+        "professor": "簡廷軒",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院351",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406455_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "「金融科技領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "金融科技專題 (二)",
+        "professor": "金融科技碩士學位學程待聘教師1",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051576/local_syllabus/attachment/34347/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%B0%88%E9%A1%8C%28%E4%BA%8C%29%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "「金融科技領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "初階資產管理數位課程 (二)",
+        "professor": "李佩璇,賴靖宜",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "根據金管會推動亞洲資產管理中心的政策，旨在透過吸引資金流入、促進商品多元化以及人才培育等目的，提升台灣作為資產管理中心的地位。在人才培育面，面對全球資產管理業務的多樣化挑戰與商機，台灣金融研訓院積極整合金融業界資源，邀請具備實務經驗的專家講師，共同規劃完整的培訓課程，提供大專院校學生專業學習機會，培育未來資產管理領域的專業人才。\r\n「初階資產管理數位課程(一)、(二)」主要為培育有計畫將從事資產管理業務的人才，從四大主軸設計培訓課程，建立從事該業務需具備之基礎專業知識。透過線上數位課程進行，並輔以單元測驗呈現學習成果。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2051585/local_syllabus/attachment/34348/Syllabus_%E5%88%9D%E9%9A%8E%E8%B3%87%E7%94%A2%E7%AE%A1%E7%90%86%E6%95%B8%E4%BD%8D%E8%AA%B2%E7%A8%8B%28%E4%BA%8C%29-1142-v1229.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "「財務金融領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "財務資料分析",
+        "professor": "雲慕書",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406512_01",
+        "targetGrade": "1",
+        "capacity": "35",
+        "memo": "「財務金融領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "生成式人工智慧",
+        "professor": "林育秀",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院349",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406513_01",
+        "targetGrade": "1",
+        "capacity": "50",
+        "memo": "「金融科技領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "商業管理學術英文表達",
+        "professor": "鄧氏霞妝",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院103",
+        "type": "選修",
+        "description": "This course develops effective English communication skills for business and finance professionals. Students will practice writing, speaking, listening, and presenting in business contexts. The course emphasizes practical skills through lectures, role-plays, group activities, video analysis, and presentations.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2052305/local_syllabus/attachment/34371/114-2%20%E5%95%86%E6%A5%AD%E7%AE%A1%E7%90%86%E5%AD%B8%E8%A1%93%E8%8B%B1%E6%96%87%E8%A1%A8%E9%81%94%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20AEBC%205406514.pdf",
+        "targetGrade": "1",
+        "capacity": "29",
+        "memo": "未取得畢業外語能力條件者，修畢本課程可認列「1門」商用英文課程。"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "大數據的分析與應用",
+        "professor": "黃正魁",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院442",
+        "type": "選修",
+        "description": "Big data has emerged as a powerful force, revolutionizing the business landscape both internally and externally. The term \"big data\" has gained immense popularity, akin to its predecessor, cloud computing. It can trace back to 1998 when John Mashey of Silicon Graphics Inc. prominently mentioned it. In 2010, big data garnered significant attention from managers and researchers, and in 2012, The New York Times featured a column titled \"The Age of Big Data,\" heralding the arrival of the big data era. Data originates not only from structured databases within organizations but also from unstructured sources and external datasets. The avenues for data collection extend beyond enterprises themselves and include social network platforms, Internet of Things sensors, and government open data.\r\n\tAs its name suggests, big data refers to datasets that exceed the processing capacity of traditional database systems. Within this vast sea of data, we can harness the potential of data analytics, empowered by data mining algorithms, artificial intelligence, ChatGPT, and visualization tools, to unveil hidden correlations, uncover patterns, and discern market trends.\r\n\tIn this course, students will have the opportunity to delve into the realm of big data analysis and management. They will not only acquire knowledge of data mining and statistical approaches but also develop a keen understanding of analyzing data’s business significance. With the aid of artificial intelligence and ChatGPT, students will explore how to leverage big data for strategic decision-making, data-driven storytelling, and gain valuable insights that drive business success.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2075606/local_syllabus/attachment/35378/BD_Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "「金融科技領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "ESG與責任企業投資",
+        "professor": "宋豪漳",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "First part:\r\nThis course review focuses on the role of Environmental, Social, and Governance (ESG) factors in financial economics and asset pricing. It will discuss how ESG considerations shape portfolio efficiency through the ESG-efficient frontier and how environmental risks give rise to return premia, including the pollution premium. The review also explores how ESG-related information can be extracted from option markets and how ESG characteristics generate momentum effects. Empirical evidence from the Taiwanese stock market is used to illustrate how changes in ESG ratings influence investor behavior and stock prices.\r\nSecond part:\r\nWe will explore ESG and responsible business investing, focusing on corporate governance, sustainability, and relevant topics such as stakeholder capitalism, green corporations, and responsible investing, particularly in the Taiwanese financial sector.\r\nBy the end of the course, students will understand the significance of responsible business practices and the relevance of ESG.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070237/local_syllabus/attachment/35153/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28ESG%20and%20Responsible%20Business%20Investment%29.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "「財務金融領域」選修"
+    },
+    {
+        "id": "金融科技碩士學位學程",
+        "name": "機器學習",
+        "professor": "薩尼",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院221",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5406605_01",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "「金融科技領域」選修"
+    }
+]

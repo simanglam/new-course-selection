@@ -1,0 +1,247 @@
+[
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "民間文學與文化專題研究",
+        "professor": "梁鈞筌",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "文學院103",
+        "type": "選修",
+        "description": "台灣自古至今經歷多階段的歷史變化，從原民時期、荷蘭殖民、鄭氏王朝、清帝國、日本帝國乃至於戰後，在民俗文化方面也因時代之演變而有所變化。本課程嘗試從文獻記載中探討各時期民俗文化的樣貌，並深入探討民俗變化之系統性因素，從不同主題、不同層面探討民俗議題的系統與深度。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2079321/local_syllabus/attachment/35534/113-2%E6%B0%91%E9%96%93%E6%96%87%E5%AD%B8%E8%88%87%E6%96%87%E5%8C%96%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "日治時期作家作品專題",
+        "professor": "楊智景",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "本學期本課程將研讀日治時期的重要台人和日人作家的文學作品，對日治時期台灣文學進行史學考察、研讀與討論。\r\n課程進行方式：以「旅行」「移動」為主題，選擇日治時期重要台日作家及作品並擬定議題進行講授和討論。\r\n具體教學目標如下：\r\n1.精讀文本，精確掌握文本。\r\n2.學習從掌握當時代社會脈絡對文本的解讀與分析能力。\r\n3.學習並應用後殖民理論、異文化接觸理論、觀光人類學理論。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076865/local_syllabus/attachment/35440/114-2%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E4%BD%9C%E5%AE%B6%E4%BD%9C%E5%93%81%E5%B0%88%E9%A1%8C%28%E7%A2%A9%E5%B0%88%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "臺灣漢人社會專題",
+        "professor": "李映瑾,李知灝",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "文學院104",
+        "type": "選修",
+        "description": "本課程以台灣漢人歷史與文化為核心，結合族群、歷史與文化研究的視角，全面探討漢人在台灣的發展與影響。課程涵蓋從早期移民、鄭氏王朝、清領時期至日治時期的歷史，並深入分析漢人社會在宗教信仰、道德價值、文學創作與地方領導等方面的變遷。同時，課程也將探討漢文化在現代化與全球化過程中的適應與挑戰，並延伸至海外華人社會的文化延續，幫助學生理解台灣漢人文化的多樣性與歷史意義。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077036/local_syllabus/attachment/35447/114-2%E6%BC%A2%E4%BA%BA%E7%A4%BE%E6%9C%83%E8%88%87%E6%96%87%E5%8C%96%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "碩士論文（二）",
+        "professor": "江寶釵,李映瑾,李知灝,楊智景,王萬睿,童信智,王櫻芬",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "教授研究室",
+        "type": "必修",
+        "description": "為促進本所在職專班學生深入研究意願，強化畢業論文之水準，開設本課程讓學生有更多機會與老師討論畢業論文相關之事項，故開設本課程。學習目標如下：1.\t瞭解個別學生蒐集論文資料情況，並提供相關方向。2. 田野調查、文獻蒐集與整理方式之深度探討。3. 學術論文編排與數位化實務。4. 研究計畫輿論文章節之撰寫訓練。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2076928/local_syllabus/attachment/35441/114-2%20%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%EF%BC%88%E4%BA%8C%EF%BC%89.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級必修課，一年級勿選"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "在地文創實例專題研究",
+        "professor": "王櫻芬",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "文學院104",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080972/local_syllabus/attachment/35587/%E8%AA%B2%E7%B6%B1-%E5%9C%A8%E5%9C%B0%E6%96%87%E5%89%B5%E5%AF%A6%E4%BE%8B%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B603.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "通俗文學與文化",
+        "professor": "王櫻芬",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "文學院104",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080981/local_syllabus/attachment/35588/%E8%AA%B2%E7%B6%B1-%E9%80%9A%E4%BF%97%E6%96%87%E5%AD%B8%E8%88%87%E6%96%87%E5%8C%9602-%E7%A2%A9%E5%B0%88%E7%8F%AD.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "地方體驗、敘事應用與數位化—地方知識與紀錄片製作",
+        "professor": "江寶釵,童信智",
+        "credits": 3,
+        "time": "六7,8,9",
+        "location": "文學院103",
+        "type": "選修",
+        "description": "本課程提出「地方知識的數位化整合」概念，以地方知識的音／像構建與數位化為主要教學目標，並聚焦「排灣群（排灣、魯凱、卑南）」民族誌專題，試圖透過田野調查、文獻檢索、數位平台、課堂互動，積澱對原住民族的深入了解，強化挖掘地方問題的觀察力，建立大數據的人文分析能力，並以邏輯思考解決問題的方案，透過檔案的解讀來創造多元脈絡的故事開發，能將議題直接落實到文字、影音製作與數位化，以深度報導、紀錄片拍攝、影像傳播作為再現工具。\r\n「民族誌專題」有其好處―具脈絡化和全面性，將能使學生尋找開闊、多元的角度，更了解嘉義的地方特質、文化蘊含，從議題擇定、創意發想、展開調訪、故事發展、寫作、攝影，到紀錄片拍攝，在影像傳播的方法基礎上，表述深刻的思維，追溯過去，記錄現在，瞻望未來，而數位檔案的參與建置過程，也可增進未來數位人文之發展。\r\n在地方知識的蒐集上，本課程就飲食、衣飾、家屋、慶典、工藝、樂舞等六大主題，取擇有趣味、有意義、有價值的素材，加以運用，自身亦形構為一動態生成史，並期望帶動臺灣原住民族文化資產的蓬勃發展。\r\n本課程採共授教學。並有移地教學的交通補助，課程委由博士級教學助理、行政助理等襄助，兩位老師共授，並邀請業師進行講座，提供紀錄片拍攝實務的教學。\r\n課程特色：\r\n1.\t無邊界教學，含差旅補助。\r\n2.\t採彈性授課方式進行，以計畫導向為主。\r\n3.\t業師親臨指導，提高作品完成度。\r\n4.\t青銀兩位教師共授。\r\n5.\t課程進行有教學助理、行政助理協助。\r\n6.\t期末作品產出，增加職涯的競爭力。\r\n7.\t修課人數上限：教室容納-26人。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080358/local_syllabus/attachment/35562/114-2%E5%9C%B0%E6%96%B9%E9%AB%94%E9%A9%97%E3%80%81%E6%95%98%E4%BA%8B%E6%87%89%E7%94%A8%E8%88%87%E6%95%B8%E4%BD%8D%E5%8C%96%E2%80%94%E5%9C%B0%E6%96%B9%E7%9F%A5%E8%AD%98%E8%88%87%E7%B4%80%E9%8C%84%E7%89%87%E8%A3%BD%E4%BD%9C-%E5%8F%B0%E6%96%87%E5%89%B5%E6%87%89%E6%89%80-%E7%A2%A9%E5%B0%88%E7%8F%AD%20%281%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "台灣語文專題",
+        "professor": "陳瀅州",
+        "credits": 3,
+        "time": "六3,4,5",
+        "location": "文學院103",
+        "type": "選修",
+        "description": "本課程以介紹台語文學相關知識與應用為目標，期能使同學認識台語文學發展的背景及相應的台灣文化，台語音韻之美與賞析台語文學作品，以及台語在影視戲劇音樂等跨領域運用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2082152/local_syllabus/attachment/35622/%E5%8F%B0%E7%81%A3%E8%AA%9E%E6%96%87%E5%B0%88%E9%A1%8C%28%E7%A2%A9%E5%B0%88%E7%8F%AD%29.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "台灣文學專題研究",
+        "professor": "江寶釵",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "文學院004-2室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080347/local_syllabus/attachment/35561/114-2%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%20%281%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "二年級選修課"
+    },
+    {
+        "id": "(專)台灣文學與創意應用研究所台灣文化碩士在職專班",
+        "name": "文化理論與應用",
+        "professor": "王萬睿",
+        "credits": 3,
+        "time": "六10,11,12",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "本課程是針對當代文化議題與文化研究理論做一介紹。文化理論所涉及的領域相當廣泛，本課程除了提供並研讀文化理論的核心主題之外，並以碩博士階段常遇見的認識論、方法論問題為主軸，期待學生能熟悉文化理論主要的核心關懷與辯論。本課程建立在文學是一種文化現象的前提之上，以文化理論和文化研究為主軸介紹特定時刻的理論方法的意涵及影響，將文化理論當成是一個論述的形成，以及提供宏觀的視野讓同學能夠掌握台灣與全球文學場域和文化實踐的關係。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080115/local_syllabus/attachment/35553/114-2%E6%96%87%E5%8C%96%E7%90%86%E8%AB%96%E8%88%87%E6%87%89%E7%94%A8%28%E5%A4%A7%E7%B6%B1%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "一年級選修課"
+    }
+]

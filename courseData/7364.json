@@ -1,0 +1,1393 @@
+[
+    {
+        "id": "運動競技學系",
+        "name": "運動休閒概論",
+        "professor": "吳燕妮",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "體育館10",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901004_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修.(上課地點:體育館第一會議室)"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—游泳",
+        "professor": "江姿穎",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "游泳池1",
+        "type": "必修",
+        "description": "強化游泳體能與技巧。\r\n強化游泳運動表現突破最佳\r\n培養人際互動及團隊合作精神\r\n增進游泳運動的認知\r\n增進游泳運動的教學實務經驗",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047174/local_syllabus/attachment/34200/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—網球",
+        "professor": "李元宏",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "網球場1",
+        "type": "必修",
+        "description": "1.具備網球基礎能力與參加全國性比賽經歷\r\n2.網球概念與常識\r\n3.網球規則與常識及技、戰術之指導\r\n4.培訓學生考取網球教練與裁判證照\r\n5.提升網球技術體能與心智能力\r\n6.增進比賽經驗\r\n7.未來成為網球專業教練與裁判\r\n中華民國最新國際網球規則\r\n（請尊重智慧財產權，不得非法影印教師指定之教科書籍）\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047187/local_syllabus/attachment/34201/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—羽球",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "羽球館1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901020_01",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—跆拳道",
+        "professor": "吳燕妮",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "技擊室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901022_01",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—射箭",
+        "professor": "廖健男",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "射箭場",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901023_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—定向越野",
+        "professor": "陳俊民",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場1",
+        "type": "必修",
+        "description": "本課程希望透過定向越野訓練的理論基礎，從實務訓練與操作中，發展學生運動專長能力，並透過相關比賽參與，以激發學生對定向越野運動的興趣。並能結合實務，培養學生選手成為未來的教練或裁判，以獲取相關專業證照。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045999/local_syllabus/attachment/34158/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—綜合",
+        "professor": "陳虔倖",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場2",
+        "type": "必修",
+        "description": "一、培育優秀運動專業人才。\r\n二、強化技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046024/local_syllabus/attachment/34159/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（二）—排球",
+        "professor": "林明輝",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "室內綜合球場(排球場)",
+        "type": "必修",
+        "description": "培育優秀排球運動人才。\r\n強化排球技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046034/local_syllabus/attachment/34160/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "45",
+        "memo": "限本系生修.限本系排球專長項目學生修習"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動英文新聞閱讀",
+        "professor": "蔡幸紋",
+        "credits": 2,
+        "time": "五4,5",
+        "location": "運技系103室",
+        "type": "選修",
+        "description": "This course is an English-taught class that aims to instruct sports-major students how to read and understand news English in the sports field. Considering English reading an essential skill that students often lack, this course thus wishes to strengthen students’ reading and listening abilities along with English grammatical practice. Furthermore, this course proceeds to teach students English writing through imitating writing a newspaper/ journal article. Students will roughly read 10 up-to-date news English articles in class and 5 more articles for self-study. Afterwards, students work in group to come up with a writing practice and present it in class. \r\nAt the end of semester, each student is expected to write a short news article in English to report one’s sport progress or achievement. Then, in each group, news reports composed by all individual teammates will be compiled and made into a newspaper/ journal.  \n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2045947/local_syllabus/attachment/34157/114_2_Sports_News_in_English_syllabus_1226.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動心理學",
+        "professor": "陳俊民",
+        "credits": 2,
+        "time": "三2,3",
+        "location": "運技系103室",
+        "type": "選修",
+        "description": "本課程希望透過心理學理論為基礎，瞭解其在競技及身體活動上之應用，以激發學生未來對運動心理學相關議題及研究的興趣，並能結合實務，應用在實際的運動訓練及健康促進上。課程除講述方式授課外 ，更強調與學生之對話與討論。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期中報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046071/local_syllabus/attachment/34163/114%E5%AD%B8%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%B8%E6%9C%9F%E9%81%8B%E5%8B%95%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "列入運動心理科學學士學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "幼兒體能與遊戲",
+        "professor": "曾沈連魁",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "運技系110室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3901106_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "列入運動心理科學學士學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動傷害與急救",
+        "professor": "蔡明倫",
+        "credits": 2,
+        "time": "二11,12",
+        "location": "運技系103室",
+        "type": "必修",
+        "description": "課程將介紹急救方法及生理反應，以及常見運動傷害種類和病理特徵，並說明運動傷害預防及復原過程所需物理治療。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046460/local_syllabus/attachment/34181/%E9%81%8B%E5%8B%95%E5%82%B7%E5%AE%B3%E8%88%87%E6%80%A5%E6%95%912026%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動專業實習（一）",
+        "professor": "江姿穎",
+        "credits": 1,
+        "time": "一7 三7",
+        "location": "運技系104室",
+        "type": "必修",
+        "description": "鼓勵同學針對未來就業方向所需能力進行實習，以實際進入產業實習或取得專業證照為佳。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902010_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—游泳",
+        "professor": "江姿穎",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "游泳池1",
+        "type": "必修",
+        "description": "強化游泳體能與技巧。\r\n強化游泳運動表現突破最佳\r\n培養人際互動及團隊合作精神\r\n增進游泳運動的認知\r\n增進游泳運動的教學實務經驗",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046361/local_syllabus/attachment/34177/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—網球",
+        "professor": "李元宏",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "網球場1",
+        "type": "必修",
+        "description": "1.具備網球基礎能力與參加全國性比賽經歷\r\n2.網球概念與常識\r\n3.網球規則與常識及技、戰術之指導\r\n4.培訓學生考取網球教練與裁判證照\r\n5.提升網球技術體能與心智能力\r\n6.增進比賽經驗\r\n7.未來成為網球專業教練與裁判\r\n中華民國最新國際網球規則\r\n（請尊重智慧財產權，不得非法影印教師指定之教科書籍）\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046341/local_syllabus/attachment/34176/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—羽球",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "羽球館1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902021_01",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—跆拳道",
+        "professor": "吳燕妮",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "技擊室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902023_01",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—射箭",
+        "professor": "廖健男",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "射箭場",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902024_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—定向越野",
+        "professor": "陳俊民",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場1",
+        "type": "必修",
+        "description": "本課程希望透過定向越野訓練的理論基礎，從實務訓練與操作中，發展學生運動專長能力，並透過相關比賽參與，以激發學生對定向越野運動的興趣。並能結合實務，培養學生選手成為未來的教練或裁判，以獲取相關專業證照。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046296/local_syllabus/attachment/34172/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—綜合",
+        "professor": "陳虔倖",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場2",
+        "type": "必修",
+        "description": "一、培育優秀運動專業人才。\r\n二、強化技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046308/local_syllabus/attachment/34173/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（四）—排球",
+        "professor": "林明輝",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "室內綜合球場(排球場)",
+        "type": "必修",
+        "description": "培育優秀排球運動人才。\r\n強化排球技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046628/local_syllabus/attachment/34182/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "應用教練心理學",
+        "professor": "劉淑燕",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "運技系110室",
+        "type": "選修",
+        "description": "本課程旨在探討心理學理論如何實際應用於運動教練情境中，協助教練在訓練與競賽環境中有效支持運動員的表現、學習與身心健康。課程結合運動心理學、教練心理學（coaching psychology）、正念與身心調節策略，強調教練在溝通、動機建立、壓力管理、團隊氛圍與教練—運動員關係中的心理角色。\r\n心理技能訓練作為本課程的核心應用元素，貫穿整體教學，協助學生在真實教練情境中設計、實施並反思心理技能介入。學生將透過案例分析、情境模擬、反思活動與實務練習，學習如何將心理原則轉化為具體的教練行動，以提升運動表現的穩定性、運動員的心理韌性，以及教練自身的專業反思能力。本課程特別重視教練作為「心理環境設計者」的角色，而非僅是技術指導者。\r\nThis course explores how psychological theories and principles can be effectively applied in sport coaching contexts. Emphasis is placed on the coach’s role in shaping athletes’ motivation, emotional regulation, performance consistency, and overall well-being. Integrating sport psychology, coaching psychology, mindfulness, and mind–body approaches, the course focuses on practical strategies that coaches can use in training and competition settings.\r\nSport Psychological Skills Training (PST) is integrated throughout the course as a core applied component, enabling students to design, implement, and reflect on mental skills interventions in real coaching contexts. Through lectures, case studies, experiential activities, and reflective practice, students will learn to translate psychological knowledge into coaching behaviors. The course highlights the coach as a designer of the psychological environment, supporting both athletic performance and athlete development.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046205/local_syllabus/attachment/34169/_114_2-%E4%B8%8B%E5%AD%B8%E6%9C%9F_%E6%87%89%E7%94%A8%E6%95%99%E7%B7%B4%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_Syllabus_.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動生物力學",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "運技系104室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902102_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "應用運動生理學",
+        "professor": "何承訓",
+        "credits": 2,
+        "time": "五4,5",
+        "location": "運技系104室",
+        "type": "選修",
+        "description": "介紹運動生理學相關的理論基礎和概念，瞭解健康與運動表現的各項能力，並且實際進行評量、訓練方法的操作，進而瞭解實務的訓練效應。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046434/local_syllabus/attachment/34180/%E6%87%89%E7%94%A8%E9%81%8B%E5%8B%95%E7%94%9F%E7%90%86%E5%AD%B8.doc",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修.列入運動心理科學學士學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動管理學",
+        "professor": "陳永洲",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "運技系103室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902106_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "列入運動心理科學學士學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "瑜珈",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "技擊室1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3902113_01",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "實務運動英語溝通",
+        "professor": "蔡幸紋",
+        "credits": 2,
+        "time": "五2,3",
+        "location": "運技系103室",
+        "type": "選修",
+        "description": "This course is an English-taught class that aims at two objectives: (1) to help students familiarize English expressions (vocabulary and phrases) in diverse sports scenarios (2) to help students practice English speaking skill using sports terms learned in class. As sports-major students, it is essential to be familiar with sports terms in the academic field as well as in daily activities. Hence, language immersion will be the chief pedagogy of this course that allows students to engage in useful expression of sports terms through listening to English live broadcasts, and watching YouTube channels or TED Talks. \r\nThis course is divided into 11 topics on diverse sports events. Each week in the first hour of class, the instructor will lecture on one topic along with real-life English conversation. In the second hour of class, students are expected to work in team to practice English conversation featuring specific sports scenario or sports event. At the end of the semester, students are required to produce either an English short film (10 mins) or an on-stage representation in order to simulate sports event using the terms and conversation they’ve learned in class.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046383/local_syllabus/attachment/34179/114_2_Practicum%20in%20Sports%20English%20Communication%20Syllabus%200108.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "體育英文",
+        "professor": "劉淑燕",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "運技系110室",
+        "type": "必修",
+        "description": "This is an EMI course. In addition to English listening, speaking, and reading, this class mainly focuses on learning major professional sports terminology in English (such as gym, fitness, baseball, basketball, swimming, National Intercollegiate Athletics Games), & Olympic games and the updated global sport news.\r\n 本科是全英語授課課程，除了著重英語聽力、英語會話與閱讀練習，強調職業運動項目(譬如，健身房、體適能、棒球、籃球、游泳、全大運、奧運會)的英文專業術語與全球最新運動時事趨勢的學習。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046253/local_syllabus/attachment/34170/114-2%20%20Sports%20in%20English_Syllabus%28%E9%AB%94%E8%82%B2%E8%8B%B1%E6%96%87%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%2020261.12.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—排球",
+        "professor": "林明輝",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "室內綜合球場(排球場)",
+        "type": "必修",
+        "description": "培育優秀排球運動人才。\r\n強化排球技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047522/local_syllabus/attachment/34224/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "限本系生修.限本系排球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—游泳",
+        "professor": "江姿穎",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "游泳池1",
+        "type": "必修",
+        "description": "強化游泳體能與技巧。\r\n強化游泳運動表現突破最佳\r\n培養人際互動及團隊合作精神\r\n增進游泳運動的認知\r\n增進游泳運動的教學實務經驗",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047469/local_syllabus/attachment/34220/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系游泳專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—網球",
+        "professor": "李元宏",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "網球場1",
+        "type": "必修",
+        "description": "1.具備網球基礎能力與參加全國性比賽經歷\r\n2.網球概念與常識\r\n3.網球規則與常識及技、戰術之指導\r\n4.培訓學生考取網球教練與裁判證照\r\n5.提升網球技術體能與心智能力\r\n6.增進比賽經驗\r\n7.未來成為網球專業教練與裁判\r\n中華民國最新國際網球規則\r\n（請尊重智慧財產權，不得非法影印教師指定之教科書籍）\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047480/local_syllabus/attachment/34221/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "限本系生修.限本系網球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—羽球",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "羽球館1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903019_01",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—跆拳道",
+        "professor": "吳燕妮",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "技擊室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903021_01",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—射箭",
+        "professor": "廖健男",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "射箭場",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903022_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—定向越野",
+        "professor": "陳俊民",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場1",
+        "type": "必修",
+        "description": "本課程希望透過定向越野訓練的理論基礎，從實務訓練與操作中，發展學生運動專長能力，並透過相關比賽參與，以激發學生對定向越野運動的興趣。並能結合實務，培養學生選手成為未來的教練或裁判，以獲取相關專業證照。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047446/local_syllabus/attachment/34218/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（六）—綜合",
+        "professor": "陳虔倖",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場2",
+        "type": "必修",
+        "description": "一、培育優秀運動專業人才。\r\n二、強化技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047512/local_syllabus/attachment/34223/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "體適能與運動處方",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "運技系104室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903101_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動營養學",
+        "professor": "王秀華",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "運技系107室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903104_01",
+        "targetGrade": "3",
+        "capacity": "30",
+        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "網球",
+        "professor": "李元宏",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "網球場1",
+        "type": "選修",
+        "description": "1.具備學習網球基礎能力及興趣\r\n2具有基本網球概念與常識\r\n3.網球規則與常識\r\n4.網球教練與裁判實習\r\n5.提升網球技術\r\n6.增進比賽經驗\r\n7.鍛鍊體能狀態\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047776/local_syllabus/attachment/34231/%E5%A4%A7%E4%B8%89%E7%B6%B2%E7%90%83%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "高爾夫",
+        "professor": "王順正",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "高爾夫練習場1",
+        "type": "選修",
+        "description": "高爾夫揮桿技術、比賽等相關內容的訓練課程",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047567/local_syllabus/attachment/34227/2026golf00d.pdf",
+        "targetGrade": "3",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動專業實習（三）",
+        "professor": "吳燕妮",
+        "credits": 1,
+        "time": "一6 三6",
+        "location": "運技系104室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903119_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "游泳（二）",
+        "professor": "江姿穎",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "運技系110室",
+        "type": "選修",
+        "description": "一、增進認知與樂趣：透過學習技術挑戰，激發學習動機，建立終身運動習慣。\r\n二、強化基本與進階技術：精進捷泳與蛙泳動作效能，學習蝶泳與仰泳技術，並建立良好的水中動作控制。\r\n三、提升動作熟練度與體能：透過長距離持續游與間歇訓練，強化肌肉記憶與心肺耐力，達成設定的體能目標。\r\n四、促進互動與合作：在分組練習中中，培養隊友間的默契、互助精神與遵守水道規範的素養。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047662/local_syllabus/attachment/34229/114-2%E6%B8%B8%E6%B3%B3%28%E4%BA%8C%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "25",
+        "memo": "先修科目(3901121)游泳（一）(及格)限本系生修.限本系生修.本課程開課對象為「已修過游泳一或已具備游泳蛙捷二式50公尺持續不間斷能力之學生」為宜，實際上課地點以Ecourse公告為主."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動與傳播跨域專題實作",
+        "professor": "廖俊儒",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "運技系110室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3903125_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動資訊處理（二）",
+        "professor": "林晉榮",
+        "credits": 2,
+        "time": "二2,3",
+        "location": "資訊處217教室",
+        "type": "必修",
+        "description": "運動資訊處理二(Sports Informatics II)\r\n課程大綱 (2026/01/12)\n\r\n一、\t課程簡介\n\r\n開課年度學期\t113 學年度  第2學期\r\n開課班級\t運動競技學系\r\n授課方式\t課堂教學、中文、英文\r\n課程編號\t112_2_3905035_01\r\n課程名稱(中文)\t運動資訊處理(二)\r\n課程名稱(英文)\tSports Informatics\r\n學分數/時數\t2 / 2\r\n必(選)修\t必修\r\n授課老師\t林晉榮\r\n上課教室\t電算中心217電腦教室\r\n助教\t\r\n上課時間\t星期二，節次2、3\r\nOffice Hours\t林晉榮：TUE 1500-1600\n\r\n二、先修(前置)課程：無\n\r\n三、課程目標\r\n一、\t課程概述：\r\n本課程為一理論與實務並重的課程。本學期著重於「網站經營與管理」在理論方面，本課程介紹不同取向網站之經營管理原則與思考面向，並藉由案例討論引發多層面的思考。而在實務部分，藉由Wordpress網站平台之實際建置，讓學生從網站規劃、發展、管理、推廣與評估的過程中，實際體會網站經營與管理者的角色，瞭解理論與實務的差異，期能將所學在未來運用於實際的職場之上。\r\n二、課程目標：\r\n1. 能辨別不同網站之願景與經營管理策略。\r\n2. 能瞭解網站經營的實務現況。\r\n3. 能具體規劃與撰寫網站企畫書。\r\n4. 能利用WORDPRESS架站軟體實際建置與管理網站。\r\n5. 能評估網站之優使性與運作效能。\n\r\n四、課程表\r\n週次\t課程單元大綱\t教學方式\t相關作業\t評量方式/參考資料\r\n1\t課程介紹與分組、電腦及多媒體能力調查\t\t\t\r\n2\tMs-word 基本課程I\r\n網站經營與管理基本概念\t實際操作\tTGC-Word練習\r\nTGC-Exell練習\t\r\n3\tMs-word 基本課程II\r\nByethost安裝與設定\r\nFTP安裝與設定\tNet2FTP\t\t\r\n4\tIllustrator課程I\r\nWordpress安裝與調校、上傳至遠端伺服器\t線上安裝\t\t\r\n5\tIllustrator課程II\r\nWordpress網站功能設定\t\t\t\r\n6\tWordpress模組擴充與布景設定\t\t\t\r\n7\t網站企畫書撰寫原則與範例說明\t\t\t(submit before class)企劃書及網站簡介\r\n8\tWordpress網站管理：帳號與群組\t\t\t\r\n9\t期中考\t\t\t\r\n10\t小組企畫書討論、網站經營管理實例介紹\t\t\t\r\n11\tWordpress網站管理：影音內容製作與上傳\t\t\t\r\n12\tWordpress網站管理：網站活動設計\t\t\t\r\n13\tTad模組安裝/上傳Wordpress網站至php server\t\t\t\r\n14\tWordpress模組及專案檢視\t\t\t\r\n15\t期末專案演示I\t\t\t\r\n16\t期末專案演示II\t\t\t\r\n17\t彈性教學\t\t\t\r\n18\t彈性教學\t\t\tupload個人學習反思\n\r\n五、教科書或參考用書(館藏)\r\n（一）主要讀本：Stephen Burge/張至寧 譯（民98）。Wordpress! 3精彩解說。台北：上奇。\r\n（二）參考書目：各項補充資料\n\r\n六、教學方法\n\r\n教學方法\t百分比\r\n講述\t30.0\r\n專題實作\t50.0\r\n問題導向學習\t20.0\r\n總和\t100.0\n\r\n七、成績評量方式\r\n1. 個人出缺席與課堂表現 20%  2. 網站企畫書 20%  3. 課堂演示：模組介紹 10%  4. Wordpress網站建置 30%  5. 成果報告與展示 10%  6. 個人學習反思 10%\r\n評量方式\t百分比\r\n個人出缺席與課堂表現\t20.0\r\n網站企畫書\t20.0\r\n課堂演示）模組介紹\t10.0\r\nWordpress網站建置\t30.0\r\n成果報告與展示\t10.0\r\n個人學習反思\t10.0\r\n總和\t100.0\n\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047675/local_syllabus/attachment/34230/260112%E9%81%8B%E5%8B%95%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86-%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "47",
+        "memo": "限本系生修.限本系生修. 列入運動心理科學學士學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—排球",
+        "professor": "林明輝",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "室內綜合球場(排球場)",
+        "type": "必修",
+        "description": "培育優秀排球運動人才。\r\n強化排球技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047959/local_syllabus/attachment/34243/%E6%8E%92%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系排球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—游泳",
+        "professor": "江姿穎",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "游泳池1",
+        "type": "必修",
+        "description": "強化游泳體能與技巧。\r\n強化游泳運動表現突破最佳\r\n培養人際互動及團隊合作精神\r\n增進游泳運動的認知\r\n增進游泳運動的教學實務經驗\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047876/local_syllabus/attachment/34236/%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%EF%B9%9D%E4%BA%8C%EF%B9%9E%EF%B9%9D%E5%9B%9B%EF%B9%9E%EF%B9%9D%E5%85%AD%EF%B9%9E%EF%B9%9D%E5%85%AB%EF%B9%9E.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "限本系生修.限本系游泳專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—網球",
+        "professor": "李元宏",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "網球場1",
+        "type": "必修",
+        "description": "1.具備網球基礎能力與參加全國性比賽經歷\r\n2.網球概念與常識\r\n3.網球規則與常識及技、戰術之指導\r\n4.培訓學生考取網球教練與裁判證照\r\n5.提升網球技術體能與心智能力\r\n6.增進比賽經驗\r\n7.未來成為網球專業教練與裁判\r\n中華民國最新國際網球規則\r\n（請尊重智慧財產權，不得非法影印教師指定之教科書籍）\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047885/local_syllabus/attachment/34237/%E7%B6%B2%E7%90%83%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系網球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—羽球",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "羽球館1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904020_01",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系羽球專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—跆拳道",
+        "professor": "吳燕妮",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "技擊室1",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904022_01",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": "限本系生修.限本系生修.限本系跆拳道專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—射箭",
+        "professor": "廖健男",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "射箭場",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904023_01",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "限本系生修.限本系生修.限本系射箭專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—定向越野",
+        "professor": "陳俊民",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場1",
+        "type": "必修",
+        "description": "本課程希望透過定向越野訓練的理論基礎，從實務訓練與操作中，發展學生運動專長能力，並透過相關比賽參與，以激發學生對定向越野運動的興趣。並能結合實務，培養學生選手成為未來的教練或裁判，以獲取相關專業證照。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047946/local_syllabus/attachment/34242/114-2%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E.doc",
+        "targetGrade": "4",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系定向越野專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "專長術科（八）—綜合",
+        "professor": "陳虔倖",
+        "credits": 4,
+        "time": "一10,11 三10,11",
+        "location": "田徑場2",
+        "type": "必修",
+        "description": "一、培育優秀運動專業人才。\r\n二、強化技術與專項體能。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047915/local_syllabus/attachment/34239/114-2%E9%81%8B%E7%AB%B6%E7%B3%BB%20%E5%B0%88%E9%95%B7%E8%A1%93%E7%A7%91-%E7%B6%9C%E5%90%88%28%E4%BA%8C%29%28%E5%9B%9B%29%28%E5%85%AD%29%28%E5%85%AB%29%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "4",
+        "capacity": "60",
+        "memo": "限本系生修.限本系生修.限本系綜合專長項目學生修習。"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動技能學習",
+        "professor": "沈緯鈞",
+        "credits": 2,
+        "time": "一2,3",
+        "location": "運技系103室",
+        "type": "必修",
+        "description": "本課程為中正大學運動競技學系之學科課程，旨於協助學生建立運動技能學習的專業知識涵養，並能應用學理知識於真實情境中的實作能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期中報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2046110/local_syllabus/attachment/34165/114_%E9%81%8B%E6%8A%80_%E5%8B%95%E4%BD%9C%E6%8A%80%E8%83%BD%E5%AD%B8%E7%BF%92Syllabus.doc",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "運動競技學系",
+        "name": "樂齡運動指導",
+        "professor": "莊麗燕",
+        "credits": 2,
+        "time": "五2,3",
+        "location": "舞蹈室1",
+        "type": "選修",
+        "description": "1.\t學習對高齡及體適能之基本觀念\r\n2.\t對不同階段休閒活動設計\r\n3.\t進行高齡運動的處方與安全了解實務運作與規劃、與執行\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2047972/local_syllabus/attachment/34244/114-2%E9%AB%98%E9%BD%A1%E9%81%8B%E5%8B%95.docx",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": "列入運動心理科學學士學分學程科目 ,列入青銀共創跨域學分學程科目"
+    },
+    {
+        "id": "運動競技學系",
+        "name": "排球",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "室內綜合球場(排球場)",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904116_01",
+        "targetGrade": "4",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "羽球",
+        "professor": "運動競技學系待聘教師2",
+        "credits": 2,
+        "time": "一2,3",
+        "location": "羽球館1",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904117_01",
+        "targetGrade": "2",
+        "capacity": "45",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "安全教育與急救",
+        "professor": "運動競技學系待聘教師1",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "運技系104室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904121_01",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "運動競技學系",
+        "name": "運動健身器材科技",
+        "professor": "王順正",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "運技系104室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3904122_01",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    }
+]

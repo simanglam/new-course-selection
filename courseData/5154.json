@@ -1,0 +1,545 @@
+[
+    {
+        "id": "財務金融學系",
+        "name": "民法概要",
+        "professor": "王文忠",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "管理學院120",
+        "type": "必修",
+        "description": "先建立學生法學基礎概念，讓學生具備基礎法學知識，於修習民法概要時能夠了解民法各編規範的基本內涵，同時透過實際案例的分析與講解，讓學生對整部民法基本體系的深入與內容的熟稔，讓學生修完本課程後能夠掌握民法的基本規範以及能夠具備初步的運用能力。另外，本課程以案例作為教學主體，透過案例的講解，引導學生對民法的學習，讓學生能夠了解民法基本規範的內容以及具備初步運用的基礎能力。\r\nThis course aims to establish students’ foundational concepts in legal studies, equipping them with basic legal knowledge. As a result, students will be able to comprehend the core content of each section of the Civil Code when studying its overview. The curriculum integrates analysis and explanation of practical cases to help students gain an indepth understanding of the fundamental structure and content of the Civil Code. Upon completion of the course, students are expected to be familiar with the basic principles of the Civil Code and possess preliminary practical application skills.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049051/local_syllabus/attachment/34286/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F%E6%B0%91%E6%B3%95%E6%A6%82%E8%A6%81%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B101.doc",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "民法概要",
+        "professor": "王文忠",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "管理學院120",
+        "type": "必修",
+        "description": "先建立學生法學基礎概念，讓學生具備基礎法學知識，於修習民法概要時能夠了解民法各編規範的基本內涵，同時透過實際案例的分析與講解，讓學生對整部民法基本體系的深入與內容的熟稔，讓學生修完本課程後能夠掌握民法的基本規範以及能夠具備初步的運用能力。另外，本課程以案例作為教學主體，透過案例的講解，引導學生對民法的學習，讓學生能夠了解民法基本規範的內容以及具備初步運用的基礎能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049076/local_syllabus/attachment/34287/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F%E6%B0%91%E6%B3%95%E6%A6%82%E8%A6%81%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B102.doc",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "初級會計學（二）",
+        "professor": "顏子瑜",
+        "credits": 3,
+        "time": "二7 四7,8,9",
+        "location": "管理學院101",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2049011/local_syllabus/attachment/34285/202502-syllabus-PDF.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(5151032)初級會計學（一）(曾經修習)(5251100)初級會計學（一）(曾經修習)(5251104)初級會計學（一）(曾經修習)(只要符合任一先修條件)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "總體經濟學",
+        "professor": "賴靖宜",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "管理學院120",
+        "type": "必修",
+        "description": "本課程適合管理學院非經濟系學生修習。授課重點在於介紹總體經濟學的基礎理論與重要課題，旨在使學生了解總體經濟的運作與各式經濟現象的成因，以及財政與貨幣政策操作的目的與影響；輔以經濟實例的說明，期使修課學生面對未來經濟事件的發生，具獨立思考與分析的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048829/local_syllabus/attachment/34277/syllabus.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5101001)經濟學原理（一）(曾經修習)(5101002)經濟學原理（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "統計學（二）",
+        "professor": "陳慧倢",
+        "credits": 3,
+        "time": "二7 四7,8,9",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5152021_02",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "統計學（二）",
+        "professor": "林子綾",
+        "credits": 3,
+        "time": "一6 四4,5,6",
+        "location": "管理學院120",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048793/local_syllabus/attachment/34276/%E7%B5%B1%E8%A8%88%E5%AD%B8II_Thu.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152020)統計學（一）(曾經修習)支援財務金融學系資訊管理學系資訊管理研究所二年級三年級四年級A班B班;限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務管理（二）",
+        "professor": "陳立文",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院426會議室",
+        "type": "必修",
+        "description": "The goal of this course is to develop the analytical skills for making corporate financial decisions. Present value is the fundamental concept throughout this course, and its applications construct the primary decision-making approaches for corporate finance management. In addition to the instruction of theories, many international cases and practical applications are introduced to strengthen students’ understanding of the theories. \n\r\nSpecifically, the topics include the concept of present value, the opportunity cost of capital, discounted cash flow analysis and other valuation techniques; and issues of short and long term financial management, risk and return, capital asset pricing model; capital budgeting and risk analysis; corporate capital structure and financing decisions; dividend policy, investment and financial decisions in the international contact, including exchange rate/interest rate risk analysis; mergers & acquisitions and issues of corporate governance and control.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048960/local_syllabus/attachment/34284/%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%28%E4%BA%8C%29AACSB%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "70",
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)支援經濟學系二年級A班B班;限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務管理（二）",
+        "professor": "李佩璇",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院101",
+        "type": "必修",
+        "description": "This course focuses on how companies invest in real assets (investment decision) and how they raise the money to pay for these investments (financing decision). It is organized in five parts. Part 1 (Chapters 1-4) provides essential background material. Part 2 (Chapters 5-10) is concerned with valuation. Part 3 (Chapters 11-13) discusses the cost of capital. Part 4 (Chapters 14 and 15) begins our discussion of the financing decision. Part 5 (Chapters 16 and 17) focuses on the two classic long-term financing decisions: debt and payout policy. This course is a full year program. During the second semester, this course will cover Chapters 9-17.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048594/local_syllabus/attachment/34271/5152101-1142_syllabus-v1.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務管理（二）",
+        "professor": "黃冠瑛",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048644/local_syllabus/attachment/34272/Syllabus_FM_114_2.docx",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務管理",
+        "professor": "財金系待聘教師1",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5152102_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "支援會計與資訊科技學系會計與資訊科技研究所二年級三年級四年級A班B班;限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "投資學",
+        "professor": "雲慕書",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "管理學院101",
+        "type": "必修",
+        "description": "The objective of the course is to study the theory and empirical evidence relevant for investing. Within this\r\ncontext, students will review various approaches to the use and valuation of stocks and bonds. The major\r\ntopics include:\r\n- Overview of capital markets\r\n- Optimal portfolio selection\r\n- The risk-return profile of Stocks\r\n- Delegated portfolio management and performance evaluation (time permitting)\r\n- Fixed income securities (time permitting)\r\n- Derivative markets (time permitting)",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048679/local_syllabus/attachment/34273/Investment%20Syllabus_114.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152020)統計學（一）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "投資學",
+        "professor": "林佳賢",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": "This is an introductory course in investments. The course provides students with a main concept about investments and modern portfolio management.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048702/local_syllabus/attachment/34274/investments_syllabus_2026_spring.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5152020)統計學（一）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務報表分析",
+        "professor": "鄭揚耀",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "管理學院101",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048427/local_syllabus/attachment/34266/%E8%B2%A1%E5%A0%B1%E5%88%86%E6%9E%90%282026%29.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5152101)財務管理（二）(及格)(5152100)財務管理（一）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "企業價值評估",
+        "professor": "顏子瑜",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "管理學院101",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048557/local_syllabus/attachment/34270/202502-Syllabus-PDF.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5152101)財務管理（二）(曾經修習)(5152100)財務管理（一）(曾經修習)(只要符合任一先修條件)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "公司併購與治理",
+        "professor": "郭良瑋",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期中報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048364/local_syllabus/attachment/34265/Syllabus_MACG_2026v1.pdf",
+        "targetGrade": "3",
+        "capacity": "35",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "債券市場",
+        "professor": "阮建銘",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "管理學院201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5153330_01",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "國際財務管理",
+        "professor": "蔡佩蓉",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048465/local_syllabus/attachment/34268/AACSB%20under_syllabus_spring26.docx",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "國際財務管理",
+        "professor": "郭良瑋",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "管理學院201",
+        "type": "必修",
+        "description": "This course introduces the fundamental concepts of international financial management and examines how financial decisions are affected when firms operate across countries and currencies. The course covers the international financial environment, exchange rate behavior and foreign exchange risk management, and international investment and financing decisions, including cost of capital and capital structure considerations. The course is taught in English and aims to develop students’ analytical understanding of international financial issues and their ability to communicate financial reasoning in English.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048500/local_syllabus/attachment/34269/Syllabus_IFM_2026.pdf",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(及格)(5152101)財務管理（二）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "金融科技導論",
+        "professor": "何月芳",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院102",
+        "type": "選修",
+        "description": "隨著金融科技的快速發展，在行動與數位化創新的浪潮下，各國金融服務業持續積極推動金融產品及服務之創新。本課程內容以金融科技實務應用為主軸，討論主題的內容包括：(1) FinTech內涵：金融科技的發展演進、雲端運算、大數據與新市場平台、人工智慧、區塊鏈、生物辨識。(2) FinTech應用：支付、保險科技、存貸、募資、金融科技下的投資管理。(3) FinTech議題：純網銀與開放銀行、監理科技、資訊安全與風險管理、金融機構的數位轉型。\n\r\nWith the rapid development of financial technology, under the wave of mobile and digital innovation, financial service industries in various countries continue to actively promote innovation in financial products and services. The content of this course focuses on practical applications of financial technology, with discussion topics including: (1) FinTech Fundamentals: The development and evolution of financial technology, cloud computing, big data and new market platforms, artificial intelligence, blockchain, and biometric identification. (2) FinTech Applications: Payment, InsurTech, deposits and lending, fundraising, and investment management under financial technology. (3) FinTech Issues: Internet-only banks and open banking, RegTech, information security and risk management, and the digital transformation of financial institutions.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048300/local_syllabus/attachment/34262/FinTech%20Undergraduate%20Spring%202026%20%28AACSB%E5%85%AC%E7%89%88%29.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "外匯市場:理論與實務",
+        "professor": "何加政",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "管理學院401之3",
+        "type": "選修",
+        "description": "如課程大綱檔案",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048337/local_syllabus/attachment/34263/FEM2026S_SY.pdf",
+        "targetGrade": "4",
+        "capacity": "35",
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(只要符合任一先修條件)限本系生修."
+    },
+    {
+        "id": "財務金融學系",
+        "name": "財務預測",
+        "professor": "賴靖宜",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院359",
+        "type": "選修",
+        "description": "本課程旨在教授並訓練學生利用Excel 建立「財務模型」，並進而擁有執行預測的能力。預期學生在本課程中，能學習將過去所學之財務理論與電腦軟體的實務操作進行適當的結合與運用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2048270/local_syllabus/attachment/34261/Syllabus.pdf",
+        "targetGrade": "4",
+        "capacity": "60",
+        "memo": "先修科目(5152100)財務管理（一）(曾經修習)(5152101)財務管理（二）(曾經修習)(5152021)統計學（二）(曾經修習)(5152020)統計學（一）(曾經修習)(所有先修條件都必須符合)限本系生修."
+    }
+]

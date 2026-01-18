@@ -1,0 +1,855 @@
+[
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "應用力學（二）",
+        "professor": "張怡玲",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "工學院B館117",
+        "type": "必修",
+        "description": "This course introduces mathematical models of particle and rigid body dynamics, enabling students to analyze and design the motion of real-world mechanical systems.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070730/local_syllabus/attachment/35200/%E6%87%89%E7%94%A8%E5%8A%9B%E5%AD%B8%E4%BA%8C-%E5%BC%B5%E6%80%A1%E7%8E%B2%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "1",
+        "capacity": "32",
+        "memo": "與機械組、機械國際學士學位學程合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "工場實習（二）",
+        "professor": "陳翼弘",
+        "credits": 1,
+        "time": "二12,13,14",
+        "location": "工學院C館實習工廠102",
+        "type": "必修",
+        "description": "This semester, the machine shop has established three primary objectives. The first objective is to enhance fundamental operating skills, focusing on milling machines, lathes, and benchwork techniques. This foundational training aims to equip participants with the sharpened competencies for effective machine operation. The second objective involves the development of advanced manufacturing skills in milling machining and lathe machining. The third part of this course is target to the additive manufacturing process and the computer numerical control machine (CNC). The G-code based controlling system is developed. Learn how to operate the CNC machine and how to program for the work piece machining is the main subject in this course. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070748/local_syllabus/attachment/35202/%E5%B7%A5%E5%A0%B4%E5%AF%A6%E7%BF%92%EF%BC%88%E4%BA%8C%EF%BC%8901-%E9%99%B3%E7%BF%BC%E5%BC%98.pdf",
+        "targetGrade": "1",
+        "capacity": "16",
+        "memo": "先修科目(4201003)工場實習（一）(及格)限本系生修.與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "工場實習（二）",
+        "professor": "巫翔裘",
+        "credits": 1,
+        "time": "五4,5,6",
+        "location": "工學院C館實習工廠102",
+        "type": "必修",
+        "description": "This course serves as a continuation of the previous semester’s instruction on traditional machine tools. It is designed to enhance students’ ability to independently apply the machining knowledge and practical experience acquired during Factory Internship (I). Students will be required to independently complete assigned workpieces, adhering to specified dimensional and quality standards.\r\nIn addition to traditional machining practices, this course introduces students to Computer Numeri-cal Control (CNC) machine tools. Instruction will include both theoretical knowledge and practical demonstrations, using the students’ own workpieces from Factory Internship (I) as teaching examples for CNC operation and programming.  \r\nThrough this integrated approach, students will not only develop hands-on experience with CNC ma-chining, but also gain a deeper understanding of its critical role in modern manufacturing and precision engineering.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070757/local_syllabus/attachment/35203/%E5%B7%A5%E5%A0%B4%E5%AF%A6%E7%BF%92%E4%BA%8C02-%E5%B7%AB%E7%BF%94%E8%A3%98%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "1",
+        "capacity": "9",
+        "memo": "先修科目(4201003)工場實習（一）(及格)限本系生修.與機械組、機械國際學士學位學程合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "工程圖學（二）",
+        "professor": "蔡忠佑",
+        "credits": 1,
+        "time": "五7,8,9",
+        "location": "創新大樓201",
+        "type": "必修",
+        "description": "本課程主要介紹基本電腦輔助繪圖概念，從簡單平面2D之繪製，到複雜3D立體圖之呈現，進而將設計概念經由電腦繪圖呈現出來。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070766/local_syllabus/attachment/35204/%E5%B7%A5%E7%A8%8B%E5%9C%96%E5%AD%B8%E4%BA%8C01-%E8%94%A1%E5%BF%A0%E4%BD%91.pdf",
+        "targetGrade": "1",
+        "capacity": "22",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "工程圖學（二）",
+        "professor": "陳翼弘",
+        "credits": 1,
+        "time": "一7,8,9",
+        "location": "創新大樓201",
+        "type": "必修",
+        "description": "This course introduces basic computer-aided drawing concepts, from simple 2D drawing to the presentation of complex 3D models, and then presents design concepts through computer drawing.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070775/local_syllabus/attachment/35205/Engineering_Fraphics_%28II%29-YiHung_Chen.pdf",
+        "targetGrade": "1",
+        "capacity": "14",
+        "memo": "與機械組、機械工程國際學士學位學程合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "工程數學（二）",
+        "professor": "林昱辰",
+        "credits": 3,
+        "time": "一B 三B",
+        "location": "工學院B館116",
+        "type": "必修",
+        "description": "工程數學為推導工程物理現象成為數學模型的基礎與方法，本課程分為上下兩學期，在下學期中將講授向量、矩陣、線性微分方程式系統、向量微積分、偏微方程式、以及積分轉換法，並與工程實例相結合，培養學生理論與實用兼備的能力。\r\nEngineering Mathematics is the foundation and methodology for deriving mathematical models for engineering and physical phenomena. This course is divided into two semesters. In the second semester, topics include vectors, matrices, system of linear differential equations, vector calculus, partial differential equations, and integral transform method. The course integrates these topics with engineering applications to equip students with both theoretical knowledge and practical skills.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070811/local_syllabus/attachment/35209/%E5%B7%A5%E7%A8%8B%E6%95%B8%E5%AD%B8%28%E4%BA%8C%29-%E6%9E%97%E6%98%B1%E8%BE%B0%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "電子電路學（一）",
+        "professor": "鄭榮偉,陳世樂",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "工學院B館213",
+        "type": "必修",
+        "description": "教學內容主要分為三部分\r\n\t第一部分：基本電路分析方法\r\n\t1. 網目分析與節點分析\r\n\t2. 等效電路\r\n\t第二部分：不同電路元件的電路分析\r\n\t1. (線性) RLC電路\r\n\t2. (非線性)二極體電路\r\n\t第三部分：開關模式電源供應(switched-mode power supply)電路分析\r\n\t1. 脈波調變(pulse-width modulation)訊號分析\r\n\t2. 直流-直流變換器(DC-DC converter)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070838/local_syllabus/attachment/35211/%E9%9B%BB%E5%AD%90%E9%9B%BB%E8%B7%AF%E5%AD%B8-01-%E9%84%AD%E6%A6%AE%E5%81%89%2C%E9%99%B3%E4%B8%96%E6%A8%82.pdf",
+        "targetGrade": "2",
+        "capacity": "20",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "電子電路學（一）",
+        "professor": "鄭榮偉,陳世樂",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "工學院B館213",
+        "type": "必修",
+        "description": "The class is broadly divided into the following three parts.\r\n\tPart I. Basics of Circuit Analysis\r\n\t1. Mesh and node analyses\r\n\t2. Equivalent circuits (when time allows)\r\n\tPart II. Circuit Analysis for Different Circuit Components\r\n\t1. RLC circuits (linear circuits)\r\n\t2. Diode circuits (nonlinear circuits)\r\n\tPart III. Circuit Analysis of Switched-Mode Power Supply\r\n\t1. Signal analysis of pulse-width modulation\r\n\t2. DC-DC converters\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070847/local_syllabus/attachment/35212/%E9%9B%BB%E5%AD%90%E9%9B%BB%E8%B7%AF%E5%AD%B802-%E9%84%AD%E6%A6%AE%E5%81%89%2C%E9%99%B3%E4%B8%96%E6%A8%82%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "20",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "光電半導體元件物理",
+        "professor": "賴臆升",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "工學院B館117",
+        "type": "必修",
+        "description": "This course will introduce the principles and types of semiconductor materials in optoelectronic. During this course, the mechanisms of LEDs, lasers, and photodetectors will be well described. Due to the promotion of global computer and network construction and the popularity of multimedia, the optoelectronic industry has attracted much attention. Among them, LED optoelectronics, optoelectronic displays, solar cells, lasers, light input and output, and light storage devices are the main products of Taiwan’s optoelectronics industry. This course organizes related application technologies and necessary knowledges for students. Besides, students will also have an oral presentation at the end of the semester.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070907/local_syllabus/attachment/35214/%E8%B3%B4%E8%87%86%E5%8D%87-%E5%85%89%E9%9B%BB%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%83%E4%BB%B6%E7%89%A9%E7%90%86%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "50",
+        "memo": "先修科目(4203952)工程光學(及格)與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "熱傳學",
+        "professor": "任春平",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "工學院B館214右",
+        "type": "必修",
+        "description": "This course present an elementary treatment of the principles of heat transfer. Separate discussions for conduction, convection and radiation are presented herein.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071414/local_syllabus/attachment/35224/%E7%86%B1%E5%82%B3%E5%AD%B8%28%E5%85%89%29-%E4%BB%BB%E6%98%A5%E5%B9%B3.pdf",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "機械工程學系光機電整合工程組不得選修;給112學年度(含)入學前未修或重修生"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "機械製造",
+        "professor": "林榮信,陳翼弘",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "This course covers the diverse topics of manufacturing processes. The fundamentals of materials, mechanical behavior and manufacturing properties will be the core of our course, focusing on metal casting processes, material removal processes, forming processes, and Advanced manufacturing processes.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071423/local_syllabus/attachment/35225/%E6%A9%9F%E6%A2%B0%E8%A3%BD%E9%80%A001-%E6%9E%97%E6%A6%AE%E4%BF%A1_%E9%99%B3%E7%BF%BC%E5%BC%98%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "機械製造",
+        "professor": "林榮信,陳翼弘",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "This course covers the diverse topics of manufacturing processes. The fundamentals of materials, mechanical behavior and manufacturing properties will be the core of our course, focusing on metal casting processes, material removal processes, forming processes, and Advanced manufacturing processes.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071637/local_syllabus/attachment/35233/%E6%A9%9F%E6%A2%B0%E8%A3%BD%E9%80%A002-%E6%9E%97%E6%A6%AE%E4%BF%A1_%E9%99%B3%E7%BF%BC%E5%BC%98%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "熱力學（二）",
+        "professor": "郭春寶",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "工學院B館213",
+        "type": "選修",
+        "description": "本課程主要講述熱力學的基本原理與這些原理在工程上的相關應用。熱力學（II）首先介紹能與可用功的應用；接著介紹第二定律與熱流循環之功能效率與設計應用包括：蒸汽與氣體動力循環、冷凍與熱幫浦系統及其他熱機系統之基本原理與應用介紹；然後為推導主要的熱力學關係式與燃燒化學反應關係式之應用及說明；最後介紹發電系統之熱力學功與能之分析法，作為系統設計與工程應用之基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071655/local_syllabus/attachment/35235/%E7%86%B1%E5%8A%9B%E5%AD%B8%E4%BA%8C-%E9%83%AD%E6%98%A5%E5%AF%B6.pdf",
+        "targetGrade": "2",
+        "capacity": "20",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "流體力學（一）",
+        "professor": "謝文馨",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "工學院B館214右",
+        "type": "選修",
+        "description": "The primary objective of this course is to help students develop an orderly approach to  fluid-flow problem solving. The course will start from basic equations, state assumptions clearly, and relate results to expected physical behavior. In addition to conventional lecture teaching material, classroom time will be used to bring in outside material to make students aware of the variety of fluid-flow phenomena encountered in daily lives. Students will be guided to gradually acquire the ability of applying basic equations to new problems, and thereby understanding the underlying physical principles and phenomena of these problems. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072060/local_syllabus/attachment/35237/%E6%B5%81%E9%AB%94%E5%8A%9B%E5%AD%B8%28%E4%B8%80%2901-%E8%AC%9D%E6%96%87%E9%A6%A8.pdf",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "流體力學（一）",
+        "professor": "林昆模",
+        "credits": 3,
+        "time": "一F 三F",
+        "location": "工學院B館213",
+        "type": "選修",
+        "description": "The primary objective of this course is to help students develop an orderly approach to fluid-flow problem-solving. The course will start with basic equations, state assumptions clearly, and relate results to expected physical behavior. In addition to conventional lecture teaching material, classroom time will be used to bring in outside material to make students aware of the variety of fluid-flow phenomena encountered in daily life. Students will be guided to gradually acquire the ability of applying basic equations to new problems and thereby understanding the underlying physical principles and phenomena of these problems.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072289/local_syllabus/attachment/35243/%E6%B5%81%E9%AB%94%E5%8A%9B%E5%AD%B8%E4%B8%8002-%E6%9E%97%E6%98%86%E6%A8%A1.pdf",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "物理冶金",
+        "professor": "賴臆升",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "工學院B館116",
+        "type": "選修",
+        "description": "本課程將介紹物理冶金的原理與類型。在本課程中，將探討金屬材料結構、性質與其關係的基礎學科，包含金屬的晶體結構、結構缺陷以及如何影響材料的機械性質。課程也會涵蓋擴散、相圖、凝固、應力應變行為、以及材料的變形機制等主題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072309/local_syllabus/attachment/35245/%E8%B3%B4%E8%87%86%E5%8D%87-%E7%89%A9%E7%90%86%E5%86%B6%E9%87%91%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "50",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "材料力學（二）",
+        "professor": "林派臣",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "工學院B館214左",
+        "type": "選修",
+        "description": "本課程是延續材料力學(一)的內容，利用所學之分析方法探討工程材料在複合型負載下的力學行為，包含應力、應變場及變形量等，分析結果可應用於機械元件之設計，最後是能量法的使用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072327/local_syllabus/attachment/35247/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%B8%E4%BA%8C-%E6%9E%97%E6%B4%BE%E8%87%A3%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "2",
+        "capacity": "18",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "光電工程實驗",
+        "professor": "賴臆升",
+        "credits": 2,
+        "time": "二10,11,12",
+        "location": "工學院B館433",
+        "type": "必修",
+        "description": "使學生獲得光學相關知識及操作光學實驗及其應用",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072336/local_syllabus/attachment/35248/%E8%B3%B4%E8%87%86%E5%8D%87-%E5%85%89%E9%9B%BB%E5%B7%A5%E7%A8%8B%E5%AF%A6%E9%A9%97%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "3",
+        "capacity": "41",
+        "memo": "先修科目(4203952)工程光學(及格)(4202954)光電半導體元件物理(及格)(所有先修條件都必須符合)與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "光機電專題實作(二)",
+        "professor": "楊智媖",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "工學院B館214左",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4213552_01",
+        "targetGrade": "3",
+        "capacity": "18",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "光機電專題實作(二)",
+        "professor": "楊智媖",
+        "credits": 3,
+        "time": "五7,8,9",
+        "location": "工學院B館214左",
+        "type": "必修",
+        "description": "本課程主要教導學生開發機械系統或組件之方法與流程，需求認知、問題定義、設計概念的形成、性能分析、設計性能評估與實作，使學生了解機械產品開發的步驟與應注意事項，並傳授其應具備的基本工具。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072354/local_syllabus/attachment/35250/%E5%85%89%E6%A9%9F%E9%9B%BB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C%E4%BA%8C01-%E6%A5%8A%E6%99%BA%E5%AA%96.pdf",
+        "targetGrade": "3",
+        "capacity": "18",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "光機電整合工程實務",
+        "professor": "葉志庭",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "創新大樓222",
+        "type": "必修",
+        "description": "簡介光機電整合工程之基本原理與其相關之應用，內容包含幾何光學、波動光學、發光二極體及\r\n半導體雷射、前瞻顯示器等。最後並進行光機電整合實務-光學設計。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072432/local_syllabus/attachment/35253/%E5%85%89%E6%A9%9F%E9%9B%BB%E6%95%B4%E5%90%88%E5%B7%A5%E7%A8%8B%E5%AF%A6%E5%8B%99-%E8%91%89%E5%BF%97%E5%BA%AD.pdf",
+        "targetGrade": "3",
+        "capacity": "58",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "機器動力學",
+        "professor": "黃以文",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "工學院B館433",
+        "type": "選修",
+        "description": "本課程介紹機器系統的動力分析原理及方法，使學生了解多剛體動力學的理論、動力方程式的推導、運動分析的近似解法、和電腦輔助模擬的技巧等。本課程內容包含完整的動力分析流程、機器系統的位置分析、速度分析、加速度分析、運動方程式的推導、非線性初始值問題的數值解法、接頭作用力分析、摩擦力分析、動力平衡分析、配重和飛輪的應用、單汽缸引擎的搖憾力分析、多汽缸引擎的配置和平衡。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072441/local_syllabus/attachment/35254/%E6%A9%9F%E5%99%A8%E5%8B%95%E5%8A%9B%E5%AD%B8-%E9%BB%83%E4%BB%A5%E6%96%87.pdf",
+        "targetGrade": "3",
+        "capacity": "22",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "自動控制（二）",
+        "professor": "陳世樂",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "工學院B館214左",
+        "type": "選修",
+        "description": "Part 0. Introduction\r\n\tThe class is designed for mechanical engineering students who after taking Automatic Control I would like to build up his/her expertise as a control engineer.\r\n\tThe subjects covered are broadly divided into two parts: root-locus analysis and design and Nyquist analysis and design.\r\nPart I. Root-locus analysis and design\r\n\tIn this section, we will learn a graphical method, named the root-locus method, for determining pole locations of LTI systems with one unknown parameter.\r\n\tWe will then apply this method to design feedback control satisfying the stability and tracking requirements.\r\nPart II. Nyquist analysis and design\r\n\tIn this section, we will learn a frequency-domain based tool, called the Nyquist method, for performance analysis and control design for LTI systems.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072694/local_syllabus/attachment/35261/%E8%87%AA%E6%8E%A7%E4%BA%8C-%E9%99%B3%E4%B8%96%E6%A8%82%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "3",
+        "capacity": "18",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "熱工與流力實驗",
+        "professor": "林昆模",
+        "credits": 1,
+        "time": "二10,11,12",
+        "location": "工學院C館實習工廠301",
+        "type": "選修",
+        "description": "機械工程實驗-熱流實驗之上課目的主要是讓學生藉由動手操作一連串經設計之熱力學及流體力學實驗，來驗證課堂所學之相關理論學說，並培養學生實際操作實驗器材所應有的小心嚴謹態度。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072714/local_syllabus/attachment/35263/%E7%86%B1%E5%B7%A5%E8%88%87%E6%B5%81%E5%8A%9B%E5%AF%A6%E9%A9%9701-%E6%9E%97%E6%98%86%E6%A8%A1.pdf",
+        "targetGrade": "3",
+        "capacity": "46",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "熱工與流力實驗",
+        "professor": "林昆模",
+        "credits": 1,
+        "time": "四4,5,6",
+        "location": "工學院C館實習工廠301",
+        "type": "選修",
+        "description": "機械工程實驗-熱流實驗之上課目的主要是讓學生藉由動手操作一連串經設計之熱力學及流體力學實驗，來驗證課堂所學之相關理論學說，並培養學生實際操作實驗器材所應有的小心嚴謹態度。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072755/local_syllabus/attachment/35266/%E7%86%B1%E5%B7%A5%E8%88%87%E6%B5%81%E5%8A%9B%E5%AF%A6%E9%A9%9702-%E6%9E%97%E6%98%86%E6%A8%A1.pdf",
+        "targetGrade": "3",
+        "capacity": "46",
+        "memo": "與機械組合開"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "電腦輔助製造暨實務運用",
+        "professor": "高永洲",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "創新大樓202",
+        "type": "選修",
+        "description": "This course introduces Computer-Aided Manufacturing (CAM) and its applications with an integrated Computer Numerical Control (CNC) machine tool. A review of CNC and machining operations will be conducted first, followed by an introduction to ISO Numerical Control (NC) codes format and a comprehensive interpretation of NC programs, including hands-on editing and writing practices. Shop floor operation will follow after the familiarity with an interactive 3D machine tool (I3DMT) software system. A worry-free last-mile integration application scenario will be introduced and practiced for online collision-free operation through an asynchronous collision detection algorithm. Talented students will be cultivated for online digital reality and smart machine tools in the manufacturing industry. Students can learn systematic thinking and solutions.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072764/local_syllabus/attachment/35267/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E8%A3%BD%E9%80%A0%E6%9A%A8%E5%AF%A6%E5%8B%99%E9%81%8B%E7%94%A8-%E9%AB%98%E6%B0%B8%E6%B4%B2%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "3",
+        "capacity": "8",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "邏輯設計",
+        "professor": "黃旭志",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "創新大樓201",
+        "type": "選修",
+        "description": "This course introduces digital logic design basics which are fundamental to all computers and other digital hardware. It covers number systems, Boolean algebra and design of combinational and sequential circuits. Students will learn practical design techniques along with theory and principles.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072795/local_syllabus/attachment/35269/%E9%82%8F%E8%BC%AF%E8%A8%AD%E8%A8%88-%E9%BB%83%E6%97%AD%E5%BF%97%28%E5%85%A8%E8%8B%B1%29.pdf",
+        "targetGrade": "3",
+        "capacity": "22",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "專題研究 (二)",
+        "professor": "王祥辰",
+        "credits": 2,
+        "time": "五13,14",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "本課程的目的在使學生學習光機電、半導體元件及影像感測處理相關之知識與技術，包括各類光機電元件之原理與應用。最後製作一實際光電元件系統。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072804/local_syllabus/attachment/35270/%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%28%E4%BA%8C%29-%E7%8E%8B%E7%A5%A5%E8%BE%B0.pdf",
+        "targetGrade": "3",
+        "capacity": "58",
+        "memo": ""
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "基礎電腦輔助工程分析",
+        "professor": "劉德騏",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "創新大樓201",
+        "type": "選修",
+        "description": "本課程主要介紹基礎電腦輔助工程分析上最常用的數值分析方法，內容包含電腦輔助工程分析的基本概念、MATLAB/ABAQUS分析軟體將用為實習工具，講授建模、分析與後處理的技巧。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072813/local_syllabus/attachment/35271/%E5%9F%BA%E7%A4%8E%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E5%B7%A5%E7%A8%8B%E5%88%86%E6%9E%90-%E5%8A%89%E5%BE%B7%E9%A8%8F.pdf",
+        "targetGrade": "4",
+        "capacity": "14",
+        "memo": "與機械組併班"
+    },
+    {
+        "id": "機械工程學系光機電整合工程組",
+        "name": "奈米材料科學與工程導論",
+        "professor": "丁初稷",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "創新大樓222",
+        "type": "選修",
+        "description": "奈米材料相關之材料結構、光電特性原理與應用介紹",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2072822/local_syllabus/attachment/35272/%E5%A5%88%E7%B1%B3%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%B8%E8%88%87%E5%B7%A5%E7%A8%8B%E5%B0%8E%E8%AB%96-%E4%B8%81%E5%88%9D%E7%A8%B7.pdf",
+        "targetGrade": "4",
+        "capacity": "38",
+        "memo": "與機械組併班"
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "教育研究法",
+        "professor": "黃錦山",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "教育二館531",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3405007_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡心理學研究",
+        "professor": "林麗惠",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": "本課程主要目標在瞭解高齡心理學的相關理論與研究，奠定學生瞭解老化過程中高齡者心理的變化歷程，以作為規劃高齡心理健康促進方案之基礎。\r\n1. 瞭解高齡心理學的概念架構。 \r\n2. 瞭解老年期的身心發展特性。\r\n3. 瞭解老年期日常生活與身心健康問題。 \r\n4. 探討老年期發展的特性及其在心理學介入設計上的意義。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056634/local_syllabus/attachment/34572/114-2%20%E6%88%90%E4%BA%BA%E8%88%87%E9%AB%98%E9%BD%A1%E5%BF%83%E7%90%86%E5%AD%B8%E7%A0%94%E7%A9%B6%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "社區教育與社區營造研究",
+        "professor": "成教系待聘教師1",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "教育二館532",
+        "type": "選修",
+        "description": "社區是民眾參與終身學習的重要場域，也是凝聚在地認同、推動公共參與的基礎。在全球化與網絡社會興起的時代，社區生活既與全球脈動相連，又深植於在地特色，使得地方獨特文化的活化成為社區營造的關鍵課題。本課程將探討社區學習的理念與實踐，並延伸至社區營造、社區文化、地方知識學與社區創生等相關議題，內容包括：社區資源與社區營造、社區大學的公共參與、社大地方學、社區代間學習、高齡友善社區的推動，以及學習型社區的建構等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056785/local_syllabus/attachment/34575/114%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E7%A4%BE%E5%8D%80%E6%95%99%E8%82%B2%E8%88%87%E7%A4%BE%E5%8D%80%E7%87%9F%E9%80%A0%E7%A0%94%E7%A9%B6%28%E6%88%90%E6%95%99%E7%A2%A9%E5%A3%AB%E7%8F%AD%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "高等統計學",
+        "professor": "陳玉樹",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "教育二館532",
+        "type": "選修",
+        "description": "Research that establishes mechanisms by which effects operate or the conditions that facilitate and inhibit such effects deepens our understanding of the social phenomena. Mediation, moderation, and moderated mediation analysis are frequently used to establish evidence or test hypotheses about such mechanisms. This course will provide a conceptual overview and examples of quantitative methodology related to moderation, mediation, and conditional process analysis.  ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056849/local_syllabus/attachment/34579/114-1--%E9%AB%98%E7%B5%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "國際高齡教育研究",
+        "professor": "黃錦山",
+        "credits": 2,
+        "time": "二5,6",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3405154_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡教育方案規劃研究",
+        "professor": "李藹慈,高文彬",
+        "credits": 2,
+        "time": "二7,8",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "本課程與「成人與高齡教育專案管理與行銷」組成一套課程模組，以下簡稱為「方案規劃」課程。透過方案的規劃是使點子實踐，夢想成真的必要途徑，凡是能夠提出可以被接受的企劃案的人，都是組織中極為珍貴的人才，尤其在變動快速的時代中，我們需要能夠迅速回應變革需要的創新方案，創新的方案可以帶來改變。方案規劃課程是在培育規劃者創新提案設計的邏輯思考、系統創新以及溝通說服必要的能力，這種能力與有效的組織領導、組織發展與變革密切相關，甚至，個人的生涯再設計，也要借重企劃思考能力。\r\n本課程預計含以下五個部份：1)方案規劃的基本能力，2)分析案例發現企劃點子與需求，3）設計一份系統的方案企劃書。4)設計方案之行銷與溝通策略，獲得利害關係人的支持。5) 設計方案評鑑模式。教學主題包括：系統企劃力、需求評估力、預算管理力、提案簡報力、行銷說服力、成效評鑑力等。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056513/local_syllabus/attachment/34569/%E6%95%B4%E5%90%88%E6%96%B9%E6%A1%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%97%B9%E6%85%8820260107%20%E6%96%87%E5%BD%AC.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡教育專案管理與行銷研究",
+        "professor": "李藹慈,高文彬",
+        "credits": 2,
+        "time": "二9,10",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "這一門課程與另外一門課程「成人與高齡教育方案規劃研究」、組成一套課程模組，整體教學目標在探討以下問題：方案是什麼？方案規劃有什麼用？如何訓練規劃力？方案做得好或不好，會產生什麼不同的效果？如何應用方案規劃能力為自己設計一個工作？\r\n課程實施分成五個部分：包括：1)鍛鍊成人與高齡教育方案規劃的基本功，2)實地考察，應用方案規劃的基本功。3)設計/分享一頁企劃書。4) 行銷與溝通企劃案。5) 成人與高齡學習方案評鑑執行能力。\r\n課程強調即學即用、學用合一，除自主閱讀、課堂講述企劃相關案例、學理知識，並安排田野訪問與實做練習，提供操作性工具與活動練習表單，學生能夠學習不同類型的企劃力，包括：基礎企劃力、提案企劃力、專案管理力、行銷說服力及簡報表達力，模組課程在實做演練的設計策略兼顧數位與紙本設計能力訓練。\r\n針對成人與高齡教育專案管理與行銷部份的教學目標主要是：從專案管理與行銷角度構思成人與高齡教育方案的計畫、執行與評鑑，並鍛鍊學生專案管理與行銷的基本功以及設計力。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056459/local_syllabus/attachment/34568/%E6%95%B4%E5%90%88%E6%96%B9%E6%A1%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E6%96%87%E5%BD%AC20260107%20%E6%96%87%E5%BD%AC.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人教育學量化方法論",
+        "professor": "陳玉樹",
+        "credits": 2,
+        "time": "二3,4",
+        "location": "教育二館557",
+        "type": "必修",
+        "description": "Research that establishes mechanisms by which effects operate or the conditions that facilitate and inhibit such effects deepens our understanding of the social phenomena. Mediation, moderation, and conditional process analysis are frequently used to establish evidence or test hypotheses about such mechanisms. This course will provide a conceptual overview and examples of quantitative methodology related to moderation, mediation, and conditional process analysis. On completion of this course the student should be able to:\r\n\tdemonstrate knowledge and a critical understanding of statistical methodologies (including the main concepts and methods of inference and modelling)\r\n\tunderstand and apply statistical techniques based on the main theories and concepts about moderation, mediation, and conditional process analysis \r\n\tperform inference on parameter estimates, including testing hypotheses on the effects of moderation, mediation, and conditional process analysis\r\n\tshow an awareness of how different statistical models can be applied to educational problems\r\n\tcommunicate meaningfully and productively with practitioners and professionals in the education on matters relating to and/or requiring the use of moderation, mediation, and conditional process analysis.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056623/local_syllabus/attachment/34571/114-1--%E6%88%90%E4%BA%BA%E6%95%99%E8%82%B2%E5%AD%B8%E9%87%8F%E5%8C%96%E6%96%B9%E6%B3%95%E8%AB%96EMI--%E5%8D%9A.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡教學研究",
+        "professor": "胡夢鯨",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "教育二館532",
+        "type": "選修",
+        "description": "教學目標：\r\n1. 知識：瞭解成高教學趨勢、範型、理論與策略\r\n2. 態度：培養成高教學興趣、動機與熱忱\r\n3. 技能：學會成高教學方法與技巧\r\n  4. 行為：熟練成高教學實務，未來從事成高教學\r\n 授課內容：\r\n（一）課程導論\r\n（二）繪製成人教學地圖：創意發想成人教學的系統圖像\r\n  （三）成人與高齡教學的發展趨勢\r\n  （四）成人與高齡教學的科學理論\r\n        1.成人教育學理論與應用\r\n        2.翻轉教學理論與應用\r\n        3.圖像組織教學理論與應用\r\n        4.鷹架理論與應用\r\n        5.劇場理論與應用\r\n        6.創意教學理論與應用\r\n        7.前瞻因應理論與應用\r\n        8.需求幅度理論與應用\r\n        9.三明治教學理論與應用\r\n  （五）成高心理學相關理論運用技巧\r\n         1.動機理論與應用\r\n         2.認知理論與應用\r\n         3.行為理論與應用\r\n         4.建構主義與應用\r\n         5.自我導向學習理論與應用\r\n         6.經驗學習（體驗學習）理論與應用\r\n  （六）成人與高齡教學策略與常用方法\r\n        1.講述法及其應用\r\n        2.示範法、實作演練及其應用\r\n        3.討論法及其應用\r\n        4.圖畫謎法及其應用\r\n        5.模擬、角色扮演法及其應用\r\n        6.體驗學習、企劃學習法及其應用\r\n        7.創意技法及其教學應用\r\n        8.遊戲教學法及其應用\r\n （七）成人與高齡教學基本技巧與運用\r\n （八）成人與高齡教學的SOP\r\n （九）成人與高齡教學三層次的設計：課程規劃、教學設計與教學實施        \r\n        1.課程規劃\r\n        2.教學設計\r\n        3.單元設計\r\n  （十）成人與高齡教學實做練習\r\n        1.課程規劃實做\r\n        2.教學設計實做\r\n        3.單元設計實做\r\n 核心能力：\r\n1.\t課程規劃能力\r\n2.\t教學設計能力\r\n3.\t教學實做能力\n\r\n      教學活動：\r\n1.\t閱讀指定材料。\r\n2.\t創意激盪。\r\n3.\t教學活動設計及演練。\r\n4.\t影片欣賞。\r\n5.\t期末報告。\n\n\n\r\n      成績評量：\r\n    1.出席率及課堂表現：10%\r\n    2.第一層小組報告：30%\r\n    3.第二層個人教案報告：30%\r\n    4.第三層個人單元設計及教學實做報告：30%\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056695/local_syllabus/attachment/34573/%E6%88%90%E9%AB%98%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡教育哲學專題研究",
+        "professor": "胡夢鯨",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "教育二館558",
+        "type": "選修",
+        "description": "教學目標：成為一個有思想的人\r\n        培養各種下列能力：\r\n一.\t趨勢分析能力：了解新近及未來成高教育哲學思想的發展\r\n        趨勢\r\n二.\t批判思考能力：培養批判思考及哲學研究的能力\r\n三.\t思想建構能力：建構完整、獨立的成高教育思想\r\n四.\t哲學應用能力：思考成高教育的未來方向\r\n五.\t論文發表能力：完成一篇能投稿的論文\r\n授課內容：\r\n一.\t博雅教育（Liberal education）與成高教育\r\n二.\t進步主義（Progressivism）與成高教育\r\n三.\t行為主義（Behaviorism）與成高教育\r\n四.\t人文主義（Humanism）與成高教育\r\n五.\t激進主義（Radicalism）與成高教育\r\n六.\t分析哲學（Analytical philosophy）與成高教育\r\n七.\t詮釋學（Hermeneutics）與成高教育\r\n八.\t批判哲學（Critical philosophy）與成高教育\r\n九.\t靈性思想（Spiritual thoughts）與成高教育\r\n十.\t終身教育（Lifelong education）與成高教育\r\n十一.\t後現代主義（Postmodernism）與成高教育\r\n十二.\t未來主義（Futurism）與成高教育\r\n十三.\t需求幅度理論與成高教育\r\n十四.\t前瞻因應理論與成高教育\r\n十五.\t其他各種老化理論（活躍老化、健康老化、成功\r\n    老化、生產老化、聰明老化、超越老化）與成高教育\r\n學習重點\r\n    理解及應用：深入「理解、詮釋」各種哲學思想與理論，並加以\r\n                「綜整應用」。\r\n    批判與重建：對各種哲學思想與理論進行「批判反思」，並予以「綜整重建」（找到新的出路）。\r\n教學活動：\r\n一、\t閱讀指定教材\r\n二、\t問題激發與深度彙談\r\n三、\t哲學分析與成高教育應用：發表小論文\r\n成績評量\r\n一、哲學思想期中報告（一）--閱讀報告（50％）\r\n 二、老化理論期末報告（二）--閱讀報告（50％）\r\n      報告內容重點：\r\n        思想（理論）背景、代表人物、思想精義\r\n       （理論核心概念）、啟示應用\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056430/local_syllabus/attachment/34567/114_2%E6%88%90%E9%AB%98%E6%95%99%E8%82%B2%E5%93%B2%E5%AD%B8%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "獨立研究",
+        "professor": "魏惠娟",
+        "credits": 1,
+        "time": "一6",
+        "location": "教育二館557",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056867/local_syllabus/attachment/34581/114-2%20%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡學習專題研究",
+        "professor": "魏惠娟",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "教育二館557",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056565/local_syllabus/attachment/34570/114-2%20%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96%E5%B0%88%E9%A1%8C%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "成人及繼續教育研究所",
+        "name": "成人與高齡教育機構經營管理專題研究",
+        "professor": "王維旎",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "教育二館531",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3408105_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "成人教育行銷研究",
+        "professor": "高文彬",
+        "credits": 2,
+        "time": "六8,9",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "課程宗旨：本課程目的在研討行銷觀念在成人教育與高齡者教育領域的應用，透過對於傳統行銷以及網路行銷的研討，提升學生成人教育行銷企劃能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077854/local_syllabus/attachment/35503/20260106%20%E5%B0%88%E7%8F%AD%E8%A1%8C%E9%8A%B7%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專二選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "成人教學研究",
+        "professor": "胡夢鯨",
+        "credits": 2,
+        "time": "六10,11",
+        "location": "教育館206",
+        "type": "選修",
+        "description": "教學目標：\r\n1. 知識：瞭解成人教學趨勢、範型、理論與策略\r\n2.\t態度：培養成人教學興趣、動機與熱忱\r\n3.\t技能：學會成人教學方法與技巧\r\n4.\t行為：熟練成人教學實務與職場應用\r\n授課大綱：\r\n（一）課程導論\r\n（二）繪製成人教學地圖：創意發想成人教學的系統圖像\r\n  （三）成人教學的發展趨勢\r\n  （四）成人教學的科學理論\r\n        1.成人教育學理論與應用\r\n        2.翻轉教學理論與應用\r\n        3.圖像組織教學理論與應用\r\n        4.鷹架理論與應用\r\n        5.劇場理論與應用\r\n        6.創意教學理論與應用\r\n        7.前瞻因應理論與應用\r\n        8.需求幅度理論與應用\r\n        9.三明治教學理論與應用\r\n  （五）成人心理學相關理論運用技巧\r\n         1.動機理論與應用\r\n         2.認知理論與應用\r\n         3.行為理論與應用\r\n         4.建構主義與應用\r\n         5.自我導向學習理論與應用\r\n         6.經驗學習（體驗學習）理論與應用\r\n  （六）成人教學策略與常用方法\r\n        1.講述法及其應用\r\n        2.示範法、實作演練及其應用\r\n        3.討論法及其應用\r\n        4.圖畫謎法及其應用\r\n        5.模擬、角色扮演法及其應用\r\n        6.體驗學習、企劃學習法及其應用\r\n        7.創意技法及其教學應用\r\n        8.遊戲教學法及其應用\r\n （七）成人教學基本技巧與運用\r\n （八）成人教學的SOP\r\n （九）成人教學三層次的設計：課程規劃、教學設計與教學實施        \r\n        1.課程規劃\r\n        2.教學設計\r\n        3.單元設計\r\n  （十）成人教學實做練習\r\n        1.課程規劃實做\r\n        2.教學設計實做\r\n        3.單元設計實做\r\n教學活動：\r\n1.\t閱讀指定材料。\r\n2.\t創意激盪。\r\n3.\t教學活動設計及演練。\r\n4.\t影片欣賞。\r\n5.\t期末報告。  \r\n      成績評量：\r\n1.\t第一層：課程規劃書(30%)。\r\n2.\t第二層：教學（教案）設計書 (30%)。\r\n3.\t第三層：單元設計及教學實作(40%)。\r\n4.\t其它。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080624/local_syllabus/attachment/35575/%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專二選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "成人教育方案規劃研究",
+        "professor": "魏惠娟",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "教育館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2080747/local_syllabus/attachment/35584/114-2%20%E6%96%B9%E6%A1%88%E8%A6%8F%E5%8A%83%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專一選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "創造力發展研究",
+        "professor": "陳玉樹",
+        "credits": 2,
+        "time": "六10,11",
+        "location": "教育館204",
+        "type": "選修",
+        "description": "教學目標 \r\n創意經濟時代組織最大的問題，在於其員工缺乏解決問題及創新思考的能力。如何培養具創意思考能力的員工，增進其創造力，藉以提升創新績效，乃是各組織普遍關切的問題。創意並非憑空而來，組織可以透過系統化訓練來刺激並活化成員的思考。本課程將討論創造力發展的意義與內涵，配合期刊論文的研讀，讓同學能瞭解組織創造力的研究主題、趨勢及方法。在修完本課程後，學生將有能力：\r\n\t瞭解創造力的定義與內涵。\r\n\t熟知創意激盪技法。\r\n\t瞭解有關創造力的理論、趨勢、研究方法及主題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081400/local_syllabus/attachment/35601/114-1--%E5%89%B5%E9%80%A0%E5%8A%9B%E7%99%BC%E5%B1%95%E7%A0%94%E7%A9%B6--%E7%A2%A9%E5%B0%88.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專一選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "論文研究",
+        "professor": "胡夢鯨,魏惠娟,林麗惠,李雅慧,陳玉樹,李藹慈,黃錦山,陳毓璟,高文彬,王維旎,潘璿安,成教系待聘教師1",
+        "credits": 4,
+        "time": "日6,7,8,9",
+        "location": "教育館206",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2077845/local_syllabus/attachment/35502/%E8%AB%96%E6%96%87%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1114-2.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專二必修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "教育研究法",
+        "professor": "林麗惠",
+        "credits": 2,
+        "time": "六8,9",
+        "location": "教育館204",
+        "type": "必修",
+        "description": "本課程採實務取向方式設計，旨在為研究生提供分析與應用的實務知識，並以簡單易懂的文字介紹研究的過程與相關技巧，且提供實際的範例以為輔助，帶領研究生一步步進行自己的教育研究，並提昇研究生的研究能力。\r\n1. 瞭解研究的意義與類型\r\n2. 構思與擬定研究問題\r\n3. 蒐集、評析、比較與統整文獻資料\r\n4. 至少運用三種學術資料庫蒐集資料\r\n5. 應用相關、調查與實驗研究設計的要點與原則\r\n6. 掌握研究論文各章節之敘寫原則\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2081081/local_syllabus/attachment/35593/114-2%20%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1_%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%BF%E5%B0%88%E7%8F%AD.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專一必修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "社區教育經營實務研究",
+        "professor": "成教系待聘教師1",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "教育館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_340A073_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專一選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "中高齡健康促進與教育研究",
+        "professor": "陳毓璟",
+        "credits": 2,
+        "time": "六2,3",
+        "location": "教育館206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_340A092_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專二選修課程"
+    },
+    {
+        "id": "(專)成人及繼續教育研究所",
+        "name": "比較高齡教育學研究",
+        "professor": "黃錦山",
+        "credits": 2,
+        "time": "六4,5",
+        "location": "教育館206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_340A094_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "限本系生修.碩專二選修課程"
+    }
+]

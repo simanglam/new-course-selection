@@ -1,0 +1,411 @@
+[
+    {
+        "id": "心理學研究所",
+        "name": "高等統計學",
+        "professor": "陳慧芳",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "社科院423",
+        "type": "必修",
+        "description": "This EMI course is designed to develop both conceptual understanding and practical skills in selecting appropriate strategies and procedures for managing, analyzing, interpreting, and reporting quantitative data in psychological research. By the end of the course, students will be able to apply these methods independently in their own research projects. Throughout the semester, students will engage in extensive practice using diverse examples and tools to strengthen their statistical competence. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂測驗",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062917/local_syllabus/attachment/34841/Course%20outline%202025-26%20Sem%20B.pdf",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "第一堂課會進行基礎能力評估(務必出席)，未達評估標準建議先修習「心理及教育統計學(一)及(二)」。開放大三、大四選修。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "獨立研究：高齡健康促進專題（二）",
+        "professor": "翁嘉英,蔡玲玲,陳欣進,徐晏萱",
+        "credits": 3,
+        "time": "五8,9,10",
+        "location": "社科院430",
+        "type": "選修",
+        "description": "灣自 2025 年已邁入超高齡社會， 隨著人口結構的轉變，高齡化所引發的各種個人、家庭與社會問題（ 例如生理功能退化、慢性疾病、失智症、退休與經濟安全、家庭照護與社會資源分配等） ，已成為急需面對的重要議題。因此，高齡相關的預防、評估、介入與服務設計，是跨領域合作與人才培育的關鍵方向。本課程延續先修課程「高齡心理學」所奠定的基礎，進一步引導學生深入探討高齡議題，並提供兩種學習取徑，以促進理論與實務的整合：\n\r\n1. 實作導向路徑：本課程將媒合授課教師專長與學生背景，指導學生設計與執行高齡健康促進相關的實作方案。學生將有機會在未來進入實際高齡場域（如中正大學周邊高齡據點）見習與參與，包括預防、評估、介入與設計等層面，並撰寫研發報告。課程最後將舉辦成果發表會，藉由師生交流深化學習經驗。\n\r\n2. 研究導向路徑：鼓勵學生針對高齡議題進行文獻回顧、資料分析或實證研究，發展具原創性的專題研究計畫。研究主題可涵蓋高齡心理學、 社會參與、長期照護、數位科技應用等面向，培養學生運用研究方法探究實務問題的能力。\n\r\n本課程強調跨領域知識的整合與應用，透過實作與研究兩種學習模式，培養學生從問題辨識、方案設計到解決策略的思維與能力，為面對高齡社會的挑戰做好準備。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063015/local_syllabus/attachment/34842/%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6_%E9%AB%98%E9%BD%A1%E5%81%A5%E5%BA%B7%E4%BF%83%E9%80%B2%E5%B0%88%E9%A1%8C%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "開放大三大四選修。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "社會認知發展專論",
+        "professor": "蔣文祁",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "社科院126",
+        "type": "選修",
+        "description": "本課程旨在探討社會認知發展領域的研究議題，涵蓋理論架構、研究方法，以及人類生命早期在社會認知範疇的基礎能力及其發展的研究發現。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063064/local_syllabus/attachment/34846/114-2%20%E7%A4%BE%E6%9C%83%E8%AA%8D%E7%9F%A5%E7%99%BC%E5%B1%95_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "24",
+        "memo": "大三大四修畢發展心理學可選修。發展心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "實驗動物管理",
+        "professor": "李季湜",
+        "credits": 1,
+        "time": "三10",
+        "location": "社科院430",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3155527_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "做動物實驗同學必修、開放大學部選修。生物心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "高等組織行為學",
+        "professor": "姜定宇",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "社科院455",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063131/local_syllabus/attachment/34849/Advanced%20OB_2026.doc",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": "社會心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "闇黑性格",
+        "professor": "許功餘",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "社科院126",
+        "type": "選修",
+        "description": "有光明的地方，必然有黑暗。Carl Jung認為個人的內心深處都其陰暗面（shadow）。本課程將帶領修課同學進一步認識個人性格中那些可能為其所在社會情境的他人或自己帶來破壞、傷害、甚至毀滅的面向。特別提醒，心理病理（psychopathology）或性格違常（personality disorder）不是本課程之核心議題，本課程所觸及的主要是那些引發社會嫌惡的性格特徵（social aversive personality），例如，習慣性說謊、物化、自戀、馬基維利主義、心理病態、虐待、冷血、支配控制、被動攻擊、過度自信、情緒不穩、過高或過低自尊、人際依賴、自以為是等等，這些性格在日常生活中可能不會造成很大的傷害或問題，但卻擾亂既有日常生活的運作，有時反而更難以處理。近年來，西方心理學者逐漸重視這些闇黑性格在日常生活、政治領域及組織運作中的影響，本課程希望透過有系統地介紹讓同學了解這些闇黑性格之內涵，及對日常生活的影響。 \r\n   此課程主要透過辨識、衡鑑、及介入等三個步驟，讓學生瞭解闇黑性格之內涵，同時可以進一步掌握如何處置這些闇黑性格可能帶來的影響。本課程主要讓修課同學依課程提供的闇黑性格之參考文獻，自行決定一個主題，並以情境判斷測驗（situational judgment test）的設計理路，發展出某個闇黑性格的情境判斷測驗，並且完成初步的測試，然後再與其他同學就共同主題形成一個小組，完成衡鑑或介入方案之規劃，透過競賽的方式來評估衡鑑或介入方案之可行性。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063158/local_syllabus/attachment/34850/%E9%97%87%E9%BB%91%E6%80%A7%E6%A0%BC%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B11142_finala.pdf",
+        "targetGrade": "1",
+        "capacity": "24",
+        "memo": "開放大三、大四選修。社會心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "獨立研究:性格與人際歷程專題研究",
+        "professor": "許功餘",
+        "credits": 3,
+        "time": "一13,14,15",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063176/local_syllabus/attachment/34852/1122%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6%E8%AA%B2%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "獨立研究、社會心理學課群。開放大三大四選修。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "專題獨立研究：心理測量專題研究",
+        "professor": "蘇雅蕙",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "本課程為心理計量領域之進階課程，建議修課者需具備試題反應理論的基礎知識及程式寫作的基礎，但若未有試題反應理論基礎知識或程式寫作等相關經驗，也沒有關係。本課程預計介紹心理計量之相關研究與議題，協助同學找到研究主題，並鼓勵學生在課程結束後，將研究結果投稿於國內外研討會發表。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063186/local_syllabus/attachment/34853/114-2%20%E5%B0%88%E9%A1%8C%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B6-%E5%BF%83%E7%90%86%E6%B8%AC%E9%87%8F%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "專題獨立研究、計量與方法課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "獨立研究：語言、學習與科技的整合探究",
+        "professor": "梁思遠",
+        "credits": 3,
+        "time": "一3,4,5",
+        "location": "社科院459",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157108_01",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": ""
+    },
+    {
+        "id": "心理學研究所",
+        "name": "心理計量專題研究：問卷調查研究",
+        "professor": "陳慧芳",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "社科院455",
+        "type": "選修",
+        "description": "This EMI course aims to prepare students to conduct high-quality survey research. While introductory to survey methodology, it is advanced in level because students already possess general knowledge of psychometrics and research methods. The course focuses on survey design, response behaviors/styles, and the use of technology in survey research. Lectures provide overviews of each topic, while students present chosen papers and lead discussions.  Students will draft and present a research proposal related to survey methods, serving as preparation for the master's thesis. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063236/local_syllabus/attachment/34855/Course%20outline%202025-26%20Sem%20B%20r.pdf",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": "學生須具有研究方法、心理計量與統計的基本概念; 開放大三大四選修。計量與方法課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "腦電波與事件相關電位分析導論",
+        "professor": "趙長懋",
+        "credits": 3,
+        "time": "四I,J",
+        "location": "社科院459",
+        "type": "選修",
+        "description": "This course provides a comprehensive introduction to the theory and practice of electroencephalography (EEG) and event-related potential (ERP) analysis, with a focus on applications in cognitive neuroscience and psychology. In addition to technical training, students will engage with classic and contemporary literature to understand how EEG/ERP methods are used to study perception, attention, memory, and cognitive control. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063245/local_syllabus/attachment/34856/Introduction%20to%20EEG%20and%20ERP%20Analysis.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "開放大三大四選修。認知心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "工商心理學專題研究（二）",
+        "professor": "姜定宇",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "社科院472",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063254/local_syllabus/attachment/34857/%E5%B7%A5%E5%95%86%E5%BF%83%E7%90%86%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%EF%BC%89_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": "社會心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "社會心理學研究法",
+        "professor": "藤原健",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "社科院472",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157715_01",
+        "targetGrade": "1",
+        "capacity": "20",
+        "memo": "社會心理學、計量與方法課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "社會心理學專題研究",
+        "professor": "藤原健",
+        "credits": 3,
+        "time": "二C,D",
+        "location": "社科院463",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3157716_01",
+        "targetGrade": "1",
+        "capacity": "15",
+        "memo": "社會心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "測驗編製與分析",
+        "professor": "蘇雅蕙",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "社科院459",
+        "type": "選修",
+        "description": "本課程規劃為心理計量領域的基礎課程之一。測驗編製是心理學研究與應用的重要工具。在這門課裡，學生可以經由編製問卷和分析其測量性質（特別是信度、效度），學習到測量理論和測量實作。本課程將配合ConQuest軟體的介紹，透過實作增加修課同學對測驗編製瞭解與應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063351/local_syllabus/attachment/34860/114-2_%E6%B8%AC%E9%A9%97%E7%B7%A8%E8%A3%BD%E8%88%87%E5%88%86%E6%9E%90_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "計量與方法課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "專題獨立研究：司法心理學",
+        "professor": "陳慈幸,姜定宇",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": "本節課以書報討論為主",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2063401/local_syllabus/attachment/34861/%E5%8F%B8%E5%BF%83%E5%B0%88%E9%A1%8C%E7%8D%A8%E7%AB%8B%E7%A0%94%E7%A9%B62026.docx",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": "社會心理學課群。"
+    },
+    {
+        "id": "心理學研究所",
+        "name": "焦慮疾患的認知病理與實證研究(二)",
+        "professor": "鄧閔鴻",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "教授研究室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3159003_01",
+        "targetGrade": "1",
+        "capacity": "10",
+        "memo": ""
+    }
+]

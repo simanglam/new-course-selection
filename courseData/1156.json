@@ -1,0 +1,105 @@
+[
+    {
+        "id": "外國語文研究所",
+        "name": "文學理論應用",
+        "professor": "張美芳",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "文學院354",
+        "type": "必修",
+        "description": "This graduate seminar is a survey of contemporary literary theories. It aims to introduce different theoretical approaches to interpreting literary texts. We will use a work of short fiction as a case study, examining how specific literary theories can be applied to analyze the text. By integrating theoretical and textual readings simultaneously, the course expects to equip students with a basic understanding of various theories and their applications while strengthening students'  critical and analytical abilities in oral presentation and research writing.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2059201/local_syllabus/attachment/34656/114.2--critical%20theory%20and%20practice%20syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "外國語文研究所",
+        "name": "躁動的一代 （一） ： 《嚎叫與其他詩篇》、《旅途上》與《裸體午餐》",
+        "professor": "賀小本",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "文學院354",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1155279_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "外國語文研究所",
+        "name": "當代英文小說專題",
+        "professor": "蔡美玉",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院354",
+        "type": "選修",
+        "description": "This course examines the diverse ways in which twentieth century authors imagine American identity. It challenges students to situate the works studied in their historical, social and political contexts—especially as they relate to matters of race, gender and sexual identity. Therefore, this course explores identity formation in American culture to read the relationship between \"multiculturalism\" and modern literature. Using an interdisciplinary and multicultural approach to American history and culture, we address the idea of a multicultural society and theories of multiculturalism in relation to literature, and consider contested notions of melting pot, assimilation, separate development and identity politics. More importantly, we will focus on specific multicultural experiences in order to understand how the experiences of each ethnic group changed the lives of the others and vice versa as we study fiction produced by members of these communities.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2060419/local_syllabus/attachment/34721/2026%20Contemporary%20English%20fiction%20%28Spring%20Semester%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "外國語文研究所",
+        "name": "西歐凱爾特神話與傳說",
+        "professor": "王明月",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "文學院354",
+        "type": "選修",
+        "description": "Selected works are to show the rich diversity of Celtic myths and Celtic legends across the European continent and Britain. Specific passages will be introduced and discussed in class.  There is a tendency in modern revivals of Celtic lore and legend towards prettiness--a falsely romantic approach that conveniently ignores the harsh and often violent nature of Celtic tradition. We will definitely cover some romantic themes, but at the same time we will not omit the battles, the vengeance, and the cruelty.  Without these hard edges, beauty and inspiration can become insipid, and lose its value.   \n\r\nGrading policy:\r\nclass participation (25%) \r\nweekly written reports (25%)\r\nweekly oral reports (25%)\r\nfinal term paper (25%) ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1155281_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

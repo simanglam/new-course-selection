@@ -1,0 +1,826 @@
+[
+    {
+        "id": "歷史學系",
+        "name": "中國通史(二)",
+        "professor": "張秀蓉",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院135",
+        "type": "必修",
+        "description": "本課程接續中國通史（一），主要敘述宋代至清代的歷史發展，從政治體制、社會活動、經濟發展至文化思想等層面，以朝代順序演進為經，以重要課題為緯，透過敘述其間重要的歷史軌跡及貫串其中的時代特質，讓大一同學對中國歷史有較整體而全面的認識。課程設計多元化，包含課堂講述、作業練習（文史基礎訓練）、專業/學術論著與史料的閱讀、師生互動與討論等，期使能為同學日後的歷史學習和研究奠定基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055253/local_syllabus/attachment/34514/%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "75",
+        "memo": ""
+    },
+    {
+        "id": "歷史學系",
+        "name": "世界通史(二)",
+        "professor": "郭秀鈴",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院135",
+        "type": "必修",
+        "description": "本課程透過近現代世界文明發展各階段主題，探討世界各區域（歐洲、非洲、中東、亞洲、美洲等）自十四世紀以後西方現代性特質逐漸形成以降之變遷與文化面貌。就宏觀的世界歷史角度而言，此時期為西方政治與文化霸權的興盛與崩解時期。本課程將關注世界文明於十四世紀以降的劇烈變化，文藝復興潮流的興起、啟蒙思想的蓬勃發展、歐洲強權宰制世界局面的形成、十九世紀晚期、以及二十世紀初期的文化與政治危機。除了時代間的轉變，本課程也將以跨洲間的文化與政治互動為切入觀點理解人類文明之歷史流變。課程內容將觸及現代文明發展之各相關面向，包括地理、科技與傳播媒介、藝術與文化、空間與物質文明等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055269/local_syllabus/attachment/34515/2026%20Spring%20%E4%B8%96%E7%95%8C%E9%80%9A%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89Syllabus.pdf",
+        "targetGrade": "1",
+        "capacity": "75",
+        "memo": ""
+    },
+    {
+        "id": "歷史學系",
+        "name": "史學入門（二）",
+        "professor": "林韻柔",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "文學院135",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055282/local_syllabus/attachment/34516/114-2%20%E3%80%8C%E5%8F%B2%E5%AD%B8%E5%85%A5%E9%96%80%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%8D%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "75",
+        "memo": ""
+    },
+    {
+        "id": "歷史學系",
+        "name": "台灣史（二）",
+        "professor": "張建俅",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "文學院106",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202232_01",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(1201162)史學入門（二）(曾經修習)"
+    },
+    {
+        "id": "歷史學系",
+        "name": "魏晉南北朝史（二）",
+        "professor": "李昭毅",
+        "credits": 3,
+        "time": "一4,5,6",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "魏晉南北朝乃繼春秋戰國之後另一個紛擾混亂的時代，各領域發展皆對後世有深遠影響。由於作為基本文獻的正史是以政治史為書寫中心，故本課程仍以政治史作為基本背景，另規劃專題作為延伸內容。\r\n課程按政治演進時序安排，上起漢末動亂，下迄楊隋統一，（一）和（二）分以魏晉十六國和南北朝政治史為主軸，安排十個單元；另外規劃統治體制、民族文化、社會經濟和學術文化等四大專題，並提供參考資料，讓修課同學針對有興趣的專題來選讀，藉此提供同學規劃專題報告所需之養分。透過教師講授政治史、同學準備問題討論乃至專題報告的方式，讓同學能有更多的參與。\r\n上課方式以老師講授和PPT教學為主。各單元提供若干閱讀資料讓學生選讀，以補充授課之不足；每學期安排兩次問題討論課程，透過申論題的練習，培養學生思辯的能力，奠定歷史研究的基礎。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056876/local_syllabus/attachment/34582/114-2%E3%80%8C%E9%AD%8F%E6%99%89%E5%8D%97%E5%8C%97%E6%9C%9D%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%8D%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%88114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%89%8820260109%EF%BC%89.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "中國斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "中國現代史（二）",
+        "professor": "楊維真",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "文學院106",
+        "type": "選修",
+        "description": "教學目標：\r\n一、\t瞭解中國現代歷史發展的過程，其所遭逢的挫折與成就。\r\n二、\t深入探討新近中國現代史研究的現況及成果，以期研究與教學相輔相成。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056979/local_syllabus/attachment/34589/%E4%B8%AD%E5%9C%8B%E7%8F%BE%E4%BB%A3%E5%8F%B2%28%E4%B8%80%29%28%E4%BA%8C%29.doc",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "中國斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "宋史（一）",
+        "professor": "楊宇勛",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院118",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202341_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "中國斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "美國史(二)",
+        "professor": "蔡偉傑",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "     本課程為面向大學部學生所開設的美國通史課程，其目的在於讓學生瞭解今日作為全球強權的美國之形成過程及其背後的推動力量。這其中既有美國境內不同人群的貢獻，也離不開其他全球因素的影響，此外也不能忽視環境作為重要制約因素。\r\n　　本課程為一學年課程，並按照時間順序，上學期從美洲早期文明開始，介紹歐洲人與美洲原住民的接觸、北美殖民地的建立、獨立戰爭，直到市場革命為止。下學期則從傑克森時代開始，介紹美國南北戰爭、重建時期、一戰前的鍍金時代、進步時代，然後進入一次大戰、大蕭條、新政、二次大戰、冷戰、全球化時代，最後以911事件與反恐戰爭作結。本課程為下學期課程。\r\n     This course is designed as a general introduction to American history. Its main purpose is to explore the historical process of America as a global superpower and its dynamics behind. In this process, we will highlight not only the contributions of different ethnic groups, but also the influences of other global factors. We should not take environmental factors for granted since it sets the stage for the development of America.\r\n     This course is designed to be divided into two parts for two semesters. The fall semester will begin with the ancient civilizations of America, then the encounter of Europeans and American indigenes, first European settlements in North America, the American Revolutionary War, and end with. The spring semester will start with the age of Jackson, then the Civil War, Reconstruction, Glided Age, Progressive Era, World War I, Great Depression, New Deal, World War II, Cold War, Globalization Era, and end with the War on Terrorism. This course will be the second part. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "期中報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055358/local_syllabus/attachment/34519/Syllabus%20-%20History%20of%20the%20United%20States%20of%20America%20%28II%29%20%28Spring%202026%29.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "國別及區域史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "古典晚期史（一）",
+        "professor": "孫隆基",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "文學院106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1202451_01",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "世界斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "日本史(二)",
+        "professor": "葉亭葶",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "本課程為一學年的日本通史課。本學期將從幕末為起點，講述駕著象徵近代的巨型蒸氣船來到日本的美國海軍將領、東印度艦隊司令培理(Matthew Calbraith Perry) 打破幕府長達250年的鎖國政策後，日本從半殖民地變成帝國主義強權的一員，再到第二次世界大戰戰敗、戰後復興後成為世界經濟大國的歷史進程。主要的問題意識是日本如何走向近代化？為何走向戰争之道？及這段歷史進程對現下的日本，甚至亞洲各國帶來什麼影響，或未解決之課題。\r\n戰後日本學界對於日本近現代史的研究，開起了有別於戰前皇國史觀不同的新視角。本課程以「戰後歷史學派」的視角為授課主軸，同時設置「延伸閱讀」。延伸閱讀的指定文章是以「現代歷史學派」之角度所著。每篇文章都建立在既有的研究上，運用新挖掘出的史料對歷史做出新的詮釋。期待同學對於日本近現代史具備系統性理解的同時，也能體會不同學派觀點將產生不同的歷史敍述方式，並學習如何運用史料提出新的歷史法。\r\n    另一方面，日本近現代史與日治時期台灣史息息相關。明治維新是日本「現代化」的起點，台灣是明治帝國第一個海外殖民地，也是日本「現代化」實驗的場所。本課程希望在介紹是日本近代史的同時，讓同學也理解到日本近代史也包含了一部份日治時期台灣史，並意識到學習日本近現代史亦是理解及思考近現代台灣史的重要基礎。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055393/local_syllabus/attachment/34520/113%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F-%E6%97%A5%E6%9C%AC%E5%8F%B2%28%E4%BA%8C%29.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "先修科目(1202461)日本史 (一)(曾經修習)國別及區域史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "絲綢之路",
+        "professor": "蔡偉傑",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "全英語授課課程     \r\n    This course will be an introduction to the Silk Road in world history. Students will read general works and some excerpts of historical sources on the Silk Road. English will be the language for instruction, presentation, and reading. Videos will be used for teaching aids if needed. Following introductory lectures on the Silk Road, we will survey, in a chronological order, the historical developments in the network of the Silk Road and explore different topics on the Silk Road.\r\n     It has been 140 years since the term “Silk Road” was coined in 1877 by Ferdinand von Richthofen (1833–1905), a famous German explorer and geographer. Originally this term was used to refer to the ancient Sino-European network of silk trade. However, the Silk Road has become a symbol of historical Eurasian connection and interaction in the modern context. Its contemporary incarnation is the Silk Road Economic Belt and the 21st-century Maritime Silk Road (as known as the Belt and Road Initiative), inaugurated by the Chinese government in 2013. In 2014, UNESCO designated the Chang’an-Tianshan corridor of the Silk Road as a World Heritage Site. \r\nIt has been believed that the Silk Road was important in world history until the collapse of the Mongol Empire in the second half of the 14th century. Overland trade declined since then and was replaced by flourishing maritime trade. However, new findings have indicated that the north-south overland trade was still significant, and Inner Asia was still the crossroads of Eurasian civilizations. The Silk Road was also viewed as a historical model of modern globalization.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055403/local_syllabus/attachment/34521/Syllabus%20-%20The%20Silk%20Road%20%28Spring%202026%29.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "1.國別及區域史\r\n2.全英語授課"
+    },
+    {
+        "id": "歷史學系",
+        "name": "明清社會文化史",
+        "professor": "蕭琪",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "本課程旨在充實學生對於明清社會文化史之專業學識，以一學期的時間，協助學生掌握此領域重要課題之研究趨向與方法。\r\n課程設計以明清朝代更迭為軸心，闡釋存於明清社會中的重要人群與文化現象，從中討論政府與地方的權力互動、以及這些互動如何影響當時士庶男女、軍人、商人的日常生活與思考模式。\r\nThis course is designed to enhance students’ specialized knowledge of the social and cultural history of the Ming and Qing dynasties. Over the span of one semester, it aims to help students grasp key research themes, approaches, and current trends in this field.\n\r\nThe course is structured around the dynastic transition from the Ming to the Qing, using this historical framework to explore significant social groups and cultural phenomena in late imperial China. Through these discussions, we will examine the dynamics of power between the central government and local society, and how these interactions shaped the everyday lives and mentalities of various social actors—including officials, commoners, women and men, soldiers, and merchants.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056961/local_syllabus/attachment/34587/%E8%95%AD%E7%90%AA%20114-2%20%E6%98%8E%E6%B8%85%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96%E5%8F%B2%2820251223%E7%89%88%29.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "唐代文化史(二)",
+        "professor": "林韻柔",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院106",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057045/local_syllabus/attachment/34593/114-2%20%E5%94%90%E4%BB%A3%E6%96%87%E5%8C%96%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "口述歷史理論與實作",
+        "professor": "吳雅琪",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "口述歷史是近現代史研究中蒐集史料的重要方法之一。它不僅是一種歷史再現技術，更是理解記憶、經驗與社會敘事之間的學術實踐。本課程以史學訓練為核心，系統性介紹口述歷史的理論基礎與研究方法，強調在嚴謹的史學方法下掌握訪談、詮釋與再現的技術。\r\n課程架構分為兩大主軸：第一部分是口述歷史理論與方法，包括口述歷史的起源與發展、研究倫理、訪談設計、資料整理、內容分析與詮釋。第二部分是口述歷史專題的研讀，選讀以不同主或群體的口述歷史作品和課堂討論。\r\n課程結合理論與實作，除閱讀代表性著作與案例分析外，安排實際的口述訪談訓練，使學生能掌握口述採訪與口述歷史的進行流程。目前規劃以《嘉義縣志‧人物志》的為預計訪談對象。從研究規劃、訪談執行、逐字稿整理到史實驗證與成果展示，培養學生以批判性與反思性的視角面對歷史記憶的再現問題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061914/local_syllabus/attachment/34798/%E5%8F%A3%E8%BF%B0%E6%AD%B7%E5%8F%B2%EF%BC%BF%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "史學方法（二）",
+        "professor": "張秀蓉",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "文學院135",
+        "type": "必修",
+        "description": "          歷史研究面對的是浩如瀚海的材料，所觀察的又是以往人類錯綜複雜之活動，故新進史學工作者常有不知如何措手之感。\r\n課程設計分為兩部分：其一，經由相關論著的閱讀與討論，以便了解近代西方史學理論與史學   方法之間的關係與互動；\r\n其二者經由不同歷史書寫的介紹和實作，讓同學了解史學研究的進行與規範。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055434/local_syllabus/attachment/34522/%E5%8F%B2%E5%AD%B8%E6%96%B9%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+        "targetGrade": "3",
+        "capacity": "75",
+        "memo": "先修科目(1203161)史學方法（一）(及格)"
+    },
+    {
+        "id": "歷史學系",
+        "name": "早期台灣史(二)",
+        "professor": "楊書濠",
+        "credits": 2,
+        "time": "二2,3",
+        "location": "文學院117",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1203234_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "國別及區域史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "日治時期台灣史(二)",
+        "professor": "葉亭葶",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "本課程為期一學年，旨在帶領學生深入理解台灣在日本殖民統治下的歷史變遷。課程起始於1895年《馬關條約》簽訂、台灣正式割讓予日本，終止於1945年日本戰敗、第二次世界大戰結束之際，涵蓋五十年間台灣社會在政治、經濟、文化、教育等層面的轉變與發展。\r\n日治時期使台灣人經歷了殖民地化與近代化交織的歷史過程。日本殖民政府以現代國家體制為藍本，導入法制、行政與經濟制度，推動殖民資本主義與同化教育。同時，這段歷史也充滿台灣人社會的主體回應與多樣行動，從早期武裝抗日、文化啟蒙運動，到後期參與戰時體制與台灣認同的轉化，呈現出壓迫與抵抗、妥協與創造並存的多重面貌。\r\n課程內容將依時間與主題分階段展開。上學期聚焦於殖民統治初期的建構與調整，探討日本在制度面上如何治理台灣，並分析台灣人民在面對異民族／帝國主義統治時的反應與轉變；下學期則聚焦於1930年代以後日本南進與戰時體制的深化，介紹台灣籍民的處境、討論皇民化運動與戰爭經驗，進而引導學生思考殖民統治下的台灣社會如何對應戰争及日本統治結束卻仍遺留下來的歷史未竟課題。\r\n本課程強調雙向視角，既由上而下分析日本殖民政府的治理邏輯與政策實踐，也由下而上探討台灣社會的回應與行動策略，協助學生全面理解日治台灣的歷史複雜性與多元性，並思考殖民經驗對當代台灣社會與認同的深遠影響。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061905/local_syllabus/attachment/34797/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%8F%B0%E7%81%A3%E5%8F%B2%28%E4%BA%8C%29.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "國別及區域史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "清史（二）",
+        "professor": "張秀蓉",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院106",
+        "type": "選修",
+        "description": "         清代無論從中國傳統社會發展的角度去觀察，或是從同時代世界歷史的變化去分析，都可以深入探究清朝獨有的特質與變化。\r\n從滿族興起到歷經現代興革的清史，前後近300年的跌宕起伏是本課程亟欲探索的歷史課題。為期一年的課程將依時序介紹清朝之興衰變革，其間佐以重要專題論述及史料閱讀。清史（二）以清朝的百年興盛與百年變革為主，康雍乾盛世主要聚焦在經濟、社會與文化上的發展與特色，而後從嘉道守成與近代變革的發動則是另一關注要點。\r\n經由課堂講述、學術論著的閱讀與史料的解析及報告書寫等方式，期使大學部同學從清代的歷史中認識中國傳統社會，並進一步理解現代世界的形成與挑戰。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056913/local_syllabus/attachment/34583/%E6%B8%85%E5%8F%B2%EF%BC%88%E4%BA%8C%EF%BC%89%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "中國斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "古代希臘史（一）",
+        "professor": "黃俊龍",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "本課程從以下幾個主要方向探討古希臘歷史從西元前十世紀到西元前5世紀末的發展：政治、軍事、文化、經濟與哲學，引導學生對此一重要西方歷史有全面性的理解。除了歷史事件的講述之外，本課程亦著重史料的蒐集與分析，期望學生藉由掌握第一手歷史資料，進而建構自己的解釋觀點。最後，本課程會依進度，依序介紹希臘史的重要相關議題，讓學生瞭解學界研究的現況。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056970/local_syllabus/attachment/34588/%E5%8F%A4%E4%BB%A3%E5%B8%8C%E8%87%98%E5%8F%B2%EF%BC%88%E4%B8%80%EF%BC%89%282023%29.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "世界斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "古代地中海史",
+        "professor": "黃俊龍",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "課程概述\t\r\n本課程首先說明古代地中海的地形與氣候特色，接著將地中海區分為東西兩個區域，分別說明兩者的經濟、貿易、文化與外交歷史。本課程挑選代表性的古代城市，說明古代地中海社會的生活形貌。\n\r\n學習目標\t\r\n學生應認識古代地中海社會的外交、貿易活動與文化交流。\n\n\n\n\r\nhttps://drive.google.com/file/d/1lQjuXE8qV0WKUrpv6k_-AzZAL7SnOYCm/view?usp=sharing",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056924/local_syllabus/attachment/34584/%E5%8F%A4%E4%BB%A3%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%8F%B2%EF%BC%882016%EF%BC%89.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "國別及區域史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "中國婦女與性別史",
+        "professor": "蕭琪",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "本門課程，是一門討論中國歷史上的婦女與性別關係的課程。 \r\n若有人探問何謂歷史？卡爾（E. H.. Carr）「歷史是過去與現在永無止盡的對話」應是最常被提起的一句名言。它之所以如此經典，或許是因為無論聽者為誰，多少都能被這句話點醒，進而反思並感受到自己所知、所想及所面臨的社會運作，一方面隱然依循著某種綿亙長久的秩序，另一方面也不斷在突破原本框架而萌發新枝當中。\r\n歷史如此，女性/性別的歷史亦然。本課程將以發生於現今社會的婦女與性別議題開場，配合相關的歷史學術論文，引領修課同學探尋婦女處境與性別議題在古今的延續與變革。藉此一方面充實學生對於中國婦女與性別史之專業學識，協助學生掌握此領域重要課題的研究趨向與方法；另一方面也期許同學養成連結歷史與自身生活的思維方式。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056988/local_syllabus/attachment/34590/%E8%95%AD%E7%90%AA%20114-2%20%E4%B8%AD%E5%9C%8B%E5%A9%A6%E5%A5%B3%E8%88%87%E6%80%A7%E5%88%A5%E5%8F%B2%EF%BC%8820260106%E7%89%88%EF%BC%89.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "西洋史學史（二）",
+        "professor": "方志強",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "課程概述\t\r\n旨在以廣擴的視野來審視西洋史學各時期的表現，強調史學與時代的關係，除著重史家與史著的史學思想外，也強調學術、政治、經濟、社會、宗教…等各層面的文化發展與史家的互動關係，以明西洋史學的演變。\n\r\n學習目標\t\r\n本學期以西洋近代與現代史學為範圍，著重文藝復興時期所呈現的由「城市編年史」到「人文主義歷史」的演變、十七世紀「古物研究」的重要性、十七世紀英國革命的史學、十八世紀「哲學性的歷史」、「進步的理念」、十九世紀歷史的專業化，到二十世紀歷史的多元化。\n\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055516/local_syllabus/attachment/34524/%E6%AD%B7%E5%8F%B2%E7%B3%BB%E6%96%B0%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%E8%A5%BF%E6%B4%8B%E5%8F%B2%E5%AD%B8%E5%8F%B22.docx",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "臺灣文化史",
+        "professor": "吳雅琪",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "臺灣位於大陸與海洋的交會地，自早期移墾、殖民統治到全球化時代，其文化發展歷程展現多層次的歷史互動與認同重構。本課程探討臺灣文化形成與變遷的歷史脈絡。課程關注近代臺灣不同時期政治、社會與經濟結構如何影響文化生產與再現，並透過文學、美術、音樂、民俗、飲食、旅遊、疾病、居住空間等面向，分析文化如何反映社會權力關係與時代變遷。課程將討論文化史的理論與史料運用，思考文化作為歷史詮釋與社會記憶的場域，從而理解「臺灣文化」在歷史過程中的生成、轉化與再定位。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065797/local_syllabus/attachment/35025/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%EF%BC%BF%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8F%B2.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "鄉土史研究法",
+        "professor": "蘇全正",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "文學院106",
+        "type": "選修",
+        "description": "課程概述\t\r\n本課程主要目的是透過文獻史料運用及田野調查的方法、理論與案例介紹、地方志纂修實務等探討，使學生對於鄉土史的探究和撰述有基本認知，同時增進對臺灣歷史人文和土地與環境倫理，及族群關係的瞭解。\r\n學習目標\t\r\n本課程注重學習者與教授者的互動，透過講授、演講、紀錄片分析、戶外教學、分組討論與口頭報告的學習方式，使學生能夠對鄉土史事與地方或區域歷史人文發展，及文化多樣性的價值有深入的了解、體會及認知。\r\n1.從實際行動與田野觀察發現文化面向的多樣性。\r\n2.培養歷史思考與具備田野調查及史料運用能力。\r\n3.能夠關懷本土，理解臺灣歷史人文的特質與實踐。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055728/local_syllabus/attachment/34529/%E9%84%89%E5%9C%9F%E5%8F%B2%E7%A0%94%E7%A9%B6%E6%B3%95%E8%AA%B2%E7%B6%B1%28114-2%29.pdf",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "啟蒙運動史（二）",
+        "professor": "黃智新",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "啟蒙運動史為兩個學期的課程（可分開選修），內容以十七世紀晚期至十八世紀歐洲的啟蒙運動為題，帶領學生探索啟蒙運動的起源、特質及其與現代社會的聯繫。啟蒙運動史（一）概述「啟蒙哲士與他們的產地」；啟蒙運動史（二）則探討啟蒙運動的多元形態與思想內涵。兩學期的課程設計各自獨立，學生可依興趣分別選修。\n\r\n啟蒙運動史（二）的課程分為三個單元，旨在介紹啟蒙思想的內涵，並引導學生反思現代關於啟蒙運動的流行想像。作為這項反思的起點，第一單元「傳統觀點：理性、進步觀與世俗化」首先回顧啟蒙運動的基本概念「理性、進步與世俗化」的形成與詮釋。在此基礎上，第二單元「啟蒙運動與他者」探討啟蒙思想如何在普遍人性論述之下，藉由界定理性與文明，區分出非理性、非歐洲、非男性與非菁英的群體——這些在啟蒙運動的舊研究框架中被低估、漠視或排除的「他者」(the Other)將是本單元的主角。最後一單元「文明開化的兩面性」揭示「文雅文化」、「商業社會」與「文明使命」等啟蒙論述的背後矛盾，藉此反思啟蒙理念如何同時成為進步的動力與支配的工具。\n\r\n本學期的課程包含兩節講演課和一節討論課。討論課用作指定史料（各週篇名將發布於eCourse）的口頭發表與討論。在討論課中，將由選擇當週史料的同學將進行兩階段的導讀：第一階段、口頭報告史料內容（可使用AI輔助）；第二階段、由導讀者設計包含3道題目的學習單，然後帶領修課的同學進行討論。此外，導讀的同學請於隔一週上課時繳交一篇1000字以內的書面作業（史料評述），內容為所導讀之史料摘述與討論精華意見整合。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065632/local_syllabus/attachment/35017/%5B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%5D%20114-2%20%E5%95%9F%E8%92%99%E9%81%8B%E5%8B%95%E5%8F%B2%E4%BA%8C.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "世界斷代史"
+    },
+    {
+        "id": "歷史學系",
+        "name": "飲食、醫藥與殖民帝國",
+        "professor": "黃智新",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "本課程《飲食、醫藥與殖民帝國》旨在探討食物、飲品與醫藥在殖民帝國歷史中的多重角色，並分析其如何塑造全球經濟、社會文化與科學知識。課程分為兩大單元：第一單元「帝國的滋味」聚焦飲食、貿易與全球化，從大航海時代的香料貿易、糖與殖民種植園，到咖啡、巧克力與茶在啟蒙時代的消費文化，並延伸至新世界作物如馬鈴薯、玉米對舊世界人口與環境的影響，以及工業化食品對殖民帝國的商品化與全球連結的作用。第二單元「帝國的身體」則探討醫藥、疾病與殖民治理，分析疾病在新舊世界間的傳播、氣候理論與「熱帶身體」的醫學想像、藥材貿易與帝國權力、殖民都市的衛生治理，以及十九世紀熱帶病防治與營養學的發展如何影響殖民政策與民眾健康觀念。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期中報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065788/local_syllabus/attachment/35024/%5B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%5D%20114-2%20%E9%A3%B2%E9%A3%9F%E3%80%81%E9%86%AB%E8%97%A5%E8%88%87%E6%AE%96%E6%B0%91%E5%B8%9D%E5%9C%8B.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "國際事件與歷史視野",
+        "professor": "郭秀鈴",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院118",
+        "type": "選修",
+        "description": "1.\tCourse Description (課程概述)\r\nThe course aims to provide students with skills of understanding contemporary international affairs within the scope of history, international affairs, and global perspectives. The course will be organized according to key issues concerning the world today, e.g. the pandemics, wars, gender equality, racial justice, and the climate change in the context of history. The dialogues between society of the past and that of today would open up tentative discussions for students to understand contemporary conflicts, developments and issues and to defend intellectual judgements according to appropriate academic evidence and sources in history. Secondly, it is the course’s objective to teach students how to evaluate the content of printed and electronic information sources. Finally, students will improve their English proficiency in reading, listening and speaking through engaging with the course materials. The course will be carried out through lectures, small group teamwork, and course quizzes.\n\r\nLooking at international incidents with a historical perspective, students will explore the significance of global conflicts and learn how to identify issues close to home.\n\r\n2.\tCourse Goal(教學目標)\r\nBy the end of the course, students should be able to:\r\n\tDemonstrate an understanding of international affairs in the context of world history.\r\n\tExamine issues of contemporary war and conflicts through critical lens and from a range of historical perspectives.\r\n\tAssess changing patterns of contemporary affairs and the way in which these affairs are understood.\r\n\tEmploy intellectual skills to understand international and social issues with a global perspective.\r\n\tImprove English proficiency and became acquainted with the diversity of international cultures.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056952/local_syllabus/attachment/34586/2026%20Spring%20International%20Affairs%20%20Historical%20Perspectives%20-%20Syllabus.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.全英語授課"
+    },
+    {
+        "id": "歷史學系",
+        "name": "中國身體與醫療文化史",
+        "professor": "蕭琪",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "近三十年來，歷史學家紛紛以社會文化史的角度重新檢視中國醫療史的發展，從而使人們對於身體的認識、醫家群體的多元成分、疾病與治療之隱喻、文化交流下的醫學樣態、疾病醫療所反映的大眾心態等課題，有了更多的認識。如此多重面向的醫療史課題，不僅重構了歷史研究的骨架，亦豐富歷史研究的血肉，同時，也使人們得以更瞭解自身與其所身處的醫療結構的互動關係。\r\n本課程擬透過講授、討論上述課題，使修課學生更加理解醫學與歷史人文結合的具體成果，深化學生對生命的瞭解與身體的感知，亦為同學奠下日後探究醫療史的興趣與基礎。\n\r\n學生透過閱讀指定閱讀書目、出席課堂討論並繳交作業，將增進其對中國醫療健康照顧的歷史認識，並反思其中所反映的人權、性別、社會階級課題。\r\n具體而言，修完本課程，學生將獲致以下能力：\r\n1.\t練習閱讀並分析史料，包括古籍、論說、案例和近現代文獻、檔案等。\r\n2.\t學習掌握學術著作（包括論文和專書）的核心論點、闡明並反思。\r\n3.\t培養貫時性思考能力，從歷史縱深討論身體與醫療之重要課題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2065824/local_syllabus/attachment/35028/%E8%95%AD%E7%90%AA%20114-2%20%E4%B8%AD%E5%9C%8B%E8%BA%AB%E9%AB%94%E8%88%87%E9%86%AB%E7%99%82%E6%96%87%E5%8C%96%E5%8F%B2.docx",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "中國藝術史（二）",
+        "professor": "李淑卿",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "文學院135",
+        "type": "選修",
+        "description": "接續上學期的課程，本學期會先講述各時代重要之陶瓷器，接著會偏重探討宋代以後至二十世紀前半期的繪畫史。介紹重要畫家與敘述、闡釋、分析重要作品之前，會先介紹各時代政治、經濟、文化和宗教背景。(Following last semester’s course, this semester will first cover important ceramics from different eras. Then, the focus will shift to the history of painting from the Song Dynasty to the first half of the twentieth century. Before introducing important artists and describing, explaining, and analyzing their significant works, the political, economic, cultural, and religious backgrounds of each era will be introduced first.)本課程先教授藝術史研究方法、中國書畫鑑定議題，再結合課堂講授、實作及作品鑑賞。主要講解中國花鳥畫、人物畫之發展脈絡，說明重要藝術家的時空背景，以及重要作品的創作動機、技法特色及影響。另外，延請專業藝術家講解且示範創作水墨畫（或彩墨畫）技巧，讓學生能實際體驗藝術創作的過程，以培養其瞭解與欣賞作品之能力。並帶領或指定學生參觀展覽，以拓展學生對中國繪畫的認知。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2056934/local_syllabus/attachment/34585/%E4%B8%AD%E5%9C%8B%E8%97%9D%E8%A1%93%E5%8F%B2%28II%29%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "2",
+        "capacity": "75",
+        "memo": "1.專史、專題、史學史、史料選讀、應用史學\r\n2.藝術文物學分學程選修課程"
+    },
+    {
+        "id": "歷史學系",
+        "name": "中國共產黨史（一）",
+        "professor": "楊維真",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "文學院106",
+        "type": "選修",
+        "description": "教學目標：\r\n          透過對中國共產黨歷史的深入探討，以瞭解中共此一強權之本質，而達知己知彼得目的。\r\n教學大綱：\r\n一、\t陳獨秀與中共的創立\r\n二、\t與國民黨的分合\r\n三、\t蘇維埃運動的開展\r\n四、\t長征\r\n五、\t遵義會議與毛澤東地位的確立\r\n六、\t抗戰時期中共的發展\r\n七、\t國共決戰\r\n八、\t中共政權的建立與發展\r\n九、\t大躍進與中共領導高層的分裂\r\n十、\t文化大革命\r\n十一、\t四人幫倒台與鄧小平的復出\r\n十二、\t六四運動與江澤民的接班\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057026/local_syllabus/attachment/34591/%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB%A8%E5%8F%B2%28%E4%B8%80%29%28%E4%BA%8C%29.doc",
+        "targetGrade": "4",
+        "capacity": "55",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    },
+    {
+        "id": "歷史學系",
+        "name": "西洋史學名著選讀",
+        "professor": "蔡偉傑",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "文學院117",
+        "type": "選修",
+        "description": "　　本課程透過選讀西方史學名著，讓學生對西方史學發展的歷程有基本瞭解。課程將按時間順序簡介西方史學發展軌跡，並搭配代表性著作的片段。\r\n　　西方史學源遠流長，最初可以追溯到帶有神話成分的荷馬史詩。後來到了西元前六世紀的希臘史學革命後，出現了希羅多德與修昔底德等著名史家，西方史學才另闢蹊徑，開始出現強調事實根據的世俗歷史。後來希臘史學也影響了羅馬史家，確立了西方古典史學傳統。後來基督教在西方興起，在中世紀時成為西方社會的主要精神紐帶。而此時期的基督教史學家則以英國的比德為代表，強調從宗教立場來解釋歷史的演變。\r\n　　到了十五世紀，現代西方史學開始興起。文藝復興、科學革命以及啟蒙運動都對西方史學界造成了影響，中世紀的基督教史學逐漸被拋棄，而宣導回到古典史學理想的世俗史學，但又同時對古典史學進行批判。到了十八世紀末，美國革命也進入了西方史學，美國史學開始走出一條不同的道路。十九世紀的歐洲史學持續對啟蒙運動中的理想做出回應，出現了觀念論、馬克思主義、實證主義和浪漫主義等不同流派，而其中又以實證主義對後世史學影響最大。同一時期，美國史學界受到浪漫主義與民族主義的影響，並逐漸走向職業化。  \r\n　　進入二十世紀後，現代史學在美國的初期發展分別受到相對主義、實用主義與進步史觀的影響。進入1960年代後，馬克思史學、法國年鑑學派與英國新左派史學對美國史學產生廣大影響。1970年代以來，新社會史開始大行其道，以社會科學治史成為趨勢。1960年代的法國思潮，如結構主義、後現代理論、文學理論以及文化人類學，於1980年代對美國史學開始發揮影響，使得美國史學界出現了語言轉向、後現代主義、文學轉向、人類學轉向和文化轉向。\r\n　　自二次大戰以降，美國史學的關注就從美國史而逐漸更加關注非西方與全球觀點。後殖民主義、比較史以及區域史到了1990年代都越來越受矚目。自1960年代以降興起的全球史則在1990年代起大放光芒，並成為二十一世紀初期的史學主流。而隨著人與其他生物和自然環境的關係成為當今人類社會的重要課題，如何回應這些課題則成為未來西方史學發展的重要指導。\r\n     The course is a chronological survey of Western historiography. Western historiography has a long tradition since the Homeric epics. By the sixth century BC, the Greek revolution initiated by Herodotus and Thucydides opened a new direction for Western historiography and secular history based on facts appeared since then. Later Greek historiography influenced Roman historians and Greco-Roman history laid the classical tradition for Western historiography. As Christianity prevailed in the West, it became the spiritual tie for the Western world. Christian historiography in this era viewed destiny as the driving force of historical change, and Bede in England was the most important monk-historian at that time. \r\n     During the fifteenth century, modern historiography began to rise in Europe. The Renaissance, Scientific Revolution, and Enlightenment had great influence to Western historiography. Medieval ecclesiastical history was gradually abandoned, and early modern historians called for returning to Greco-Roman ideal of history while being critical of classical tradition. In the end of the eighteenth century, the American Revolution became an important subject in history. American historiography began to take shape and became a different but important branch of Western historiography. In the nineteenth century, European historiography kept on responding to Enlightenment ideals, and different schools of thoughts formed around major historical theories. Four of the most influential ideologies shaping European and American historiography at that time were Idealism, Marxism, Empiricism, and Romanticism. Empiricism ultimately became the most influential for later development of modern Western historiography. In this era, American historiography was mainly influenced by Romanticism and nationalism, and moved toward professionalization.\r\n     In the early twentieth century, modern historiography in the US was influenced by Relativism, Pragmatism, and Progressivism. By the 1960s, Marxism, the French Annales school, British New Leftism became the most important inspirations for American historians. Since the 1970s, New Social History became popular in America and the application of social sciences to history was the main trend. The French theories of structuralism, postmodernism, literature, and cultural anthropology, prevailed in Europe in the 1960s, began to catch American historians’ attention in the 1980s. During this era, there were a series of the Linguistic Turn, Postmodernism, Literary Turn, Anthropological Turn, and Cultural Turn.\r\n     Since the WWII, the focus of American historians gradually moved from national history toward non-Western and global history. Postcolonialism, comparative history, and regional history became popular in the 1990s. The rise of global history in the 1960s became more and more dominant in the 1990s and the mainstream in the early twenty-first century. As the human-animal and human-natural relationships have become important issues for contemporary human societies, the responses to those issues will guide the directions of future Western historiography.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055534/local_syllabus/attachment/34525/Syllabus%20-%20Selected%20Readings%20in%20Western%20Historiography%20%28Spring%202026%29.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "專史、專題、史學史、史料選讀、應用史學"
+    }
+]

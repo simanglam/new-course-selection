@@ -1,0 +1,390 @@
+[
+    {
+        "id": "心理學系",
+        "name": "普通心理學（二）",
+        "professor": "姜定宇,鄧閔鴻,梁思遠",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "社科院127",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055579/local_syllabus/attachment/34526/2026%E6%99%AE%E5%BF%83%28%E4%BA%8C%29%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "心理及教育統計學（二）",
+        "professor": "蘇雅蕙",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "社科院127",
+        "type": "必修",
+        "description": "介紹描述統計與推論統計的基本概念，以做為心理學專業課程研習的方法學知識基礎，並能實作運用所學於心理學相關研究與實驗資料的統計分析與闡釋。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "教學程式",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2055627/local_syllabus/attachment/34527/114-2%20%E5%BF%83%E7%90%86%E5%8F%8A%E6%95%99%E8%82%B2%E7%B5%B1%E8%A8%88%E5%AD%B82_%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B120260105.pdf",
+        "targetGrade": "1",
+        "capacity": "120",
+        "memo": "先修科目(3151003)心理及教育統計學（一）(及格)"
+    },
+    {
+        "id": "心理學系",
+        "name": "人類學習與認知",
+        "professor": "李玉琇",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "社科院127",
+        "type": "必修",
+        "description": "本課程為心理學系之基礎必修課程之一，主旨在針對當代認知心理學的發展與知識，進行初步概念介紹。課程內容將涵蓋人類學習與認知的數個重要領域，包括認知的神經基礎、感覺與知覺、注意力、記憶、概念與知識、語言、判斷與推理、問題解決與智力等重要認知心理學議題。\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058457/local_syllabus/attachment/34632/115%202.pdf",
+        "targetGrade": "2",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "生理心理學（二）",
+        "professor": "李季湜",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "社科院423",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3152506_01",
+        "targetGrade": "2",
+        "capacity": "80",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "性格心理學",
+        "professor": "許功餘",
+        "credits": 3,
+        "time": "三E,F",
+        "location": "社科院115",
+        "type": "必修",
+        "description": "本課程將帶領修課同學初步認識不同取向之人格心理學者之成長與時代背景與其所提出的性格理論(包括心理分析論、人本論、特質論、行為論等)，並探討性格的形成與發展、研究與應用。希望讓同學瞭解人格心理學的主要理論、研究議題、及最新的研究成果，冀望修課同學生一方面能掌握人格心理學的理論與研究，另方面能對自己與他人的性格與心理狀態有更深入的理解與掌握。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058429/local_syllabus/attachment/34631/%E6%80%A7%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B11142_20260105.pdf",
+        "targetGrade": "2",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "自殺防治與精神醫學概論",
+        "professor": "黃立中",
+        "credits": 2,
+        "time": "四7,8",
+        "location": "社科院430",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3153051_01",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "語言心理學",
+        "professor": "陳欣進",
+        "credits": 3,
+        "time": "二G,H",
+        "location": "社科院423",
+        "type": "選修",
+        "description": "本課程簡介當代語言心理學，主要討論人類語言背後的認知處理歷程。語言心理學為認知心理學的一支，其為針對語言行為進行的心理學研究累積而成的一門知識。課程期待學生於課程修畢後，能對於當代語言心理學的核心議題有基本的認識與瞭解。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061182/local_syllabus/attachment/34765/Syllabus_PsyLanguage_2026Spring.pdf",
+        "targetGrade": "3",
+        "capacity": "80",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "兒童發展：推理與決策專題",
+        "professor": "蔣文祁",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "社科院459",
+        "type": "選修",
+        "description": "本課程探討推理與決策歷程及其發展的研究議題及方法，涵蓋演繹、歸納、因果及類比等推理歷程，在不同脈絡下的決策歷程，決策歷程的捷思與偏誤，以及推理與決策歷程所涉及的訊息處理系統、相關技能，及表徵能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061205/local_syllabus/attachment/34766/114-2%20%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95%EF%BC%9A%E6%8E%A8%E7%90%86%E8%88%87%E6%B1%BA%E7%AD%96%E5%B0%88%E9%A1%8C_%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "10",
+        "memo": "先修科目(3152301)發展心理學(及格)"
+    },
+    {
+        "id": "心理學系",
+        "name": "類神經網路在心理學上的應用",
+        "professor": "李季湜",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "社科院407",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_3153551_01",
+        "targetGrade": "3",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "組織行為學",
+        "professor": "姜定宇",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "社科院127",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062819/local_syllabus/attachment/34836/OB2026.doc",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "變態心理學",
+        "professor": "徐晏萱",
+        "credits": 3,
+        "time": "一E,F",
+        "location": "社科院127",
+        "type": "必修",
+        "description": "介紹當代精神醫學與臨床心理學對偏差行為的診斷分類、對成因或心理病理的理解、以及具有實證基礎的治療取向。課程旨在引發修課同學的心理健康意識，形成對心理疾患的了解，進而增進對人類各種心理狀態的探索興趣。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058597/local_syllabus/attachment/34637/114-2%20%E8%AE%8A%E6%85%8B%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": ""
+    },
+    {
+        "id": "心理學系",
+        "name": "補救教學專題",
+        "professor": "陳欣進",
+        "credits": 3,
+        "time": "三G,H",
+        "location": "社科院126",
+        "type": "選修",
+        "description": "依據教育部年度特殊教育統計年報，台灣高中以下身心障礙人口中，約有20%的學習障礙兒童，學習障礙兒童中，又以閱讀障礙兒童佔大多數且最容易被忽略。因此，如何協助這些閱讀障礙兒童在人生初期階段克服閱讀問題其實是重要而刻不容緩的課題。本課程簡介文字辨識歷程、兒童識字發展歷程、兒童失讀症理論與研究進展，探討有關失讀症的不同理論以及其所涉及之認知歷程，並介紹目前常用之學習扶助方式。期中將配合合作小學，安排學生到校見習/實作在校執行之衡鑑與學習扶助。課程期待學生於課程修畢後，能對於當代失讀症研究的核心議題有基本的認識與瞭解。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2058638/local_syllabus/attachment/34639/Syllabus_RemInstruction_2026Spring.pdf",
+        "targetGrade": "3",
+        "capacity": "24",
+        "memo": "本課程通過社會實踐認證課程，提供24位社會實踐名額。修課學生需前往校外合作單位進行服務，建議備有交通工具及駕照者為佳。"
+    },
+    {
+        "id": "心理學系",
+        "name": "心理學專題研究（二）",
+        "professor": "李季湜,陳欣進,趙長懋",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "社科院430",
+        "type": "選修",
+        "description": "本課程目的在指導學生進行心理學相關議題之專題研究。請學生依據授課教師之專長，選擇希望加入實驗室之指導教授。實際授課方式與內容均請於選擇合適之指導教授後，自行與指導教授討論決定。\n\r\n注意：本課程開設兩門課程，修課學生依專題主題分流：\r\n主題一：生理心理學、知覺心理學、認知心理學、心理學數理及AI模型\r\n主題二：性格心理學、社會心理學、發展心理學\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062776/local_syllabus/attachment/34834/Syllabus_PsyResearch%20II%202026%20Spring.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "先修科目(3152004)心理學實驗法(及格)"
+    },
+    {
+        "id": "心理學系",
+        "name": "心理學專題研究（四）",
+        "professor": "姜定宇,許功餘,梁思遠",
+        "credits": 3,
+        "time": "五13,14,15",
+        "location": "社科院432",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2061091/local_syllabus/attachment/34762/%E5%BF%83%E7%90%86%E5%AD%B8%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E5%9B%9B.pdf",
+        "targetGrade": "3",
+        "capacity": "10",
+        "memo": "先修科目(3152004)心理學實驗法(及格)"
+    },
+    {
+        "id": "心理學系",
+        "name": "從「心」開始",
+        "professor": "翁嘉英,鄧閔鴻",
+        "credits": 3,
+        "time": "三C,D",
+        "location": "社科院126",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2062688/local_syllabus/attachment/34831/%E5%BE%9E%E3%80%8C%E5%BF%83%E3%80%8D%E9%96%8B%E5%A7%8B_2026.doc",
+        "targetGrade": "3",
+        "capacity": "24",
+        "memo": "先修科目(3151002)普通心理學（二）(及格)(7401002)心理學緒論(及格)(3151001)普通心理學（一）(及格)(只要符合任一先修條件)"
+    }
+]

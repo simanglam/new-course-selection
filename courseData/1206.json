@@ -1,0 +1,203 @@
+[
+    {
+        "id": "歷史研究所",
+        "name": "中國近代史專題研究",
+        "professor": "張建俅",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "文學院211",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1205219_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "歷史研究導論(二)",
+        "professor": "楊維真",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院212",
+        "type": "必修",
+        "description": "本課程為學年課，旨在訓練研究生論文寫作的基礎概念與撰寫符合學術規範的研究計畫能力，同時向入學碩博研究生介紹本系各專任教師的學術專長、研究領域與治學經驗，使研究生能即早思考論文研究課題，找到適合的指導教授。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057096/local_syllabus/attachment/34594/%E6%AD%B7%E5%8F%B2%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96%EF%BC%88%E4%B8%8B%E5%AD%B8%E6%9C%9F%EF%BC%89%E6%A5%8A%E7%B6%AD%E7%9C%9F.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "碩博士新生必修"
+    },
+    {
+        "id": "歷史研究所",
+        "name": "南宋告諭文研讀",
+        "professor": "楊宇勛",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "文學院339",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1205269_01",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "漢晉地方制度與社會史專題研究（一）",
+        "professor": "李昭毅",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院211",
+        "type": "選修",
+        "description": "本課程時代以漢晉為主，進行時將視主題和材料，上溯戰國、下延至南北朝。就主題而言，官僚體制雖是中國政治制度的核心，但落實到歷史世界中，更應要關注政治空間、地方社會、地域文化、社會群體，勾勒出各自的基本面貌及其在制度實踐中的作用，乃至諸面向間的互動關連。基於此，本課程於導論之外，共分十六章，兩學期各進行八章。第一至五章為背景知識，涉及政治地理、律令、文書、文吏群體、地方行政組織、基層社會組織以及行政之外的監察和軍事分區乃至異族和西域管理制度。第六章是結合制度與社會的單元，以戶籍、役法和刑罰制度為基礎，考察官府吏卒和徒隸這兩類社會群體在制度運作下的生活樣貌。第七章是結合經濟和制度的單元，透過農田、山川資源等地利開發，以及水利建設、手工業等產業建設，配合與之相關的官府組織和行政制度的運作，觀察地方行政、社會與環境之間的連結。第八至十章為地域個案，先介紹政治中心所在的都城和周邊的京畿政區，觀察都城社會生活；第九、十則分別以里耶秦簡和西北漢簡為主要材料，考察朝廷在荊南楚地和河西地區的統治，彰顯南北邊地政治社會的特殊性。第十一章從知識群體、時令觀念和社會風教等面向，思考知識群體、社會生活與朝廷對社會控制間的關係。第十二章以地方有力者（俠、大姓、士族、豪酋）的發展為基礎，探討這些社會勢力在漢晉間對時代與社會的作用。第十三至十五章主要涉及非華夏族群、非平原地帶與華夏王朝及社會的關係。第十三章先考察化外地區以北方為主的非華族群與朝廷和邊地地方官府的政治互動，並介紹在邊地內外的文化交流；第十四、十五章分別以進入華北的諸胡羌部族以及在南方山地的諸蠻夷部族和濱海地域的人群為主體，探求其在漢地平原地帶和山地、濱海地域的社會生活與文化適應問題。第十六章為總結性的單元，從環境、生業、城鄉、地域、身分等因素，思考人地關係、制度網絡與地域社會等課題。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057119/local_syllabus/attachment/34595/114-2%E3%80%8C%E6%BC%A2%E6%99%89%E5%9C%B0%E6%96%B9%E5%88%B6%E5%BA%A6%E8%88%87%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%EF%BC%88%E4%B8%80%EF%BC%89%E3%80%8D%E8%AA%B2%E7%B6%B1%EF%BC%8820260109%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "中國中古社會史專題",
+        "professor": "毛漢光,耿慧玲",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "文學院212",
+        "type": "選修",
+        "description": "本課程旨在帶領學生深入探索秦漢魏晉南北朝至隋唐時期的社會變遷。\r\n課程核心不僅於歷史知識的傳遞，更側重於歷史研究方法論的實踐。\r\n課程設計運用社會學作為輔助學科，以拓寬歷史解釋的維度。課程將加強學生對多元史料的甄選與判讀能力，學習如何從傳世文獻、出土墓誌及新出土文獻批判性地還原歷史現場。\r\n課程著重學生對於社會基礎及架構的概念，引導學生從社會變動的角度，探討中古時期歷史發展過程中，社會菁英所產生的平面與垂直變動對於統治階層所產生的影響。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057270/local_syllabus/attachment/34596/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "中國佛教社會史專題研究",
+        "professor": "林韻柔",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "文學院211",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057790/local_syllabus/attachment/34601/114-2%20%E4%B8%AD%E5%9C%8B%E4%BD%9B%E6%95%99%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C%EF%BC%88%E7%A0%94%E7%A9%B6%E6%89%80%EF%BC%89.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "越南銘刻專題研究",
+        "professor": "耿慧玲",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "文學院212",
+        "type": "選修",
+        "description": "課程概述\t\r\n歷史的研究奠基於理論、方法與資料。書寫歷史不是對過去的再現，而是對過去的組織和理解。中國的金石記載方式影響到周邊的國家與民族，如朝鮮、日本與越南也有大量的漢式銘刻。本課程將在中國已經成熟的銘刻研究基礎下，對於越南現有銘刻的歷史發展及現存銘刻之研究情況進行講述，並引導學生對於越南銘刻所呈現的漢越型文化特徵，及如何運用具有漢越型文化特徵之越南銘刻進行越南歷史研究。\n\r\n學習目標\t\r\n1.藉由分析越南金石銘刻探討漢學在越南的傳播與發展。\r\n2.運用越南金石銘刻探討越南歷史與文化。\r\n3.運用分類方式，協助同學能在課程中建立論文選題及進行學術研究。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057860/local_syllabus/attachment/34602/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E6%AD%B7%E5%8F%B2%E7%B3%BB%E5%A4%A7%E7%B6%B1114-2.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "歷史研究所",
+        "name": "台灣宗教社會史專題（二）",
+        "professor": "蘇全正",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "文學院212",
+        "type": "選修",
+        "description": "本課程旨在介紹宗教社會學的發展，透過理論和模型的建構，探究臺灣宗教社會的本質與特徵，並藉由理論與案例討論，引領研究生具備地域社會與宗教發展的觀察與專題研究能力。\r\n1.了解宗教學、宗教社會學等理論與方法。 \r\n2.經由臺灣宗教社會史論著的研讀、開發各種研究主題。 \r\n3.理解臺灣本土宗教的研究概況與相關課題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2057297/local_syllabus/attachment/34599/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E8%87%BA%E7%81%A3%E5%AE%97%E6%95%99%E7%A4%BE%E6%9C%83%E5%8F%B2%E5%B0%88%E9%A1%8C2%29%28114-2%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    }
+]

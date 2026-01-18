@@ -1,0 +1,263 @@
+[
+    {
+        "id": "語言學研究所",
+        "name": "語法學（一）",
+        "professor": "張寧",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "文學院413",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071379/local_syllabus/attachment/35222/Syntax%202026S.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "心理語言學",
+        "professor": "麥傑",
+        "credits": 3,
+        "time": "三8,9,10",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "This class is about psycholinguistics, the study of natural human language processing by natural humans (speakers, signers, readers, babies, students). There is no textbook, but every week we will discuss a detailed handout and a (relatively) new research article on the topic of the week. By the end of the semester you will be able to run and report your own original psycholinguistic study. Even after the semester ends, the background and skills you learn will (probably) help you in conducting your own future research.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071388/local_syllabus/attachment/35223/PsySyl26s_251218.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "手語研究導論",
+        "professor": "林建宏",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "本課程旨在培養學生獨立進行手語研究的基礎能力，聚焦於視覺語言的兩大核心面向：（1）手語詞彙與結構之關聯性研究；（2）手語結構與空間運用之互動研究。課程涵蓋八大主題：造詞策略、動詞呼應、代形策略、時貌表達、疑問結構、比較結構、角色轉換及訊息結構。\r\n為深化手語研究素養並培育獨立研究人才，本課程採用專案導向、探究導向與協作導向的混合式教學設計。藉由AI輔助工具的運用，學生將學習如何有效率地進行文獻探索、整合研究重點，並發展具在地特色的研究議題。課程希冀奠定學生未來進行手語研究的學術基礎，培育新世代臺灣手語研究人才。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070856/local_syllabus/attachment/35213/114-2%E8%87%BA%E7%81%A3%E6%89%8B%E8%AA%9E%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "華語教學研究方法",
+        "professor": "何德華",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "This course aims to prepare graduate students in teaching Chinese as a foreign/second language to evaluate the pros and cons of various data collection methods in empirical studies and how to write up the research. The participants are expected to learn to choose and adapt various tools and procedures for their own research projects. \r\n本課程旨在引導華語教學領域研究生掌握研究方法與撰寫研究報告與論文。\n\r\nThis course provides a forum for participants to evaluate data collection methods in empirical studies of applied linguistics. As data-collection is part and parcel to linguistic theories and methodology, a holistic approach (including both qualitative and quantitative paradigms) is adopted in the discussion and debate on what constitutes data, how it can be collected and analyzed in linguistic studies, and how it can be presented in writing. A high level of interaction to meet individual research needs is expected in the course. \r\n本課程檢視華語教學在應用語言學領域中所使用的理論架構、資料蒐集與分析方法。根據修課學生個人所提供之研究主題，以互動討論方式，引導學生產出一篇可發表之學術論文。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書",
+            "自製教學影片"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "評量尺規"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071664/local_syllabus/attachment/35236/%E8%8F%AF%E8%AA%9E%E6%95%99%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%202026.doc",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "華語教材教法",
+        "professor": "林建宏",
+        "credits": 3,
+        "time": "一8,9,10",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "本課程從華語教學的實務經驗出發，帶領學員理解華語教材與教法的設計理念。課程強調：設計理念並不是先被記住的理論，而是建立在對教學實務的觀察、嘗試與反思之上。透過實際教學情境的探究，引導學員逐步意識教材與教法背後的思考邏輯。\n\r\n在教材面向上，課程著重於學習材料的規劃與設計，引導學員思考如何依據不同學習對象與教學目標選取與調整教學材料。在教法面向上，則著重於教學實務的思考與實作，透過實例分析、教案設計與教學演示，協助學員將教學想法實際落實於課堂中。\n\r\n課程內容涵蓋拼音、漢字、詞彙、結構、篇章與檢定等華語教學的核心面向，並納入目前主流的華語課程作為模擬教學情境，協助學員建立完整的教材教法觀念，培養在真實教學現場中做出適切教學選擇的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070784/local_syllabus/attachment/35206/114-2%E8%8F%AF%E8%AA%9E%E6%95%99%E6%9D%90%E6%95%99%E6%B3%95.docx",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "華語教學的心理與社會語言學視角",
+        "professor": "林育稜",
+        "credits": 3,
+        "time": "一3,4,5",
+        "location": "文學院306",
+        "type": "選修",
+        "description": "This course examines Chinese language teaching through integrated psycholinguistic and sociolinguistic perspectives, focusing on how learners’ cognitive processing, identities, social positioning, and educational contexts shape language learning outcomes. Rather than treating learning difficulties as purely linguistic errors, the course emphasizes how issues such as heritage identity, pragmatic socialization, multilingual processing, literacy development, and assessment fairness emerge in real teaching settings.\r\nStudents will engage with empirical research on Chinese language acquisition and analyze concrete classroom cases involving diverse learner populations, including heritage learners, multilingual learners, and learners with potential reading or learning difficulties. Through guided discussion, cross-perspective analysis, and applied projects, students will learn to diagnose teaching challenges, connect them to both psychological mechanisms and social structures, and design theoretically informed instructional responses.\r\nBy the end of the course, students will be able to critically interpret psycholinguistic and sociolinguistic research, apply these perspectives to real-world Chinese language teaching problems, and develop pedagogical solutions that are cognitively grounded, socially informed, and ethically responsible.",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070739/local_syllabus/attachment/35201/114-2-syllabus_Chinese%20Lg%20Teaching-psycholinAndSociolin_by%20Yu-Leng%20Lin_1150110.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(1306547)華語語音和華語教學(及格)(1307674)華語教學語法(及格)(1307046)語言習得：應用語言學觀點(及格)(只要符合任一先修條件)"
+    },
+    {
+        "id": "語言學研究所",
+        "name": "語言能力與語言表現",
+        "professor": "麥傑",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "This class addresses the concepts of competence (grammar) and performance (processing). This time the specific focus is on the relationship between language and consciousness, so we will discuss articles by linguists, psychologists, neurologists, and philosophers on awareness in language learning, inner speech, mental imagery in discourse comprehension and lexical semantics, metalinguistic judgments, and all sorts of other fun topics. Students will also suggest articles for us to discuss, which can be on any topic relating to competence and/or performance, and then conduct their own original research.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "小組討論",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071646/local_syllabus/attachment/35234/CompPerf26s_251219.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "臺灣手語能力測驗命題設計",
+        "professor": "張榮興",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "文學院413",
+        "type": "選修",
+        "description": "本課程旨在培養學生銜接國際通用的CEFR 2020（歐洲語言共同參考架構）標準，學習如何研發並評估臺灣手語的「理解」與「表達」測驗。透過本課程，學生除了能掌握CEFR的理論架構，也能具備專業的試題診斷能力和獨立開發符合科學標準與行動導向的臺灣手語測驗題目 。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070802/local_syllabus/attachment/35208/114-2%20%E8%87%BA%E7%81%A3%E6%89%8B%E8%AA%9E%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E5%91%BD%E9%A1%8C%E8%A8%AD%E8%A8%88%28%E5%BC%B5%29.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "微言句法學議題討論（二）",
+        "professor": "張寧",
+        "credits": 3,
+        "time": "四3,4,5",
+        "location": "文學院413",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2071628/local_syllabus/attachment/35232/Syllabus%202026S.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": ""
+    },
+    {
+        "id": "語言學研究所",
+        "name": "實驗設計",
+        "professor": "林育稜",
+        "credits": 3,
+        "time": "二3,4,5",
+        "location": "文學院306",
+        "type": "選修",
+        "description": "Experimental Design is intended for graduate students with prior coursework in phonology, language acquisition, or syntax. Students are expected to come to the course with research questions motivated by these areas.\r\nThe course examines behavioral experiments on language production and comprehension. Students read and discuss articles in psycholinguistics, focusing on how experiments are designed to test hypotheses, whether the results address those hypotheses, and what confounding factors may affect interpretation. Students also design behavioral experiments in class and collect and analyze data to evaluate their own research questions.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070820/local_syllabus/attachment/35210/114-2-syllabus_Experimental%20design_by%20Yu-Leng%20Lin_1150110.pdf",
+        "targetGrade": "1",
+        "capacity": "999",
+        "memo": "先修科目(1305002)音韻學(及格)(1305003)語法學(及格)(1307046)語言習得：應用語言學觀點(及格)(1307044)語言習得(及格)(只要符合任一先修條件)"
+    }
+]

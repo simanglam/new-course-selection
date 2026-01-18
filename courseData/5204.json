@@ -1,0 +1,557 @@
+[
+    {
+        "id": "企業管理學系",
+        "name": "管理學",
+        "professor": "鄭祥麟,龔天鈞",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5201002_01",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(5201001)企業概論(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "管理學",
+        "professor": "劉敏熙",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": "\t本課程著重於協助學生了解管理學的內涵與本質，並依據管理四大功能：規劃、組織、領導、控制之順序依序介紹，藉此協助修課同學瞭解什麼是管理、管理實務與應用。此外，本課程結合個案分享與討論，以增進同學對於管理實務與應用之知識。透過修習此課程，同學將對管理學有更進一步的認識。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069247/local_syllabus/attachment/35121/%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": "先修科目(5201001)企業概論(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "線性代數",
+        "professor": "陳世彬",
+        "credits": 3,
+        "time": "三4,5 五4",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": "To introduce basic concepts and applications of Linear Algebra; in particular, those related \r\nto studying Operations Research/Management Science (OR/MS). In fact, this course is a \r\nbasic course of business analytics, and is one of prerequisites of the advanced course \r\n“Introduction to Management Science”. It is intended to be interesting and informative. \r\nLogical thinking will be emphasized. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069305/local_syllabus/attachment/35122/Syllabus.LA-1a.2026S.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "企業管理學系",
+        "name": "線性代數",
+        "professor": "陳世彬",
+        "credits": 3,
+        "time": "三6 五5,6",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": "To introduce basic concepts and applications of Linear Algebra; in particular, those related \r\nto studying Operations Research/Management Science (OR/MS). In fact, this course is a \r\nbasic course of business analytics, and is one of prerequisites of the advanced course \r\n“Introduction to Management Science”. It is intended to be interesting and informative. \r\nLogical thinking will be emphasized. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069405/local_syllabus/attachment/35123/Syllabus.LA-1b.2026S.pdf",
+        "targetGrade": "1",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "企業管理學系",
+        "name": "初級會計學(二)",
+        "professor": "王明昌",
+        "credits": 3,
+        "time": "二4,5,6 四6",
+        "location": "管理學院114",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069505/local_syllabus/attachment/35124/Financial%20Accounting_2026_spring_Wang.doc",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "管理學",
+        "professor": "方慧臻,陳明晃",
+        "credits": 3,
+        "time": "五3,4,5",
+        "location": "管理學院114",
+        "type": "必修",
+        "description": "本課程旨在提供學生對於組織（包括企業）管理者所從事工作之內涵有所了解，並體認到管理者角色與工作對於組織營運之重要影響。透過課程安排，引發學生學習興趣，並使學生學習到管理學主要領域之知識以及理論架構，並且透過案例研讀與討論，建立學生應用管理知識之能力。\n\r\n管理學課程之內容主要涵蓋管理四大功能，包括規劃、組織、領導與控制。本課程首先討論管理者必須具備之倫理意識；接下來講授管理理論，奠定學習基礎，並說明外部環境因素對管理之影響。第三部分則是說明管理者規劃議題，決定組織未來之發展，包括決策規劃與策略管理；緊接在規劃之後為組織議題，為架構組織營運之基礎，包括組織設計與組織文化。第四部份講授管理者實際面對組織成員之管理議題，包括領導、激勵、組織團隊與溝通；而後說明管理功能最後一項，組織控制議題，至此管理工作才算完整。最後說明兩個重要章節，創新與組織變革議題，以及創業規劃與管理議題。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069185/local_syllabus/attachment/35119/113%E5%AD%B8%E5%B9%B42%E5%AD%B8%E6%9C%9F%20%E7%AE%A1%E7%90%86%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E6%A0%A1%E6%A0%BC%E5%BC%8F%29.docx",
+        "targetGrade": "1",
+        "capacity": "90",
+        "memo": ""
+    },
+    {
+        "id": "企業管理學系",
+        "name": "統計學（二）",
+        "professor": "陳明德",
+        "credits": 3,
+        "time": "二7 四7,8,9",
+        "location": "管理學院214",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202004_01",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "商事法",
+        "professor": "曾錦源",
+        "credits": 3,
+        "time": "三12,13,14",
+        "location": "管理學院114",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202008_01",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "運籌管理",
+        "professor": "企管系待聘教師1",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "管理學院114",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202012_01",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "運籌管理",
+        "professor": "企管系待聘教師1",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "管理學院214",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202012_02",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "管理資訊系統概論",
+        "professor": "黃正魁",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院454",
+        "type": "必修",
+        "description": "In today’s globalized trade landscape, the rise of information economies and the pervasive influence of the Internet and other global communication networks have revolutionized the role of information systems in business and management. This course not only serves as an introduction to management information systems (MIS) but also delves into their crucial role within networked enterprises. By incorporating ChatGPT innovative ideas, we can explore the symbiosis between human intelligence and cutting-edge technologies.\r\n    By taking this course, you will gain a comprehensive understanding of MIS, their impact on organizations and individuals, and their potential to boost competitiveness and operational efficiency. Information systems have become indispensable in creating competitive firms, managing global corporations, and delivering exceptional products and services to customers. With ChatGPT insights, we can explore how advanced technologies further enhance decision-making, automate tasks, and personalize customer experiences.\r\n    Embark on this transformative journey where information systems bridge the gap between human ingenuity and technological progress. Uncover the limitless possibilities that lie at the intersection of business, management, and the ever-evolving world of information systems.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069859/local_syllabus/attachment/35135/MIS_Syllabus.pdf",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "先修科目(5301105)計算機概論(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "組織行為",
+        "professor": "劉敏熙",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "管理學院116",
+        "type": "必修",
+        "description": "\tThis class aims to help students understand not only the concepts of OB, but also the applications of OB in practices. After taking this class, students are expected to understand Organizational Behavior, Performance and Commitment, Individual Mechanisms (Job Satisfaction. Stress. Motivation. Trust, Justice, and Ethics. Learning and Decision Making), Individual Characteristics (Personality, Cultural Values, & Ability), Group Mechanisms (Teams. Leadership), Organizational Mechanisms (Organizational Structure. Organizational Culture) , and so on.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069624/local_syllabus/attachment/35126/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "50",
+        "memo": "先修科目(5201002)管理學(及格)限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "組織行為",
+        "professor": "賴璽方",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5202039_02",
+        "targetGrade": "2",
+        "capacity": "60",
+        "memo": "先修科目(5201002)管理學(及格)限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "人文與企業倫理專題",
+        "professor": "楊文芬,游蓓怡",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "管理學院454",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5203006_01",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "先修科目(5201007)線性代數(及格)(5201001)企業概論(及格)(5202001)行銷管理(及格)(5201002)管理學(及格)(5202009)管理科學概論(及格)(5202012)運籌管理(及格)(5202039)組織行為(及格)(5203002)人力資源管理(及格)(5202052)財務管理（一）(及格)(5202003)統計學（一）(及格)(5202004)統計學（二）(及格)(所有先修條件都必須符合)限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "國際企業",
+        "professor": "龔天鈞",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院116",
+        "type": "選修",
+        "description": "有愈來愈多的企業進入國際市場，對國內市場小、天然資源少的台灣企業而言，國際化更有必要。本課程之設計，即在增進學生者對國際企業之瞭解。\n\r\nAn increasing number of companies are entering international markets. For Taiwanese companies, which face a small domestic market and limited natural resources, internationalization is even more crucial. This course is designed to enhance students' understanding of international business.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069822/local_syllabus/attachment/35134/Syllabus-114-2-%E5%9C%8B%E9%9A%9B%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86.pdf",
+        "targetGrade": "3",
+        "capacity": "50",
+        "memo": "先修科目(5201002)管理學(及格)(5101001)經濟學原理（一）(及格)(所有先修條件都必須符合)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "消費者行為",
+        "professor": "蘇宏仁",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5203073_01",
+        "targetGrade": "3",
+        "capacity": "32",
+        "memo": "先修科目(5202001)行銷管理(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "企業倫理",
+        "professor": "盧龍泉",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "管理學院115",
+        "type": "必修",
+        "description": "讓同學對企業倫理有一個初步的認識，培養同學對人及環境的關懷，引導對倫理道德的省思，進而提升個人的道德標準，並希望為台灣企業的未來，注入一股清流。除了一般授課之外，亦採用創新的教法增加同學的學習興趣與提升學習效果，這些方法包含討論電影所涉及的倫理議題、以玩桌遊的方式學倫理、和以拍攝微電影的方式等，讓同學以更輕鬆活潑的方式，深入了解企業倫理的意涵。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069776/local_syllabus/attachment/35131/115SsylBE-%E8%B3%87%E7%AE%A1.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "支援資訊管理學系三年級A班;"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "商用英文（二）",
+        "professor": "陳詠卉",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "Students will:\r\n1.\tdevelop basic business English skills to deal with different business contexts\r\n2.\tread, write, and respond to business documents\r\n3.\texpand vocabulary to general business situations\r\n4.\tdevelop confidence and fluency in business communication\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069793/local_syllabus/attachment/35132/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E5%A4%A7%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "32",
+        "memo": "限本系生修.外文系不得修習"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "數位經濟下的消費者洞察",
+        "professor": "楊文芬,游蓓怡",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院455",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069948/local_syllabus/attachment/35139/Under%20Consumer%20insight%20AACSB%20syllabus_20240911.pdf",
+        "targetGrade": "4",
+        "capacity": "30",
+        "memo": "先修科目(5202001)行銷管理(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "行動微課程: 職涯探索(二)",
+        "professor": "劉敏熙",
+        "credits": 1,
+        "time": "四9",
+        "location": "管理學院455",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5204100_01",
+        "targetGrade": "4",
+        "capacity": "30",
+        "memo": "先修科目(5202039)組織行為(及格)"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "企業實習(二)",
+        "professor": "連雅慧,李佩璇",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "管理學院427",
+        "type": "選修",
+        "description": "本課程透過學生前往企業實習，進行職場探索，培養專業技能及實務經驗，以落實學用合一。\r\n學生選課(取得學分)之先決(必要)條件，請於課程第一周上課前完成eCourse2平台上傳認證時數證明。\n\r\n取得實習安全講習認證時數合計6小時(請整合成一個PDF檔案)，影音平台如下:\r\n1.\t公務人員終身學習入口網，「e等公務園+學習平臺」\r\nhttps://elearn.hrd.gov.tw/mooc/index.php\r\n\t性別平等 (2小時)\r\n\t職場霸凌 (2小時)\n\r\n2.\t勞動部職安署職業安全衛生數位學習平台\r\nhttps://isafeel.osha.gov.tw/mooc/index.php\r\n\t職業安全 (2小時)\r\n一般職業安全衛生教育訓練課程(上)\r\n一般職業安全衛生教育訓練課程(下)\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2069905/local_syllabus/attachment/35137/5204103-AACSB%E5%85%AC%E7%89%88%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%28%E5%AD%B8%E5%A3%AB%E7%8F%AD%29-1142-v1.pdf",
+        "targetGrade": "4",
+        "capacity": "32",
+        "memo": "先修科目(5201001)企業概論(及格)限本系生修.限本系生修習。外系生請選〔開課單位：管理學院學士班〕501400401企業實習(二)。"
+    },
+    {
+        "id": "企業管理學系",
+        "name": "企業碳管理與永續發展",
+        "professor": "蔡國揚",
+        "credits": 3,
+        "time": "四8,9,10",
+        "location": "管理學院114",
+        "type": "選修",
+        "description": "本課程旨在培養學生理解企業在面對氣候變遷與永續發展挑戰下的碳管理策略與實務。內容涵蓋溫室氣體盤查、碳足跡計算、減碳目標設定、碳權交易與永續報告揭露等主題，並結合國際趨勢與企業案例分析。透過理論與實務並重的學習，學生將能掌握企業如何在兼顧環境責任與經濟效益的同時，推動永續轉型與綠色競爭力的提升。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070620/local_syllabus/attachment/35188/%E4%BC%81%E6%A5%AD%E7%A2%B3%E7%AE%A1%E7%90%86%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "4",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系",
+        "name": "永續發展與ESG",
+        "professor": "方慧臻",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "管理學院115",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5204107_01",
+        "targetGrade": "4",
+        "capacity": "60",
+        "memo": "限本系生修."
+    }
+]

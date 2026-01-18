@@ -1,0 +1,20 @@
+[
+    {
+        "id": "工學院學士班",
+        "name": "跨領域合作專題研究（二）",
+        "professor": "蔡政宇",
+        "credits": 2,
+        "time": "三13,14",
+        "location": "活動中心B1自造基地",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4014007_01",
+        "targetGrade": "4",
+        "capacity": "80",
+        "memo": ""
+    }
+]

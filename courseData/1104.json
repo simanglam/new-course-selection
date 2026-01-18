@@ -1,0 +1,778 @@
+[
+    {
+        "id": "中國文學系",
+        "name": "詩選及習作（二）",
+        "professor": "胡頎",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "本課程旨在協助同學培養閱讀、鑑賞詩的能力，了解詩的源流、演變及其美感特色。\r\n下學期以唐宋詩為主，並適度連結上學期未及介紹的六朝詩歌主題，依時序選擇代表作家與題材精讀，介紹相關背景，幫助同學深入理解作品的情感世界。同時，課程將適時引入時代分期與唐宋變革等學術議題，透過詩作細讀與討論，幫助同學理解復古、奇、險等文學風格及其背後的價值追求，從而拓展感性分析之外的參照視野。\r\n本課程設有對句與近體詩習作，引導同學在實際創作過程中體會近體詩的體式與特色，理解古人創作的過程，獲得不同的鑑賞角度。此外，課程要求同學每周撰寫學習單，包含基礎知識確認與鑑賞練習，在實作中逐步形成問題意識，磨練閱讀技巧，培養屬於自己的觀照方式。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023201/local_syllabus/attachment/33579/114-2%E8%A9%A9%E9%81%B8%E5%8F%8A%E7%BF%92%E4%BD%9C%28%E4%BA%8C%29.pdf",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "先修科目(1102511)詩選及習作（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "國學導讀（二）",
+        "professor": "張書豪",
+        "credits": 2,
+        "time": "四4,5",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "本課程主要透過介紹傳統中國學術的基本知識、圖書分部、要籍概況等，引導同學認識國學之全貌、掌握國學之體系、瞭解國學之流變，以提高學生的國學素養，奠立研讀經典的基礎能力，進而導引同學認識修業門徑，規劃未來學習歷程。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023136/local_syllabus/attachment/33577/%E5%9C%8B%E5%B0%8E%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1--114.doc",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "先修科目(1101411)國學導讀（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "西遊記",
+        "professor": "謝明勳",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "課程講授以誘導及啟發為主，學者須於課前閱讀指定及相關之文獻資料，以彼此互動之雙軌並進方式進行，期能達到對西遊記故事之形成與成書過程有更為完整的瞭解，並以此為鑑去閱讀其他之中國小說。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023125/local_syllabus/attachment/33576/111-2%E8%A5%BF%E9%81%8A%E8%A8%98%20%20%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "旅遊文學",
+        "professor": "陳柏言",
+        "credits": 2,
+        "time": "一10,11",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "本課程探究中國古典至近代的旅遊文學書寫。中國傳統的書寫者們，並不如一般思維裡，總是安土重遷，固守鄉居。他們亦會離開熟悉的故土，展開身體與精神的行旅。這些行旅經驗，開拓了古典文學書寫的版圖，亦形塑紛繁複雜的旅途樣貌。本課程呼應學者提出的「『遊』的中國文學史」方案，透過「旅遊」的視角，按時序介紹、探討不同型態的文學文本，引領同學有條理地建構中國「旅遊文學」的知識，並延展文學閱讀的眼界。\r\n本課程另加入「遊記」習作，引導同學結合所學，透過旅遊者的視角，撰寫「家鄉旅遊指南」。\n\r\nThis course explores the development of travel literature in China from ancient times to the modern era. Contrary to the conventional view that traditional Chinese literati were always \"attached to the soil\" and rooted in their rural homes, these writers frequently ventured beyond their familiar homelands to embark on journeys of both body and spirit. These experiences not only expanded the territory of classical literary writing but also gave shape to a rich and complex tapestry of travel narratives.\r\nAligning with the scholarly proposal of a \"History of Chinese Literature through the Lens of You (Travel),\" this course introduces and analyzes diverse literary texts in chronological order. Through the perspective of \"travel,\" students will be guided to systematically construct a framework of knowledge regarding Chinese travel literature and broaden their horizons in literary interpretation.\r\nThe course also features a practical writing assignment. Students will be guided to integrate their academic findings with a traveler’s perspective to compose a \"Hometown Travel Guide,\" applying classical insights to a modern, personal context.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054607/local_syllabus/attachment/34468/114-2%E6%97%85%E9%81%8A%E6%96%87%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "文學概論（二）",
+        "professor": "張日郡",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "＃本學期以「敘事文類」為課程核心。\n\r\n「文學概論」課程，乃是帶領學生認識「文學」之方方面面，除了幫助學生理解文學之特質、定義、價值與功能之外，也必須學習著探討作者、作品、時代及讀者之間的關係，從而在大學一年級對文學創作、文學研究有概略之學養基礎，再分科分類進入更專一的領域。因此，「文學概論」對於中文系自有其重要性與可貴性。\n\r\n教學目標有三：\r\n1.對於文學的本質、特色、分類等有基礎的認識。\r\n2.理解文學與文學思潮、文學批評之間的關係。\r\n3.提升自我的文學素養與相關敘事能力。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "專案報告",
+            "評量尺規",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023191/local_syllabus/attachment/33578/114-2%E6%96%87%E5%AD%B8%E6%A6%82%E8%AB%96%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%8A%E5%82%B3%E7%89%88%E6%9C%AC.pdf",
+        "targetGrade": "1",
+        "capacity": "55",
+        "memo": "先修科目(1101811)文學概論（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "臺灣戲劇選讀",
+        "professor": "游富凱",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "文學院102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023388/local_syllabus/attachment/33580/114-2%E5%8F%B0%E7%81%A3%E6%88%B2%E5%8A%87%E9%81%B8%E8%AE%80%E8%AA%B2%E7%B6%B1_0111.docx",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "戲劇排練",
+        "professor": "鍾欣志",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "文學院103",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1101848_01",
+        "targetGrade": "1",
+        "capacity": "16",
+        "memo": "先修科目(1101846)戲劇概論(80分以上)列入「戲劇‧創意‧想像」學分學程科目。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "書道與日常應用",
+        "professor": "劉庭彰",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院103",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1101933_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "文字學（二）",
+        "professor": "陳厚任",
+        "credits": 2,
+        "time": "一4,5",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "文字學的研究對象是文字。文字學可分為普通文字學和中國文字學（或漢語文字學、漢字學）兩大類。普通文字學研究包括中國文字和中國其他少數民族文字在內的世界所有文字的共性問題或及各種文字的宏觀類別。中國文字學只研究中國文字的有關各種問題。國內一般所謂文字學課程，又稱為「中國文字學」，或簡稱為「文字學」。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024415/local_syllabus/attachment/33625/114-2%E6%96%87%E5%AD%97%E5%AD%B8.docx",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(1102011)文字學（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "篆刻藝術",
+        "professor": "馬玉紅",
+        "credits": 2,
+        "time": "三8,9",
+        "location": "文學院103",
+        "type": "選修",
+        "description": "由摹刻到創作，由淺至深，逐次引導學生學習篆刻技能，增進美感能力。\r\n1.學習摹印、臨印基本技法。\r\n2.習藝怡情，激發學習興趣。\r\n3.提昇美感與創作能力。\n\r\nFrom imitation to creation, and from basic to advanced levels, students are progressively guided to learn seal-carving techniques and enhance their aesthetic sensibility.\n\r\n1.Learn the fundamental techniques of seal copying and seal imitation.\n\r\n2.Cultivate artistic skills for personal enjoyment and stimulate interest in learning.\n\r\n3.Enhance aesthetic appreciation and creative ability.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024435/local_syllabus/attachment/33626/%E4%B8%AD%E6%AD%A3114-2%E7%AF%86%E5%88%BB%E8%97%9D%E8%A1%93%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1%20%20%E9%A6%AC%E7%8E%89%E7%B4%85.docx",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "孟子：雄辯身影",
+        "professor": "賴柯助",
+        "credits": 2,
+        "time": "四10,11",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "面對「外人皆稱夫子好辯」的評議時，孟子答以「予豈好辯哉！予不得以也。」孟子言「不得以」的背後是否有合理的理論基礎作為支持的「理由」，是值得思考與探究的問題。在這問題意識下，本課程將以主題式的進路引導同學探討《孟子》原典，以了解其思想核心「性善說」的義理內容，例如：孟子如何理解人性，以致其如何理解人；他為什麼主張人禽之辨、義利之辨、王霸之辨等。透過批判性的閱讀來理解孟子的義理思考，以掌握他的時代關懷，說明他為什麼要與其同時的其他學派（如道家、墨家、農家等）之徒進行論辯的理由。\n\r\n學習目標： \r\n1.\t了解孟子面對的時代問題及其回應的立場。\r\n2.\t掌握其性善說、修養論的基本意涵，及其延伸至政治文化所蘊涵的精神。\r\n3.\t引導同學批判性地閱讀《孟子》原典，並藉以培養同學理性思辨能力。\n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024379/local_syllabus/attachment/33622/%E5%AD%9F%E5%AD%90%EF%BC%9A%E9%9B%84%E8%BE%AF%E8%BA%AB%E5%BD%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "文化研究導論",
+        "professor": "曾若涵",
+        "credits": 2,
+        "time": "五4,5",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "文化與一個民族、與人們的生活有著密不可分的關係，文化反映民族的思維與表達，至今已經累積許多的理論與觀察範例。本課程從文化學的理論說起，論及文化概念的理解、文化身分問題，文化與民族性問題、文化與權力問題、文化及語言問題、視覺文化等，並試圖延伸至學生能切身感知的在地文化議題。\r\n課程內容主要聚焦在基礎理論的建構，以及實例之閱讀與分析，偶而也會穿插東亞歷史材料。透過教科書中的案例、近年的學界研究、以及日常生活中所遭遇的文化現象，引導學生探索生活周邊的文化特色。\n\r\nCulture is inextricably linked to ethnicity and people's lives. It reflects a nation's thinking and expression, and has accumulated numerous theories and examples. This course begins with cultural studies theories, discussing the understanding of artistic concepts, issues of cultural identity, the relationship between culture and ethnicity, culture and power, and culture and language. It also attempts to extend to local cultural issues that students can personally experience.\r\nThe course content primarily focuses on building foundational theories and reading case studies, occasionally incorporating materials from East Asian history. Through textbook examples, recent research, and cultural phenomena encountered in daily life, the course guides students to explore the cultural characteristics of their surroundings.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2054643/local_syllabus/attachment/34471/114-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E7%B3%BB_%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E5%B0%8E%E8%AB%96.pdf",
+        "targetGrade": "2",
+        "capacity": "20",
+        "memo": "限本系生修.與紫荊不分系學士學位學程合開。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "曲選及習作",
+        "professor": "盧柏勳",
+        "credits": 3,
+        "time": "一10,11,12",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "         曲學浩瀚，皓首亦無法窮盡，本課程強調「紮實學習」，主要目的在於奠基學生基礎散曲、戲曲知識，與鑑賞能力，再藉由曲譜與韻書，如《北曲新譜》、《太和正音譜》、《中原音韻》等書之認識，帶領學生填製曲子，來激發創作與應用思維，另由各項報告之撰寫，亦能培養學生書寫劇評與學術論文之技能。針對課程範疇而論，本課程採用《曲學概要》與《戲曲學》二書為底本，針對散曲之體製結構、元明清散曲作家及作品、戲曲之起源與形成、雜劇、南戲、傳奇之體製結構與作家及作品、花部與地方戲等主題，進行全面且系統化之教學。\r\n         本課程之課程主軸結構，可區分為「散曲學」與「戲曲學」兩大區塊，又可細分成六大項目：其一，散曲之結構與格律；其二，元代散曲作家與作品選析；其三，明清散曲作家與作品選析；其四，戲曲之源流與演進；其五，北曲雜劇與南曲戲文傳奇；其六，花部亂彈與地方聲腔劇種。除講授紙本教材外，輔以相關戲曲影音教材，以培養學生鑑賞表演藝術之能力。建立教學與輔導平台，將教學投影片與影音連結放置其中，使學生能夠於課後複習，以增益學習效能。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024388/local_syllabus/attachment/33623/114-2%E6%9B%B2%E9%81%B8%E5%8F%8A%E7%BF%92%E4%BD%9C%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "漢籍英譯選讀",
+        "professor": "楊玉君",
+        "credits": 3,
+        "time": "四7,8,9",
+        "location": "文學院101",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1102540_01",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": "本課程將試行四週EMI全英語教學。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "寫作指導：詩集製作",
+        "professor": "張日郡",
+        "credits": 2,
+        "time": "二8,9",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "＃課程將以「詩集鑑賞」為核心，帶領同學練習撰寫詩集作品的「企劃案」。\n\r\n本課程不只是教授如何寫詩，更要教授如何挖掘或經營自己的才華。故，本課程將以「詩集鑑賞」為主，不追求密集的大量創作，而是提供教師獲得補助之企劃範本，並邀請詩人講者到班分享，引導同學初步完成一份能對接國藝會、文化部或文學獎的「企劃書」，讓同學透過企劃了解自己，也能讓文學夢想具備連結現實世界的行動力。\n\r\n課程目標：\r\n1.深化詩歌創作技巧：探索多元詩風，強化語言運用與表現力，提升詩作的完整性與藝術性。\r\n2.培養詩集企劃能力：學習如何策劃一本詩集，包括主題設定、選詩編排與詩歌敘事結構。\r\n3.練習補助申請與提案撰寫：學習撰寫文學補助計畫，瞭解如何向文化機構申請資源，為詩集出版尋找實際支持。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "專案報告",
+            "評量尺規",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026848/local_syllabus/attachment/33692/114-2%E5%AF%AB%E4%BD%9C%E6%8C%87%E5%B0%8E%EF%BC%9A%E8%A9%A9%E5%8F%8A%E8%A3%BD%E4%BD%9C%20%E4%B8%8A%E5%82%B3%E7%89%88%E6%9C%AC.pdf",
+        "targetGrade": "2",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "臺灣生態文學選讀",
+        "professor": "張日郡",
+        "credits": 2,
+        "time": "二10,11",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "＃本課旨在以議題討論激發環境感知，重新觀看台灣土地的多元脈絡。\n\r\n本課程以「生態」與「文學」的交會為主軸，帶領同學閱讀並分析臺灣作家在不同時期對自然、動物、環境與地方書寫的作品。本課程期從散文、小說、繪本、紀錄片等出發，除了理解不同媒材對應自然之處，亦探討人與自然的倫理關係，思考工業化、都市化與氣候變遷下的多元文學敘事。學生將透過議題討論、報告與撰寫專題，培養環境感知力與批判思考能力，及重新觀看生活中的自然世界。\n\r\n課程目標：\r\n1.\t理解臺灣生態文學的發展脈絡。\r\n2.\t培養生態閱讀與批判思考能力。\r\n3.\t實踐環境感知與創意表達。\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026925/local_syllabus/attachment/33699/114-2%E8%87%BA%E7%81%A3%E7%94%9F%E6%85%8B%E6%96%87%E5%AD%B8%E9%81%B8%E8%AE%80%E4%B8%8A%E5%82%B3%E7%89%88%E6%9C%AC.pdf",
+        "targetGrade": "2",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "歷代文選及習作（二）",
+        "professor": "黃璿璋",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "古代散文不僅彰顯了卓越的文學藝術價值，同時蘊含了深邃的學術思想與哲理。深入探討古典散文的世界，不僅能讓人欣賞到中國文學的精緻與雅致，還能深度了解古代學術的精髓與奧秘。本課程精選自先秦至清代的經典散文，按照主題進行探討，旨在揭示傳統文人及其作品的獨特風采和內心世界，從而映照出當代人文的時空背景及其歷史風貌。此外，本課程亦深入觀察中國古代散文與傳統士人在文化、政治、社會等方面的多元互動與時代呼應。本課程分為上下學期兩部分，下學期從「愛情」、「金石」、「博物」、「兵法」、「罵詈」與「試場」等主題入手，引導學生深度閱讀和研究古典文學中的經典之作，讓學生對古典文學的深層意涵有更全面的理解與認識，並省思現代生活。此外，本課程設有寫作練習課程，期望提升學生的古文創作與分析能力，為進一步的學術深造奠定堅實的基礎。\r\nClassical Chinese prose is distinguished not only by its refined literary artistry but also by its profound intellectual and philosophical depth. Engaging closely with classical prose allows readers to appreciate the elegance and sophistication of Chinese literary expression while gaining insight into the foundations of traditional scholarship and thought. This course offers a thematic exploration of representative prose works from the pre-Qin period through the Qing dynasty, with the aim of highlighting the distinctive voices, sensibilities, and inner worlds of traditional literati authors, as well as the historical and cultural contexts in which they wrote.\n\r\nBy examining classical prose in relation to the cultural, political, and social roles of scholar-officials, the course investigates the dynamic interactions between literary expression and the broader structures of premodern Chinese society. The curriculum is divided into two semesters. The second semester focuses on selected themes—including love, epigraphy and antiquarian studies, natural history, military thought, invective, and the civil service examination system—to guide students in close reading and in-depth analysis of canonical prose texts. Through these thematic lenses, students will develop a more comprehensive understanding of the deeper meanings of classical literature while reflecting on its relevance to modern life.\n\r\nIn addition to textual analysis, the course incorporates writing workshops designed to strengthen students’ abilities in both classical-style composition and critical analysis. By combining close reading with guided writing practice, the course aims to build a solid foundation for advanced study and research in classical Chinese literature.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024405/local_syllabus/attachment/33624/%E6%AD%B7%E4%BB%A3%E6%96%87%E9%81%B8%E5%8F%8A%E7%BF%92%E4%BD%9C%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A114-2%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "2",
+        "capacity": "55",
+        "memo": "先修科目(1102711)歷代文選及習作（一）(曾經修習)(1102713)歷代文選及習作（一）(曾經修習)(只要符合任一先修條件)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "中國文學史（二）",
+        "professor": "陳柏言",
+        "credits": 3,
+        "time": "二7,8,9",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "本系基礎課程，旨在探究中國文學於歷史中的生成、承繼與流變。以歷史斷代分期為基礎，透過詩歌、辭賦、散文、小說等文類分野，對歷代重要的作家、作品發展，加以舉證，進而建立宏觀的文學史思考架構。期待學生在這門課程中，能夠深刻把握文學發展脈絡，進而探入作品的細微肌理。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023692/local_syllabus/attachment/33590/114-2%E4%B8%AD%E5%9C%8B%E6%96%87%E5%AD%B8%E5%8F%B2%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "先修科目(1103021)中國文學史（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "中國思想史（二）",
+        "professor": "賴柯助",
+        "credits": 3,
+        "time": "五4,5,6",
+        "location": "文學院104",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_1103112_01",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "先修科目(1103111)中國思想史（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "中國俗文學",
+        "professor": "盧柏勳",
+        "credits": 3,
+        "time": "二10,11,12",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "本課程區分為：「導論」、「說唱文學」、「童話」、「鬼話」、「精怪故事」、「白蛇故事」、「梁祝故事」等單元，綜合考察中國俗文學各種項目發展之體系脈絡，再藉由相關文獻與影片之解說，設計相關議題，進行課堂問題討論，以引導思考。再藉由小組主題報告，進一步訓練學生對中國俗文學有進一步認知。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027309/local_syllabus/attachment/33710/114-2%20%E4%B8%AD%E5%9C%8B%E4%BF%97%E6%96%87%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "當代文學思潮",
+        "professor": "蕭義玲",
+        "credits": 3,
+        "time": "一7,8,9",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "對「當代文學思潮」所內蘊的文學、人與社會性關係的探討與思索。課程內容包括\r\n     1.現代生活的構成與價值取向：我們所處的「現代性」\r\n     2.現當代文學蘊含的現代體驗與感受\r\n     3.「現代主義」作為一種重要文學思潮的時代意義\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027318/local_syllabus/attachment/33711/%E6%A8%99%E6%BA%96%E7%89%88%E6%9C%AC3%E5%AD%B8%E5%88%86.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "魯迅文學作品選讀",
+        "professor": "黃璿璋",
+        "credits": 2,
+        "time": "三10,11",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "魯迅（1881-1936）在東亞現代文學的形成過程中具關鍵地位，文學創作深刻反映二十世紀初中國社會的劇烈轉型，並構成對「現代性」及其危機的回應。本課程擬將魯迅置於二十世紀東亞知識界共同面對「近代的超克」的思想脈絡中進行考察，探討其文學實踐如何體現對西方現代性的抵抗與超越。課程將以魯迅的小說創作為核心文本，範圍涵蓋《吶喊》、《徬徨》與《故事新編》，並延伸至雜文與散文詩集《野草》等。課程將引導學生對文本進行精讀，深入剖析其獨特的藝術技巧與思想內涵，集中思考其「個人主義」理念與「國民性」批判在全球現代性的框架下所具有的特殊意義，期能培養學生宏觀的思想視野與深刻的文本分析能力。\r\nLu Xun (1881–1936) is a central figure in the formation of modern literature in East Asia. His writings powerfully register the profound social, cultural, and intellectual transformations that China underwent in the early twentieth century, and they offer a sustained engagement with the promises and crises of modernity. This course places Lu Xun within a broader East Asian intellectual context in which thinkers confronted the shared challenge of modernity—often described as the effort to critically respond to, resist, or move beyond Western models of modernization.\r\nFocusing primarily on Lu Xun’s fiction, the course examines works from A Call to Arms (Nahan), Hesitation (Panghuang), and Old Tales Retold (Gushi Xinbian), while also incorporating his essays and the prose-poetry collection Wild Grass (Yecao). Through close reading and discussion, students will explore Lu Xun’s distinctive literary techniques as well as the philosophical and social questions that animate his writing.\r\nParticular attention will be given to Lu Xun’s reflections on individualism and his critique of “national character,” analyzed within the broader framework of global modernity. By engaging closely with both texts and historical context, the course aims to help students develop a nuanced understanding of modern Chinese literature while strengthening their skills in critical reading, interpretation, and comparative thinking.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2027327/local_syllabus/attachment/33712/%E9%AD%AF%E8%BF%85%E6%96%87%E5%AD%B8%E9%81%B8%E8%AE%80%EF%BC%9A114%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E7%B3%BB.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "聲韻學（二）",
+        "professor": "曾若涵",
+        "credits": 2,
+        "time": "四8,9",
+        "location": "文學院104",
+        "type": "必修",
+        "description": "本課程旨在使學生了解漢語歷代共同語的音韻系統，並掌握其演變的規律，以了解古今漢語的特徵以及現代漢語的源流。礙於課程時數有限，講述重點集中於中古以及近代、現代之語音，上古音依實際情形調整份量。聲韻學（二）的進度，延續上學期課程中之中古音內容，並延伸至擬音方法、上古音、近代音等部分內容。\r\n課程內容包括：漢語歷史語音演變及音韻系統之認識、漢語方言分歧現象之認識、文學體裁如詩詞歌賦之聲韻應用等，期盼學生除了能建立漢語歷代音韻學之專業知識之外，也能建立實際的應用能力，進而提升對於傳統文學體裁之解讀與欣賞能力。此外，並期能幫助學生銜接語言學各種領域之相關知識，建構語言研究的基礎能力，以及培養語言學、音韻學之推論思考模式。\n\r\n    This course aims to help students understand the phonological systems of Chinese across different historical periods and grasp the principles underlying their evolution. It also explores the characteristics of ancient and modern Chinese and the origins of modern Chinese dialects. Due to the limited duration of the course, the focus is placed on medieval, modern, and contemporary pronunciations.\r\nThe course covers the historical evolution of Chinese phonology, the structure of its phonological systems, the divergence of Chinese dialects, and the application of phonological knowledge to literary genres such as poetry and songs. Students are expected to develop a solid foundation in phonology from various Chinese dynasties and acquire practical skills to apply this knowledge. These skills will enhance their ability to interpret and appreciate traditional literary works. Additionally, the course seeks to connect phonological knowledge with other linguistic disciplines, build essential language research skills, and foster critical thinking and inferential reasoning in linguistics and phonology.\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023536/local_syllabus/attachment/33587/114-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E7%B3%BB_%E8%81%B2%E9%9F%BB%E5%AD%B8%28%E4%BA%8C%29.pdf",
+        "targetGrade": "3",
+        "capacity": "55",
+        "memo": "先修科目(1103311)聲韻學（一）(曾經修習)限本系生修.外系限輔系、雙主修中文系學生修習。"
+    },
+    {
+        "id": "中國文學系",
+        "name": "現代成長小說選讀",
+        "professor": "蕭義玲",
+        "credits": 3,
+        "time": "二4,5,6",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "「成長」向來是一個生存的切身課題，特別在青春期的生命騷動階段，一方面體現著形塑性格的生命早期經驗，二方面其回應世界的態度，也將決定他/她將會成為一個怎樣的「成人」。因為「成長小說」背後牽繫了一個人生命的所有內容，因之，「成長小說」一直是中外作家著墨最深，因而也累積出豐碩的創作成果與偉大成就的文學課題。本堂課將以台灣的「成長小說」為主要對象，透過小說所揭櫫的諸多面向，探討存在我們生命周遭中的種種「成長」課題，希望透過小說的深度閱讀，領略小說的「講故事」魅力，以精進深度的思想與情感能力，並回饋於生活與小說的閱讀與詮釋中。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業",
+            "專案報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023451/local_syllabus/attachment/33584/114%EF%BC%8C3%E5%AD%B8%E5%88%86%EF%BC%8C16%E9%80%B1--%E5%AD%B8%E7%94%9F%E7%89%88.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "周易",
+        "professor": "陳佳銘",
+        "credits": 3,
+        "time": "四4,5,6",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "      本課程將對易經做全面性的介紹，先瞭解易經之書的名義，再解釋此經的象數與義理之關係，並實際操作易經金錢卦、大衍之數揲卦法等主要占卜法。在哲學義理方面，先以乾坤兩卦為義理骨幹，解釋乾為創生原則，坤為終成原則的意義。進而，對〈繫辭〉的一陰一陽之謂道的天道論，如何歸結於「繼之者善也，成之者性也」的道德主體性，成其天道性命相貫通型態，將做詳盡的介紹，使同學掌握儒家道德形上學之精義。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023527/local_syllabus/attachment/33586/114%E5%85%AC%E7%89%88%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E7%B3%BB%E5%91%A8%E6%98%93.docx",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "宋明理學經典選讀：王陽明傳習錄",
+        "professor": "賴柯助",
+        "credits": 3,
+        "time": "三4,5,6",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "本學期的宋明理學課程，將專針對於宋明理學的重要經典進行研讀，以使同學對此階段的中國哲學有所理解。本課程選擇明代心學家王陽明的《傳習錄》一書進行。王陽明的思想是直承陸九淵的心學形態，並遠溯於孟子的性善論，且他是因對朱子學的反動而產生的。因此，從《傳習錄》入手，實可對整體的宋明理學思潮有恰當的把握。道德實踐的行動邏輯涉及：「道德判斷」、「意志軟弱」、「道德行動」三者的關係，當行動者面臨道德抉擇但又未能克服意志軟弱問題的情況下，結果往往「知而不行」或「明知故犯」。王陽明的「知行合一」說蘊含這三者的意涵與關係的討論，而其「致良知」之說則是說明了如何克服意志軟弱的關鍵與方法。透過現代用語對王陽明文本的探討，不僅可以了解其學說之要旨，亦可以掌握他如何回應道德抉擇的問題。\n\r\n本課程的學習目標：\r\n1.\t培養原典之閱讀分析與理解力\r\n2.\t訓練理性之反省思辨與批判力\r\n3.\t掌握先秦儒家核心思想之異同\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023557/local_syllabus/attachment/33588/114-2%E5%AE%8B%E6%98%8E%E7%90%86%E5%AD%B8%E7%B6%93%E5%85%B8%E9%81%B8%E8%AE%80%EF%BC%9A%E7%8E%8B%E9%99%BD%E6%98%8E%E5%82%B3%E7%BF%92%E9%8C%84.pdf",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "當代戲曲",
+        "professor": "游富凱",
+        "credits": 2,
+        "time": "三4,5",
+        "location": "文學院102",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023440/local_syllabus/attachment/33583/114-2%E7%95%B6%E4%BB%A3%E6%88%B2%E6%9B%B2%E8%AA%B2%E7%B6%B1_0111.docx",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "紅樓夢",
+        "professor": "黃璿璋",
+        "credits": 3,
+        "time": "四10,11,12",
+        "location": "文學院102",
+        "type": "選修",
+        "description": "《紅樓夢》以其複雜豐富的人物群像、縱橫交錯的情節結構、深邃的思想內涵以及精湛的藝術技巧而在世界文學史上佔有舉足輕重的地位。該作品通過描繪一個大家族的盛衰興亡，鮮明映射當時社會的多重矛盾與衝突，從而展現了其深刻的現實意義。透過對中國貴族家庭生活方式的生動描繪，作者深入地探討了命運、愛情、友情及人性等一系列哲學問題。此外，《紅樓夢》還集中體現了中國傳統文化的精粹，包括詩詞、禮俗、飲食、醫學、園林建築等方面，彰顯了其深厚的文化底蘊。本課程旨在通過對《紅樓夢》的深入閱讀和分析，引領學者和學生深入理解這部經典作品的多維文化內容和豐富的文學價值。通過探索紅學研究的歷程、不同學派觀點及學術成就，本課程不僅旨在提升學生對古典文學作品深度閱讀和批評分析的能力，並致力於指導學生撰寫關於《紅樓夢》的研究報告，將《紅樓夢》的藝術成就和文化價值置於學術討論的前沿，期待促進對這部文學巨著更加深入的理解和評價。\n\r\nDream of the Red Chamber (Hongloumeng) holds a preeminent position in world literature for its extraordinarily rich cast of characters, intricately interwoven narrative structure, profound intellectual depth, and masterful artistic techniques. By portraying the rise and decline of a powerful aristocratic family, the novel vividly reflects the multiple social contradictions and tensions of its historical moment, thereby revealing its enduring realism and critical significance.\n\r\nThrough its detailed depiction of the everyday life of an elite Chinese household, the work offers sustained reflections on fundamental philosophical themes such as fate, love, friendship, desire, and human nature. At the same time, Dream of the Red Chamber serves as a comprehensive repository of traditional Chinese culture, encompassing poetry, ritual practices, cuisine, medicine, garden architecture, and aesthetic values, thus demonstrating the novel’s exceptional cultural richness.\n\r\nThis course aims to guide students and scholars through a close reading and in-depth analysis of Dream of the Red Chamber, fostering a nuanced understanding of its multidimensional cultural content and literary achievements. By examining the development of Redology (Hongxue)—including its major interpretive approaches, scholarly debates, and research milestones—the course seeks not only to enhance students’ abilities in close reading and critical analysis of classical literary texts, but also to train them in conducting independent research and producing academic papers on Dream of the Red Chamber. Ultimately, the course places the novel’s artistic accomplishments and cultural significance at the forefront of scholarly inquiry, encouraging a deeper and more critical appreciation of this monumental work.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2023419/local_syllabus/attachment/33582/%E7%B4%85%E6%A8%93%E5%A4%A2%EF%BC%9A114-2%E6%8E%88%E8%AA%B2%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%E7%B3%BB.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    },
+    {
+        "id": "中國文學系",
+        "name": "文心雕龍",
+        "professor": "胡頎",
+        "credits": 3,
+        "time": "三10,11,12",
+        "location": "文學院101",
+        "type": "選修",
+        "description": "《文心雕龍》是中國文學批評史上最重要的著作之一，總結中古文學的實踐與反思，綜合文學根源、文體、創作到閱讀與批評等層面，建構宏大而精妙的論述。本課程將介紹《文心》的結構與思路，並藉以觀照魏晉南北朝對「文」的本質、寫作心法與審美判準的思考。\r\n課程前半著重於理解其成書的文化脈絡與對話對象，說明劉勰所理解的「文」是什麼，有什麼意義，並觀察他如何在此認知上勾勒不同文體在時間推移中的變與不變。學期下半則以「文的誕生」為主題，分別說明文與作者的關係，文與時代的關係，文生發的契機，以及從興感到成文的技藝。課程將搭配同時期相關文論比較，使同學能更立體地掌握《文心》在文學批評史上的意義。由於《文心》體大思精，課程將採重要觀念細讀與主題概覽並行，俾同學能見樹又見林，為日後進一步研究奠定基礎。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026916/local_syllabus/attachment/33698/114-2%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D%28%E6%96%B0%29.pdf",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": ""
+    }
+]

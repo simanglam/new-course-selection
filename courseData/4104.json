@@ -1,0 +1,872 @@
+[
+    {
+        "id": "資訊工程學系",
+        "name": "計算機概論",
+        "professor": "簡立仁",
+        "credits": 3,
+        "time": "二G,H",
+        "location": "創新大樓341",
+        "type": "選修",
+        "description": "本課程以C語言介紹程式語言的功能，透過透過與生成式AI(豆姨系統-DAI, DICE AI), 合作學習電腦語言的實作(使用DICE系統，在課堂上完成練習並且得到回饋)。\r\n了解常數、變數、流程控制與函數等基本程式語言的要素\r\n介紹陣列及基本抽象資料型態\r\n以中學數學問題為問題解決目標，引導程式設計的思維與電腦語言的撰寫\r\n以結構式模組化培養邏輯推理及運算思維能力 \r\n本課程老師有提供教學網站，請同學上網連結學習，在電腦教室上課時，會以實作教授為主。 \n\r\n「請尊重智慧財產權，不得非法影印教師指定之教科書籍」",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式",
+            "自製教學影片",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4100003_01",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "支援化學工程學系一年級A班;資訊工程學系不得選修;支援化工系，資工系學生不可選修"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "物聯網與智慧家庭應用開發",
+        "professor": "蔡政宇",
+        "credits": 1,
+        "time": "三5",
+        "location": "活動中心B1自造基地",
+        "type": "選修",
+        "description": "# 物聯網與智慧家庭應用開發\r\n物聯網與智慧家庭應用開發課程，是為非STEAM學生所規劃之1學分入門課程，本課程旨在讓跨領域的學生，能夠探索並學習「物聯網」與「智慧家庭」的基礎知識。\r\n本課程貼近非專業領域學生之學習需求，以簡單且異動的方式介紹科技應用，避免過於深入技術細節，並同時注重在實務講解與實際操作之結合。\r\n課程內容將以單元式進行，包括物聯網基礎概念、物聯網裝置、通訊技術，以及智慧家庭的應用等。\r\n為了保持教學內容的時效性和相關性，課程將會融入近期科技動態或新興新知要點，讓學生能夠及時了解與課程相關的最新發展。\n\r\n# IoT and Smart Home Development\r\nThis 1-credit introductory course is designed for non-STEAM students, aiming to provide a foundational understanding of the Internet of Things (IoT) and smart home applications.\r\nThe course is tailored for students from diverse disciplines, offering a simplified and easy-to-understand approach to technological applications while avoiding overly technical details. Emphasis is placed on combining practical explanations with hands-on activities to enhance learning.\r\nThe course content is structured into modular units, covering topics such as the basic concepts of IoT, IoT devices, communication technologies, and smart home applications.\r\nTo ensure the relevance and timeliness of the curriculum, the course will incorporate recent technological trends and emerging innovations, enabling students to stay updated with the latest developments related to IoT and smart home technology.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101023_01",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "開放全校學生選修"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "量子電腦程式設計概論",
+        "professor": "游寶達",
+        "credits": 2,
+        "time": "三7,8",
+        "location": "工學院A館204",
+        "type": "選修",
+        "description": "微積分、線性代數、機率論",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101024_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "開放全校學生選修"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "程式設計（二）",
+        "professor": "王銘宏",
+        "credits": 3,
+        "time": "二C,D",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": "Fundamental programming concepts and skills",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101032_01",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "程式設計實習（二）",
+        "professor": "王銘宏",
+        "credits": 1,
+        "time": "一13,14",
+        "location": "創新大樓341",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101034_01",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "程式設計實習（二）",
+        "professor": "王銘宏",
+        "credits": 1,
+        "time": "二13,14",
+        "location": "創新大樓341",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101034_03",
+        "targetGrade": "1",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "智慧機器人與深度學習入門",
+        "professor": "蔡政宇",
+        "credits": 1,
+        "time": "三4",
+        "location": "活動中心B1自造基地",
+        "type": "選修",
+        "description": "# 智慧機器人與深度學習入門\r\n智慧機器人與深度學習入門課程，是為非STEAM學生所規劃之1學分入門課程，本課程旨在讓跨領域的學生，能夠探索並學習「智慧機器人」與「深度學習」的基礎知識。\r\n本課程貼近非專業領域學生之學習需求，以簡單且易懂的方式介紹科技應用，避免過於深入技術細節，並同時注重在實務講解與實際操作之結合。\r\n課程內容將以單元式進行，內容涵蓋了多個關鍵單元包括：類神經網路和人工智慧機器人的基本介紹、跨平台開發技術在智慧機器人介面的應用、以及結合深度學習框架和跨平台技術，實現深度學習應用的跨平台整合。\r\n為了保持教學內容的時效性和相關性，課程將會融入近期科技動態或新興新知要點，讓學生能夠及時了解與課程相關的最新發展。\n\r\n# AI Robot and Deep Learning\r\nThis 1-credit introductory course is designed for non-STEAM students, providing a foundational understanding of AI robots and deep learning.\r\nThe course is tailored for students from diverse disciplines, offering a simplified and accessible approach to technological applications while avoiding excessive technical details. Emphasis is placed on integrating practical explanations with hands-on activities to ensure effective learning.\r\nThe course is organized into modular units covering several key topics, including:\r\n- Basic concepts of neural networks and AI robots,\r\n- Applications of cross-platform development technologies in AI robot interfaces,\r\n- Integration of deep learning frameworks with cross-platform technologies to achieve practical deep learning applications.\r\nTo maintain relevance and timeliness, the course will incorporate recent technological trends and emerging innovations, ensuring that students stay informed about the latest developments in AI robots and deep learning.",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4101035_01",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": "開放全校學生選修"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "計算方法概論",
+        "professor": "黃耀廷",
+        "credits": 3,
+        "time": "二G 四G",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102068_01",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "計算方法概論",
+        "professor": "陳立軒",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "工學院A館001",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102068_02",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "離散數學",
+        "professor": "王志航",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "工學院A館001",
+        "type": "必修",
+        "description": "Discrete mathematics is the mathematics dealing with objects that can assume only distinct, separated values. It can often be characterized by integers, continuous objects require real numbers. Other fields of mathematics that are considered part of discrete mathematics include graph theory and the theory of computation. Topics in number theory such as congruences and recurrence relations are also considered part of discrete mathematics. Discrete mathematics is the mathematical language of computer science, and as such, its importance has increased dramatically in recent decades. This course is essential for students, particularly for those preparing for future computer science courses and research. ",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102085_02",
+        "targetGrade": "1",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "離散數學",
+        "professor": "江振國",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "創新大樓326",
+        "type": "必修",
+        "description": "Discrete mathematics is the mathematics dealing with objects that can assume only distinct, separated values. It can often be characterized by integers, continuous objects require real numbers. Other fields of mathematics that are considered to be part of discrete mathematics include graph theory and the theory of computation. Topics in number theory such as congruences and recurrence relations are also considered part of discrete mathematics. Discrete mathematics is the mathematical language of computer science, and as such, its importance has increased dramatically in recent decades. Students should learn this course, especially those will be used in their further courses and researches in computer science.  ",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102085_01",
+        "targetGrade": "1",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "數位系統導論",
+        "professor": "梁郁珮",
+        "credits": 3,
+        "time": "三D 五D",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "隨堂作業",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102100_01",
+        "targetGrade": "2",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "數位系統導論實驗",
+        "professor": "梁郁珮",
+        "credits": 1,
+        "time": "一10,11",
+        "location": "創新大樓341",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102130_01",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "數位系統導論實驗",
+        "professor": "梁郁珮",
+        "credits": 1,
+        "time": "三10,11",
+        "location": "創新大樓341",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102130_02",
+        "targetGrade": "2",
+        "capacity": "48",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "系統程式",
+        "professor": "熊博安",
+        "credits": 3,
+        "time": "三E,F",
+        "location": "創新大樓341",
+        "type": "必修",
+        "description": "資訊概論、資料結構、程式設計 \r\nIntroduction to Computer Science, Data Structures, Program Design \n",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102150_01",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "系統程式",
+        "professor": "羅習五",
+        "credits": 3,
+        "time": "一E,F",
+        "location": "創新大樓322",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102150_02",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "物件導向程式設計",
+        "professor": "劉興民",
+        "credits": 3,
+        "time": "二E 四E",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102160_01",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "先修科目(4101032)程式設計（二）(及格)(4101031)程式設計（一）(及格)(只要符合任一先修條件)限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "物件導向程式設計",
+        "professor": "郭建志",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": "Program Design, Data Structures, and Discrete Mathematics",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4102160_02",
+        "targetGrade": "2",
+        "capacity": "63",
+        "memo": "先修科目(4101031)程式設計（一）(及格)(4101032)程式設計（二）(及格)(只要符合任一先修條件)限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "電腦網路概論",
+        "professor": "林柏青",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "工學院A館001",
+        "type": "選修",
+        "description": "None",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103039_01",
+        "targetGrade": "3",
+        "capacity": "100",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "機器學習概論",
+        "professor": "盧沛怡",
+        "credits": 3,
+        "time": "二C,D",
+        "location": "創新大樓324",
+        "type": "選修",
+        "description": "Computer programming, probability, linear algebra",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103062_01",
+        "targetGrade": "3",
+        "capacity": "70",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "數位信號處理導論",
+        "professor": "林維暘",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "工學院A館205",
+        "type": "選修",
+        "description": "Linear algebra",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103090_01",
+        "targetGrade": "3",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "Java程式設計：企業與嵌入式系統",
+        "professor": "柯仁松",
+        "credits": 3,
+        "time": "一B 三B",
+        "location": "工學院A館001",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編教科書"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103095_01",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "問題解決與程式設計",
+        "professor": "蘇育生",
+        "credits": 3,
+        "time": "四C,D",
+        "location": "創新大樓339",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "教學程式"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "期中報告",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103101_01",
+        "targetGrade": "3",
+        "capacity": "20",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "資料探勘概論",
+        "professor": "邱志義",
+        "credits": 3,
+        "time": "一D 三D",
+        "location": "工學院A館205",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "學生口頭報告"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103102_01",
+        "targetGrade": "3",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "工程倫理",
+        "professor": "林迺衛",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "工學院A館104",
+        "type": "選修",
+        "description": "透過了解工程倫理的理論，學習分析及判斷工程相關的倫理議題。 ",
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4103900_01",
+        "targetGrade": "3",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "編譯器設計",
+        "professor": "陳鵬升",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "工學院A館001",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104005_01",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "編譯器設計",
+        "professor": "劉興民",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "工學院A館103",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104005_02",
+        "targetGrade": "3",
+        "capacity": "20",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "影像處理概論",
+        "professor": "柳金章",
+        "credits": 3,
+        "time": "一G 三G",
+        "location": "工學院A館101",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104011_01",
+        "targetGrade": "4",
+        "capacity": "90",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "網路安全概論",
+        "professor": "江為國",
+        "credits": 3,
+        "time": "三C 五C",
+        "location": "工學院A館204",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂測驗",
+            "隨堂作業",
+            "期中報告",
+            "期末報告",
+            "專案報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104048_01",
+        "targetGrade": "4",
+        "capacity": "40",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "嵌入式系統軟體設計與實作",
+        "professor": "陳鵬升",
+        "credits": 3,
+        "time": "二C,D",
+        "location": "工學院A館206",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104052_01",
+        "targetGrade": "4",
+        "capacity": "15",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "資料庫系統",
+        "professor": "劉興民",
+        "credits": 3,
+        "time": "二F 四F",
+        "location": "工學院A館104",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "隨堂作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104061_01",
+        "targetGrade": "4",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "機器學習數學分析概論",
+        "professor": "江宗韋",
+        "credits": 3,
+        "time": "四E,F",
+        "location": "工學院A館205",
+        "type": "選修",
+        "description": "本課程旨在引領學生初步探索機器學習的核心理論及其數學分析方法。本課程內容將會介紹機器學習中重要理論工具與基礎數學原理，包含：機器學習的可學習性、模型複雜度、泛化界、穩定性、一致性及收斂率等重要理論概念與分析。課程應用線性代數、微積分、機率統計與最佳化理論知識，著重培養學生嚴謹的理論思維，並介紹如何運用精確的數學技巧來分析機器學習問題。該課程特別適合希望藉由數學工具深入解析機器學習數學原理的學生修習。由於本課程聚焦於機器學習理論及其數學原理，不涵蓋各種機器學習演算法或模型的具體介紹，因此學生可另外搭配相關機器學習演算法或AI實務課程一同修讀，以獲得該領域全面的知識學習體驗。\r\n(This course is designed to guide students in initially exploring the core theories and mathematical analysis methods underlying machine learning. The curriculum introduces essential theoretical tools and mathematical principles in machine learning, including learnability, model complexity, generalization bounds, stability, consistency, and convergence rates, among other key concepts and analyses. Drawing upon knowledge from linear algebra, calculus, probability and statistics, and optimization theory, the course emphasizes the development of rigorous theoretical thinking and demonstrates how to apply precise mathematical techniques to analyze machine learning problems. This course is particularly suited for students who wish to delve rigorously into the mathematical foundations of machine learning using robust mathematical tools. As the focus is on theoretical principles and mathematical foundations rather than on introducing various machine learning algorithms or models, students are encouraged to complement their studies with related courses on machine learning algorithms or practical AI applications for a more complete learning experience.)",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "隨堂作業",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104073_01",
+        "targetGrade": "4",
+        "capacity": "65",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "專題實驗（一）",
+        "professor": "林柏青",
+        "credits": 2,
+        "time": "五12,13,14,15",
+        "location": "工學院A館104",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104800_03",
+        "targetGrade": "3",
+        "capacity": "65",
+        "memo": "限本系生修.限網路與數位學習領域: 游寶達、林柏青、柯仁松、江為國、黃啟富、郭建志、蘇育生、阮文齡、王志航、江宗韋老師之專題生選修。"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "專題實驗（一）",
+        "professor": "黃耀廷",
+        "credits": 2,
+        "time": "四12,13,14,15",
+        "location": "工學院A館205",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104800_04",
+        "targetGrade": "3",
+        "capacity": "65",
+        "memo": "限本系生修.限SOC領域: 張榮貴、鍾菁哲、陳鵬升、梁郁珮老師之專題生選修"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "專題實驗（一）",
+        "professor": "熊博安",
+        "credits": 2,
+        "time": "五12,13,14,15",
+        "location": "工學院A館103",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104800_05",
+        "targetGrade": "3",
+        "capacity": "20",
+        "memo": "限本系生修.限系統軟體領域: 熊博安、羅習五、薛幼苓、王銘宏老師專題生選修。"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "專題實驗（一）",
+        "professor": "郭建志",
+        "credits": 2,
+        "time": "五12,13,14,15",
+        "location": "工學院A館101",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104800_01",
+        "targetGrade": "3",
+        "capacity": "90",
+        "memo": "限本系生修.限多媒體訊號處理領域: 柳金章、林維暘、劉興民、劉偉名、江振國、程芙茵、邱志義、盧沛怡老師之指導專題生選修。"
+    },
+    {
+        "id": "資訊工程學系",
+        "name": "專題實驗（一）",
+        "professor": "江振國",
+        "credits": 2,
+        "time": "五12,13,14,15",
+        "location": "工學院A館001",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4104800_02",
+        "targetGrade": "3",
+        "capacity": "120",
+        "memo": "限本系生修.限計算機理論領域: 黃耀廷、陳立軒老師之專題生選修。"
+    }
+]

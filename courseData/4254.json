@@ -1,0 +1,423 @@
+[
+    {
+        "id": "化學工程學系",
+        "name": "化工質能均衡",
+        "professor": "周盈年",
+        "credits": 3,
+        "time": "一E,F",
+        "location": "工學院B館218",
+        "type": "必修",
+        "description": "本課程旨在教導學生化學工程中基本質能均衡概念",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024450/local_syllabus/attachment/33627/%E8%B3%AA%E8%83%BD%E5%9D%87%E8%A1%A1%28%E5%91%A8%E7%9B%88%E5%B9%B4%29-114%20%282%29%20Syllabus.docx",
+        "targetGrade": "1",
+        "capacity": "80",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "工程數學（二）",
+        "professor": "陳建忠",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "工學院B館218",
+        "type": "必修",
+        "description": "講授化工系學生所需之高等數學技巧，使之能應用於化工專業科目中，並訓練學生邏輯思考、與嚴謹做事的能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024508/local_syllabus/attachment/33628/4252200.doc",
+        "targetGrade": "2",
+        "capacity": "80",
+        "memo": "先修科目(4252100)工程數學（一）(曾經修習)"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "單元操作與輸送現象（一）",
+        "professor": "華繼中",
+        "credits": 3,
+        "time": "三E 五E",
+        "location": "工學院B館218",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "課後作業",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024531/local_syllabus/attachment/33629/Unit%20Operation%20and%20Transport%20Phenomenon%20%28I%29.pdf",
+        "targetGrade": "2",
+        "capacity": "80",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "真空技術與應用",
+        "professor": "蔡炯賢",
+        "credits": 3,
+        "time": "一D 三D",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "1.\t介紹真空系統中常用的閥件、壓力計、幫浦，使學生了解各級真空系統應如何建置以及具備基礎的測漏跟故障排除能力。\r\n2.\t學習真空技術的應用，使學生具備相關領域的基礎知識能力。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024560/local_syllabus/attachment/33630/%E7%9C%9F%E7%A9%BA%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1-%E4%B8%AD%E6%96%87%20%281%29.doc",
+        "targetGrade": "2",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "化工專題研究（一）",
+        "professor": "王朝弘",
+        "credits": 1,
+        "time": "一1 三1",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "訓練學生獨立蒐集資料與解決問題的能力",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024581/local_syllabus/attachment/33631/4253001.doc",
+        "targetGrade": "3",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "程序控制",
+        "professor": "康嘉麟",
+        "credits": 3,
+        "time": "二C 四C",
+        "location": "工學院B館318",
+        "type": "必修",
+        "description": "本課程旨在訓練學生熟悉化工程序動態、控制系統的基本原理與PID控制器調諧與控制系統的設計",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂作業"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024589/local_syllabus/attachment/33632/Syllabus20241210.docx",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "化學工程實驗（一）",
+        "professor": "蔡炯賢",
+        "credits": 2,
+        "time": "四E,F,G,H",
+        "location": "工學院B館435",
+        "type": "必修",
+        "description": "介紹化學工程實驗的基本知識與應用，使學生能夠學以致用，並認識化學工程的基本架構與應用的建立過程，瞭解化學工程之發展。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024624/local_syllabus/attachment/33633/114-2%E5%8C%96%E5%B7%A5%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "先修科目(4252400)單元操作與輸送現象（一）(曾經修習)(4253400)單元操作與輸送現象（二）(曾經修習)(所有先修條件都必須符合)限化工系單號班學生修習"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "化學工程實驗（一）",
+        "professor": "蔡炯賢",
+        "credits": 2,
+        "time": "五E,F,G,H",
+        "location": "工學院B館435",
+        "type": "必修",
+        "description": "介紹化學工程實驗的基本知識與應用，使學生能夠學以致用，並認識化學工程的基本架構與應用的建立過程，瞭解化學工程之發展。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024651/local_syllabus/attachment/33634/114-2%E5%8C%96%E5%B7%A5%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)(4252400)單元操作與輸送現象（一）(曾經修習)(所有先修條件都必須符合)限化工系雙號班學生修習"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "單元操作與輸送現象（三）",
+        "professor": "林昭任",
+        "credits": 3,
+        "time": "一C 三C",
+        "location": "工學院B館318",
+        "type": "必修",
+        "description": "Concept of Mass Diffusion",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2024678/local_syllabus/attachment/33635/4253403.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": "先修科目(4253400)單元操作與輸送現象（二）(曾經修習)"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "儀器分析實驗",
+        "professor": "蔡敬誠",
+        "credits": 1,
+        "time": "五E,F",
+        "location": "工學院B館307",
+        "type": "必修",
+        "description": "本課程之目的在透過實際動手操作，使學生瞭解各種分析儀器的基本原理及其應用。同時也讓學生學習如何整理數據，歸納討論結果所呈現的意義，以及撰寫報告。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025430/local_syllabus/attachment/33636/114-2%E5%84%80%E5%88%86%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "先修科目(4253500)儀器分析(曾經修習)限化工系單號班學生修習"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "儀器分析實驗",
+        "professor": "蔡敬誠",
+        "credits": 1,
+        "time": "四E,F",
+        "location": "工學院B館307",
+        "type": "必修",
+        "description": "本課程之目的在透過實際動手操作，使學生瞭解各種分析儀器的基本原理及其應用。同時也讓學生學習如何整理數據，歸納討論結果所呈現的意義，以及撰寫報告。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "期末考",
+            "期中報告",
+            "期末報告",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025469/local_syllabus/attachment/33637/114-2%E5%84%80%E5%88%86%E5%AF%A6%E9%A9%97%E6%95%99%E5%AD%B8%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "40",
+        "memo": "限化工系雙號班學生修習"
+    },
+    {
+        "id": "化學工程學系",
+        "name": "生物技術概論",
+        "professor": "廖宗文",
+        "credits": 3,
+        "time": "二E,F",
+        "location": "工學院B館318",
+        "type": "選修",
+        "description": "本課旨在講授生物科技學門、包括: 生物科技目前發展現況，人類基因體研究進展及應用，農業生物科技，環境生物科技與生物多樣性，醫用生物科技，免疫科技，再生醫學，生物科技產業等。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025486/local_syllabus/attachment/33638/4253700.doc",
+        "targetGrade": "3",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "高分子概論",
+        "professor": "蔡敬誠",
+        "credits": 3,
+        "time": "二G,H",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": "使學生了解聚合物的結構與物性。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2026601/local_syllabus/attachment/33687/4253910.doc",
+        "targetGrade": "2",
+        "capacity": "35",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "觸媒化學概論",
+        "professor": "張仁瑞",
+        "credits": 3,
+        "time": "三E,F",
+        "location": "工學院B館203",
+        "type": "選修",
+        "description": "使學生了解煉油工業製程所用之催化反應機構",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025525/local_syllabus/attachment/33639/112-2%E8%A7%B8%E5%AA%92%E5%8C%96%E5%AD%B8%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.doc",
+        "targetGrade": "3",
+        "capacity": "25",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "化工反應工程",
+        "professor": "王朝弘",
+        "credits": 3,
+        "time": "二B 四B",
+        "location": "工學院B館318",
+        "type": "必修",
+        "description": "化學反應工程主要介紹化工動力學、化學反應機構、反應器設計、觸媒反應等，並以電腦輔助計算，使學生瞭解反應器、反應原理與設計應用。",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)"
+        ],
+        "teachingMethods": [
+            "講述"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "其他"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2025549/local_syllabus/attachment/33640/4254410.doc",
+        "targetGrade": "3",
+        "capacity": "60",
+        "memo": ""
+    },
+    {
+        "id": "化學工程學系",
+        "name": "專題討論與文獻選讀",
+        "professor": "鄭朝鴻",
+        "credits": 1,
+        "time": "一10,11",
+        "location": "工學院B館201",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [
+            "其他"
+        ],
+        "teachingMethods": [
+            "其他"
+        ],
+        "assessmentMethods": [
+            "其他"
+        ],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_4254970_01",
+        "targetGrade": "4",
+        "capacity": "50",
+        "memo": "化工系必選修課程"
+    }
+]

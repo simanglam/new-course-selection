@@ -1,0 +1,153 @@
+[
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "研究方法",
+        "professor": "盧龍泉,莊世杰,鄭祥麟",
+        "credits": 3,
+        "time": "二8,9,10",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455005_01",
+        "targetGrade": "1",
+        "capacity": "17",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "影像．故事．行銷創意",
+        "professor": "曾光華",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455067_01",
+        "targetGrade": "1",
+        "capacity": "17",
+        "memo": "限本系生修."
+    },
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "數位時代下之通路創新與管理",
+        "professor": "游蓓怡",
+        "credits": 3,
+        "time": "三3,4,5",
+        "location": "管理學院441研討室",
+        "type": "選修",
+        "description": "「行銷通路」被認為是行銷策略當中，讓企業能維持競爭優勢中，重要的一環。而隨著數位時代下各式新科技的興起（例如AI，AR/VR及大數據及平台），讓企業在設計通路系統當中，不僅帶來許多新的機會，同時也帶來許多挑戰。本課程主要在探討數位時代下之通路創新及管理，課程內容涵蓋當代通路建構、設計，規劃與程序等相關議題。在十八週的課程當中，將由傳統通路系統出發，分析及比較通路系統的變革，並探討多元通路中之「全通路系統」所帶來的機會與挑戰。課程探討的議題包括：\r\n1.\t數位時代下之策略行銷通路的本質、組織結構、通路的功能與通路關係\r\n2.\t通路創新與變革對物流系統及通路伙伴的影響。\r\n3.\t零售通路的變革與創新\r\n4.\t行銷通路績效的管理與衡量\r\n5.\t行銷權力、衝突與合作\r\n6.\t新興通路的興起、平台經濟、國際通路的開發與經營，灰色市場行銷以及企業社會責任與永續。\r\n本課程配合本校USR計畫之執行，藉由帶著同學實地探訪鄰近阿里山特富野部落，與咖啡、蜜園農莊小農之合作與交流，將商業知識帶入並實踐，落實永續發展的學習與應用。\r\nGoods and services are produced and delivered through a number of stages, regardless of whether they are sold to individual consumers or corporate/organizational buyers. 'Marketing Channels' are considered one of the most critical factors for firms designing effective marketing strategies to obtain sustainable competitive advantages over competitors.\r\nIn an increasingly competitive digital age, where margins and profits are under ever more tremendous pressure, the effective and efficient management of these channels is central to the performance of different supply chain partners, including manufacturers, distributors, wholesalers, retailers, and specialized logistics agencies. During the era of digitalization, the emergence of new technologies has introduced new opportunities to form business models and new challenges in transforming old channel systems.\r\nThis course provides a comprehensive introduction to designing, developing, and maintaining effective relationships among channel members, especially in the digital age. Several issues will be addressed through a number of lectures: \r\n1.\tIntroduction to strategic marketing channels management: structure, functions, and relationships; including the concept of the omni-channel ecosystem.\r\n2.\tThe design, organization, and control of marketing channels; including channel innovation.\r\n3.\tChannel logistics/supply chain management and international partnerships.\r\n4.\tRetail product management.\r\n5.\tAssessing marketing channel performance.\r\n6.\tOther contemporary important channel issues: these include pricing through the channel, trade promotions, grey marketing, consumers' omni-channel behavior, and corporate social responsibility.\n\n",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義",
+            "其他"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習",
+            "個案研究"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070339/local_syllabus/attachment/35160/Channel%20Management%20Syllabus_114_2_V1.pdf",
+        "targetGrade": "1",
+        "capacity": "30",
+        "memo": "先修科目(5455001)行銷管理(及格)"
+    },
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "商用英文（二）",
+        "professor": "陳詠卉",
+        "credits": 2,
+        "time": "一8,9",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": "Course Objective\t\r\n1.\tprovide sufficient schema to improve students' reading comprehension in business-related subjects\r\n2.\tcultivate business vocabulary sizes with skill-based instructions and activities\r\n3.\tencourage students to go beyond the text and develop critical thinking skills\r\n4.\tunderstand cultural, economic, and environmental differences\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070299/local_syllabus/attachment/35157/1142%20%E8%8B%B1%E6%96%87%E4%BA%8C%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "17",
+        "memo": "先修科目(5455079)商用英文（一）(及格)限本系生修.外文系不得修習\r\n限行銷所研究生修習"
+    },
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "商用英文（四）",
+        "professor": "陳詠卉",
+        "credits": 2,
+        "time": "二4,5",
+        "location": "管理學院441研討室",
+        "type": "必修",
+        "description": "Course Objective\t\r\n1.\tdevelop students' business writing skills to achieve successful communications\r\n2.\tadopt sample business letters from a variety of context to familiarize learners with different writing styles\r\n3.\tencourage students to write effectively and confidently for a business environment\n\r\n請尊重智慧財產權，不得非法影印教師指定之教科書籍",
+        "syllabus": " ",
+        "teachingMaterials": [
+            "自編簡報(ppt)",
+            "課程講義"
+        ],
+        "teachingMethods": [
+            "講述",
+            "小組討論",
+            "學生口頭報告",
+            "問題導向學習"
+        ],
+        "assessmentMethods": [
+            "期中考",
+            "期末考",
+            "隨堂測驗",
+            "隨堂作業",
+            "課後作業",
+            "期末報告"
+        ],
+        "syllabusUrl": "https://ecourse2.ccu.edu.tw/pluginfile.php/2070315/local_syllabus/attachment/35158/1142%20%E8%8B%B1%E6%96%87%E5%9B%9B%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf",
+        "targetGrade": "1",
+        "capacity": "17",
+        "memo": "先修科目(5455079)商用英文（一）(及格)(5455080)商用英文（二）(及格)(5455081)商用英文（三）(及格)(所有先修條件都必須符合)限本系生修.外文系不得修習\r\n限行銷所研究生修習"
+    },
+    {
+        "id": "企業管理學系行銷與數位分析碩士班",
+        "name": "策略行銷與人工智慧工具應用",
+        "professor": "鄭祥麟",
+        "credits": 3,
+        "time": "三7,8,9",
+        "location": "管理學院454",
+        "type": "選修",
+        "description": null,
+        "syllabus": " ",
+        "teachingMaterials": [],
+        "teachingMethods": [],
+        "assessmentMethods": [],
+        "syllabusUrl": "https://syllabus.ccu.edu.tw/index.php?cour_no=114_2_5455083_01",
+        "targetGrade": "1",
+        "capacity": "34",
+        "memo": "歡迎大三、大四同學上修"
+    }
+]
