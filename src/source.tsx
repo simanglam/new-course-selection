@@ -620,7 +620,10 @@ const App = () => {
 
     useEffect(() => {
         const fetchCourses = async () => {
-            setCourses(await generateCourses(selectedDeptNum))
+            let courses = await generateCourses(selectedDeptNum)
+            setCourses([])
+            setCourses(courses)
+            
         }
         localStorage.getItem("myPlanCourses") && setMyPlanCourses(JSON.parse(localStorage.getItem("myPlanCourses") || "[]"))
         localStorage.getItem("courseStatuses") && setCourseStatuses(JSON.parse(localStorage.getItem("courseStatuses") || "{}"))
@@ -795,7 +798,7 @@ const App = () => {
                                         {filteredCourses.map(
                                             (course, index) => (
                                                 <div
-                                                    key={index}
+                                                    key={`${course.name}-${course.professor}-${course.time}`}
                                                     className="animate-fadeIn"
                                                     style={{
                                                         animationDelay: `${index * 50}ms`
